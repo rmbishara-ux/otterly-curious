@@ -121,7 +121,7 @@ def run_animate(ep):
             ai_clip(src, out, s["duration"])
             n_ai += 1
             continue
-        req = {"image": str(still), "motion": motion_prompt(s), "seconds": s["duration"], "seed": stable_seed(s["id"], "vid")}
+        req = {"image": str(still), "image_sha": __import__("hashlib").sha1(still.read_bytes()).hexdigest()[:12], "motion": motion_prompt(s), "seconds": s["duration"], "seed": stable_seed(s["id"], "vid")}
         if cache.hit(f"vid:{s['id']}", req, out):
             continue
         try:
