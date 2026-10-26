@@ -1,4 +1,4 @@
-# QA report E01: FAIL
+# QA report E01: PASS
 
 - PASS | runtime 6:00-8:00 | 7.77 min
 - PASS | every line audible | 62 lines, problems: []
@@ -7,4 +7,4 @@
 - PASS | no character drift flags open | 0 flags
 - PASS | style/brightness on sampled frames | dark frames: []
 - PASS | Short (demo) 45-60 s | 52.0s
-- FAIL | Short (fail) 20-30 s | 19.4s
+- PASS | Short (fail) 20-30 s | 25.7s

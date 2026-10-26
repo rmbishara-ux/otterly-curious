@@ -1,6 +1,6 @@
 {
   "episode": "E01",
-  "passed": false,
+  "passed": true,
   "checks": [
     {
       "check": "runtime 6:00-8:00",
@@ -39,8 +39,8 @@
     },
     {
       "check": "Short (fail) 20-30 s",
-      "pass": false,
-      "detail": "19.4s"
+      "pass": true,
+      "detail": "25.7s"
     }
   ]
 }

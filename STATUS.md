@@ -1,8 +1,8 @@
 # STATUS (Oct 26, 2026)
 
 ## Cost
-Higgsfield credits spent: 122 (988.1 -> 866.1). Character-sheet phase ~98 of the 300 cap; bible plates ~20; banner ~4. No episode footage generated yet. No per-episode budget was provided; the pipeline reads EPISODE_BUDGET_CREDITS from .env and stops if the projection exceeds it.
-Rough projection for a real E01: ~64 stills (~2-8 credits each, ~130-500) + 64 image-to-video clips (video credits not yet quoted; get a quote before running) + voice + music. Quote first.
+Higgsfield credits: 988.1 at start of project. Pre-production (sheets, plates, banner) 122 -> 866.1. Real E01 production: 862.5 -> 436.1 = 426.4 credits (voice ~13; 62 first-pass stills 124 incl. ~108 wasted by the reference-inset bug, then 54 re-rolls ~108; 20 Kling 3.0 Pro 5 s silent hero clips = 175). E01 is inside the 700-credit cap with ~270 to spare; balance 436.1.
+Per-episode estimate going forward: ~62 stills (124, with the inset-bug fix no re-roll needed) + voice ~13 + ~20 hero clips (175) = ~310 credits.
 
 ## Done
 - Cast approved (6 characters, soft-3D style): characters/<name>/ turnarounds, expressions, Bean float pose, Luna glow steps
@@ -14,7 +14,7 @@ Rough projection for a real E01: ~64 stills (~2-8 credits each, ~130-500) + 64 i
 - Channel kit for @OtterlyCurious123 (channel/): about copy, keywords, avatar, banner, watermark, playlists, trailer plan, launch checklist
 
 ## Not done / blocked (needs a person or a decision)
-1. REAL E01 production: images, image-to-video, voice, music have not been generated. Needs: voice provider + voice IDs (bible/voice_configs.json), a music source (Suno has no official API; Higgsfield generate_audio is available via this session), video-credit quote, and a per-episode budget.
+1. E01 ROUGH CUT DONE (episodes/E01/final/E01_episode.mp4, 7:46, 1080p, QA 8/8 PASS; Shorts demo 52 s + fail 25.7 s): real on-model stills, real locked voices, 20 Kling hero clips (~25% of runtime), Ken Burns elsewhere. STILL MISSING: music (theme song, outro, mood beds) - Higgsfield has no usable song model; need Suno/licensed library. Voices not yet heard by a human; review before publishing. Channel @OtterlyCurious123 not connected to vidIQ; nothing uploaded.
 2. The channel is NOT connected to vidIQ here (connected channels belong to other projects). Nothing has been uploaded or edited on @OtterlyCurious123. Owner must authorize via the link in chat, or apply channel/ by hand.
 3. Fonts: Nunito/Fredoka could not be downloaded (network); book/thumbnails use fallback fonts. Drop the TTFs in assets/fonts/.
 4. Book print art: needs 5250x2625 px per spread (300 dpi); current PDF uses placeholders.
