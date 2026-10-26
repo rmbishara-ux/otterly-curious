@@ -1,0 +1,1658 @@
+{
+  "episode": "E05",
+  "title": "E05: The Day Gus Forgot the Seed",
+  "big_question": "What does a seed need?",
+  "value": "Responsibility",
+  "shot_count": 64,
+  "total_seconds": 404.1,
+  "shots": [
+    {
+      "beat": 1,
+      "beat_name": "Cold open",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy"
+      },
+      "action": "Morning at the driftwood playground. Warm sun on the sand. Ollie swings from a low driftwood branch, Pip peeking out of his vest pocket.",
+      "camera": "static",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Good morning, Pip! It's a perfect day!"
+        }
+      ],
+      "duration": 4.49,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S001",
+      "book_safe": true
+    },
+    {
+      "beat": 1,
+      "beat_name": "Cold open",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "gus": "excited"
+      },
+      "action": "Gus lands with a flap, red sneakers skidding. He holds something tiny in his wing tip, very carefully.",
+      "camera": "pan_right",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "excited",
+          "text": "Look what Gran Mari gave me! A job!"
+        },
+        {
+          "char": "gus",
+          "emotion": "excited",
+          "text": "I get to look after this seed!"
+        }
+      ],
+      "duration": 8.37,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S002",
+      "book_safe": true
+    },
+    {
+      "beat": 1,
+      "beat_name": "Cold open",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "curious",
+        "pip": "curious",
+        "gus": "proud"
+      },
+      "action": "Gus opens his wing. A small brown bean seed sits there, round as a pebble. Ollie's tuft pops up.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "curious",
+          "text": "It looks like a tiny rock."
+        },
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "But it's not a rock. It's a seed!"
+        }
+      ],
+      "duration": 7.98,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S003",
+      "book_safe": false
+    },
+    {
+      "beat": 1,
+      "beat_name": "Cold open",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "pip": "curious"
+      },
+      "action": "Pip pokes his eyestalks up and studies the seed from every side.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S004",
+      "book_safe": false
+    },
+    {
+      "beat": 1,
+      "beat_name": "Cold open",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "curious"
+      },
+      "action": "Ollie turns to the camera, holding up his wonder rock. The seed glints behind him.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "What does a seed need?"
+        }
+      ],
+      "duration": 5.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": "What does a seed need?",
+      "id": "E05-S005",
+      "book_safe": false
+    },
+    {
+      "beat": 1,
+      "beat_name": "Cold open",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "luna": "calm",
+        "ollie": "excited"
+      },
+      "action": "A pale Luna drifts in and tilts her bell to look at the seed.",
+      "camera": "static",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "excited",
+          "text": "Let's find out!"
+        }
+      ],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": "dim",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S006",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy"
+      },
+      "action": "Sunrise over the cove, the sea sparkling. Ollie waves hello.",
+      "camera": "wide",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E05-S007",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "ollie": "excited",
+        "pip": "happy"
+      },
+      "action": "Ollie and Pip hop between the tide pools.",
+      "camera": "follow",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E05-S008",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "gran_mari": "happy"
+      },
+      "action": "Gran Mari waves from her porch, scarf swinging.",
+      "camera": "static",
+      "dialogue": [],
+      "duration": 3.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E05-S009",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "gus": "excited"
+      },
+      "action": "Gus swoops through, red sneakers kicking up sand.",
+      "camera": "pan_right",
+      "dialogue": [],
+      "duration": 3.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E05-S010",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "kelp_shallows",
+      "time": "morning",
+      "characters": {
+        "bean": "happy",
+        "luna": "calm"
+      },
+      "action": "Bean floats by with Luna glowing softly beside her.",
+      "camera": "static",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": "dim",
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E05-S011",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "wonder_shed",
+      "time": "morning",
+      "characters": {
+        "ollie": "curious",
+        "pip": "curious"
+      },
+      "action": "Ollie pulls a shell from his Wonder Pocket and holds it up.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E05-S012",
+      "book_safe": false
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "gran_mari": "happy",
+        "gus": "happy",
+        "bean": "happy",
+        "luna": "calm"
+      },
+      "action": "Everyone runs together toward the camera.",
+      "camera": "wide",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": "dim",
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E05-S013",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "excited"
+      },
+      "action": "Title card: OTTERLY CURIOUS over the sparkling cove.",
+      "camera": "static",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E05-S014",
+      "book_safe": true
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "wonder_shed",
+      "time": "morning",
+      "characters": {
+        "ollie": "excited",
+        "pip": "curious",
+        "bean": "happy",
+        "gus": "playful"
+      },
+      "action": "The friends hurry into the Wonder Shed. A round window glows on one wall. A dim shelf sits by the door. Bean floats on her back in a shallow basin, kelp blanket on her tummy.",
+      "camera": "pan_right",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "curious",
+          "text": "Where should the seed go?"
+        },
+        {
+          "char": "ollie",
+          "emotion": "excited",
+          "text": "The dark shelf! It's closest. Quick, quick!"
+        }
+      ],
+      "duration": 7.22,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S015",
+      "book_safe": true
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "wonder_shed",
+      "time": "morning",
+      "characters": {
+        "ollie": "excited",
+        "pip": "worried"
+      },
+      "action": "Ollie drops the seed into a jar and plonks it on the dim shelf, already turning to leave.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "worried",
+          "text": "Ollie, you didn't ask anyone!"
+        }
+      ],
+      "duration": 5.0,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S016",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "wonder_shed",
+      "time": "morning",
+      "characters": {
+        "ollie": "sorry",
+        "bean": "curious"
+      },
+      "action": "Ollie stops. Bean tilts her head and points a paw at the sunny window sill, humming.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "sorry",
+          "text": "Oops. I rushed again. What do you think, Bean?"
+        }
+      ],
+      "duration": 5.26,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S017",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "wonder_shed",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy",
+        "bean": "happy",
+        "luna": "calm"
+      },
+      "action": "Bean pats the warm sill with her paw. Ollie lifts the jar and sets it in the sunny spot. Luna glows brighter.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Great idea, Bean! It's warm and bright here."
+        }
+      ],
+      "duration": 4.88,
+      "music_mood": "wonder",
+      "luna_glow": "bright",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S018",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "wonder_shed",
+      "time": "morning",
+      "characters": {
+        "gus": "playful",
+        "pip": "curious"
+      },
+      "action": "Gus peeks at the jar, wing tip tapping. He yawns and his tummy rumbles.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "playful",
+          "text": "Job done! The seed is on the sill. Time to play!"
+        },
+        {
+          "char": "pip",
+          "emotion": "curious",
+          "text": "Doesn't a seed need more than a sill?"
+        },
+        {
+          "char": "gus",
+          "emotion": "excited",
+          "text": "I've got a faster way! Seeds grow all by themselves."
+        }
+      ],
+      "duration": 14.55,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S019",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "wonder_shed",
+      "time": "morning",
+      "characters": {
+        "gus": "playful",
+        "pip": "worried"
+      },
+      "action": "Gus peeks at the jar, wing tip tapping. He yawns and his tummy rumbles.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "excited",
+          "text": "I'll check on it later. Much later!"
+        },
+        {
+          "char": "pip",
+          "emotion": "worried",
+          "text": "What if we try the careful way? Let's ask Gran Mari."
+        }
+      ],
+      "duration": 9.52,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S020",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "wonder_shed",
+      "time": "morning",
+      "characters": {
+        "gus": "playful",
+        "ollie": "curious"
+      },
+      "action": "Gus is already flapping out the door, red sneakers dangling. Ollie shrugs, a little unsure.",
+      "camera": "pan_left",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "Okay. We'll check on the seed tomorrow."
+        }
+      ],
+      "duration": 4.49,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S021",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "wonder_shed",
+      "time": "morning",
+      "characters": {
+        "luna": "calm"
+      },
+      "action": "Luna drifts down and settles beside the jar with a tiny dim glow. The sunlight slides slowly across the floor.",
+      "camera": "timelapse",
+      "dialogue": [],
+      "duration": 6.0,
+      "music_mood": "wonder",
+      "luna_glow": "dim",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S022",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "wonder_shed",
+      "time": "morning",
+      "characters": {
+        "bean": "happy"
+      },
+      "action": "Bean waves her paws at the jar as if saying goodnight to it.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S023",
+      "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "wonder_shed",
+      "time": "morning",
+      "characters": {
+        "ollie": "excited",
+        "pip": "curious",
+        "bean": "curious"
+      },
+      "action": "A new morning. Sunbeams slant across the shed. The jar still sits on the sill. Ollie, Pip, and Bean peek in.",
+      "camera": "slow_push",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "excited",
+          "text": "Today the seed grows! I bet it's huge!"
+        }
+      ],
+      "duration": 4.88,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [
+        "short_fail"
+      ],
+      "text_overlay": null,
+      "id": "E05-S024",
+      "book_safe": true
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "wonder_shed",
+      "time": "morning",
+      "characters": {
+        "ollie": "surprised"
+      },
+      "action": "Close on the jar. The seed looks exactly the same. Small, brown, dry, and still.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "surprised",
+          "text": "It didn't change at all!"
+        }
+      ],
+      "duration": 5.0,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [
+        "short_fail"
+      ],
+      "text_overlay": null,
+      "id": "E05-S025",
+      "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "wonder_shed",
+      "time": "morning",
+      "characters": {
+        "gus": "surprised",
+        "pip": "curious"
+      },
+      "action": "Gus bursts in, crumbs on his beak, and skids to a stop.",
+      "camera": "pan_right",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "surprised",
+          "text": "Is it a tree yet? I did not forget!"
+        },
+        {
+          "char": "pip",
+          "emotion": "curious",
+          "text": "Gus, did you give it anything to drink?"
+        },
+        {
+          "char": "gus",
+          "emotion": "worried",
+          "text": "Drink? Um. Yes! Lots. It drank it all. Very fast."
+        }
+      ],
+      "duration": 13.78,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [
+        "short_fail"
+      ],
+      "text_overlay": null,
+      "id": "E05-S026",
+      "book_safe": true
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "wonder_shed",
+      "time": "morning",
+      "characters": {
+        "gus": "surprised",
+        "ollie": "curious"
+      },
+      "action": "Gus bursts in, crumbs on his beak, and skids to a stop.",
+      "camera": "pan_right",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "But the jar is dry, Gus."
+        },
+        {
+          "char": "gus",
+          "emotion": "excited",
+          "text": "That's just its dry look! Very fashionable!"
+        }
+      ],
+      "duration": 7.6,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S027",
+      "book_safe": true
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "wonder_shed",
+      "time": "morning",
+      "characters": {
+        "gus": "determined"
+      },
+      "action": "Gus tries a faster way. He spreads his wings over the jar like a blanket and perches on the sill.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "determined",
+          "text": "Seeds like it warm! I'll hatch it!"
+        }
+      ],
+      "duration": 4.49,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S028",
+      "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "wonder_shed",
+      "time": "morning",
+      "characters": {
+        "gus": "sleepy",
+        "ollie": "surprised"
+      },
+      "action": "He settles in. His eyes get droopy. His head nods. Then he tips slowly backward. Ollie scoops up the jar just in time.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 5.0,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S029",
+      "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "wonder_shed",
+      "time": "morning",
+      "characters": {
+        "gus": "surprised"
+      },
+      "action": "Gus slides off the sill, rolls down a coil of kelp rope, and lands upside down in a basket of yarn, red sneakers sticking up.",
+      "camera": "wide",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "surprised",
+          "text": "Whoa! I'm fine! I meant to do that!"
+        }
+      ],
+      "duration": 6.0,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S030",
+      "book_safe": true
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "wonder_shed",
+      "time": "morning",
+      "characters": {
+        "pip": "happy",
+        "ollie": "happy",
+        "bean": "happy",
+        "luna": "calm",
+        "gus": "worried"
+      },
+      "action": "Pip and Ollie try very hard not to giggle. Bean squeals. Luna wobbles with a tiny glow.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "Gus, what does a seed really need?"
+        },
+        {
+          "char": "gus",
+          "emotion": "worried",
+          "text": "I don't know. Seeds are small. How hard can it be?"
+        }
+      ],
+      "duration": 9.52,
+      "music_mood": "uh-oh",
+      "luna_glow": "dim",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S031",
+      "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "wonder_shed",
+      "time": "morning",
+      "characters": {},
+      "action": "The shell cup by the jar sits dry and empty. A sunbeam lights it up.",
+      "camera": "slow_push",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S032",
+      "book_safe": true
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "wonder_shed",
+      "time": "morning",
+      "characters": {
+        "gus": "worried",
+        "ollie": "worried"
+      },
+      "action": "Gus pulls a loop of yarn off his head. He looks at the dry seed and goes quiet.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "worried",
+          "text": "We need help. Let's ask Gran Mari."
+        }
+      ],
+      "duration": 5.0,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S033",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "gran_mari": "happy",
+        "ollie": "curious"
+      },
+      "action": "The friends climb the path, Ollie carrying the jar. Gran Mari sits on her porch in her coral scarf. Two clear bags are taped to the sunny window beside her.",
+      "camera": "pan_up",
+      "dialogue": [
+        {
+          "char": "gran_mari",
+          "emotion": "happy",
+          "text": "Well now, a yarny seagull and a puzzled otter. What's all this?"
+        },
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "Gran Mari, what does a seed need?"
+        },
+        {
+          "char": "gran_mari",
+          "emotion": "happy",
+          "text": "Oh, that is a good question, Ollie. Let's find out together."
+        }
+      ],
+      "duration": 14.94,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S034",
+      "book_safe": true
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "pip": "curious",
+        "gus": "worried"
+      },
+      "action": "Pip climbs out of the pocket onto the window ledge. Gus hangs back, feathers drooping.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 5.0,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S035",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "gran_mari": "calm"
+      },
+      "action": "Close on the two clear bags. In the first, a seed rests on a dry paper towel. In the second, a seed rests on a wet one.",
+      "camera": "top_down",
+      "dialogue": [
+        {
+          "char": "gran_mari",
+          "emotion": "calm",
+          "text": "I set these up last week. Same seeds, same sunny window."
+        },
+        {
+          "char": "gran_mari",
+          "emotion": "calm",
+          "text": "Only one thing is different. The towel."
+        }
+      ],
+      "duration": 9.52,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S036",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "ollie": "surprised"
+      },
+      "action": "The dry bag. The seed has not changed at all.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "surprised",
+          "text": "That looks just like our seed."
+        }
+      ],
+      "duration": 4.11,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E05-S037",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "pip": "surprised",
+        "gran_mari": "calm"
+      },
+      "action": "The wet bag. The seed has split open. A thin white root and a small green shoot curl up.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "surprised",
+          "text": "This one is waking up!"
+        },
+        {
+          "char": "gran_mari",
+          "emotion": "calm",
+          "text": "Water wakes a seed up. A warm spot helps too. Then the green shoot reaches for the light."
+        }
+      ],
+      "duration": 11.45,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E05-S038",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "ollie": "excited"
+      },
+      "action": "The shoot leans toward the sunny glass.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "excited",
+          "text": "It's growing toward the sun!"
+        }
+      ],
+      "duration": 5.0,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E05-S039",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "gran_mari": "calm",
+        "ollie": "curious"
+      },
+      "action": "Gran Mari picks up a little spoon. She dribbles a few drops of water onto the dry towel in the first bag.",
+      "camera": "top_down",
+      "dialogue": [
+        {
+          "char": "gran_mari",
+          "emotion": "curious",
+          "text": "Well now, what do you think happens next?"
+        },
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "The seed wakes up! But not right away."
+        },
+        {
+          "char": "gran_mari",
+          "emotion": "happy",
+          "text": "Right. A seed takes time. It can't be hurried."
+        }
+      ],
+      "duration": 13.02,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E05-S040",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "luna": "happy",
+        "ollie": "happy",
+        "pip": "happy"
+      },
+      "action": "Luna rises above the two bags and sparkles. Three soft notes ring out.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "cozy",
+      "luna_glow": "sparkle",
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E05-S041",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "gus": "sorry"
+      },
+      "action": "Gus looks at the dry seed in the jar. Then he looks at the wet one. He sets the jar down gently.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E05-S042",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy"
+      },
+      "action": "Ollie turns to the camera, wonder rock in his paw. Behind him the bags glow in the window.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Try it at home! Ask a grown-up to help you."
+        },
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Wet a paper towel and fold it. Put it in a clear bag with a bean."
+        },
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Tape the bag to a sunny window. Check it every day."
+        }
+      ],
+      "duration": 18.02,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E05-S043",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "gus": "sorry",
+        "ollie": "curious",
+        "pip": "curious",
+        "bean": "curious"
+      },
+      "action": "Back in the Wonder Shed. Gus holds the jar in both wings, very still. Everyone waits.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "sorry",
+          "text": "I have to say something. I fibbed."
+        },
+        {
+          "char": "gus",
+          "emotion": "sorry",
+          "text": "I said it drank lots. It didn't. I forgot all about it."
+        },
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Thanks for telling us, Gus."
+        }
+      ],
+      "duration": 12.63,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S044",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy",
+        "gus": "determined"
+      },
+      "action": "Ollie hands Gus a clear bag and a paper towel. Gus wets the towel with a shell cup and folds it around the seed.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 6.0,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S045",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "pip": "happy",
+        "bean": "happy"
+      },
+      "action": "Pip tapes the bag to the sunny window with his careful claws. Bean pats it flat.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 5.0,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S046",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "gus": "proud"
+      },
+      "action": "Gus lines up a row of tiny shells on the sill.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "determined",
+          "text": "One shell for every day I check. That's my job."
+        }
+      ],
+      "duration": 5.65,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S047",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "luna": "calm",
+        "gus": "happy"
+      },
+      "action": "Luna floats close to Gus and glows brighter.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "triumph",
+      "luna_glow": "bright",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S048",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "gus": "playful",
+        "bean": "curious"
+      },
+      "action": "Gus flaps toward the door, stretching. His tummy rumbles. Behind him the shell cup sits empty.",
+      "camera": "wide",
+      "dialogue": [
+        {
+          "char": "bean",
+          "emotion": "curious",
+          "text": "Water!"
+        }
+      ],
+      "duration": 4.0,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S049",
+      "book_safe": true
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "gus": "surprised",
+        "bean": "happy"
+      },
+      "action": "Gus freezes, one red sneaker in the air. He turns around and smiles at Bean.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "surprised",
+          "text": "You're right, Bean! I almost forgot again!"
+        }
+      ],
+      "duration": 4.49,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S050",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "gus": "determined"
+      },
+      "action": "Gus dribbles a few drops onto the towel, careful not to spill a single one.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 5.0,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S051",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {},
+      "action": "Time-lapse: the sun rises and sets over the sill. A new shell joins the row each morning. Gus waters the towel every day.",
+      "camera": "timelapse",
+      "dialogue": [],
+      "duration": 7.0,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S052",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "gus": "excited"
+      },
+      "action": "Close on the bag. A white root pokes out. Then a green shoot curls up toward the window.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "excited",
+          "text": "It's growing! It's really growing!"
+        }
+      ],
+      "duration": 6.0,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S053",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "luna": "happy",
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "happy",
+        "gus": "happy"
+      },
+      "action": "Luna sparkles over the sill. Three soft notes ring out.",
+      "camera": "wide",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "happy",
+          "text": "Look! A tiny green hat on a seed!"
+        }
+      ],
+      "duration": 4.88,
+      "music_mood": "triumph",
+      "luna_glow": "sparkle",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S054",
+      "book_safe": true
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "bean": "happy"
+      },
+      "action": "Bean floats up to the sill and gives the green shoot a very gentle pat.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S055",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "gus": "proud"
+      },
+      "action": "Gus puffs out his chest and grins, his one feather standing straight up.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S056",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "happy",
+        "luna": "calm"
+      },
+      "action": "The shed glows gold. String lights twinkle. Ollie sits with Pip, Bean, and Luna beside the window, his vest pockets open.",
+      "camera": "static",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Time for my Wonder Pocket! Three things we learned."
+        }
+      ],
+      "duration": 5.26,
+      "music_mood": "cozy",
+      "luna_glow": "bright",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S057",
+      "book_safe": true
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy"
+      },
+      "action": "Ollie pulls a smooth shell from the first pocket.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "One. A seed needs water to wake up."
+        }
+      ],
+      "duration": 4.88,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S058",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy"
+      },
+      "action": "He takes a feather from the second pocket.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Two. A warm, sunny spot helps it grow."
+        }
+      ],
+      "duration": 4.88,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S059",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "proud"
+      },
+      "action": "He holds up a bit of sea glass from the third pocket.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "proud",
+          "text": "Three. A seed needs time. We can't hurry it."
+        }
+      ],
+      "duration": 5.26,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S060",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy",
+        "luna": "calm"
+      },
+      "action": "The fourth pocket glows softly. Ollie pulls out a tiny folded note with a star on it.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "And one kind thing to try today. Look after something small. Give it water!"
+        }
+      ],
+      "duration": 7.18,
+      "music_mood": "cozy",
+      "luna_glow": "bright",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S061",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "happy",
+        "gus": "happy",
+        "luna": "calm"
+      },
+      "action": "Everyone waves at the camera. The sun sets gold behind the window and the little shoot.",
+      "camera": "wide",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "happy",
+          "text": "Bye, everybody! I'm off to water my seed!"
+        }
+      ],
+      "duration": 4.88,
+      "music_mood": "cozy",
+      "luna_glow": "sparkle",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S062",
+      "book_safe": true
+    },
+    {
+      "beat": 7,
+      "beat_name": "Outro",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "happy",
+        "gus": "happy",
+        "luna": "calm"
+      },
+      "action": "Everyone waves goodbye as the sun sets.",
+      "camera": "wide",
+      "dialogue": [],
+      "duration": 10.0,
+      "music_mood": "cozy",
+      "luna_glow": "bright",
+      "tags": [
+        "outro"
+      ],
+      "text_overlay": null,
+      "id": "E05-S063",
+      "book_safe": true
+    },
+    {
+      "beat": 7,
+      "beat_name": "Outro",
+      "location": "driftwood_playground",
+      "time": "golden_hour",
+      "characters": {
+        "luna": "calm"
+      },
+      "action": "Soft end card: Luna drifts across the golden cove.",
+      "camera": "static",
+      "dialogue": [],
+      "duration": 10.0,
+      "music_mood": "cozy",
+      "luna_glow": "bright",
+      "tags": [
+        "outro"
+      ],
+      "text_overlay": null,
+      "id": "E05-S064",
+      "book_safe": true
+    }
+  ]
+}

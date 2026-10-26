@@ -1,0 +1,1629 @@
+{
+  "episode": "E07",
+  "title": "E07: Ollie Cleans the Cove",
+  "big_question": "Where does the trash go?",
+  "value": "Caring for our home",
+  "shot_count": 64,
+  "total_seconds": 396.1,
+  "shots": [
+    {
+      "beat": 1,
+      "beat_name": "Cold open",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy"
+      },
+      "action": "Sunny morning at the driftwood playground. The tide is coming in. Ollie and Pip stroll along the sand, looking for shells.",
+      "camera": "static",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Look at all the sparkly shells today!"
+        }
+      ],
+      "duration": 4.49,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E07-S001",
+      "book_safe": true
+    },
+    {
+      "beat": 1,
+      "beat_name": "Cold open",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "pip": "curious"
+      },
+      "action": "Pip spots something odd. An old plastic cup lies in the sand, with a little bottle cap beside it.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "curious",
+          "text": "Ollie, what's that? It's not a shell."
+        }
+      ],
+      "duration": 5.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E07-S002",
+      "book_safe": false
+    },
+    {
+      "beat": 1,
+      "beat_name": "Cold open",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "curious"
+      },
+      "action": "A small wave slides up the beach, lifts the cup, and floats it gently away from shore.",
+      "camera": "wide",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "The cup is floating out to sea!"
+        }
+      ],
+      "duration": 6.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E07-S003",
+      "book_safe": true
+    },
+    {
+      "beat": 1,
+      "beat_name": "Cold open",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "curious"
+      },
+      "action": "Ollie's tuft pops up. He turns to the camera, holding up his wonder rock.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "Where does the trash go?"
+        }
+      ],
+      "duration": 5.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": "Where does the trash go?",
+      "id": "E07-S004",
+      "book_safe": false
+    },
+    {
+      "beat": 1,
+      "beat_name": "Cold open",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "luna": "calm",
+        "ollie": "excited"
+      },
+      "action": "A pale Luna drifts in and tilts her bell at the bobbing cup.",
+      "camera": "static",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "excited",
+          "text": "Let's find out!"
+        }
+      ],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": "dim",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E07-S005",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy"
+      },
+      "action": "Sunrise over the cove, the sea sparkling. Ollie waves hello.",
+      "camera": "wide",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E07-S006",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "ollie": "excited",
+        "pip": "happy"
+      },
+      "action": "Ollie and Pip hop between the tide pools.",
+      "camera": "follow",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E07-S007",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "gran_mari": "happy"
+      },
+      "action": "Gran Mari waves from her porch, scarf swinging.",
+      "camera": "static",
+      "dialogue": [],
+      "duration": 3.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E07-S008",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "gus": "excited"
+      },
+      "action": "Gus swoops through, red sneakers kicking up sand.",
+      "camera": "pan_right",
+      "dialogue": [],
+      "duration": 3.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E07-S009",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "kelp_shallows",
+      "time": "morning",
+      "characters": {
+        "bean": "happy",
+        "luna": "calm"
+      },
+      "action": "Bean floats by with Luna glowing softly beside her.",
+      "camera": "static",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": "dim",
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E07-S010",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "wonder_shed",
+      "time": "morning",
+      "characters": {
+        "ollie": "curious",
+        "pip": "curious"
+      },
+      "action": "Ollie pulls a shell from his Wonder Pocket and holds it up.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E07-S011",
+      "book_safe": false
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "gran_mari": "happy",
+        "gus": "happy",
+        "bean": "happy",
+        "luna": "calm"
+      },
+      "action": "Everyone runs together toward the camera.",
+      "camera": "wide",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": "dim",
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E07-S012",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "excited"
+      },
+      "action": "Title card: OTTERLY CURIOUS over the sparkling cove.",
+      "camera": "static",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E07-S013",
+      "book_safe": true
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "kelp_shallows",
+      "time": "morning",
+      "characters": {
+        "ollie": "curious",
+        "pip": "curious",
+        "bean": "happy"
+      },
+      "action": "The friends reach the Kelp Shallows. Tall green ribbons sway in the water. Bean floats on her back, kelp blanket on her tummy. The cup bobs among the kelp.",
+      "camera": "static",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "excited",
+          "text": "There it goes! Follow that cup!"
+        }
+      ],
+      "duration": 5.0,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E07-S014",
+      "book_safe": true
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "kelp_shallows",
+      "time": "morning",
+      "characters": {
+        "ollie": "excited",
+        "pip": "worried"
+      },
+      "action": "Ollie dives into the kelp, swimming fast. Pip clings to the pocket, eyestalks wobbling.",
+      "camera": "follow",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "worried",
+          "text": "Ollie, slow down! You're missing things!"
+        }
+      ],
+      "duration": 4.11,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E07-S015",
+      "book_safe": true
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "kelp_shallows",
+      "time": "morning",
+      "characters": {
+        "ollie": "curious",
+        "bean": "curious"
+      },
+      "action": "Ollie surfaces and stops. He looks around. Bean is pointing a paw at a spot deep in the kelp.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "What do you see, Bean?"
+        }
+      ],
+      "duration": 4.0,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E07-S016",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "kelp_shallows",
+      "time": "morning",
+      "characters": {
+        "pip": "worried"
+      },
+      "action": "A small silver fish hovers near the cup. It nudges the cup with its nose, then pulls back. It looks worried.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "worried",
+          "text": "The little fish looks worried."
+        }
+      ],
+      "duration": 6.0,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E07-S017",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "kelp_shallows",
+      "time": "morning",
+      "characters": {
+        "ollie": "worried"
+      },
+      "action": "Ollie swims over slowly and looks at the fish. The fish swishes its tail and darts behind a kelp ribbon.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "worried",
+          "text": "Thanks for showing me, Bean. I almost missed it."
+        }
+      ],
+      "duration": 5.26,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E07-S018",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "kelp_shallows",
+      "time": "morning",
+      "characters": {
+        "luna": "calm",
+        "bean": "happy"
+      },
+      "action": "Luna glows brighter and floats beside Bean.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "wonder",
+      "luna_glow": "bright",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E07-S019",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "kelp_shallows",
+      "time": "morning",
+      "characters": {
+        "gus": "excited",
+        "ollie": "curious"
+      },
+      "action": "Gus lands with a flap on a kelp float, red sneakers dripping. He carries the old bottle cap from the beach.",
+      "camera": "pan_right",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "excited",
+          "text": "I know where the trash goes! Far, far away!"
+        },
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "How do you know that, Gus?"
+        },
+        {
+          "char": "gus",
+          "emotion": "playful",
+          "text": "I've got a faster way! We toss it far out. Whoosh! Gone!"
+        }
+      ],
+      "duration": 13.78,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E07-S020",
+      "book_safe": true
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "kelp_shallows",
+      "time": "morning",
+      "characters": {
+        "gus": "excited",
+        "pip": "worried"
+      },
+      "action": "Gus lands with a flap on a kelp float, red sneakers dripping. He carries the old bottle cap from the beach.",
+      "camera": "pan_right",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "worried",
+          "text": "What if we try the careful way? Let's ask Gran Mari."
+        },
+        {
+          "char": "gus",
+          "emotion": "excited",
+          "text": "Asking is slow. Tossing is fast. Watch me!"
+        }
+      ],
+      "duration": 9.91,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E07-S021",
+      "book_safe": true
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "kelp_shallows",
+      "time": "morning",
+      "characters": {
+        "ollie": "determined"
+      },
+      "action": "Ollie scoops the bobbing cup out of the water with a long kelp ribbon and holds it up.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "Let's watch Gus try first. Then we ask Gran Mari."
+        }
+      ],
+      "duration": 5.65,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E07-S022",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "kelp_shallows",
+      "time": "morning",
+      "characters": {
+        "gus": "excited",
+        "ollie": "happy",
+        "bean": "happy"
+      },
+      "action": "Gus waddles toward the tide pools, cup in one wing and cap in the other. The friends follow, Bean riding on Ollie's tummy.",
+      "camera": "follow",
+      "dialogue": [],
+      "duration": 6.0,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E07-S023",
+      "book_safe": true
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "gus": "determined"
+      },
+      "action": "At the edge of the tide pools. Gus stands on a flat rock, cup raised high.",
+      "camera": "wide",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "determined",
+          "text": "Ready? Watch it go far, far away!"
+        }
+      ],
+      "duration": 4.49,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [
+        "short_fail"
+      ],
+      "text_overlay": null,
+      "id": "E07-S024",
+      "book_safe": true
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "gus": "excited"
+      },
+      "action": "Gus tosses the cup. It sails out over the water and lands with a tiny plop.",
+      "camera": "wide",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "excited",
+          "text": "See? Gone! That was easy!"
+        }
+      ],
+      "duration": 5.0,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [
+        "short_fail"
+      ],
+      "text_overlay": null,
+      "id": "E07-S025",
+      "book_safe": true
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "gus": "surprised"
+      },
+      "action": "A gentle wave rolls in. The cup bobs right back and lands upside down on top of Gus's head, like a hat.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "surprised",
+          "text": "Hey! Who put a hat on me?"
+        }
+      ],
+      "duration": 6.0,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [
+        "short_fail"
+      ],
+      "text_overlay": null,
+      "id": "E07-S026",
+      "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "happy",
+        "luna": "calm"
+      },
+      "action": "Ollie, Pip, and Bean try very hard not to giggle. Luna wobbles with a tiny glow.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "uh-oh",
+      "luna_glow": "dim",
+      "tags": [
+        "short_fail"
+      ],
+      "text_overlay": null,
+      "id": "E07-S027",
+      "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "gus": "determined"
+      },
+      "action": "Gus pulls the cup off his head and glares at it. He tosses it even harder.",
+      "camera": "wide",
+      "dialogue": [],
+      "duration": 5.0,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [
+        "short_fail"
+      ],
+      "text_overlay": null,
+      "id": "E07-S028",
+      "book_safe": true
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "gus": "surprised",
+        "pip": "surprised",
+        "ollie": "curious"
+      },
+      "action": "Another wave. The cup glides home again and lands on his head. Plop.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "surprised",
+          "text": "It keeps coming back to you!"
+        },
+        {
+          "char": "gus",
+          "emotion": "worried",
+          "text": "It likes my hat style. That's all."
+        },
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "Did you throw it away, Gus?"
+        }
+      ],
+      "duration": 10.71,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E07-S029",
+      "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "gus": "surprised"
+      },
+      "action": "Another wave. The cup glides home again and lands on his head. Plop.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "worried",
+          "text": "No! I was giving it a boat ride. That's totally different."
+        }
+      ],
+      "duration": 6.03,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E07-S030",
+      "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "gus": "worried",
+        "ollie": "worried"
+      },
+      "action": "The little silver fish drifts by in the pool and peeks at the bottle cap in the sand. It looks small and worried.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "worried",
+          "text": "Things don't disappear when we toss them."
+        }
+      ],
+      "duration": 5.0,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E07-S031",
+      "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "gus": "worried"
+      },
+      "action": "Gus takes off the cup and holds it. His one feather droops.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E07-S032",
+      "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "ollie": "curious",
+        "pip": "curious",
+        "bean": "curious"
+      },
+      "action": "The friends look at the cup and the cap. The sea shimmers beyond.",
+      "camera": "slow_push",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "Where does it all go? Let's ask Gran Mari."
+        }
+      ],
+      "duration": 5.26,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E07-S033",
+      "book_safe": true
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "gran_mari": "happy",
+        "ollie": "curious"
+      },
+      "action": "Gran Mari glides down onto the sand with a pail and a small net hooked over her wing. Her coral scarf flutters.",
+      "camera": "pan_up",
+      "dialogue": [
+        {
+          "char": "gran_mari",
+          "emotion": "happy",
+          "text": "Well now, a seagull in a cup hat, and an otter with a question."
+        },
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "Gran Mari, where does the trash go?"
+        },
+        {
+          "char": "gran_mari",
+          "emotion": "happy",
+          "text": "That is a good question, Ollie. Let's find out together."
+        }
+      ],
+      "duration": 15.32,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E07-S034",
+      "book_safe": true
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "gran_mari": "calm"
+      },
+      "action": "Gran Mari sets down a wide tub. One end is heaped with sand. The other end is full of water.",
+      "camera": "top_down",
+      "dialogue": [
+        {
+          "char": "gran_mari",
+          "emotion": "calm",
+          "text": "This is a pretend beach. The sand is the shore. The water is the sea."
+        }
+      ],
+      "duration": 7.57,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E07-S035",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "pip": "curious"
+      },
+      "action": "Pip hops down from the pocket, eyestalks wide, and peers over the edge of the tub.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E07-S036",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "gran_mari": "calm"
+      },
+      "action": "She places a clean paper cup, a clean spoon, a bottle cap, and a pebble on the sand end.",
+      "camera": "top_down",
+      "dialogue": [
+        {
+          "char": "gran_mari",
+          "emotion": "calm",
+          "text": "Pretend these were left on the beach. Now, watch."
+        }
+      ],
+      "duration": 6.0,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E07-S037",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "gran_mari": "curious",
+        "ollie": "curious"
+      },
+      "action": "Gran Mari gently swishes the water like a little wave. It slides up the sand end and slides back.",
+      "camera": "top_down",
+      "dialogue": [
+        {
+          "char": "gran_mari",
+          "emotion": "curious",
+          "text": "Well now, what do you think happens next?"
+        },
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "The wave takes them out into the sea!"
+        }
+      ],
+      "duration": 8.75,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E07-S038",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "pip": "surprised",
+        "gran_mari": "calm"
+      },
+      "action": "The paper cup and the spoon float out across the tub. The bottle cap tips and sinks. The pebble sinks right away.",
+      "camera": "top_down",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "surprised",
+          "text": "Some float and some sink!"
+        },
+        {
+          "char": "gran_mari",
+          "emotion": "calm",
+          "text": "Yes. Trash left on the beach rides the water into the sea. Little fish can mistake it for food, and it can hurt them."
+        }
+      ],
+      "duration": 13.75,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E07-S039",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "worried"
+      },
+      "action": "Ollie gives a small, thoughtful sigh. Then his tuft pops up again.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "determined",
+          "text": "So we pick it up before the water takes it!"
+        }
+      ],
+      "duration": 5.65,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E07-S040",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "gran_mari": "happy",
+        "ollie": "determined"
+      },
+      "action": "Gran Mari hands Ollie a little pail. Together they scoop the pretend litter from the tub.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 5.0,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E07-S041",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "pip": "happy",
+        "gran_mari": "calm"
+      },
+      "action": "They sort the litter into two piles. Floaters on one side, sinkers on the other. Pip carefully lines up the cap and spoon.",
+      "camera": "top_down",
+      "dialogue": [],
+      "duration": 6.0,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E07-S042",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "luna": "happy",
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "happy"
+      },
+      "action": "Luna rises above the tub and sparkles. Three soft notes ring out.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "cozy",
+      "luna_glow": "sparkle",
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E07-S043",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "gus": "sorry"
+      },
+      "action": "Gus looks at the cup in his wing. Then he looks at the pail. He sets the cup in it very gently.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E07-S044",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy"
+      },
+      "action": "Ollie turns to the camera, holding his wonder rock. Behind him the tub of water wobbles.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Try it at home! Ask a grown-up to help you."
+        },
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Fill a tub with water. Put sand at one end for a pretend beach."
+        },
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Add a clean cup, a spoon, and a pebble. Swish the water. Sort what floats and what sinks."
+        }
+      ],
+      "duration": 19.94,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E07-S045",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "tide_pools",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy",
+        "gus": "curious",
+        "pip": "happy",
+        "bean": "happy"
+      },
+      "action": "Golden afternoon at the tide pools. Ollie hands a small net to Gus, then one to Pip. Bean holds the pail's handle with both paws.",
+      "camera": "wide",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Let's clean the cove together. Everyone has a job!"
+        }
+      ],
+      "duration": 5.26,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E07-S046",
+      "book_safe": true
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "tide_pools",
+      "time": "golden_hour",
+      "characters": {
+        "gran_mari": "happy",
+        "gus": "sorry",
+        "ollie": "happy"
+      },
+      "action": "Gran Mari stands by with her big pail and scarf, watching kindly. Her wing rests near the friends.",
+      "camera": "wide",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "sorry",
+          "text": "Wait. I have to say something first."
+        },
+        {
+          "char": "gus",
+          "emotion": "sorry",
+          "text": "I didn't give the cup a boat ride. I tossed it away. I'm sorry."
+        },
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Thanks for telling us, Gus. Come help us pick up."
+        }
+      ],
+      "duration": 15.32,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E07-S047",
+      "book_safe": true
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "tide_pools",
+      "time": "golden_hour",
+      "characters": {
+        "luna": "calm",
+        "gus": "sorry"
+      },
+      "action": "Luna floats close to Gus and glows brighter.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "triumph",
+      "luna_glow": "bright",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E07-S048",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "tide_pools",
+      "time": "golden_hour",
+      "characters": {
+        "gus": "determined",
+        "pip": "happy",
+        "ollie": "determined"
+      },
+      "action": "The friends work along the shore with Gran Mari beside them. Gus scoops up the cup and the cap. Pip gathers a bent straw. Ollie finds a plastic spoon.",
+      "camera": "follow",
+      "dialogue": [],
+      "duration": 6.0,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E07-S049",
+      "book_safe": true
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "tide_pools",
+      "time": "golden_hour",
+      "characters": {
+        "bean": "happy",
+        "gran_mari": "calm"
+      },
+      "action": "Bean spots a bit of litter in the sand. She pats it and hums. Gran Mari lifts it carefully into the pail.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 5.0,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E07-S050",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "tide_pools",
+      "time": "golden_hour",
+      "characters": {
+        "gus": "playful"
+      },
+      "action": "Gus holds up a pretty seashell he found hiding under the cup.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "excited",
+          "text": "Look! A shell was under there the whole time!"
+        }
+      ],
+      "duration": 5.26,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E07-S051",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "tide_pools",
+      "time": "golden_hour",
+      "characters": {
+        "bean": "happy"
+      },
+      "action": "The cove looks spotless now. Sunlight dances on the clear water. The little silver fish swims up, circles the friends, and flicks its tail.",
+      "camera": "wide",
+      "dialogue": [
+        {
+          "char": "bean",
+          "emotion": "happy",
+          "text": "Clean!"
+        }
+      ],
+      "duration": 6.0,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E07-S052",
+      "book_safe": true
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "tide_pools",
+      "time": "golden_hour",
+      "characters": {
+        "luna": "happy",
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "happy",
+        "gus": "happy"
+      },
+      "action": "The fish darts happily between the kelp ribbons. Luna sparkles. Three notes ring out.",
+      "camera": "wide",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "happy",
+          "text": "The fish looks happy now."
+        }
+      ],
+      "duration": 4.0,
+      "music_mood": "triumph",
+      "luna_glow": "sparkle",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E07-S053",
+      "book_safe": true
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "tide_pools",
+      "time": "golden_hour",
+      "characters": {
+        "gran_mari": "happy"
+      },
+      "action": "Gran Mari lifts the full pail and flaps her wings.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gran_mari",
+          "emotion": "happy",
+          "text": "I'll take this where it belongs. Well done, all of you."
+        }
+      ],
+      "duration": 6.03,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E07-S054",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "tide_pools",
+      "time": "golden_hour",
+      "characters": {
+        "gus": "proud"
+      },
+      "action": "Gus grins and tips his feathers into the sun, one feather standing up.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E07-S055",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "happy",
+        "luna": "calm"
+      },
+      "action": "Inside the Wonder Shed, string lights glow. Ollie sits with Pip, Bean, and Luna, his vest pockets open.",
+      "camera": "static",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Time for my Wonder Pocket! Three things we learned."
+        }
+      ],
+      "duration": 5.26,
+      "music_mood": "cozy",
+      "luna_glow": "bright",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E07-S056",
+      "book_safe": true
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "luna": "calm"
+      },
+      "action": "Luna floats above the jar of sea glass, and the glass glows green and gold.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 5.0,
+      "music_mood": "cozy",
+      "luna_glow": "bright",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E07-S057",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy"
+      },
+      "action": "Ollie pulls a smooth shell from the first pocket.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "One. Litter on the beach rides the water into the sea."
+        }
+      ],
+      "duration": 6.03,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E07-S058",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy"
+      },
+      "action": "He takes a feather from the second pocket.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Two. It can hurt the animals that live there."
+        }
+      ],
+      "duration": 5.26,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E07-S059",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "proud"
+      },
+      "action": "He holds up a bit of sea glass from the third pocket.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "proud",
+          "text": "Three. We can pick it up and sort it. Floaters and sinkers!"
+        }
+      ],
+      "duration": 6.42,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E07-S060",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy",
+        "luna": "calm"
+      },
+      "action": "The fourth pocket glows softly. Ollie pulls out a tiny folded note with a star on it.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "And one kind thing to try today. Pick up one piece of litter with a grown-up."
+        }
+      ],
+      "duration": 8.34,
+      "music_mood": "cozy",
+      "luna_glow": "bright",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E07-S061",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "happy",
+        "gus": "happy",
+        "luna": "calm"
+      },
+      "action": "Everyone waves at the camera. The sun sets pink over the clean cove.",
+      "camera": "wide",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "happy",
+          "text": "Bye, everybody! Today I'll clean up my own mess!"
+        }
+      ],
+      "duration": 5.26,
+      "music_mood": "cozy",
+      "luna_glow": "sparkle",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E07-S062",
+      "book_safe": true
+    },
+    {
+      "beat": 7,
+      "beat_name": "Outro",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "happy",
+        "gus": "happy",
+        "luna": "calm"
+      },
+      "action": "Everyone waves goodbye as the sun sets.",
+      "camera": "wide",
+      "dialogue": [],
+      "duration": 10.0,
+      "music_mood": "cozy",
+      "luna_glow": "bright",
+      "tags": [
+        "outro"
+      ],
+      "text_overlay": null,
+      "id": "E07-S063",
+      "book_safe": true
+    },
+    {
+      "beat": 7,
+      "beat_name": "Outro",
+      "location": "driftwood_playground",
+      "time": "golden_hour",
+      "characters": {
+        "luna": "calm"
+      },
+      "action": "Soft end card: Luna drifts across the golden cove.",
+      "camera": "static",
+      "dialogue": [],
+      "duration": 10.0,
+      "music_mood": "cozy",
+      "luna_glow": "bright",
+      "tags": [
+        "outro"
+      ],
+      "text_overlay": null,
+      "id": "E07-S064",
+      "book_safe": true
+    }
+  ]
+}

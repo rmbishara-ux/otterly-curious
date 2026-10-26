@@ -1,0 +1,1730 @@
+{
+  "episode": "E10",
+  "title": "E10: Pip's Brave New Teacup",
+  "big_question": "Why does Pip need a new shell?",
+  "value": "Courage and change",
+  "shot_count": 66,
+  "total_seconds": 431.8,
+  "shots": [
+    {
+      "beat": 1,
+      "beat_name": "Cold open",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy"
+      },
+      "action": "Sunny morning at the tide pools. Little waves lap the rocks. Ollie sits at the edge of a pool, Pip beside him in his chipped sky-blue teacup.",
+      "camera": "static",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S001",
+      "book_safe": true
+    },
+    {
+      "beat": 1,
+      "beat_name": "Cold open",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "pip": "worried"
+      },
+      "action": "Pip scoots backward into his cup to hide from a splash. He wiggles and wiggles, but his claw stays stuck out the front.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "worried",
+          "text": "Hm. My cup feels... squeaky. Just a bit."
+        }
+      ],
+      "duration": 5.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S002",
+      "book_safe": false
+    },
+    {
+      "beat": 1,
+      "beat_name": "Cold open",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "ollie": "curious"
+      },
+      "action": "Ollie's tuft pops up. He looks at the teacup, then at Pip's squished claw. He turns to the camera, holding up his wonder rock.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "Why does Pip need a new shell?"
+        }
+      ],
+      "duration": 5.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": "Why does Pip need a new shell?",
+      "id": "E10-S003",
+      "book_safe": false
+    },
+    {
+      "beat": 1,
+      "beat_name": "Cold open",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "luna": "calm",
+        "ollie": "excited"
+      },
+      "action": "A pale Luna drifts in beside him, tilting her bell as if she wonders too.",
+      "camera": "static",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "excited",
+          "text": "Let's find out!"
+        }
+      ],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": "dim",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S004",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy"
+      },
+      "action": "Sunrise over the cove, the sea sparkling. Ollie waves hello.",
+      "camera": "wide",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E10-S005",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "ollie": "excited",
+        "pip": "happy"
+      },
+      "action": "Ollie and Pip hop between the tide pools.",
+      "camera": "follow",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E10-S006",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "gran_mari": "happy"
+      },
+      "action": "Gran Mari waves from her porch, scarf swinging.",
+      "camera": "static",
+      "dialogue": [],
+      "duration": 3.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E10-S007",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "gus": "excited"
+      },
+      "action": "Gus swoops through, red sneakers kicking up sand.",
+      "camera": "pan_right",
+      "dialogue": [],
+      "duration": 3.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E10-S008",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "kelp_shallows",
+      "time": "morning",
+      "characters": {
+        "bean": "happy",
+        "luna": "calm"
+      },
+      "action": "Bean floats by with Luna glowing softly beside her.",
+      "camera": "static",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": "dim",
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E10-S009",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "wonder_shed",
+      "time": "morning",
+      "characters": {
+        "ollie": "curious",
+        "pip": "curious"
+      },
+      "action": "Ollie pulls a shell from his Wonder Pocket and holds it up.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E10-S010",
+      "book_safe": false
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "gran_mari": "happy",
+        "gus": "happy",
+        "bean": "happy",
+        "luna": "calm"
+      },
+      "action": "Everyone runs together toward the camera.",
+      "camera": "wide",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": "dim",
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E10-S011",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "excited"
+      },
+      "action": "Title card: OTTERLY CURIOUS over the sparkling cove.",
+      "camera": "static",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E10-S012",
+      "book_safe": true
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "pip": "curious",
+        "bean": "happy",
+        "ollie": "curious"
+      },
+      "action": "A little crab walks along the far rocks wearing a shell that is far too tight. Pip watches it from his cup. Bean floats in the biggest pool with her kelp blanket.",
+      "camera": "pan_right",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "worried",
+          "text": "I don't need a new shell. This one is perfect."
+        },
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "But your claw sticks out, Pip."
+        },
+        {
+          "char": "pip",
+          "emotion": "worried",
+          "text": "It always did that. It's my favorite cup."
+        }
+      ],
+      "duration": 12.63,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S013",
+      "book_safe": true
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "pip": "worried"
+      },
+      "action": "Pip pats the chipped sky-blue rim. A tiny crack runs along one side. He pulls his claws in tight.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "worried",
+          "text": "Things should stay the same. Same cup, same Pip."
+        }
+      ],
+      "duration": 5.26,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S014",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "ollie": "excited"
+      },
+      "action": "Ollie leans in. He thinks about it. Then his tuft pops up and he rushes off to a pile of shells.",
+      "camera": "pan_right",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "excited",
+          "text": "I'll find a new one! Don't worry, Pip! Hold on!"
+        }
+      ],
+      "duration": 5.65,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S015",
+      "book_safe": true
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "ollie": "excited",
+        "pip": "worried",
+        "bean": "curious"
+      },
+      "action": "Ollie dives into a heap of old shells, tossing them over his shoulder. Shells fly everywhere. Bean is left floating alone.",
+      "camera": "wide",
+      "dialogue": [],
+      "duration": 5.0,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S016",
+      "book_safe": true
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "pip": "worried"
+      },
+      "action": "One shell lands on Pip's cup with a clink. Pip looks down at it, then at Ollie, then at his own cup. His eyes go wide and shiny.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "worried",
+          "text": "I didn't say I wanted one, Ollie."
+        }
+      ],
+      "duration": 5.0,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S017",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "ollie": "sorry",
+        "bean": "curious"
+      },
+      "action": "Ollie freezes, a shell in each paw. He looks at Pip. Bean blinks at him.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "sorry",
+          "text": "Oops. I rushed. I should have asked you first, Pip."
+        }
+      ],
+      "duration": 5.65,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S018",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "ollie": "calm",
+        "pip": "worried",
+        "luna": "calm"
+      },
+      "action": "Ollie sets the shells down gently, then crouches beside Pip's cup. Luna glows brighter.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "calm",
+          "text": "How do you feel about your cup?"
+        },
+        {
+          "char": "pip",
+          "emotion": "worried",
+          "text": "I love it. But it's getting hard to fit."
+        }
+      ],
+      "duration": 8.75,
+      "music_mood": "wonder",
+      "luna_glow": "bright",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S019",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "gus": "excited"
+      },
+      "action": "Gus swoops in, red sneakers skidding on the wet rock, a flat bottle cap tucked under his wing.",
+      "camera": "pan_right",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "excited",
+          "text": "I've got a faster way! Pip needs a shell. Try this!"
+        }
+      ],
+      "duration": 6.03,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S020",
+      "book_safe": true
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "gus": "playful",
+        "pip": "worried"
+      },
+      "action": "He holds up a tiny round bottle cap. Pip stares at it. It is about the size of Pip's head.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "playful",
+          "text": "It's snug. Snug is the best. Put it on!"
+        },
+        {
+          "char": "pip",
+          "emotion": "worried",
+          "text": "That is a hat, Gus. Not a shell."
+        },
+        {
+          "char": "gus",
+          "emotion": "excited",
+          "text": "Same thing! Just wear it fast."
+        }
+      ],
+      "duration": 12.25,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S021",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "gus": "playful",
+        "pip": "curious",
+        "ollie": "curious"
+      },
+      "action": "He holds up a tiny round bottle cap. Pip stares at it. It is about the size of Pip's head.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "curious",
+          "text": "What if we try it the careful way?"
+        },
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "Gus can try first. Then we ask Gran Mari."
+        }
+      ],
+      "duration": 9.14,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S022",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "gus": "playful",
+        "pip": "surprised"
+      },
+      "action": "Gus plops the bottle cap on Pip's head. It sits sideways. Pip blinks out from under it, like a very small, very serious hat.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 5.0,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S023",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy",
+        "pip": "worried",
+        "bean": "happy"
+      },
+      "action": "The friends head for a rock slope above the pools, Bean on Ollie's tummy, Pip walking carefully with his cup and bottle-cap hat.",
+      "camera": "follow",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S024",
+      "book_safe": true
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "gus": "excited"
+      },
+      "action": "At the top of the slope Gus fishes a red sneaker out from under his wing. He holds it up like a prize.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "excited",
+          "text": "Okay, the cap was too small. This one is bigger! Roomy!"
+        }
+      ],
+      "duration": 6.03,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [
+        "short_fail"
+      ],
+      "text_overlay": null,
+      "id": "E10-S025",
+      "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "pip": "surprised",
+        "gus": "playful"
+      },
+      "action": "He tips the sneaker on its side. Pip peers inside. The sneaker is as big as a house.",
+      "camera": "wide",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "surprised",
+          "text": "It's too big, Gus. It's very, very big."
+        },
+        {
+          "char": "gus",
+          "emotion": "playful",
+          "text": "Big is better. Just hop in and I'll give you a ride."
+        }
+      ],
+      "duration": 10.29,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [
+        "short_fail"
+      ],
+      "text_overlay": null,
+      "id": "E10-S026",
+      "book_safe": true
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "gus": "surprised",
+        "pip": "surprised"
+      },
+      "action": "Gus gives a tiny nudge. The sneaker tips and starts to roll down the gentle slope, Pip peeking out and spinning around and around.",
+      "camera": "follow",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "surprised",
+          "text": "Whoooaaa! Ollie! I'm a sneaker!"
+        }
+      ],
+      "duration": 6.0,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [
+        "short_fail"
+      ],
+      "text_overlay": null,
+      "id": "E10-S027",
+      "book_safe": true
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "pip": "happy"
+      },
+      "action": "The sneaker bumps over a few pebbles and rolls to a gentle stop in a soft heap of sand. Pip pops up from the toe, dizzy and cheerful.",
+      "camera": "wide",
+      "dialogue": [],
+      "duration": 5.0,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [
+        "short_fail"
+      ],
+      "text_overlay": null,
+      "id": "E10-S028",
+      "book_safe": true
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy",
+        "bean": "happy",
+        "luna": "calm",
+        "pip": "surprised",
+        "gus": "excited"
+      },
+      "action": "Ollie, Bean, and Luna wobble with a tiny giggle. Luna glows a small glow.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "surprised",
+          "text": "Wheee! I'm okay. Everything is spinning."
+        },
+        {
+          "char": "ollie",
+          "emotion": "worried",
+          "text": "Gus, did you push the sneaker?"
+        },
+        {
+          "char": "gus",
+          "emotion": "excited",
+          "text": "Me? No! The sneaker went by itself."
+        }
+      ],
+      "duration": 10.71,
+      "music_mood": "uh-oh",
+      "luna_glow": "dim",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S029",
+      "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy",
+        "bean": "happy",
+        "luna": "calm",
+        "gus": "worried"
+      },
+      "action": "Ollie, Bean, and Luna wobble with a tiny giggle. Luna glows a small glow.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "Your wing was on the sneaker, Gus."
+        },
+        {
+          "char": "gus",
+          "emotion": "worried",
+          "text": "It was just... saying hello. Sneakers roll sometimes. That's how they are."
+        }
+      ],
+      "duration": 9.91,
+      "music_mood": "uh-oh",
+      "luna_glow": "dim",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S030",
+      "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "gus": "worried",
+        "pip": "curious"
+      },
+      "action": "Gus slides down the slope after it and flops in the sand beside Pip, one sneaker foot bare. He gives the others a little smile.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "curious",
+          "text": "That was wobbly. But I wasn't so worried."
+        }
+      ],
+      "duration": 4.88,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S031",
+      "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "pip": "curious",
+        "ollie": "calm"
+      },
+      "action": "Pip steps out of the sneaker and climbs back into his own sky-blue teacup. His claw sticks out of the front again.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "calm",
+          "text": "The cup doesn't fit, Pip. And a sneaker doesn't either."
+        },
+        {
+          "char": "pip",
+          "emotion": "worried",
+          "text": "Then what does fit?"
+        }
+      ],
+      "duration": 7.98,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S032",
+      "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "ollie": "worried",
+        "pip": "worried",
+        "bean": "curious"
+      },
+      "action": "The friends look at the little crab in his tight cup. The sea hushes.",
+      "camera": "slow_push",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "calm",
+          "text": "We need help. Let's ask Gran Mari."
+        }
+      ],
+      "duration": 4.49,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S033",
+      "book_safe": true
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "gran_mari": "happy",
+        "ollie": "curious"
+      },
+      "action": "The friends climb the path to the lighthouse. Gran Mari rocks on her porch, knitting, her coral scarf swinging.",
+      "camera": "pan_up",
+      "dialogue": [
+        {
+          "char": "gran_mari",
+          "emotion": "happy",
+          "text": "Well now, a crab in a bottle cap and a gull with one shoe. What's all this?"
+        },
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "Gran Mari, why does Pip need a new shell?"
+        },
+        {
+          "char": "gran_mari",
+          "emotion": "happy",
+          "text": "Oh, that is a good question, Ollie. Let's find out together."
+        }
+      ],
+      "duration": 17.63,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S034",
+      "book_safe": true
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "gran_mari": "calm",
+        "gus": "surprised"
+      },
+      "action": "Gran Mari brings out a little basket from her pouch. Inside is a pair of tiny shoes, small and worn, from when Gus was a chick.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gran_mari",
+          "emotion": "calm",
+          "text": "Gus, will you try these on? Pretend you're still little."
+        }
+      ],
+      "duration": 5.65,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S035",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "gus": "surprised"
+      },
+      "action": "Gus wedges one foot into the tiny shoe. His toes poke out and his face squishes up.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "surprised",
+          "text": "Ow! Ow! My toes can't move!"
+        }
+      ],
+      "duration": 6.0,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S036",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "gus": "happy",
+        "gran_mari": "calm",
+        "pip": "curious"
+      },
+      "action": "Gran Mari helps him out of it. Then Gus puts his own red sneaker back on. He wiggles his toes and they stretch out all the way.",
+      "camera": "top_down",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "happy",
+          "text": "Ahh. My toes can wiggle. Much better!"
+        },
+        {
+          "char": "gran_mari",
+          "emotion": "calm",
+          "text": "Gus grew. So the little shoes got too small. Crabs grow too, Pip."
+        },
+        {
+          "char": "pip",
+          "emotion": "curious",
+          "text": "Even me? Even a crab in a cup?"
+        }
+      ],
+      "duration": 14.17,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S037",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "gus": "happy",
+        "gran_mari": "happy"
+      },
+      "action": "Gran Mari helps him out of it. Then Gus puts his own red sneaker back on. He wiggles his toes and they stretch out all the way.",
+      "camera": "top_down",
+      "dialogue": [
+        {
+          "char": "gran_mari",
+          "emotion": "happy",
+          "text": "Yes. Hermit crabs grow, and their shells don't. So one day, a bigger shell is needed."
+        }
+      ],
+      "duration": 7.95,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E10-S038",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "ollie": "surprised"
+      },
+      "action": "A picture bubble: a small crab beside a big shell, then a medium crab, then a bigger crab beside an even bigger shell.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "surprised",
+          "text": "So you grew, Pip! That is not bad! That is good!"
+        }
+      ],
+      "duration": 6.03,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E10-S039",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "luna": "happy",
+        "ollie": "happy",
+        "pip": "happy",
+        "gran_mari": "curious"
+      },
+      "action": "Luna rises above the basket and sparkles. Three soft notes ring out.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "curious",
+          "text": "But what if the new one doesn't feel like mine?"
+        },
+        {
+          "char": "gran_mari",
+          "emotion": "curious",
+          "text": "Well now, what do you think happens next?"
+        },
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "Maybe we find a new one. And we keep your old cup safe!"
+        }
+      ],
+      "duration": 15.32,
+      "music_mood": "cozy",
+      "luna_glow": "sparkle",
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E10-S040",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "pip": "happy"
+      },
+      "action": "Pip peeks out at Ollie. Slowly, a tiny smile creeps across his face.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E10-S041",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy"
+      },
+      "action": "Ollie turns to the camera, holding up a very tiny shoe and his own shoe next to it.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Try it at home! Ask a grown-up for shoes you wore when you were small. Try them on. Wiggle your toes. Then put on your shoes. Feel the difference!"
+        }
+      ],
+      "duration": 13.34,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E10-S042",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "kelp_shallows",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "calm",
+        "pip": "worried",
+        "bean": "happy"
+      },
+      "action": "Golden light in the Kelp Shallows. The friends drift slowly through the tall kelp, searching. Pip rides in Ollie's pocket, holding the pocket's edge.",
+      "camera": "follow",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "calm",
+          "text": "We go at Pip's speed. No rushing."
+        }
+      ],
+      "duration": 4.49,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S043",
+      "book_safe": true
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "kelp_shallows",
+      "time": "golden_hour",
+      "characters": {
+        "bean": "curious"
+      },
+      "action": "Bean spots something shining in the sand and points with both paws. They all gather round.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S044",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "kelp_shallows",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "surprised"
+      },
+      "action": "Half-buried is a soft cream teacup with a thin gold rim and a snug little lid, just a bit bigger than Pip's.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "surprised",
+          "text": "A teacup, with a lid! Pip, look!"
+        }
+      ],
+      "duration": 5.0,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S045",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "kelp_shallows",
+      "time": "golden_hour",
+      "characters": {
+        "pip": "worried"
+      },
+      "action": "Pip climbs out of the pocket and stares at the new cup. It glows in the gold light. His claws tremble.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "worried",
+          "text": "It's so big. It's different. It's not mine."
+        }
+      ],
+      "duration": 5.0,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S046",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "kelp_shallows",
+      "time": "golden_hour",
+      "characters": {
+        "pip": "worried",
+        "bean": "happy"
+      },
+      "action": "Pip looks back at his old chipped cup. He looks at the new one. He looks at his friends. Nobody rushes him.",
+      "camera": "slow_push",
+      "dialogue": [
+        {
+          "char": "bean",
+          "emotion": "happy",
+          "text": "Brave!"
+        }
+      ],
+      "duration": 6.0,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S047",
+      "book_safe": true
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "kelp_shallows",
+      "time": "golden_hour",
+      "characters": {
+        "pip": "surprised",
+        "bean": "happy",
+        "ollie": "calm"
+      },
+      "action": "Pip turns to Bean. Her eyes are big and shiny. She holds up one paw, like she is giving a high five.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "calm",
+          "text": "Take your time, Pip. We'll be right here."
+        }
+      ],
+      "duration": 4.88,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S048",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "kelp_shallows",
+      "time": "golden_hour",
+      "characters": {
+        "gus": "sorry",
+        "pip": "happy"
+      },
+      "action": "Gus tiptoes up and stands beside Pip. He takes a deep breath.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "sorry",
+          "text": "I fibbed, Pip. I did push the sneaker. I'm sorry."
+        },
+        {
+          "char": "gus",
+          "emotion": "sorry",
+          "text": "It was a silly idea. I should have waited for a real plan."
+        },
+        {
+          "char": "pip",
+          "emotion": "happy",
+          "text": "Thank you for telling me, Gus."
+        }
+      ],
+      "duration": 14.55,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S049",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "kelp_shallows",
+      "time": "golden_hour",
+      "characters": {
+        "pip": "determined"
+      },
+      "action": "Pip takes a deep breath, then nods. He hurries behind a curtain of kelp, and a little rustle and a tiny scoot are heard.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 5.0,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S050",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "kelp_shallows",
+      "time": "golden_hour",
+      "characters": {
+        "pip": "surprised"
+      },
+      "action": "The kelp parts. Pip steps out of the cream teacup, a bit taller, lid open like a little door. He wiggles all his claws.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "surprised",
+          "text": "Oh! I can wiggle everything!"
+        }
+      ],
+      "duration": 5.0,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S051",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "kelp_shallows",
+      "time": "golden_hour",
+      "characters": {
+        "luna": "happy",
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "happy",
+        "gus": "happy"
+      },
+      "action": "Luna sparkles above the new cup. Three soft notes ring out. Everyone cheers softly.",
+      "camera": "wide",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "You did it, Pip! You were so brave!"
+        }
+      ],
+      "duration": 4.88,
+      "music_mood": "triumph",
+      "luna_glow": "sparkle",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S052",
+      "book_safe": true
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "kelp_shallows",
+      "time": "golden_hour",
+      "characters": {
+        "pip": "happy"
+      },
+      "action": "Pip pulls the lid down with a tiny click, then pops it open again with a giggle.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "happy",
+          "text": "It has a lid! Now I can say, \"Knock, knock!"
+        }
+      ],
+      "duration": 5.65,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S053",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "kelp_shallows",
+      "time": "golden_hour",
+      "characters": {
+        "gus": "happy",
+        "bean": "happy"
+      },
+      "action": "Gus laughs and claps his wings. Bean claps her paws.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S054",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "kelp_shallows",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy"
+      },
+      "action": "Ollie lifts the old sky-blue cup carefully in both paws. Pip nods at it and gives it a gentle pat.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 5.0,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S055",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "proud",
+        "pip": "proud"
+      },
+      "action": "At the Wonder Shed, Ollie sets the old chipped cup on the highest shelf in a ray of golden light. A tiny paper sign reads, \"Pip's First Home.\"",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "proud",
+          "text": "Thank you, little cup. You kept me safe."
+        }
+      ],
+      "duration": 6.0,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S056",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "happy",
+        "luna": "calm"
+      },
+      "action": "Inside the Wonder Shed, string lights glow. The old sky-blue cup sits proudly on its shelf. Ollie sits with Pip in his new cup, Bean, and Luna, his vest pockets open.",
+      "camera": "static",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Time for my Wonder Pocket! Three things we learned."
+        }
+      ],
+      "duration": 5.26,
+      "music_mood": "cozy",
+      "luna_glow": "bright",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S057",
+      "book_safe": true
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "luna": "calm"
+      },
+      "action": "Luna floats above the jar of sea glass, and the glass glows green and gold.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 5.0,
+      "music_mood": "cozy",
+      "luna_glow": "bright",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S058",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy"
+      },
+      "action": "Ollie pulls a smooth shell from the first pocket.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "One. Hermit crabs grow, so they need bigger shells."
+        }
+      ],
+      "duration": 5.26,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S059",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy"
+      },
+      "action": "He takes a feather from the second pocket.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Two. When a shell gets too small, a crab finds a new one."
+        }
+      ],
+      "duration": 6.8,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S060",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "proud"
+      },
+      "action": "He holds up a bit of sea glass from the third pocket.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "proud",
+          "text": "Three. Change can feel wobbly. Friends help us be brave."
+        }
+      ],
+      "duration": 5.65,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S061",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy",
+        "luna": "calm"
+      },
+      "action": "The fourth pocket glows softly. Ollie pulls out a tiny folded note with a star on it.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "And one kind thing to try today. Cheer on a friend trying something new."
+        }
+      ],
+      "duration": 7.18,
+      "music_mood": "cozy",
+      "luna_glow": "bright",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S062",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "happy",
+        "gus": "happy",
+        "luna": "calm"
+      },
+      "action": "Everyone waves at the camera. Pip pops his new lid open and waves a claw. The sun sets pink behind the shed.",
+      "camera": "wide",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "happy",
+          "text": "Bye, everybody! Next time, I'll ask first!"
+        }
+      ],
+      "duration": 4.49,
+      "music_mood": "cozy",
+      "luna_glow": "sparkle",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S063",
+      "book_safe": true
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "luna": "calm"
+      },
+      "action": "Season finale card: the old cup and the new cup sit side by side on the shelf, glowing in the last of the light.",
+      "camera": "slow_push",
+      "dialogue": [],
+      "duration": 5.0,
+      "music_mood": "cozy",
+      "luna_glow": "sparkle",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E10-S064",
+      "book_safe": true
+    },
+    {
+      "beat": 7,
+      "beat_name": "Outro",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "happy",
+        "gus": "happy",
+        "luna": "calm"
+      },
+      "action": "Everyone waves goodbye as the sun sets.",
+      "camera": "wide",
+      "dialogue": [],
+      "duration": 10.0,
+      "music_mood": "cozy",
+      "luna_glow": "bright",
+      "tags": [
+        "outro"
+      ],
+      "text_overlay": null,
+      "id": "E10-S065",
+      "book_safe": true
+    },
+    {
+      "beat": 7,
+      "beat_name": "Outro",
+      "location": "driftwood_playground",
+      "time": "golden_hour",
+      "characters": {
+        "luna": "calm"
+      },
+      "action": "Soft end card: Luna drifts across the golden cove.",
+      "camera": "static",
+      "dialogue": [],
+      "duration": 10.0,
+      "music_mood": "cozy",
+      "luna_glow": "bright",
+      "tags": [
+        "outro"
+      ],
+      "text_overlay": null,
+      "id": "E10-S066",
+      "book_safe": true
+    }
+  ]
+}

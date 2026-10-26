@@ -1,0 +1,1638 @@
+{
+  "episode": "E04",
+  "title": "E04: Pip's Tippy Boat",
+  "big_question": "Why do boats float?",
+  "value": "Trying again",
+  "shot_count": 63,
+  "total_seconds": 410.1,
+  "shots": [
+    {
+      "beat": 1,
+      "beat_name": "Cold open",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy",
+        "pip": "curious"
+      },
+      "action": "Morning at the tide pools. Ollie drops a small pebble into a pool. It sinks with a plip. Pip peeks out of his pocket.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Plip! The pebble sank right to the bottom."
+        }
+      ],
+      "duration": 5.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S001",
+      "book_safe": false
+    },
+    {
+      "beat": 1,
+      "beat_name": "Cold open",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "ollie": "surprised",
+        "pip": "surprised"
+      },
+      "action": "Far out on the sea, a little fishing boat bobs on the waves. Nobody is in sight. It glides along, light as a leaf.",
+      "camera": "wide",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "surprised",
+          "text": "But that big boat is not sinking at all!"
+        },
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "It's much bigger than the pebble, and it floats!"
+        }
+      ],
+      "duration": 9.52,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S002",
+      "book_safe": true
+    },
+    {
+      "beat": 1,
+      "beat_name": "Cold open",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "ollie": "curious"
+      },
+      "action": "Ollie turns to the camera, eyes wide, holding up his wonder rock. His tuft pops up.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "Why do boats float?"
+        }
+      ],
+      "duration": 5.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": "Why do boats float?",
+      "id": "E04-S003",
+      "book_safe": false
+    },
+    {
+      "beat": 1,
+      "beat_name": "Cold open",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "luna": "calm",
+        "ollie": "excited"
+      },
+      "action": "A pale Luna drifts in beside him, tilting her bell as if she wonders too.",
+      "camera": "static",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "excited",
+          "text": "Let's find out!"
+        }
+      ],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": "dim",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S004",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy"
+      },
+      "action": "Sunrise over the cove, the sea sparkling. Ollie waves hello.",
+      "camera": "wide",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E04-S005",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "ollie": "excited",
+        "pip": "happy"
+      },
+      "action": "Ollie and Pip hop between the tide pools.",
+      "camera": "follow",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E04-S006",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "gran_mari": "happy"
+      },
+      "action": "Gran Mari waves from her porch, scarf swinging.",
+      "camera": "static",
+      "dialogue": [],
+      "duration": 3.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E04-S007",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "gus": "excited"
+      },
+      "action": "Gus swoops through, red sneakers kicking up sand.",
+      "camera": "pan_right",
+      "dialogue": [],
+      "duration": 3.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E04-S008",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "kelp_shallows",
+      "time": "morning",
+      "characters": {
+        "bean": "happy",
+        "luna": "calm"
+      },
+      "action": "Bean floats by with Luna glowing softly beside her.",
+      "camera": "static",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": "dim",
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E04-S009",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "wonder_shed",
+      "time": "morning",
+      "characters": {
+        "ollie": "curious",
+        "pip": "curious"
+      },
+      "action": "Ollie pulls a shell from his Wonder Pocket and holds it up.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E04-S010",
+      "book_safe": false
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "gran_mari": "happy",
+        "gus": "happy",
+        "bean": "happy",
+        "luna": "calm"
+      },
+      "action": "Everyone runs together toward the camera.",
+      "camera": "wide",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": "dim",
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E04-S011",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "excited"
+      },
+      "action": "Title card: OTTERLY CURIOUS over the sparkling cove.",
+      "camera": "static",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E04-S012",
+      "book_safe": true
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "pip": "curious",
+        "ollie": "excited"
+      },
+      "action": "Pip scuttles out of the pocket onto a driftwood log and stares at the far boat. His eyestalks wiggle.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "excited",
+          "text": "I want to sail! Can I make a boat?"
+        },
+        {
+          "char": "ollie",
+          "emotion": "excited",
+          "text": "Yes! A boat of your very own!"
+        }
+      ],
+      "duration": 8.75,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S013",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "pip": "determined",
+        "ollie": "happy"
+      },
+      "action": "Pip finds a tall, narrow piece of bark and stands it on its end. He piles three heavy shells up on one side.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "It's tall and shiny! Let's go launch it!"
+        }
+      ],
+      "duration": 5.0,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S014",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "excited",
+        "pip": "worried",
+        "bean": "happy"
+      },
+      "action": "Ollie scoops up the boat, Pip, and Bean, and dashes back toward the tide pools.",
+      "camera": "follow",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "worried",
+          "text": "Ollie, I don't think it's ready yet!"
+        }
+      ],
+      "duration": 5.0,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S015",
+      "book_safe": true
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "sorry",
+        "pip": "worried"
+      },
+      "action": "Ollie skids to a stop. Pip is gripping the edge of the bark boat.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "sorry",
+          "text": "Sorry, Pip. It's your boat. You tell us when."
+        }
+      ],
+      "duration": 5.26,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S016",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "luna": "calm",
+        "pip": "happy",
+        "ollie": "happy"
+      },
+      "action": "Luna glows brighter as Pip lifts his claw proudly.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "wonder",
+      "luna_glow": "bright",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S017",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "pip": "worried"
+      },
+      "action": "At the biggest tide pool, Pip sets the bark boat on the water. It wobbles. The shells slide to one side.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "worried",
+          "text": "Oh no. It's tilting..."
+        }
+      ],
+      "duration": 5.0,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S018",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "pip": "surprised"
+      },
+      "action": "Splash! The tall boat flips and spills the shells to the bottom of the pool. A little fish darts away, unbothered.",
+      "camera": "wide",
+      "dialogue": [],
+      "duration": 5.0,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S019",
+      "book_safe": true
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "pip": "worried"
+      },
+      "action": "Pip sinks down in the pocket, his claws over his eyes.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "worried",
+          "text": "My boat is no good. Maybe I should stop."
+        }
+      ],
+      "duration": 5.26,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S020",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "gus": "excited",
+        "pip": "worried"
+      },
+      "action": "Gus lands with a flap, red sneakers slipping, a pebble stuck to his beak.",
+      "camera": "pan_right",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "excited",
+          "text": "Don't stop! I've got a faster way!"
+        },
+        {
+          "char": "pip",
+          "emotion": "worried",
+          "text": "Gus, your faster ways always go wrong."
+        },
+        {
+          "char": "gus",
+          "emotion": "playful",
+          "text": "Not this time! A boat needs to be strong. Strong like a lump of clay!"
+        }
+      ],
+      "duration": 14.55,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S021",
+      "book_safe": true
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "gus": "excited",
+        "ollie": "curious"
+      },
+      "action": "Gus lands with a flap, red sneakers slipping, a pebble stuck to his beak.",
+      "camera": "pan_right",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "A lump of clay?"
+        }
+      ],
+      "duration": 3.34,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S022",
+      "book_safe": true
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "gus": "excited"
+      },
+      "action": "Gus scoops a big lump of wet clay from the edge of the pool and squishes it in his wings.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "excited",
+          "text": "Squeeze it hard, and it's a boat in two seconds!"
+        }
+      ],
+      "duration": 5.65,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S023",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "bean": "happy",
+        "luna": "calm",
+        "pip": "curious",
+        "ollie": "curious"
+      },
+      "action": "Bean claps her paws and bobs in the pool. Luna wobbles beside her.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "curious",
+          "text": "What if we try it the careful way?"
+        },
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "Let's watch Gus try first. Then we ask Gran Mari."
+        }
+      ],
+      "duration": 9.52,
+      "music_mood": "wonder",
+      "luna_glow": "dim",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S024",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy",
+        "pip": "curious",
+        "bean": "happy"
+      },
+      "action": "The friends gather at the edge of the pool, Pip in Ollie's pocket.",
+      "camera": "wide",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S025",
+      "book_safe": true
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "gus": "proud"
+      },
+      "action": "Gus holds the round clay lump over the water like a trophy. He gives it a grand toss.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [
+        "short_fail"
+      ],
+      "text_overlay": null,
+      "id": "E04-S026",
+      "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "gus": "surprised"
+      },
+      "action": "Plop! The clay ball sinks straight down and settles at the bottom of the pool.",
+      "camera": "wide",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "surprised",
+          "text": "Whoa. Where did my boat go?"
+        }
+      ],
+      "duration": 4.11,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [
+        "short_fail"
+      ],
+      "text_overlay": null,
+      "id": "E04-S027",
+      "book_safe": true
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "gus": "surprised"
+      },
+      "action": "Gus leans over the edge to look, his sneakers hanging in the air. He tips forward until his beak bumps the water.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 5.0,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [
+        "short_fail"
+      ],
+      "text_overlay": null,
+      "id": "E04-S028",
+      "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {},
+      "action": "A starfish at the bottom of the pool climbs onto the clay ball and sits on it, like a tiny captain.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 5.0,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [
+        "short_fail"
+      ],
+      "text_overlay": null,
+      "id": "E04-S029",
+      "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "happy",
+        "luna": "calm",
+        "gus": "excited"
+      },
+      "action": "Ollie, Pip, and Bean try very hard not to giggle. Luna wobbles with a tiny glow.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "surprised",
+          "text": "Gus, your boat sank!"
+        },
+        {
+          "char": "gus",
+          "emotion": "excited",
+          "text": "It didn't sink! It's a submarine! I meant to do that."
+        },
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "Do submarines fall down and stay down?"
+        }
+      ],
+      "duration": 11.86,
+      "music_mood": "uh-oh",
+      "luna_glow": "dim",
+      "tags": [
+        "short_fail"
+      ],
+      "text_overlay": null,
+      "id": "E04-S030",
+      "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "happy",
+        "luna": "calm",
+        "gus": "worried"
+      },
+      "action": "Ollie, Pip, and Bean try very hard not to giggle. Luna wobbles with a tiny glow.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "worried",
+          "text": "Mine does. It's the best submarine ever."
+        }
+      ],
+      "duration": 4.49,
+      "music_mood": "uh-oh",
+      "luna_glow": "dim",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S031",
+      "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "gus": "worried",
+        "ollie": "curious"
+      },
+      "action": "Gus wipes the water off his beak with his wing, his one feather still sticking up.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "But a boat should float on top."
+        },
+        {
+          "char": "gus",
+          "emotion": "worried",
+          "text": "It's not my fault. The water was too deep!"
+        }
+      ],
+      "duration": 8.75,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S032",
+      "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "pip": "worried"
+      },
+      "action": "Pip peers into the pool at the clay ball and the spilled shells. He sighs.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "worried",
+          "text": "And my boat flipped over. Boats are hard."
+        }
+      ],
+      "duration": 4.88,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S033",
+      "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "ollie": "worried",
+        "pip": "worried",
+        "bean": "curious"
+      },
+      "action": "The friends look at the sunken clay lump. The little fishing boat still bobs far out on the waves.",
+      "camera": "slow_push",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "worried",
+          "text": "We need help. Let's ask Gran Mari."
+        }
+      ],
+      "duration": 5.0,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S034",
+      "book_safe": true
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "gran_mari": "happy",
+        "ollie": "curious"
+      },
+      "action": "The friends find Gran Mari at the driftwood playground, a big washtub of water on a log beside her, her coral scarf swinging.",
+      "camera": "pan_up",
+      "dialogue": [
+        {
+          "char": "gran_mari",
+          "emotion": "happy",
+          "text": "Well now, a muddy seagull and a gloomy crab. What's all this?"
+        },
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "Gran Mari, why do boats float?"
+        },
+        {
+          "char": "gran_mari",
+          "emotion": "happy",
+          "text": "Oh, that is a good question, Ollie. Let's find out together."
+        }
+      ],
+      "duration": 14.55,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S035",
+      "book_safe": true
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "gran_mari": "calm"
+      },
+      "action": "Gran Mari unrolls two pieces of shiny foil, the same size, and holds them up side by side.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gran_mari",
+          "emotion": "calm",
+          "text": "These are the same foil. I'll squeeze this one into a ball. I'll fold this one into a wide boat."
+        }
+      ],
+      "duration": 9.49,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S036",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {},
+      "action": "She crumples one piece tightly and folds the other into a flat boat with little walls.",
+      "camera": "top_down",
+      "dialogue": [],
+      "duration": 7.0,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S037",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "pip": "curious",
+        "gran_mari": "calm"
+      },
+      "action": "Pip climbs out onto the tub's edge, peeking down at the water.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gran_mari",
+          "emotion": "calm",
+          "text": "First, the ball. Watch the water."
+        }
+      ],
+      "duration": 4.11,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S038",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "surprised",
+        "gran_mari": "calm"
+      },
+      "action": "The foil ball drops into the tub and sinks to the bottom with a gentle plink.",
+      "camera": "top_down",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "surprised",
+          "text": "The ball sinks!"
+        },
+        {
+          "char": "gran_mari",
+          "emotion": "calm",
+          "text": "Now the boat. Same foil, same weight."
+        }
+      ],
+      "duration": 6.45,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S039",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "pip": "surprised",
+        "gran_mari": "happy"
+      },
+      "action": "The foil boat settles on the water and floats, riding high on the surface.",
+      "camera": "top_down",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "surprised",
+          "text": "The boat floats!"
+        },
+        {
+          "char": "gran_mari",
+          "emotion": "happy",
+          "text": "The wide boat pushes a lot of water aside. The water pushes back up and holds it. The small ball pushes only a little, so it sinks."
+        }
+      ],
+      "duration": 14.14,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S040",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "luna": "happy",
+        "ollie": "happy",
+        "pip": "happy",
+        "gus": "curious",
+        "gran_mari": "curious"
+      },
+      "action": "Luna rises above the tub and sparkles. Three soft notes ring out.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "curious",
+          "text": "So my clay needed to be flat and wide?"
+        },
+        {
+          "char": "gran_mari",
+          "emotion": "curious",
+          "text": "Well now, what do you think happens next?"
+        },
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "If we flatten the clay, it will float!"
+        }
+      ],
+      "duration": 13.02,
+      "music_mood": "cozy",
+      "luna_glow": "sparkle",
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E04-S041",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {},
+      "action": "Gran Mari adds three small stones to the foil boat, one at a time. It sinks a little lower, but still floats.",
+      "camera": "top_down",
+      "dialogue": [],
+      "duration": 6.0,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E04-S042",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "gran_mari": "calm"
+      },
+      "action": "She adds a fourth stone to one side. The boat tilts and spills. Everyone gasps.",
+      "camera": "top_down",
+      "dialogue": [
+        {
+          "char": "gran_mari",
+          "emotion": "calm",
+          "text": "Too much on one side, and it tips. Not a mistake, just something to learn. So we try again."
+        }
+      ],
+      "duration": 9.11,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E04-S043",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "pip": "curious"
+      },
+      "action": "Pip peeks out of Ollie's vest and looks at the wobbling foil boat. His eyestalks perk up.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E04-S044",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy"
+      },
+      "action": "Ollie turns to the camera, holding the wonder rock. Behind him the foil boat wobbles in the tub.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Try it at home! Fill a sink with water. Squeeze one piece of foil into a ball. Fold another into a wide boat."
+        }
+      ],
+      "duration": 10.65,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E04-S045",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "excited"
+      },
+      "action": "Ollie places both pieces on the water. The ball sinks, the boat floats.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "excited",
+          "text": "Set them on the water. The ball sinks. The boat floats! Add a few stones, one at a time."
+        }
+      ],
+      "duration": 9.11,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E04-S046",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "kelp_shallows",
+      "time": "golden_hour",
+      "characters": {
+        "pip": "determined"
+      },
+      "action": "Golden afternoon in the Kelp Shallows. The water is smooth. Pip stands at the water's edge with a new wide, flat piece of bark, shells in a neat row.",
+      "camera": "wide",
+      "dialogue": [],
+      "duration": 5.0,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S047",
+      "book_safe": true
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "kelp_shallows",
+      "time": "golden_hour",
+      "characters": {
+        "gus": "determined",
+        "ollie": "happy"
+      },
+      "action": "Gus flattens the clay lump into a wide round dish. Ollie holds Pip's new boat steady.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "sorry",
+          "text": "Wait, before we go. I fibbed. My boat sank, and I said it was a submarine."
+        },
+        {
+          "char": "gus",
+          "emotion": "sorry",
+          "text": "I'm sorry I said I meant to. I just wanted to be fast."
+        },
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Thanks for telling us the truth, Gus."
+        }
+      ],
+      "duration": 17.25,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S048",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "kelp_shallows",
+      "time": "golden_hour",
+      "characters": {
+        "gus": "surprised"
+      },
+      "action": "Gus sets his wide clay dish on the water. It floats. His beak drops open.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "surprised",
+          "text": "It floats! My lump is a boat after all!"
+        }
+      ],
+      "duration": 5.26,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S049",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "kelp_shallows",
+      "time": "golden_hour",
+      "characters": {
+        "pip": "worried"
+      },
+      "action": "Pip puts the bark boat on the water. It wobbles. He takes a breath.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "worried",
+          "text": "What if it tips again?"
+        }
+      ],
+      "duration": 4.0,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S050",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "kelp_shallows",
+      "time": "golden_hour",
+      "characters": {
+        "bean": "happy",
+        "pip": "curious"
+      },
+      "action": "Bean floats up beside him, pats the little boat, and gives Pip a tiny nod.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "bean",
+          "emotion": "happy",
+          "text": "Try!"
+        }
+      ],
+      "duration": 4.0,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S051",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "kelp_shallows",
+      "time": "golden_hour",
+      "characters": {
+        "pip": "determined"
+      },
+      "action": "Pip lifts his teacup, tucks it onto the deck, and steps aboard. The boat rocks, then settles. It floats.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 6.0,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S052",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "kelp_shallows",
+      "time": "golden_hour",
+      "characters": {
+        "luna": "happy",
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "happy",
+        "gus": "happy"
+      },
+      "action": "Ollie, Gus, and Bean cheer as Pip sails across the glassy water. Luna sparkles above him. Three soft notes ring out.",
+      "camera": "wide",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "proud",
+          "text": "I did it! I tried again, and it floated!"
+        }
+      ],
+      "duration": 6.0,
+      "music_mood": "triumph",
+      "luna_glow": "sparkle",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S053",
+      "book_safe": true
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "kelp_shallows",
+      "time": "golden_hour",
+      "characters": {
+        "gus": "happy",
+        "pip": "happy",
+        "ollie": "happy"
+      },
+      "action": "Gus pushes his clay dish beside Pip's bark boat. Two small boats drift side by side.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Can I ride along, Pip? You're the captain."
+        },
+        {
+          "char": "pip",
+          "emotion": "happy",
+          "text": "Yes! Hop aboard, first mate."
+        }
+      ],
+      "duration": 7.6,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S054",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "happy",
+        "luna": "calm"
+      },
+      "action": "Inside the Wonder Shed, string lights glow. Ollie sits with Pip, Bean, and Luna, a tiny foil boat on the table.",
+      "camera": "static",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Time for my Wonder Pocket! Three things we learned."
+        }
+      ],
+      "duration": 5.26,
+      "music_mood": "cozy",
+      "luna_glow": "bright",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S055",
+      "book_safe": true
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "luna": "calm"
+      },
+      "action": "Luna floats above the jar of sea glass, and the glass glows green and gold.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 5.0,
+      "music_mood": "cozy",
+      "luna_glow": "bright",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S056",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy"
+      },
+      "action": "Ollie pulls a smooth shell from the first pocket.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "One. A wide, light boat pushes the water aside and floats."
+        }
+      ],
+      "duration": 6.03,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S057",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy"
+      },
+      "action": "He takes a feather from the second pocket.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Two. A small, heavy lump pushes less water and sinks."
+        }
+      ],
+      "duration": 5.65,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S058",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "proud"
+      },
+      "action": "He holds up a bit of sea glass from the third pocket.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "proud",
+          "text": "Three. If a boat tips over, we can try again."
+        }
+      ],
+      "duration": 5.65,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S059",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy",
+        "luna": "calm"
+      },
+      "action": "The fourth pocket glows softly. Ollie pulls out a tiny folded note with a star on it.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "And one kind thing to try today. Cheer on a friend who tries again."
+        }
+      ],
+      "duration": 7.18,
+      "music_mood": "cozy",
+      "luna_glow": "bright",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S060",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "happy",
+        "gus": "happy",
+        "luna": "calm"
+      },
+      "action": "Everyone waves at the camera. The sun sets pink behind the shed.",
+      "camera": "wide",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "happy",
+          "text": "Bye, everybody! Next time, I'll try the careful way too!"
+        }
+      ],
+      "duration": 5.65,
+      "music_mood": "cozy",
+      "luna_glow": "sparkle",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S061",
+      "book_safe": true
+    },
+    {
+      "beat": 7,
+      "beat_name": "Outro",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "happy",
+        "gus": "happy",
+        "luna": "calm"
+      },
+      "action": "Everyone waves goodbye as the sun sets.",
+      "camera": "wide",
+      "dialogue": [],
+      "duration": 10.0,
+      "music_mood": "cozy",
+      "luna_glow": "bright",
+      "tags": [
+        "outro"
+      ],
+      "text_overlay": null,
+      "id": "E04-S062",
+      "book_safe": true
+    },
+    {
+      "beat": 7,
+      "beat_name": "Outro",
+      "location": "driftwood_playground",
+      "time": "golden_hour",
+      "characters": {
+        "luna": "calm"
+      },
+      "action": "Soft end card: Luna drifts across the golden cove.",
+      "camera": "static",
+      "dialogue": [],
+      "duration": 10.0,
+      "music_mood": "cozy",
+      "luna_glow": "bright",
+      "tags": [
+        "outro"
+      ],
+      "text_overlay": null,
+      "id": "E04-S063",
+      "book_safe": true
+    }
+  ]
+}

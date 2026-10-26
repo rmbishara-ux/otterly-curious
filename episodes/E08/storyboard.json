@@ -1,0 +1,1687 @@
+{
+  "episode": "E08",
+  "title": "E08: Ollie and the Lights-Out Song",
+  "big_question": "Why do we have to sleep?",
+  "value": "Listening to your body",
+  "shot_count": 64,
+  "total_seconds": 427.2,
+  "shots": [
+    {
+      "beat": 1,
+      "beat_name": "Cold open",
+      "location": "lighthouse_point",
+      "time": "night",
+      "characters": {
+        "ollie": "excited",
+        "pip": "happy"
+      },
+      "action": "Night at Lighthouse Point. Stars freckle the sky and the big lamp sweeps slowly over the calm water. Ollie bounces on the path, Pip peeking out of his vest pocket.",
+      "camera": "static",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "excited",
+          "text": "Look at all the stars, Pip! Let's stay up forever!"
+        }
+      ],
+      "duration": 5.65,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E08-S001",
+      "book_safe": true
+    },
+    {
+      "beat": 1,
+      "beat_name": "Cold open",
+      "location": "lighthouse_point",
+      "time": "night",
+      "characters": {
+        "pip": "sleepy",
+        "bean": "sleepy"
+      },
+      "action": "Pip rubs one stalk eye and gives a tiny yawn. Bean floats in a puddle by the path, her kelp blanket pulled up to her chin.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "sleepy",
+          "text": "Oh. I think my eyes want to close."
+        }
+      ],
+      "duration": 5.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E08-S002",
+      "book_safe": false
+    },
+    {
+      "beat": 1,
+      "beat_name": "Cold open",
+      "location": "lighthouse_point",
+      "time": "night",
+      "characters": {
+        "ollie": "curious"
+      },
+      "action": "Ollie stops bouncing. His tuft pops up. He looks at the sleepy crab, then at the camera, holding up his wonder rock.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "Why do we have to sleep?"
+        }
+      ],
+      "duration": 5.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": "Why do we have to sleep?",
+      "id": "E08-S003",
+      "book_safe": false
+    },
+    {
+      "beat": 1,
+      "beat_name": "Cold open",
+      "location": "lighthouse_point",
+      "time": "night",
+      "characters": {
+        "luna": "calm",
+        "ollie": "excited"
+      },
+      "action": "A pale Luna drifts in, her glow soft and dim, tilting her bell as if she wonders too.",
+      "camera": "static",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "excited",
+          "text": "Let's find out!"
+        }
+      ],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": "dim",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E08-S004",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy"
+      },
+      "action": "Sunrise over the cove, the sea sparkling. Ollie waves hello.",
+      "camera": "wide",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E08-S005",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "ollie": "excited",
+        "pip": "happy"
+      },
+      "action": "Ollie and Pip hop between the tide pools.",
+      "camera": "follow",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E08-S006",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "gran_mari": "happy"
+      },
+      "action": "Gran Mari waves from her porch, scarf swinging.",
+      "camera": "static",
+      "dialogue": [],
+      "duration": 3.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E08-S007",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "gus": "excited"
+      },
+      "action": "Gus swoops through, red sneakers kicking up sand.",
+      "camera": "pan_right",
+      "dialogue": [],
+      "duration": 3.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E08-S008",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "kelp_shallows",
+      "time": "morning",
+      "characters": {
+        "bean": "happy",
+        "luna": "calm"
+      },
+      "action": "Bean floats by with Luna glowing softly beside her.",
+      "camera": "static",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": "dim",
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E08-S009",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "wonder_shed",
+      "time": "morning",
+      "characters": {
+        "ollie": "curious",
+        "pip": "curious"
+      },
+      "action": "Ollie pulls a shell from his Wonder Pocket and holds it up.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E08-S010",
+      "book_safe": false
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "gran_mari": "happy",
+        "gus": "happy",
+        "bean": "happy",
+        "luna": "calm"
+      },
+      "action": "Everyone runs together toward the camera.",
+      "camera": "wide",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": "dim",
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E08-S011",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "excited"
+      },
+      "action": "Title card: OTTERLY CURIOUS over the sparkling cove.",
+      "camera": "static",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E08-S012",
+      "book_safe": true
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "kelp_shallows",
+      "time": "night",
+      "characters": {
+        "ollie": "curious",
+        "pip": "sleepy",
+        "bean": "happy"
+      },
+      "action": "The friends wade into the Kelp Shallows. Moonlight ripples through the tall kelp. Tiny fish drift past with their eyes half shut.",
+      "camera": "pan_right",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "Everyone is so quiet tonight."
+        },
+        {
+          "char": "pip",
+          "emotion": "sleepy",
+          "text": "Everyone is sleepy. Even the fish."
+        }
+      ],
+      "duration": 6.83,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E08-S013",
+      "book_safe": true
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "kelp_shallows",
+      "time": "night",
+      "characters": {
+        "gus": "excited"
+      },
+      "action": "Gus flaps down onto a rock, red sneakers thumping. His eyes are wide as saucers and his one feather stands straight up.",
+      "camera": "pan_right",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "excited",
+          "text": "Not me! I am not sleepy at all!"
+        }
+      ],
+      "duration": 4.88,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E08-S014",
+      "book_safe": true
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "kelp_shallows",
+      "time": "night",
+      "characters": {
+        "gus": "sleepy",
+        "ollie": "playful"
+      },
+      "action": "He lets out a huge yawn and quickly clamps his beak shut with both wings.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "playful",
+          "text": "That was not a yawn. That was a big hello."
+        },
+        {
+          "char": "ollie",
+          "emotion": "playful",
+          "text": "I know a game! Let's play the yawn game."
+        }
+      ],
+      "duration": 9.91,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E08-S015",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "kelp_shallows",
+      "time": "night",
+      "characters": {
+        "ollie": "sleepy",
+        "pip": "sleepy"
+      },
+      "action": "Ollie stretches his arms wide and yawns a big, slow yawn. Pip sees it and yawns too.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E08-S016",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "kelp_shallows",
+      "time": "night",
+      "characters": {
+        "bean": "sleepy",
+        "luna": "calm",
+        "pip": "sleepy"
+      },
+      "action": "The yawn passes along like a ripple. Bean yawns. A little fish yawns. A snail yawns. Even Luna's bell opens wide, then closes.",
+      "camera": "pan_right",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "sleepy",
+          "text": "It is a yawn chain!"
+        }
+      ],
+      "duration": 6.0,
+      "music_mood": "wonder",
+      "luna_glow": "dim",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E08-S017",
+      "book_safe": true
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "kelp_shallows",
+      "time": "night",
+      "characters": {
+        "gus": "determined"
+      },
+      "action": "Gus stares hard at the camera, cheeks puffed, trying not to yawn. His beak trembles.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "determined",
+          "text": "I'm not yawning. Not me. Not even a little."
+        }
+      ],
+      "duration": 5.26,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E08-S018",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "kelp_shallows",
+      "time": "night",
+      "characters": {
+        "gus": "surprised"
+      },
+      "action": "Gus's whole face scrunches up and out comes a giant yawn, so big that his feather droops.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "surprised",
+          "text": "Whoa. That one got out."
+        }
+      ],
+      "duration": 5.0,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E08-S019",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "kelp_shallows",
+      "time": "night",
+      "characters": {
+        "bean": "happy",
+        "ollie": "happy"
+      },
+      "action": "Bean giggles, rolls over on her back and waves her paws at the stars.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E08-S020",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "kelp_shallows",
+      "time": "night",
+      "characters": {
+        "ollie": "excited"
+      },
+      "action": "Ollie grins, then shoots up straight, his tuft up. He waves toward a hill of rocks beyond the kelp.",
+      "camera": "pan_right",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "excited",
+          "text": "Come on! Let's find out why we sleep! Follow me!"
+        }
+      ],
+      "duration": 5.65,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E08-S021",
+      "book_safe": true
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "kelp_shallows",
+      "time": "night",
+      "characters": {
+        "ollie": "excited",
+        "pip": "worried",
+        "bean": "sleepy"
+      },
+      "action": "Ollie scampers off through the kelp. Pip bounces in the pocket. Behind him Bean's kelp blanket slips as she yawns again.",
+      "camera": "pan_right",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "worried",
+          "text": "Ollie, wait. Bean is very sleepy."
+        }
+      ],
+      "duration": 4.11,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E08-S022",
+      "book_safe": true
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "kelp_shallows",
+      "time": "night",
+      "characters": {
+        "ollie": "sorry",
+        "bean": "sleepy"
+      },
+      "action": "Ollie skids to a stop and looks back. Bean blinks slowly, her eyes half closed.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "sorry",
+          "text": "Oops. I zoomed ahead. Sorry, Bean."
+        }
+      ],
+      "duration": 4.11,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E08-S023",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "kelp_shallows",
+      "time": "night",
+      "characters": {
+        "ollie": "happy",
+        "bean": "happy",
+        "luna": "calm",
+        "gus": "excited",
+        "pip": "worried"
+      },
+      "action": "Ollie tucks the kelp blanket under Bean's chin and lifts her gently onto his tummy. Luna glows brighter.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "excited",
+          "text": "I've got a faster way!"
+        },
+        {
+          "char": "pip",
+          "emotion": "worried",
+          "text": "Gus, your faster ways never work."
+        },
+        {
+          "char": "gus",
+          "emotion": "playful",
+          "text": "No sleep at all! I'll stay awake by myself, so we don't need it."
+        }
+      ],
+      "duration": 13.02,
+      "music_mood": "wonder",
+      "luna_glow": "bright",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E08-S024",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "kelp_shallows",
+      "time": "night",
+      "characters": {
+        "ollie": "happy",
+        "bean": "happy",
+        "luna": "calm",
+        "gus": "excited",
+        "pip": "curious"
+      },
+      "action": "Ollie tucks the kelp blanket under Bean's chin and lifts her gently onto his tummy. Luna glows brighter.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "How will you stay awake, Gus?"
+        },
+        {
+          "char": "gus",
+          "emotion": "excited",
+          "text": "I'll bounce on the kelp! Bouncing keeps you awake!"
+        },
+        {
+          "char": "pip",
+          "emotion": "curious",
+          "text": "What if we try it the careful way?"
+        }
+      ],
+      "duration": 12.25,
+      "music_mood": "wonder",
+      "luna_glow": "bright",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E08-S025",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "kelp_shallows",
+      "time": "night",
+      "characters": {
+        "ollie": "happy",
+        "bean": "happy",
+        "luna": "calm"
+      },
+      "action": "Ollie tucks the kelp blanket under Bean's chin and lifts her gently onto his tummy. Luna glows brighter.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "Let's watch Gus first. Then we ask Gran Mari."
+        }
+      ],
+      "duration": 5.26,
+      "music_mood": "wonder",
+      "luna_glow": "bright",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E08-S026",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "kelp_shallows",
+      "time": "night",
+      "characters": {
+        "ollie": "happy",
+        "pip": "worried",
+        "bean": "sleepy"
+      },
+      "action": "The friends follow Gus along the sandy bottom, Bean snuggled on Ollie's tummy.",
+      "camera": "follow",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E08-S027",
+      "book_safe": true
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "kelp_shallows",
+      "time": "night",
+      "characters": {
+        "gus": "excited"
+      },
+      "action": "Gus finds a fat bundle of kelp leaves and hops onto it. It sways like a big green swing.",
+      "camera": "wide",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "excited",
+          "text": "Bounce, bounce, bounce! Wide awake! Bounce!"
+        }
+      ],
+      "duration": 4.11,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [
+        "short_fail"
+      ],
+      "text_overlay": null,
+      "id": "E08-S028",
+      "book_safe": true
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "kelp_shallows",
+      "time": "night",
+      "characters": {
+        "gus": "surprised"
+      },
+      "action": "The kelp bends, bobs, and wraps itself around Gus one slow loop at a time.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "surprised",
+          "text": "Hey! Kelp! Not so... cozy..."
+        }
+      ],
+      "duration": 5.0,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [
+        "short_fail"
+      ],
+      "text_overlay": null,
+      "id": "E08-S029",
+      "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "kelp_shallows",
+      "time": "night",
+      "characters": {
+        "gus": "sleepy"
+      },
+      "action": "Soon only his beak and his one feather poke out of a soft green kelp blanket. The kelp gently rocks him back and forth.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 6.0,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [
+        "short_fail"
+      ],
+      "text_overlay": null,
+      "id": "E08-S030",
+      "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "kelp_shallows",
+      "time": "night",
+      "characters": {
+        "gus": "sleepy"
+      },
+      "action": "His eyes close. A tiny whistling snore comes out of his beak. A little fish settles on his head like a hat.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 6.0,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [
+        "short_fail"
+      ],
+      "text_overlay": null,
+      "id": "E08-S031",
+      "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "kelp_shallows",
+      "time": "night",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "happy",
+        "luna": "calm"
+      },
+      "action": "Ollie, Pip, and Bean try very hard not to giggle. Luna wobbles with a tiny glow.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Gus? Are you snoring?"
+        }
+      ],
+      "duration": 4.0,
+      "music_mood": "uh-oh",
+      "luna_glow": "dim",
+      "tags": [
+        "short_fail"
+      ],
+      "text_overlay": null,
+      "id": "E08-S032",
+      "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "kelp_shallows",
+      "time": "night",
+      "characters": {
+        "gus": "surprised",
+        "pip": "curious"
+      },
+      "action": "Gus jerks awake. The fish tumbles off his head with a plop. Gus blinks and wriggles in his kelp wrap.",
+      "camera": "wide",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "excited",
+          "text": "Snoring? No! I was just resting my eyes. On purpose."
+        },
+        {
+          "char": "pip",
+          "emotion": "curious",
+          "text": "You said, \"Not so cozy,\" and then you snored."
+        },
+        {
+          "char": "gus",
+          "emotion": "worried",
+          "text": "That was a very wide-awake snore. Wide awake!"
+        }
+      ],
+      "duration": 14.17,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E08-S033",
+      "book_safe": true
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "kelp_shallows",
+      "time": "night",
+      "characters": {
+        "gus": "worried",
+        "ollie": "curious"
+      },
+      "action": "Gus wriggles out of the kelp, feathers every which way, and lets out another yawn he tries to hide behind his wing.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "Your eyes want to sleep, Gus."
+        },
+        {
+          "char": "gus",
+          "emotion": "worried",
+          "text": "They do not! They're just... practicing being closed."
+        }
+      ],
+      "duration": 7.98,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E08-S034",
+      "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "kelp_shallows",
+      "time": "night",
+      "characters": {
+        "bean": "curious",
+        "pip": "curious"
+      },
+      "action": "Bean pats Gus's wing with a tiny paw. Pip peers at him, then at the others.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "curious",
+          "text": "Maybe our bodies tell us when they need rest."
+        }
+      ],
+      "duration": 5.26,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E08-S035",
+      "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "kelp_shallows",
+      "time": "night",
+      "characters": {
+        "ollie": "worried",
+        "pip": "curious",
+        "bean": "sleepy"
+      },
+      "action": "The friends look at the tired fish drifting to bed in the kelp. The night is quiet.",
+      "camera": "slow_push",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "worried",
+          "text": "We need help. Let's ask Gran Mari."
+        }
+      ],
+      "duration": 4.49,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E08-S036",
+      "book_safe": true
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "night",
+      "characters": {
+        "gran_mari": "happy",
+        "ollie": "curious"
+      },
+      "action": "The friends climb the path to the lighthouse. Warm yellow light spills from the window. Gran Mari rocks on her porch, knitting a long coral sock.",
+      "camera": "pan_up",
+      "dialogue": [
+        {
+          "char": "gran_mari",
+          "emotion": "happy",
+          "text": "Well now, such a yawny parade. What brings you up so late?"
+        },
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "Gran Mari, why do we have to sleep?"
+        },
+        {
+          "char": "gran_mari",
+          "emotion": "happy",
+          "text": "Oh, that is a wonderful question, Ollie. Let's find out together."
+        }
+      ],
+      "duration": 15.32,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E08-S037",
+      "book_safe": true
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "night",
+      "characters": {
+        "gran_mari": "calm",
+        "pip": "curious"
+      },
+      "action": "Gran Mari reaches into her pouch and pulls out a plain rubber band and a little wooden box. Pip climbs onto the porch rail for a closer look.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gran_mari",
+          "emotion": "calm",
+          "text": "This band is a pretend body. Our bodies work hard all day. Running, jumping, bouncing on kelp."
+        }
+      ],
+      "duration": 8.34,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E08-S038",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "night",
+      "characters": {
+        "gran_mari": "calm",
+        "ollie": "curious"
+      },
+      "action": "She holds the band between two wings and stretches it, only a little, then lets it go loose.",
+      "camera": "top_down",
+      "dialogue": [
+        {
+          "char": "gran_mari",
+          "emotion": "calm",
+          "text": "See? A busy day stretches us. Gentle, now. Never pull it far."
+        },
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "Is it tired?"
+        },
+        {
+          "char": "gran_mari",
+          "emotion": "calm",
+          "text": "A bit. Now we let it rest in the box. Let's all be very quiet."
+        }
+      ],
+      "duration": 14.94,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E08-S039",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "night",
+      "characters": {
+        "gus": "worried",
+        "ollie": "calm",
+        "pip": "calm"
+      },
+      "action": "She sets the band in the little box and shuts the lid. The friends hold still. Gus tries, then hiccups.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 5.0,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E08-S040",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "night",
+      "characters": {
+        "luna": "calm",
+        "gran_mari": "happy",
+        "ollie": "curious"
+      },
+      "action": "Luna floats over the box. Her glow dips low and slow, like a lullaby.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gran_mari",
+          "emotion": "happy",
+          "text": "Well now, what do you think happens next?"
+        },
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "It gets all rested and ready again?"
+        }
+      ],
+      "duration": 8.37,
+      "music_mood": "cozy",
+      "luna_glow": "dim",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E08-S041",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "night",
+      "characters": {
+        "gran_mari": "calm",
+        "pip": "curious"
+      },
+      "action": "Gran Mari opens the box. The band lies soft and relaxed, ready to go. Everyone leans in.",
+      "camera": "top_down",
+      "dialogue": [
+        {
+          "char": "gran_mari",
+          "emotion": "calm",
+          "text": "Yes. Sleep is how our bodies rest and grow. While we rest, our bodies do big jobs."
+        },
+        {
+          "char": "pip",
+          "emotion": "curious",
+          "text": "Like growing taller? Even while we're not moving?"
+        },
+        {
+          "char": "gran_mari",
+          "emotion": "happy",
+          "text": "Just so. And our brains sort out the day, like tidying a toy box."
+        }
+      ],
+      "duration": 18.4,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E08-S042",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "night",
+      "characters": {
+        "ollie": "surprised"
+      },
+      "action": "A cozy picture bubble: a little brain tidying shells, feathers, and stars into small boxes, one by one.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "surprised",
+          "text": "So sleep isn't wasted time. It's busy time!"
+        }
+      ],
+      "duration": 6.0,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E08-S043",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "night",
+      "characters": {
+        "luna": "happy",
+        "ollie": "happy",
+        "pip": "happy",
+        "gus": "worried",
+        "gran_mari": "calm"
+      },
+      "action": "Luna rises above the box and sparkles. Three soft notes ring out.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "worried",
+          "text": "So when I yawn, my body is saying..."
+        },
+        {
+          "char": "gran_mari",
+          "emotion": "calm",
+          "text": "It is saying, \"Please, I need a rest.\" It is good to listen."
+        }
+      ],
+      "duration": 10.68,
+      "music_mood": "cozy",
+      "luna_glow": "sparkle",
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E08-S044",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "night",
+      "characters": {
+        "gus": "sorry"
+      },
+      "action": "Gus looks at his own wing, then at his sneakers. Quietly, he takes his sneakers off.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E08-S045",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "night",
+      "characters": {
+        "ollie": "happy"
+      },
+      "action": "Ollie turns to the camera, holding the rubber band and the wonder rock. Behind him the lamp sweeps slow across the sea.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Try it at home! Ask a grown-up to help. Stretch a rubber band a tiny bit. Pretend it's your body after a busy day. Rest it for a minute. See how soft it is? Now yawn and see who yawns with you!"
+        }
+      ],
+      "duration": 18.34,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E08-S046",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "wonder_shed",
+      "time": "night",
+      "characters": {
+        "ollie": "happy"
+      },
+      "action": "Inside the Wonder Shed, string lights glow low. Ollie spreads a patchwork quilt on the floor for everyone.",
+      "camera": "wide",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Let's all get cozy. Pip, you can have the best pillow."
+        }
+      ],
+      "duration": 6.03,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E08-S047",
+      "book_safe": true
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "wonder_shed",
+      "time": "night",
+      "characters": {
+        "pip": "sleepy",
+        "bean": "sleepy",
+        "ollie": "calm"
+      },
+      "action": "Pip tucks into his teacup on a soft pile of quilt. Bean lies on Ollie's tummy, her blanket pulled up.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 5.0,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E08-S048",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "wonder_shed",
+      "time": "night",
+      "characters": {
+        "gus": "worried",
+        "ollie": "happy"
+      },
+      "action": "Gus paces by the door, then stops. He rubs his eyes with a wing and looks away.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "sorry",
+          "text": "Okay. I have a confession. I did fall asleep in the kelp."
+        },
+        {
+          "char": "gus",
+          "emotion": "sorry",
+          "text": "And I said I didn't. That was a fib. I'm sorry."
+        },
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Thank you for telling us the truth, Gus."
+        }
+      ],
+      "duration": 15.32,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E08-S049",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "wonder_shed",
+      "time": "night",
+      "characters": {
+        "gus": "sleepy",
+        "bean": "happy"
+      },
+      "action": "Bean pats the spot on the quilt next to her. Gus tiptoes over, sits down, and turns around three times.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 5.0,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E08-S050",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "wonder_shed",
+      "time": "night",
+      "characters": {
+        "luna": "calm",
+        "bean": "sleepy"
+      },
+      "action": "Luna drifts above, her glow shrinking softly like a candle being turned down for the night.",
+      "camera": "wide",
+      "dialogue": [
+        {
+          "char": "bean",
+          "emotion": "sleepy",
+          "text": "Sleep!"
+        }
+      ],
+      "duration": 6.0,
+      "music_mood": "triumph",
+      "luna_glow": "dim",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E08-S051",
+      "book_safe": true
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "wonder_shed",
+      "time": "night",
+      "characters": {
+        "ollie": "sleepy",
+        "pip": "sleepy",
+        "gus": "sleepy"
+      },
+      "action": "Everyone looks at Bean. Gus lets out the tiniest yawn and Pip catches it. Ollie catches it from Pip.",
+      "camera": "pan_right",
+      "dialogue": [],
+      "duration": 5.0,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E08-S052",
+      "book_safe": true
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "wonder_shed",
+      "time": "night",
+      "characters": {
+        "luna": "happy",
+        "pip": "sleepy"
+      },
+      "action": "The yawn passes round the whole quilt like a ripple. Luna's bell opens in a yawn and glows bright for one soft second.",
+      "camera": "wide",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "sleepy",
+          "text": "Good night, everyone. Our bodies know best."
+        }
+      ],
+      "duration": 5.0,
+      "music_mood": "triumph",
+      "luna_glow": "bright",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E08-S053",
+      "book_safe": true
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "wonder_shed",
+      "time": "night",
+      "characters": {
+        "gus": "sleepy"
+      },
+      "action": "Gus is already snoring, a tiny whistle, his one feather finally lying flat.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 5.0,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E08-S054",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "wonder_shed",
+      "time": "night",
+      "characters": {
+        "luna": "happy",
+        "ollie": "happy"
+      },
+      "action": "Outside the window the stars twinkle and the lighthouse lamp sweeps slowly over the quiet cove. Luna sparkles very softly. Three soft notes ring out.",
+      "camera": "pan_up",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Good night, Gus. Thanks for listening to your body."
+        }
+      ],
+      "duration": 6.0,
+      "music_mood": "triumph",
+      "luna_glow": "sparkle",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E08-S055",
+      "book_safe": true
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "night",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "sleepy",
+        "luna": "calm"
+      },
+      "action": "The Wonder Shed glows. Ollie sits up in a nest of quilts with Pip, Bean, and Luna. His vest pockets are open.",
+      "camera": "static",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Time for my Wonder Pocket! Three things we learned."
+        }
+      ],
+      "duration": 5.26,
+      "music_mood": "cozy",
+      "luna_glow": "bright",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E08-S056",
+      "book_safe": true
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "night",
+      "characters": {
+        "luna": "calm"
+      },
+      "action": "Luna floats above the jar of sea glass, and the glass glows soft green and gold.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 5.0,
+      "music_mood": "cozy",
+      "luna_glow": "bright",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E08-S057",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "night",
+      "characters": {
+        "ollie": "happy"
+      },
+      "action": "Ollie pulls a smooth shell from the first pocket.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "One. Sleep gives our bodies time to rest and grow."
+        }
+      ],
+      "duration": 5.65,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E08-S058",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "night",
+      "characters": {
+        "ollie": "happy"
+      },
+      "action": "He takes a feather from the second pocket.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Two. Our brains tidy up the day while we sleep."
+        }
+      ],
+      "duration": 5.65,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E08-S059",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "night",
+      "characters": {
+        "ollie": "proud"
+      },
+      "action": "He holds up a bit of sea glass from the third pocket.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "proud",
+          "text": "Three. Yawns and heavy eyes mean our bodies need rest."
+        }
+      ],
+      "duration": 5.65,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E08-S060",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "night",
+      "characters": {
+        "ollie": "happy",
+        "luna": "calm"
+      },
+      "action": "The fourth pocket glows softly. Ollie pulls out a tiny folded note with a star on it.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "And one kind thing to try today. Listen when your body says rest."
+        }
+      ],
+      "duration": 6.8,
+      "music_mood": "cozy",
+      "luna_glow": "bright",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E08-S061",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "night",
+      "characters": {
+        "ollie": "sleepy",
+        "pip": "sleepy",
+        "bean": "sleepy",
+        "gus": "sleepy",
+        "luna": "calm"
+      },
+      "action": "Everyone waves at the camera, then snuggles down. Luna's glow dims slowly like a lullaby as the string lights fade.",
+      "camera": "wide",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "sleepy",
+          "text": "Bye, everybody. Next time, I'll listen... zzz."
+        }
+      ],
+      "duration": 4.49,
+      "music_mood": "cozy",
+      "luna_glow": "dim",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E08-S062",
+      "book_safe": true
+    },
+    {
+      "beat": 7,
+      "beat_name": "Outro",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "happy",
+        "gus": "happy",
+        "luna": "calm"
+      },
+      "action": "Everyone waves goodbye as the sun sets.",
+      "camera": "wide",
+      "dialogue": [],
+      "duration": 10.0,
+      "music_mood": "cozy",
+      "luna_glow": "bright",
+      "tags": [
+        "outro"
+      ],
+      "text_overlay": null,
+      "id": "E08-S063",
+      "book_safe": true
+    },
+    {
+      "beat": 7,
+      "beat_name": "Outro",
+      "location": "driftwood_playground",
+      "time": "golden_hour",
+      "characters": {
+        "luna": "calm"
+      },
+      "action": "Soft end card: Luna drifts across the golden cove.",
+      "camera": "static",
+      "dialogue": [],
+      "duration": 10.0,
+      "music_mood": "cozy",
+      "luna_glow": "bright",
+      "tags": [
+        "outro"
+      ],
+      "text_overlay": null,
+      "id": "E08-S064",
+      "book_safe": true
+    }
+  ]
+}

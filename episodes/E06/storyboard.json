@@ -1,0 +1,1638 @@
+{
+  "episode": "E06",
+  "title": "E06: The Night Gus Told the Truth",
+  "big_question": "Why does the lighthouse blink?",
+  "value": "Honesty",
+  "shot_count": 63,
+  "total_seconds": 413.6,
+  "shots": [
+    {
+      "beat": 1,
+      "beat_name": "Cold open",
+      "location": "lighthouse_point",
+      "time": "night",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "happy"
+      },
+      "action": "Night at Lighthouse Point. Stars twinkle over a calm, silver sea. Ollie, Pip, and Bean sit on the warm rocks below the tall tower.",
+      "camera": "static",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Look, Pip! The light is on. Now it's gone!"
+        }
+      ],
+      "duration": 5.26,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E06-S001",
+      "book_safe": true
+    },
+    {
+      "beat": 1,
+      "beat_name": "Cold open",
+      "location": "lighthouse_point",
+      "time": "night",
+      "characters": {
+        "pip": "curious"
+      },
+      "action": "High on the tower, a bright beam sweeps across the dark water and fades away. Then it comes back again.",
+      "camera": "wide",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "curious",
+          "text": "On, off, on, off. Like a sleepy eye."
+        }
+      ],
+      "duration": 6.0,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E06-S002",
+      "book_safe": true
+    },
+    {
+      "beat": 1,
+      "beat_name": "Cold open",
+      "location": "lighthouse_point",
+      "time": "night",
+      "characters": {
+        "bean": "happy"
+      },
+      "action": "Bean points a paw at the beam and hums a sleepy little tune.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E06-S003",
+      "book_safe": false
+    },
+    {
+      "beat": 1,
+      "beat_name": "Cold open",
+      "location": "lighthouse_point",
+      "time": "night",
+      "characters": {
+        "ollie": "curious"
+      },
+      "action": "Ollie's tuft pops up. He turns to the camera, holding the wonder rock to his chest.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "Why does the lighthouse blink?"
+        }
+      ],
+      "duration": 5.0,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": "Why does the lighthouse blink?",
+      "id": "E06-S004",
+      "book_safe": false
+    },
+    {
+      "beat": 1,
+      "beat_name": "Cold open",
+      "location": "lighthouse_point",
+      "time": "night",
+      "characters": {
+        "luna": "calm",
+        "ollie": "excited"
+      },
+      "action": "A pale Luna drifts in and tips her bell at the tower.",
+      "camera": "static",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "excited",
+          "text": "Let's find out!"
+        }
+      ],
+      "duration": 4.0,
+      "music_mood": "cozy",
+      "luna_glow": "dim",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E06-S005",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy"
+      },
+      "action": "Sunrise over the cove, the sea sparkling. Ollie waves hello.",
+      "camera": "wide",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E06-S006",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "ollie": "excited",
+        "pip": "happy"
+      },
+      "action": "Ollie and Pip hop between the tide pools.",
+      "camera": "follow",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E06-S007",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "gran_mari": "happy"
+      },
+      "action": "Gran Mari waves from her porch, scarf swinging.",
+      "camera": "static",
+      "dialogue": [],
+      "duration": 3.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E06-S008",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "gus": "excited"
+      },
+      "action": "Gus swoops through, red sneakers kicking up sand.",
+      "camera": "pan_right",
+      "dialogue": [],
+      "duration": 3.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E06-S009",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "kelp_shallows",
+      "time": "morning",
+      "characters": {
+        "bean": "happy",
+        "luna": "calm"
+      },
+      "action": "Bean floats by with Luna glowing softly beside her.",
+      "camera": "static",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": "dim",
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E06-S010",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "wonder_shed",
+      "time": "morning",
+      "characters": {
+        "ollie": "curious",
+        "pip": "curious"
+      },
+      "action": "Ollie pulls a shell from his Wonder Pocket and holds it up.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E06-S011",
+      "book_safe": false
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "gran_mari": "happy",
+        "gus": "happy",
+        "bean": "happy",
+        "luna": "calm"
+      },
+      "action": "Everyone runs together toward the camera.",
+      "camera": "wide",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": "dim",
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E06-S012",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "excited"
+      },
+      "action": "Title card: OTTERLY CURIOUS over the sparkling cove.",
+      "camera": "static",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E06-S013",
+      "book_safe": true
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "driftwood_playground",
+      "time": "night",
+      "characters": {},
+      "action": "A big round moon hangs over the driftwood playground. The tower beam sweeps past far above.",
+      "camera": "tilt_up",
+      "dialogue": [],
+      "duration": 5.0,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E06-S014",
+      "book_safe": true
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "driftwood_playground",
+      "time": "night",
+      "characters": {
+        "ollie": "curious",
+        "pip": "curious",
+        "bean": "happy"
+      },
+      "action": "The friends reach the driftwood playground. Silver moonlight shines on the sand. Bean floats on her back in a quiet tide puddle, kelp blanket on her tummy.",
+      "camera": "static",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "excited",
+          "text": "Maybe the lamp is winking at the boats!"
+        }
+      ],
+      "duration": 5.0,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E06-S015",
+      "book_safe": true
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "driftwood_playground",
+      "time": "night",
+      "characters": {
+        "ollie": "excited",
+        "pip": "worried"
+      },
+      "action": "Ollie dashes toward the tower path, alone, tail swishing. Pip bounces in the pocket.",
+      "camera": "pan_right",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "worried",
+          "text": "Ollie, wait! Everyone should come together."
+        }
+      ],
+      "duration": 4.11,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E06-S016",
+      "book_safe": true
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "driftwood_playground",
+      "time": "night",
+      "characters": {
+        "ollie": "sorry",
+        "bean": "curious",
+        "pip": "curious"
+      },
+      "action": "Ollie skids to a stop. He looks back at Pip, then at Bean in her puddle.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "sorry",
+          "text": "Oops. I ran ahead again. What are your ideas?"
+        },
+        {
+          "char": "pip",
+          "emotion": "curious",
+          "text": "Maybe the lamp is shy and keeps hiding."
+        }
+      ],
+      "duration": 9.14,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E06-S017",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "driftwood_playground",
+      "time": "night",
+      "characters": {
+        "bean": "happy"
+      },
+      "action": "Bean paddles a slow circle in her puddle. Her tummy faces the tower, then turns away, then faces it again.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 6.0,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E06-S018",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "driftwood_playground",
+      "time": "night",
+      "characters": {
+        "luna": "calm",
+        "ollie": "curious"
+      },
+      "action": "Luna glows brighter as she watches Bean turn.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "Bean, are you showing me something?"
+        }
+      ],
+      "duration": 4.11,
+      "music_mood": "wonder",
+      "luna_glow": "bright",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E06-S019",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "driftwood_playground",
+      "time": "night",
+      "characters": {
+        "bean": "happy",
+        "ollie": "curious"
+      },
+      "action": "Bean just giggles and kicks her feet. Ollie scratches his head.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E06-S020",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "driftwood_playground",
+      "time": "night",
+      "characters": {
+        "gus": "excited",
+        "ollie": "curious"
+      },
+      "action": "Gus lands on a driftwood log with a flap. A round glass lamp cover sits tucked under his wing, shining softly.",
+      "camera": "pan_right",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "excited",
+          "text": "I'm Gran Mari's lamp helper tonight! I polished the path lamp!"
+        },
+        {
+          "char": "gus",
+          "emotion": "proud",
+          "text": "Now I just put the cover back on."
+        },
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "Gus, do you know why the lighthouse blinks?"
+        }
+      ],
+      "duration": 13.78,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E06-S021",
+      "book_safe": true
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "driftwood_playground",
+      "time": "night",
+      "characters": {
+        "gus": "excited",
+        "pip": "worried"
+      },
+      "action": "Gus lands on a driftwood log with a flap. A round glass lamp cover sits tucked under his wing, shining softly.",
+      "camera": "pan_right",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "excited",
+          "text": "Easy! Somebody flips the light switch. Fast, fast, fast!"
+        },
+        {
+          "char": "pip",
+          "emotion": "worried",
+          "text": "That doesn't sound right."
+        },
+        {
+          "char": "gus",
+          "emotion": "playful",
+          "text": "I've got a faster way to find out! I'll blink the path lamp myself!"
+        }
+      ],
+      "duration": 13.78,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E06-S022",
+      "book_safe": true
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "driftwood_playground",
+      "time": "night",
+      "characters": {
+        "gus": "excited",
+        "pip": "curious"
+      },
+      "action": "Gus lands on a driftwood log with a flap. A round glass lamp cover sits tucked under his wing, shining softly.",
+      "camera": "pan_right",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "curious",
+          "text": "What if we try the careful way? Ask Gran Mari."
+        }
+      ],
+      "duration": 5.65,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E06-S023",
+      "book_safe": true
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "driftwood_playground",
+      "time": "night",
+      "characters": {
+        "gus": "excited",
+        "ollie": "curious"
+      },
+      "action": "Gus is already hopping up the path with his cover under his wing, one red sneaker untied.",
+      "camera": "follow",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "Let's watch Gus first. Then we ask Gran Mari."
+        }
+      ],
+      "duration": 5.26,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E06-S024",
+      "book_safe": true
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "driftwood_playground",
+      "time": "night",
+      "characters": {
+        "ollie": "happy",
+        "pip": "curious",
+        "bean": "happy",
+        "luna": "calm"
+      },
+      "action": "The friends follow him up the moonlit path. Luna floats along, a soft glow in the dark.",
+      "camera": "follow",
+      "dialogue": [],
+      "duration": 5.0,
+      "music_mood": "wonder",
+      "luna_glow": "dim",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E06-S025",
+      "book_safe": true
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "lighthouse_point",
+      "time": "night",
+      "characters": {
+        "gus": "determined"
+      },
+      "action": "At the foot of the tower, a small path lamp glows on a post. The glass cover is missing. Gus rubs his wings together.",
+      "camera": "wide",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "determined",
+          "text": "Watch this. I'll make it blink with my wing!"
+        }
+      ],
+      "duration": 5.26,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [
+        "short_fail"
+      ],
+      "text_overlay": null,
+      "id": "E06-S026",
+      "book_safe": true
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "lighthouse_point",
+      "time": "night",
+      "characters": {
+        "gus": "excited"
+      },
+      "action": "Gus waves a wing in front of the lamp. On, off, on, off. A huge wing shadow flaps across the tower wall.",
+      "camera": "pan_up",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "excited",
+          "text": "See? I'm the blinkiest bird ever!"
+        }
+      ],
+      "duration": 6.0,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [
+        "short_fail"
+      ],
+      "text_overlay": null,
+      "id": "E06-S027",
+      "book_safe": true
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "lighthouse_point",
+      "time": "night",
+      "characters": {
+        "gus": "playful"
+      },
+      "action": "The giant shadow waves back at him. Gus waves again. The shadow waves too. He bows. The shadow bows.",
+      "camera": "wide",
+      "dialogue": [],
+      "duration": 5.0,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [
+        "short_fail"
+      ],
+      "text_overlay": null,
+      "id": "E06-S028",
+      "book_safe": true
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "lighthouse_point",
+      "time": "night",
+      "characters": {
+        "gus": "surprised"
+      },
+      "action": "Gus steps back to admire it and plops down in a patch of soft sea grass. The glass cover pops out and rolls behind a rock.",
+      "camera": "wide",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "surprised",
+          "text": "Whoa! Oof! Hello, grass!"
+        }
+      ],
+      "duration": 6.0,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [
+        "short_fail"
+      ],
+      "text_overlay": null,
+      "id": "E06-S029",
+      "book_safe": true
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "lighthouse_point",
+      "time": "night",
+      "characters": {
+        "gus": "worried"
+      },
+      "action": "Gus peeks around. Then he quickly scoots the cover farther behind the rock with his sneaker.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 5.0,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [
+        "short_fail"
+      ],
+      "text_overlay": null,
+      "id": "E06-S030",
+      "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "lighthouse_point",
+      "time": "night",
+      "characters": {
+        "luna": "calm"
+      },
+      "action": "A puff of sea mist drifts over the path lamp. Its light turns dim and fuzzy.",
+      "camera": "slow_push",
+      "dialogue": [],
+      "duration": 5.0,
+      "music_mood": "uh-oh",
+      "luna_glow": "dim",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E06-S031",
+      "book_safe": true
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "lighthouse_point",
+      "time": "night",
+      "characters": {
+        "ollie": "calm",
+        "pip": "calm",
+        "bean": "happy",
+        "gus": "worried"
+      },
+      "action": "The big beam from the tower sweeps over the path, lights it up, and moves on. The friends huddle together.",
+      "camera": "wide",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "worried",
+          "text": "Gus, the little lamp went dim."
+        },
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "Where is the lamp's cover, Gus?"
+        },
+        {
+          "char": "gus",
+          "emotion": "worried",
+          "text": "What cover? I never saw a cover."
+        }
+      ],
+      "duration": 10.71,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E06-S032",
+      "book_safe": true
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "lighthouse_point",
+      "time": "night",
+      "characters": {
+        "pip": "curious",
+        "gus": "worried"
+      },
+      "action": "A tiny glint of glass peeks out from behind the rock behind him. Pip's eyestalks swing toward it.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "curious",
+          "text": "Gus, what is that shiny thing?"
+        },
+        {
+          "char": "gus",
+          "emotion": "worried",
+          "text": "Just a rock. A shiny rock. Very shiny."
+        }
+      ],
+      "duration": 7.98,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E06-S033",
+      "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "lighthouse_point",
+      "time": "night",
+      "characters": {
+        "ollie": "worried",
+        "pip": "worried",
+        "bean": "curious",
+        "gus": "worried"
+      },
+      "action": "Ollie and Pip look at each other. Bean tilts her head. Gus's one feather droops.",
+      "camera": "slow_push",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "worried",
+          "text": "The path is dark now. Let's ask Gran Mari."
+        }
+      ],
+      "duration": 5.26,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E06-S034",
+      "book_safe": true
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "wonder_shed",
+      "time": "night",
+      "characters": {
+        "gran_mari": "happy",
+        "ollie": "curious"
+      },
+      "action": "Inside the Wonder Shed, string lights glow. Gran Mari settles by a cozy window with her coral scarf and a paper cup. A flashlight rests on her lap.",
+      "camera": "pan_left",
+      "dialogue": [
+        {
+          "char": "gran_mari",
+          "emotion": "happy",
+          "text": "Well now, a sleepy-eyed crew. What's on your mind, little ones?"
+        },
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "Gran Mari, why does the lighthouse blink?"
+        },
+        {
+          "char": "gran_mari",
+          "emotion": "happy",
+          "text": "That is a good question, Ollie. Let's find out together."
+        }
+      ],
+      "duration": 14.55,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E06-S035",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "wonder_shed",
+      "time": "night",
+      "characters": {
+        "gran_mari": "calm",
+        "luna": "calm"
+      },
+      "action": "Gran Mari clicks off the string lights. The shed turns dark and cozy. Luna's soft glow floats above the friends.",
+      "camera": "static",
+      "dialogue": [
+        {
+          "char": "gran_mari",
+          "emotion": "calm",
+          "text": "This is a pretend lighthouse. Watch the wall, not the light."
+        }
+      ],
+      "duration": 6.03,
+      "music_mood": "cozy",
+      "luna_glow": "dim",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E06-S036",
+      "book_safe": true
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "wonder_shed",
+      "time": "night",
+      "characters": {
+        "pip": "curious",
+        "bean": "happy"
+      },
+      "action": "Pip peeks out of the pocket, eyestalks wide, and Bean snuggles into her kelp blanket.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E06-S037",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "wonder_shed",
+      "time": "night",
+      "characters": {
+        "gran_mari": "calm",
+        "ollie": "curious"
+      },
+      "action": "She slips the flashlight inside the paper cup. A small glowing dot appears on the wall.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "It's just a dot, Gran Mari."
+        },
+        {
+          "char": "gran_mari",
+          "emotion": "calm",
+          "text": "Light moves in straight lines, Ollie. Always straight. Now watch."
+        }
+      ],
+      "duration": 8.75,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E06-S038",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "wonder_shed",
+      "time": "night",
+      "characters": {
+        "pip": "surprised"
+      },
+      "action": "Gran Mari turns very slowly. The dot glides across the wall, past Pip's teacup, past Ollie, past Bean, and off into the dark.",
+      "camera": "top_down",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "surprised",
+          "text": "It's gone! The dot disappeared!"
+        }
+      ],
+      "duration": 7.0,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E06-S039",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "wonder_shed",
+      "time": "night",
+      "characters": {
+        "ollie": "surprised",
+        "gran_mari": "curious"
+      },
+      "action": "Gran Mari keeps turning. The dot comes sliding back around the wall.",
+      "camera": "pan_right",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "surprised",
+          "text": "It's back!"
+        },
+        {
+          "char": "gran_mari",
+          "emotion": "curious",
+          "text": "Well now, what do you think happens next?"
+        },
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "It goes past us again! On, then off!"
+        }
+      ],
+      "duration": 10.32,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E06-S040",
+      "book_safe": true
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "wonder_shed",
+      "time": "night",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "happy",
+        "gran_mari": "happy"
+      },
+      "action": "The dot sweeps past, fades, and returns. Ollie, Pip, and Bean watch it go round and round.",
+      "camera": "wide",
+      "dialogue": [
+        {
+          "char": "gran_mari",
+          "emotion": "happy",
+          "text": "The light never turned off. It only turned. When it points at you, you see it. When it turns away, you don't."
+        },
+        {
+          "char": "pip",
+          "emotion": "surprised",
+          "text": "The big lamp doesn't blink? It turns?"
+        },
+        {
+          "char": "gran_mari",
+          "emotion": "calm",
+          "text": "Yes. And boats far out at sea see that beam. It helps them find the way home."
+        }
+      ],
+      "duration": 21.09,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E06-S041",
+      "book_safe": true
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "wonder_shed",
+      "time": "night",
+      "characters": {
+        "luna": "happy",
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "happy"
+      },
+      "action": "Luna rises above the cup and sparkles. Three soft notes ring out.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "excited",
+          "text": "The lighthouse isn't blinking. It's saying, \"Come this way!"
+        }
+      ],
+      "duration": 5.26,
+      "music_mood": "cozy",
+      "luna_glow": "sparkle",
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E06-S042",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "wonder_shed",
+      "time": "night",
+      "characters": {
+        "gus": "worried"
+      },
+      "action": "Gus stands at the back, quiet. He glances out the window at the dark path.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E06-S043",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "wonder_shed",
+      "time": "night",
+      "characters": {
+        "ollie": "happy"
+      },
+      "action": "Ollie turns to the camera in the dark, the little dot glowing on the wall behind him.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Try it at home! Ask a grown-up to help you."
+        },
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Poke a small hole in a paper cup. Put a flashlight inside."
+        },
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Make the room dark. Aim at the wall, never at eyes. Turn slowly. Watch the dot go."
+        }
+      ],
+      "duration": 18.78,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E06-S044",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "lighthouse_point",
+      "time": "night",
+      "characters": {
+        "gus": "worried",
+        "ollie": "curious",
+        "pip": "curious",
+        "bean": "curious",
+        "gran_mari": "calm"
+      },
+      "action": "Back at the tower. The little path lamp is still dim and foggy. Gus stares at his sneakers. Everyone waits quietly.",
+      "camera": "wide",
+      "dialogue": [],
+      "duration": 5.0,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E06-S045",
+      "book_safe": true
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "lighthouse_point",
+      "time": "night",
+      "characters": {
+        "gus": "worried",
+        "bean": "curious"
+      },
+      "action": "Gus shuffles toward the rock. He stops and looks at Bean.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "bean",
+          "emotion": "curious",
+          "text": "Truth!"
+        }
+      ],
+      "duration": 4.0,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E06-S046",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "lighthouse_point",
+      "time": "night",
+      "characters": {
+        "gus": "sorry"
+      },
+      "action": "Gus takes a deep breath. Then he reaches behind the rock and lifts out the glass cover with both wings.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "sorry",
+          "text": "I took the cover off. I forgot to put it back."
+        },
+        {
+          "char": "gus",
+          "emotion": "sorry",
+          "text": "Then I said I never saw it. That was a fib. I'm sorry."
+        }
+      ],
+      "duration": 11.83,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E06-S047",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "lighthouse_point",
+      "time": "night",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "happy"
+      },
+      "action": "Ollie, Pip, and Bean all lean in a little closer to Gus.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E06-S048",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "lighthouse_point",
+      "time": "night",
+      "characters": {
+        "gran_mari": "happy",
+        "gus": "sorry"
+      },
+      "action": "Gran Mari smiles softly and rests a wing on Gus's back.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gran_mari",
+          "emotion": "happy",
+          "text": "Thank you for telling me, Gus. Let's fix it together."
+        }
+      ],
+      "duration": 5.65,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E06-S049",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "lighthouse_point",
+      "time": "night",
+      "characters": {
+        "luna": "calm",
+        "gus": "sorry"
+      },
+      "action": "Luna floats near Gus and glows brighter.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "triumph",
+      "luna_glow": "bright",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E06-S050",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "lighthouse_point",
+      "time": "night",
+      "characters": {
+        "gran_mari": "calm",
+        "gus": "determined",
+        "ollie": "happy",
+        "pip": "happy"
+      },
+      "action": "Gran Mari wipes the lamp with the tip of her scarf. Gus lifts the glass cover and Ollie holds the lamp steady. Pip guides it with his claws.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 6.0,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E06-S051",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "lighthouse_point",
+      "time": "night",
+      "characters": {
+        "gus": "proud",
+        "ollie": "happy"
+      },
+      "action": "Click! The cover slides on. The path lamp glows warm and clear again.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Thanks for telling the truth, Gus."
+        },
+        {
+          "char": "gus",
+          "emotion": "happy",
+          "text": "It felt wobbly to say it. Now I feel light as a feather!"
+        }
+      ],
+      "duration": 9.91,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E06-S052",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "lighthouse_point",
+      "time": "night",
+      "characters": {},
+      "action": "Far out on the sea, a tiny fishing boat light glides along. High above, the big beam sweeps past it.",
+      "camera": "wide",
+      "dialogue": [],
+      "duration": 6.0,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E06-S053",
+      "book_safe": true
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "lighthouse_point",
+      "time": "night",
+      "characters": {
+        "luna": "happy",
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "happy",
+        "gus": "happy",
+        "gran_mari": "happy"
+      },
+      "action": "The little boat light turns slowly and heads toward the harbor. Luna sparkles. Three notes ring out.",
+      "camera": "wide",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "happy",
+          "text": "The boat found the way home!"
+        },
+        {
+          "char": "gus",
+          "emotion": "excited",
+          "text": "And my lamp helped too!"
+        }
+      ],
+      "duration": 6.83,
+      "music_mood": "triumph",
+      "luna_glow": "sparkle",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E06-S054",
+      "book_safe": true
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "night",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "sleepy",
+        "luna": "calm"
+      },
+      "action": "Inside the Wonder Shed, string lights glow again. Ollie sits with Pip, Bean, and Luna, his vest pockets open. Bean's eyes are getting heavy.",
+      "camera": "static",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Time for my Wonder Pocket! Three things we learned."
+        }
+      ],
+      "duration": 5.26,
+      "music_mood": "cozy",
+      "luna_glow": "bright",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E06-S055",
+      "book_safe": true
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "night",
+      "characters": {
+        "ollie": "happy"
+      },
+      "action": "Ollie pulls a smooth shell from the first pocket.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "One. Light travels in straight lines."
+        }
+      ],
+      "duration": 4.11,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E06-S056",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "night",
+      "characters": {
+        "ollie": "happy"
+      },
+      "action": "He takes a feather from the second pocket.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Two. The lamp turns, so its beam sweeps past us. That looks like blinking."
+        }
+      ],
+      "duration": 7.18,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E06-S057",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "night",
+      "characters": {
+        "ollie": "proud"
+      },
+      "action": "He holds up a bit of sea glass from the third pocket.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "proud",
+          "text": "Three. The light helps boats find their way home."
+        }
+      ],
+      "duration": 5.26,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E06-S058",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "night",
+      "characters": {
+        "ollie": "happy",
+        "luna": "calm"
+      },
+      "action": "The fourth pocket glows softly. Ollie pulls out a tiny folded note with a star on it.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "And one kind thing to try today. Tell the truth, even about a small oops."
+        }
+      ],
+      "duration": 7.57,
+      "music_mood": "cozy",
+      "luna_glow": "bright",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E06-S059",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "night",
+      "characters": {
+        "luna": "calm"
+      },
+      "action": "Luna floats above the jar of sea glass, and the glass glows soft green and gold.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 5.0,
+      "music_mood": "cozy",
+      "luna_glow": "bright",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E06-S060",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "night",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "sleepy",
+        "gus": "happy",
+        "luna": "calm"
+      },
+      "action": "Everyone waves at the camera. Out the window, the lighthouse beam sweeps over the quiet sea.",
+      "camera": "wide",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "happy",
+          "text": "Goodnight, everybody! I'll tell you my oopses first!"
+        }
+      ],
+      "duration": 4.88,
+      "music_mood": "cozy",
+      "luna_glow": "sparkle",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E06-S061",
+      "book_safe": true
+    },
+    {
+      "beat": 7,
+      "beat_name": "Outro",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "happy",
+        "gus": "happy",
+        "luna": "calm"
+      },
+      "action": "Everyone waves goodbye as the sun sets.",
+      "camera": "wide",
+      "dialogue": [],
+      "duration": 10.0,
+      "music_mood": "cozy",
+      "luna_glow": "bright",
+      "tags": [
+        "outro"
+      ],
+      "text_overlay": null,
+      "id": "E06-S062",
+      "book_safe": true
+    },
+    {
+      "beat": 7,
+      "beat_name": "Outro",
+      "location": "driftwood_playground",
+      "time": "golden_hour",
+      "characters": {
+        "luna": "calm"
+      },
+      "action": "Soft end card: Luna drifts across the golden cove.",
+      "camera": "static",
+      "dialogue": [],
+      "duration": 10.0,
+      "music_mood": "cozy",
+      "luna_glow": "bright",
+      "tags": [
+        "outro"
+      ],
+      "text_overlay": null,
+      "id": "E06-S063",
+      "book_safe": true
+    }
+  ]
+}

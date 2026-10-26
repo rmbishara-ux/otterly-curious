@@ -1,0 +1,1 @@
+banner source v2 rejected: characters redrawn off-model (job 7afd7f79-cf98-4dfc-ac49-583093973a56); v1 used (job 6a9c2f5b-d129-471a-802f-b8ed1e3c88f2)

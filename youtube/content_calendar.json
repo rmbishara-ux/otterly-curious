@@ -1,0 +1,122 @@
+[
+  {
+    "episode": "E01",
+    "title": "Why does the water go away? | Otterly Curious",
+    "value": "Patience",
+    "book": "Ollie and the Vanishing Water",
+    "episode_date": "2026-12-05",
+    "episode_time": "09:00 PT (Sat)",
+    "short_demo_date": "2026-12-08",
+    "short_demo_time": "09:00 PT (Tue)",
+    "short_fail_date": "2026-12-10",
+    "short_fail_time": "09:00 PT (Thu)"
+  },
+  {
+    "episode": "E02",
+    "title": "Why do otters hold hands? | Otterly Curious",
+    "value": "Sticking together",
+    "book": "Hold On, Bean",
+    "episode_date": "2026-12-12",
+    "episode_time": "09:00 PT (Sat)",
+    "short_demo_date": "2026-12-15",
+    "short_demo_time": "09:00 PT (Tue)",
+    "short_fail_date": "2026-12-17",
+    "short_fail_time": "09:00 PT (Thu)"
+  },
+  {
+    "episode": "E03",
+    "title": "Where does a rainbow come from? | Otterly Curious",
+    "value": "Sharing",
+    "book": "Gus and the Stolen Rainbow",
+    "episode_date": "2026-12-19",
+    "episode_time": "09:00 PT (Sat)",
+    "short_demo_date": "2026-12-22",
+    "short_demo_time": "09:00 PT (Tue)",
+    "short_fail_date": "2026-12-24",
+    "short_fail_time": "09:00 PT (Thu)"
+  },
+  {
+    "episode": "E04",
+    "title": "Why do boats float? | Otterly Curious",
+    "value": "Trying again",
+    "book": "Pip's Tippy Boat",
+    "episode_date": "2026-12-26",
+    "episode_time": "09:00 PT (Sat)",
+    "short_demo_date": "2026-12-29",
+    "short_demo_time": "09:00 PT (Tue)",
+    "short_fail_date": "2026-12-31",
+    "short_fail_time": "09:00 PT (Thu)"
+  },
+  {
+    "episode": "E05",
+    "title": "What does a seed need? | Otterly Curious",
+    "value": "Responsibility",
+    "book": "The Day Gus Forgot the Seed",
+    "episode_date": "2027-01-02",
+    "episode_time": "09:00 PT (Sat)",
+    "short_demo_date": "2027-01-05",
+    "short_demo_time": "09:00 PT (Tue)",
+    "short_fail_date": "2027-01-07",
+    "short_fail_time": "09:00 PT (Thu)"
+  },
+  {
+    "episode": "E06",
+    "title": "Why does the lighthouse blink? | Otterly Curious",
+    "value": "Honesty",
+    "book": "The Night Gus Told the Truth",
+    "episode_date": "2027-01-09",
+    "episode_time": "09:00 PT (Sat)",
+    "short_demo_date": "2027-01-12",
+    "short_demo_time": "09:00 PT (Tue)",
+    "short_fail_date": "2027-01-14",
+    "short_fail_time": "09:00 PT (Thu)"
+  },
+  {
+    "episode": "E07",
+    "title": "Where does the trash go? | Otterly Curious",
+    "value": "Caring for our home",
+    "book": "Ollie Cleans the Cove",
+    "episode_date": "2027-01-16",
+    "episode_time": "09:00 PT (Sat)",
+    "short_demo_date": "2027-01-19",
+    "short_demo_time": "09:00 PT (Tue)",
+    "short_fail_date": "2027-01-21",
+    "short_fail_time": "09:00 PT (Thu)"
+  },
+  {
+    "episode": "E08",
+    "title": "Why do we have to sleep? | Otterly Curious",
+    "value": "Listening to your body",
+    "book": "Luna's Lights-Out Song",
+    "episode_date": "2027-01-23",
+    "episode_time": "09:00 PT (Sat)",
+    "short_demo_date": "2027-01-26",
+    "short_demo_time": "09:00 PT (Tue)",
+    "short_fail_date": "2027-01-28",
+    "short_fail_time": "09:00 PT (Thu)"
+  },
+  {
+    "episode": "E09",
+    "title": "How do birds know where to go? | Otterly Curious",
+    "value": "Asking for help",
+    "book": "Gus Gets Lost",
+    "episode_date": "2027-01-30",
+    "episode_time": "09:00 PT (Sat)",
+    "short_demo_date": "2027-02-02",
+    "short_demo_time": "09:00 PT (Tue)",
+    "short_fail_date": "2027-02-04",
+    "short_fail_time": "09:00 PT (Thu)"
+  },
+  {
+    "episode": "E10",
+    "title": "Why does Pip need a new shell? | Otterly Curious",
+    "value": "Courage and change",
+    "book": "Pip's Brave New Teacup",
+    "episode_date": "2027-02-06",
+    "episode_time": "09:00 PT (Sat)",
+    "short_demo_date": "2027-02-09",
+    "short_demo_time": "09:00 PT (Tue)",
+    "short_fail_date": "2027-02-11",
+    "short_fail_time": "09:00 PT (Thu)"
+  }
+]

@@ -4,3 +4,15 @@ __pycache__/
 .venv/
 cache/
 assets/fonts/*.ttf
+# generated media (mock or real) stays out of git; prompts, requests and logs are the audit trail
+episodes/*/shots/
+episodes/*/audio/
+episodes/*/renders/
+episodes/*/queue/
+episodes/*/final/*.mp4
+episodes/*/final/*.wav
+logs/*_cache.json
+channel/branding/banner_src_*.png
+episodes/*/book/out/
+episodes/*/final/*.png
+!episodes/*/final/*_thumbnail.png

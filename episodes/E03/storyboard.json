@@ -1,0 +1,1640 @@
+{
+  "episode": "E03",
+  "title": "E03: Gus and the Stolen Rainbow",
+  "big_question": "Where does a rainbow come from?",
+  "value": "Sharing",
+  "shot_count": 62,
+  "total_seconds": 400.1,
+  "shots": [
+    {
+      "beat": 1,
+      "beat_name": "Cold open",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy"
+      },
+      "action": "A short sunshower has just ended at the driftwood playground. Raindrops sparkle on the logs. Ollie hops from log to log, Pip peeking out of his pocket.",
+      "camera": "static",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "The rain stopped! Everything is shiny, Pip!"
+        }
+      ],
+      "duration": 5.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S001",
+      "book_safe": true
+    },
+    {
+      "beat": 1,
+      "beat_name": "Cold open",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "surprised",
+        "pip": "surprised"
+      },
+      "action": "A big rainbow arches over the whole cove, one end near the lighthouse, the other out over the sea.",
+      "camera": "tilt_up",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "surprised",
+          "text": "Ollie, look up. Look up!"
+        },
+        {
+          "char": "ollie",
+          "emotion": "surprised",
+          "text": "A rainbow! It's so big and so bright!"
+        }
+      ],
+      "duration": 7.6,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S002",
+      "book_safe": true
+    },
+    {
+      "beat": 1,
+      "beat_name": "Cold open",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "curious"
+      },
+      "action": "Ollie turns to the camera, eyes wide, holding up his wonder rock. His tuft pops up.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "Where does a rainbow come from?"
+        }
+      ],
+      "duration": 5.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": "Where does a rainbow come from?",
+      "id": "E03-S003",
+      "book_safe": false
+    },
+    {
+      "beat": 1,
+      "beat_name": "Cold open",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "luna": "calm",
+        "ollie": "excited"
+      },
+      "action": "A pale Luna drifts in beside him, tilting her bell as if she wonders too.",
+      "camera": "static",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "excited",
+          "text": "Let's find out!"
+        }
+      ],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": "dim",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S004",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy"
+      },
+      "action": "Sunrise over the cove, the sea sparkling. Ollie waves hello.",
+      "camera": "wide",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E03-S005",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "ollie": "excited",
+        "pip": "happy"
+      },
+      "action": "Ollie and Pip hop between the tide pools.",
+      "camera": "follow",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E03-S006",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "gran_mari": "happy"
+      },
+      "action": "Gran Mari waves from her porch, scarf swinging.",
+      "camera": "static",
+      "dialogue": [],
+      "duration": 3.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E03-S007",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "gus": "excited"
+      },
+      "action": "Gus swoops through, red sneakers kicking up sand.",
+      "camera": "pan_right",
+      "dialogue": [],
+      "duration": 3.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E03-S008",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "kelp_shallows",
+      "time": "morning",
+      "characters": {
+        "bean": "happy",
+        "luna": "calm"
+      },
+      "action": "Bean floats by with Luna glowing softly beside her.",
+      "camera": "static",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": "dim",
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E03-S009",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "wonder_shed",
+      "time": "morning",
+      "characters": {
+        "ollie": "curious",
+        "pip": "curious"
+      },
+      "action": "Ollie pulls a shell from his Wonder Pocket and holds it up.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E03-S010",
+      "book_safe": false
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "gran_mari": "happy",
+        "gus": "happy",
+        "bean": "happy",
+        "luna": "calm"
+      },
+      "action": "Everyone runs together toward the camera.",
+      "camera": "wide",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": "dim",
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E03-S011",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "excited"
+      },
+      "action": "Title card: OTTERLY CURIOUS over the sparkling cove.",
+      "camera": "static",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E03-S012",
+      "book_safe": true
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "bean": "curious",
+        "pip": "curious",
+        "ollie": "curious"
+      },
+      "action": "Bean floats in a puddle by the swing logs, her kelp blanket on her tummy, staring up at the rainbow.",
+      "camera": "static",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "curious",
+          "text": "Maybe the sky painted it."
+        },
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "With what? Sky paint?"
+        }
+      ],
+      "duration": 6.06,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S013",
+      "book_safe": true
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "pip": "curious"
+      },
+      "action": "A bright butterfly flaps past, fluttering through colored light. Pip's eyes follow it.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "worried",
+          "text": "Maybe it fell off a very big butterfly."
+        }
+      ],
+      "duration": 4.88,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S014",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "curious",
+        "pip": "curious"
+      },
+      "action": "Ollie leans over the puddle. A wobbly rainbow of color floats on a drop of water on a log. He pokes it and it wiggles.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S015",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "gus": "excited",
+        "ollie": "curious"
+      },
+      "action": "Gus lands with a flap, red sneakers skidding on the wet wood, one feather sticking up.",
+      "camera": "pan_right",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "excited",
+          "text": "Easy! The rainbow is a prize, and I'm getting it!"
+        },
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "A prize for what?"
+        },
+        {
+          "char": "gus",
+          "emotion": "playful",
+          "text": "For whoever gets to the end first. And that's me!"
+        }
+      ],
+      "duration": 12.63,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S016",
+      "book_safe": true
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "determined"
+      },
+      "action": "Ollie checks his four pockets: a shell, a feather, a bit of sea glass, and the wonder rock.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "determined",
+          "text": "I'll race you, Gus! Follow me!"
+        }
+      ],
+      "duration": 4.11,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S017",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "excited",
+        "pip": "worried",
+        "bean": "curious"
+      },
+      "action": "Ollie dashes across the logs toward the rainbow. Pip bounces in his pocket. Bean watches them go.",
+      "camera": "pan_right",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "worried",
+          "text": "Ollie, I have an idea! Ollie? Please stop!"
+        }
+      ],
+      "duration": 4.88,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S018",
+      "book_safe": true
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "sorry",
+        "pip": "worried"
+      },
+      "action": "Ollie skids to a stop. His tuft droops. Pip is still holding his tiny claw up.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "sorry",
+          "text": "Sorry, Pip. I ran before I listened. What's your idea?"
+        }
+      ],
+      "duration": 5.65,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S019",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "luna": "calm",
+        "ollie": "happy",
+        "pip": "happy",
+        "gus": "excited"
+      },
+      "action": "Luna glows brighter as Ollie turns toward Pip.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "happy",
+          "text": "The rain stopped and the sun came out. Maybe they go together."
+        },
+        {
+          "char": "gus",
+          "emotion": "excited",
+          "text": "Too slow! I've got a faster way!"
+        },
+        {
+          "char": "pip",
+          "emotion": "worried",
+          "text": "Gus, your faster ways always go wrong."
+        }
+      ],
+      "duration": 13.4,
+      "music_mood": "wonder",
+      "luna_glow": "bright",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S020",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "luna": "calm",
+        "ollie": "happy",
+        "pip": "happy",
+        "gus": "playful"
+      },
+      "action": "Luna glows brighter as Ollie turns toward Pip.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "playful",
+          "text": "Not this time! I'll run to the end and grab the rainbow!"
+        },
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "Can you grab a rainbow?"
+        },
+        {
+          "char": "gus",
+          "emotion": "excited",
+          "text": "Watch me! I'll put it in my hat!"
+        }
+      ],
+      "duration": 13.02,
+      "music_mood": "wonder",
+      "luna_glow": "bright",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S021",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "bean": "happy",
+        "gus": "excited",
+        "pip": "curious",
+        "ollie": "curious"
+      },
+      "action": "Bean claps her paws. Gus takes off his tiny hat and trots away, wings flapping.",
+      "camera": "follow",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "curious",
+          "text": "What if we try it the careful way?"
+        },
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "Let's watch Gus first. Then we ask Gran Mari."
+        }
+      ],
+      "duration": 9.14,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S022",
+      "book_safe": true
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy",
+        "pip": "curious",
+        "bean": "happy"
+      },
+      "action": "The friends trail after Gus down the beach, Bean riding on Ollie's tummy.",
+      "camera": "follow",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S023",
+      "book_safe": true
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "wonder_shed",
+      "time": "morning",
+      "characters": {
+        "gus": "worried"
+      },
+      "action": "Gus runs and runs along the beach, but the end of the rainbow keeps sliding away from him. He stops, huffing.",
+      "camera": "wide",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "worried",
+          "text": "Hey! Stay still, rainbow!"
+        }
+      ],
+      "duration": 6.0,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [
+        "short_fail"
+      ],
+      "text_overlay": null,
+      "id": "E03-S024",
+      "book_safe": true
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "wonder_shed",
+      "time": "morning",
+      "characters": {
+        "gus": "surprised"
+      },
+      "action": "He turns in a tangle of seaweed, hops in a circle, and tumbles into the doorway of the Wonder Shed, a ribbon of seaweed on his head.",
+      "camera": "wide",
+      "dialogue": [],
+      "duration": 6.0,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [
+        "short_fail"
+      ],
+      "text_overlay": null,
+      "id": "E03-S025",
+      "book_safe": true
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "wonder_shed",
+      "time": "morning",
+      "characters": {
+        "gus": "excited",
+        "ollie": "surprised"
+      },
+      "action": "On the shed wall, a little rainbow glows. It shines from a jar of rainwater on the sunny sill.",
+      "camera": "pan_right",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "excited",
+          "text": "There it is! It came down all by itself!"
+        },
+        {
+          "char": "ollie",
+          "emotion": "surprised",
+          "text": "Gus, that's a different rainbow."
+        },
+        {
+          "char": "gus",
+          "emotion": "playful",
+          "text": "It's mine now! I caught it!"
+        }
+      ],
+      "duration": 11.09,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [
+        "short_fail"
+      ],
+      "text_overlay": null,
+      "id": "E03-S026",
+      "book_safe": true
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "wonder_shed",
+      "time": "morning",
+      "characters": {
+        "gus": "playful"
+      },
+      "action": "Gus stretches his wings wide, hiding the little rainbow behind him. He plops his hat on top of the jar.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "excited",
+          "text": "My rainbow. Nobody else gets to look."
+        }
+      ],
+      "duration": 5.0,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [
+        "short_fail"
+      ],
+      "text_overlay": null,
+      "id": "E03-S027",
+      "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "wonder_shed",
+      "time": "morning",
+      "characters": {
+        "gus": "excited",
+        "bean": "curious"
+      },
+      "action": "The little rainbow on the wall fades to nothing. Gus doesn't notice.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "bean",
+          "emotion": "curious",
+          "text": "Share?"
+        }
+      ],
+      "duration": 4.0,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S028",
+      "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "wonder_shed",
+      "time": "morning",
+      "characters": {
+        "gus": "excited",
+        "bean": "curious"
+      },
+      "action": "Gus hugs the hat tightly. Everyone peeks around him at the empty wall.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S029",
+      "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "wonder_shed",
+      "time": "morning",
+      "characters": {
+        "gus": "worried",
+        "pip": "curious"
+      },
+      "action": "Gus peeks under his hat. The jar is dull and the wall is plain. He gulps.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "worried",
+          "text": "Uh oh. Where did it go?"
+        },
+        {
+          "char": "pip",
+          "emotion": "curious",
+          "text": "Did you lose it, Gus?"
+        },
+        {
+          "char": "gus",
+          "emotion": "worried",
+          "text": "No! It's just sleeping. Rainbows sleep a lot."
+        }
+      ],
+      "duration": 10.71,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S030",
+      "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "wonder_shed",
+      "time": "morning",
+      "characters": {
+        "gus": "worried",
+        "ollie": "curious"
+      },
+      "action": "Gus peeks under his hat. The jar is dull and the wall is plain. He gulps.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "Rainbows sleep?"
+        },
+        {
+          "char": "gus",
+          "emotion": "worried",
+          "text": "It was tiny anyway. Hardly a rainbow at all!"
+        }
+      ],
+      "duration": 6.83,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S031",
+      "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "wonder_shed",
+      "time": "morning",
+      "characters": {
+        "luna": "calm"
+      },
+      "action": "Luna drifts to the hat and dims, as if she is sad for the little rainbow.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "uh-oh",
+      "luna_glow": "dim",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S032",
+      "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "wonder_shed",
+      "time": "morning",
+      "characters": {
+        "ollie": "worried",
+        "pip": "worried",
+        "bean": "curious"
+      },
+      "action": "Ollie, Pip, and Bean look at the empty wall. The sky outside is still full of color.",
+      "camera": "slow_push",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "worried",
+          "text": "We need help. Let's ask Gran Mari."
+        }
+      ],
+      "duration": 4.49,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S033",
+      "book_safe": true
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "gran_mari": "happy",
+        "ollie": "curious"
+      },
+      "action": "The friends climb the path to the lighthouse. Gran Mari rocks on her porch, her coral scarf swinging. A tall window glows with sun behind her.",
+      "camera": "pan_up",
+      "dialogue": [
+        {
+          "char": "gran_mari",
+          "emotion": "happy",
+          "text": "Well now, a seagull with a tiny hat and an otter with a big question. What's all this?"
+        },
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "Gran Mari, where does a rainbow come from?"
+        },
+        {
+          "char": "gran_mari",
+          "emotion": "happy",
+          "text": "Oh, that is a good question, Ollie. Let's find out together."
+        }
+      ],
+      "duration": 17.63,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S034",
+      "book_safe": true
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "pip": "curious",
+        "gran_mari": "calm"
+      },
+      "action": "Pip climbs out onto the windowsill and peers at the sun. Gran Mari gently turns him away.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gran_mari",
+          "emotion": "calm",
+          "text": "Never look right at the sun, little one. We look at the wall instead."
+        }
+      ],
+      "duration": 7.18,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S035",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "gran_mari": "calm",
+        "ollie": "curious",
+        "pip": "curious"
+      },
+      "action": "Gran Mari sets a clear glass of water on the sunny windowsill. The sun shines through it. The friends gather round.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gran_mari",
+          "emotion": "calm",
+          "text": "Sunlight looks plain. But it is made of every color, all mixed up together."
+        }
+      ],
+      "duration": 7.18,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S036",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "ollie": "surprised",
+        "gran_mari": "happy"
+      },
+      "action": "On the wall beside the window, a bright rainbow appears, red, orange, yellow, green, blue, violet.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "surprised",
+          "text": "A rainbow! On the wall!"
+        },
+        {
+          "char": "gran_mari",
+          "emotion": "happy",
+          "text": "The water bends the light and spreads the colors apart. Tiny drops of rain work just like this glass."
+        }
+      ],
+      "duration": 11.83,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E03-S037",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "luna": "happy",
+        "ollie": "happy",
+        "pip": "happy",
+        "gus": "curious",
+        "gran_mari": "curious"
+      },
+      "action": "Luna floats near the glass and sparkles. Three soft notes ring out.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "curious",
+          "text": "So the rainbow is hiding in the sunlight?"
+        },
+        {
+          "char": "gran_mari",
+          "emotion": "curious",
+          "text": "Well now, what do you think happens next?"
+        },
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "It moves if you move the glass!"
+        }
+      ],
+      "duration": 12.25,
+      "music_mood": "cozy",
+      "luna_glow": "sparkle",
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E03-S038",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {},
+      "action": "Gran Mari slides the glass a tiny bit. The rainbow glides along the wall.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 5.0,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E03-S039",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "pip": "surprised"
+      },
+      "action": "Then she holds a book in front of the window. The rainbow vanishes. When she lifts the book, it returns.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "surprised",
+          "text": "It needs the sun to shine through!"
+        }
+      ],
+      "duration": 6.0,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E03-S040",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "gus": "sorry"
+      },
+      "action": "Gus looks at his hat, then slowly lowers it from his head.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E03-S041",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy"
+      },
+      "action": "Ollie turns to the camera, holding the wonder rock. Behind him the rainbow glows on the wall.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Try it at home with a grown-up! Fill a clear glass with water. Set it on a sunny windowsill."
+        }
+      ],
+      "duration": 9.49,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E03-S042",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "ollie": "excited"
+      },
+      "action": "Ollie points to the wall, where the little rainbow shimmers.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "excited",
+          "text": "Look at the wall nearby. Find the rainbow! Never look right at the sun."
+        }
+      ],
+      "duration": 7.18,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E03-S043",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "driftwood_playground",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "determined"
+      },
+      "action": "Back at the driftwood playground. The golden sun is low and warm. Ollie sets the clear glass of water on a flat log in the sun.",
+      "camera": "wide",
+      "dialogue": [],
+      "duration": 5.0,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S044",
+      "book_safe": true
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "driftwood_playground",
+      "time": "golden_hour",
+      "characters": {
+        "gus": "sorry"
+      },
+      "action": "A shimmering rainbow lands on the sandy driftwood board, right in the middle.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "sorry",
+          "text": "Wait. I have to tell you something."
+        },
+        {
+          "char": "gus",
+          "emotion": "sorry",
+          "text": "I said my rainbow was sleeping. That was a fib. I covered it with my hat."
+        },
+        {
+          "char": "gus",
+          "emotion": "sorry",
+          "text": "I wanted it all for me, and then it was gone. I'm sorry."
+        }
+      ],
+      "duration": 17.25,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S045",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "driftwood_playground",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy",
+        "gus": "sorry"
+      },
+      "action": "Ollie smiles and puts a paw on Gus's wing.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Thanks for telling us the truth, Gus."
+        }
+      ],
+      "duration": 4.49,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S046",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "driftwood_playground",
+      "time": "golden_hour",
+      "characters": {
+        "gus": "happy",
+        "bean": "happy"
+      },
+      "action": "Gus picks his hat up off the log and holds it out to Bean. She giggles and puts it on her head.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 5.0,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S047",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "driftwood_playground",
+      "time": "golden_hour",
+      "characters": {
+        "gus": "happy"
+      },
+      "action": "Gus's red sneakers shuffle. He looks at the shining rainbow, then at his friends, and grins a little.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S048",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "driftwood_playground",
+      "time": "golden_hour",
+      "characters": {
+        "pip": "curious"
+      },
+      "action": "Pip scoots to the edge of the glass and sees colors swirl in the water.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "happy",
+          "text": "Look! It's on my shell too!"
+        }
+      ],
+      "duration": 4.11,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S049",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "driftwood_playground",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "happy",
+        "gus": "happy"
+      },
+      "action": "The rainbow lands across all their faces, a stripe of color on each. Bean claps.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "bean",
+          "emotion": "happy",
+          "text": "Share!"
+        }
+      ],
+      "duration": 5.0,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S050",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "driftwood_playground",
+      "time": "golden_hour",
+      "characters": {
+        "gus": "happy"
+      },
+      "action": "Gus carefully lifts the glass so the rainbow swings across every friend, one by one. Everyone gets a turn.",
+      "camera": "pan_right",
+      "dialogue": [],
+      "duration": 6.0,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S051",
+      "book_safe": true
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "driftwood_playground",
+      "time": "golden_hour",
+      "characters": {
+        "luna": "happy",
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "happy",
+        "gus": "happy"
+      },
+      "action": "Luna floats over the friends, sparkling. Three soft notes ring out.",
+      "camera": "wide",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "excited",
+          "text": "There's enough for everybody! That's the best part!"
+        }
+      ],
+      "duration": 5.0,
+      "music_mood": "triumph",
+      "luna_glow": "sparkle",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S052",
+      "book_safe": true
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "driftwood_playground",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy"
+      },
+      "action": "Ollie hands the wonder rock to Pip so he can see the colors in it, too.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "happy",
+          "text": "It sparkles even more, with friends."
+        }
+      ],
+      "duration": 4.11,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S053",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "happy",
+        "luna": "calm"
+      },
+      "action": "Inside the Wonder Shed, string lights glow. A small rainbow shines on the wall from the jar on the sill. Ollie sits with Pip, Bean, and Luna.",
+      "camera": "static",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Time for my Wonder Pocket! Three things we learned."
+        }
+      ],
+      "duration": 5.26,
+      "music_mood": "cozy",
+      "luna_glow": "bright",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S054",
+      "book_safe": true
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "luna": "calm"
+      },
+      "action": "Luna floats above the jar of sea glass, and the glass glows green and gold.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 5.0,
+      "music_mood": "cozy",
+      "luna_glow": "bright",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S055",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy"
+      },
+      "action": "Ollie pulls a smooth shell from the first pocket.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "One. Sunlight is made of all the colors."
+        }
+      ],
+      "duration": 4.88,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S056",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy"
+      },
+      "action": "He takes a feather from the second pocket.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Two. Water bends the light and spreads the colors out."
+        }
+      ],
+      "duration": 5.65,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S057",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "proud"
+      },
+      "action": "He holds up a bit of sea glass from the third pocket.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "proud",
+          "text": "Three. A rainbow needs sunshine. It fades when it's hidden."
+        }
+      ],
+      "duration": 5.65,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S058",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy",
+        "luna": "calm"
+      },
+      "action": "The fourth pocket glows softly. Ollie pulls out a tiny folded note with a star on it.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "And one kind thing to try today. Share your favorite thing."
+        }
+      ],
+      "duration": 6.03,
+      "music_mood": "cozy",
+      "luna_glow": "bright",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S059",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "happy",
+        "gus": "happy",
+        "luna": "calm"
+      },
+      "action": "Everyone waves at the camera. The little rainbow glimmers across them all.",
+      "camera": "wide",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "happy",
+          "text": "Bye, everybody! Next time, I'll share first!"
+        }
+      ],
+      "duration": 4.49,
+      "music_mood": "cozy",
+      "luna_glow": "sparkle",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S060",
+      "book_safe": true
+    },
+    {
+      "beat": 7,
+      "beat_name": "Outro",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "happy",
+        "gus": "happy",
+        "luna": "calm"
+      },
+      "action": "Everyone waves goodbye as the sun sets.",
+      "camera": "wide",
+      "dialogue": [],
+      "duration": 10.0,
+      "music_mood": "cozy",
+      "luna_glow": "bright",
+      "tags": [
+        "outro"
+      ],
+      "text_overlay": null,
+      "id": "E03-S061",
+      "book_safe": true
+    },
+    {
+      "beat": 7,
+      "beat_name": "Outro",
+      "location": "driftwood_playground",
+      "time": "golden_hour",
+      "characters": {
+        "luna": "calm"
+      },
+      "action": "Soft end card: Luna drifts across the golden cove.",
+      "camera": "static",
+      "dialogue": [],
+      "duration": 10.0,
+      "music_mood": "cozy",
+      "luna_glow": "bright",
+      "tags": [
+        "outro"
+      ],
+      "text_overlay": null,
+      "id": "E03-S062",
+      "book_safe": true
+    }
+  ]
+}

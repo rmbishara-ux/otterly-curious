@@ -1,0 +1,1714 @@
+{
+  "episode": "E09",
+  "title": "E09: Ollie and the Sky Travelers",
+  "big_question": "How do birds know where to go?",
+  "value": "Asking for help",
+  "shot_count": 64,
+  "total_seconds": 421.8,
+  "shots": [
+    {
+      "beat": 1,
+      "beat_name": "Cold open",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy"
+      },
+      "action": "Bright morning at Lighthouse Point. The sea sparkles. Ollie sits on the rocks with Pip in his vest pocket, a wonder rock in his paws.",
+      "camera": "static",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E09-S001",
+      "book_safe": true
+    },
+    {
+      "beat": 1,
+      "beat_name": "Cold open",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "ollie": "surprised"
+      },
+      "action": "High above the water a long V of birds glides past the lighthouse, flapping together in a neat line.",
+      "camera": "tilt_up",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "surprised",
+          "text": "Pip, look! They are all going the same way!"
+        }
+      ],
+      "duration": 5.26,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E09-S002",
+      "book_safe": true
+    },
+    {
+      "beat": 1,
+      "beat_name": "Cold open",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "pip": "curious"
+      },
+      "action": "Pip pops out of the pocket and shades his eyes with a claw. The birds fly over the lighthouse and straight off toward the far coast.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "curious",
+          "text": "They never stop to look at a map."
+        }
+      ],
+      "duration": 5.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E09-S003",
+      "book_safe": false
+    },
+    {
+      "beat": 1,
+      "beat_name": "Cold open",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "ollie": "curious"
+      },
+      "action": "Ollie's tuft pops up. He turns to the camera, eyes wide, holding up his wonder rock.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "How do birds know where to go?"
+        }
+      ],
+      "duration": 5.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": "How do birds know where to go?",
+      "id": "E09-S004",
+      "book_safe": false
+    },
+    {
+      "beat": 1,
+      "beat_name": "Cold open",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "luna": "calm",
+        "ollie": "excited"
+      },
+      "action": "A pale Luna drifts in beside him, tilting her bell as if she wonders too.",
+      "camera": "static",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "excited",
+          "text": "Let's find out!"
+        }
+      ],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": "dim",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E09-S005",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy"
+      },
+      "action": "Sunrise over the cove, the sea sparkling. Ollie waves hello.",
+      "camera": "wide",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E09-S006",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "ollie": "excited",
+        "pip": "happy"
+      },
+      "action": "Ollie and Pip hop between the tide pools.",
+      "camera": "follow",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E09-S007",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "gran_mari": "happy"
+      },
+      "action": "Gran Mari waves from her porch, scarf swinging.",
+      "camera": "static",
+      "dialogue": [],
+      "duration": 3.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E09-S008",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "gus": "excited"
+      },
+      "action": "Gus swoops through, red sneakers kicking up sand.",
+      "camera": "pan_right",
+      "dialogue": [],
+      "duration": 3.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E09-S009",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "kelp_shallows",
+      "time": "morning",
+      "characters": {
+        "bean": "happy",
+        "luna": "calm"
+      },
+      "action": "Bean floats by with Luna glowing softly beside her.",
+      "camera": "static",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": "dim",
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E09-S010",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "wonder_shed",
+      "time": "morning",
+      "characters": {
+        "ollie": "curious",
+        "pip": "curious"
+      },
+      "action": "Ollie pulls a shell from his Wonder Pocket and holds it up.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E09-S011",
+      "book_safe": false
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "gran_mari": "happy",
+        "gus": "happy",
+        "bean": "happy",
+        "luna": "calm"
+      },
+      "action": "Everyone runs together toward the camera.",
+      "camera": "wide",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": "dim",
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E09-S012",
+      "book_safe": true
+    },
+    {
+      "beat": 2,
+      "beat_name": "Theme song",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "excited"
+      },
+      "action": "Title card: OTTERLY CURIOUS over the sparkling cove.",
+      "camera": "static",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [
+        "theme"
+      ],
+      "text_overlay": null,
+      "id": "E09-S013",
+      "book_safe": true
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "curious",
+        "pip": "curious",
+        "bean": "happy"
+      },
+      "action": "The friends reach the Driftwood Playground. Bean floats in a shallow puddle on her back, her kelp blanket on her tummy. Big driftwood shapes rise around them like a whale, a boat, and a tall arch.",
+      "camera": "pan_right",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "curious",
+          "text": "Maybe the birds are following a leader."
+        },
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "Maybe they have a secret path in the sky!"
+        }
+      ],
+      "duration": 8.75,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E09-S014",
+      "book_safe": true
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "gus": "excited",
+        "ollie": "curious"
+      },
+      "action": "Gus lands on the whale-shaped log with a flap, red sneakers sliding on the bark, one feather up.",
+      "camera": "pan_right",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "excited",
+          "text": "Easy! Birds just know. It's in their feathers."
+        },
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "But how do they know it?"
+        },
+        {
+          "char": "gus",
+          "emotion": "playful",
+          "text": "Magic feathers. I have magic feathers. I never get lost."
+        }
+      ],
+      "duration": 12.63,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E09-S015",
+      "book_safe": true
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "pip": "worried",
+        "bean": "happy"
+      },
+      "action": "Pip glances at Gus's sneakers. Bean hums and waves her paws at a passing cloud.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "worried",
+          "text": "I think feathers can't read a map."
+        }
+      ],
+      "duration": 4.49,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E09-S016",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "curious",
+        "pip": "curious"
+      },
+      "action": "Ollie and Pip trace a line in the sand, from the driftwood arch toward the faraway tide pools. Beyond the pools, the coast curves around the cove.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "The birds went that way, toward the tide pools!"
+        }
+      ],
+      "duration": 5.26,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E09-S017",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "determined"
+      },
+      "action": "Ollie's pocket jingles with a shell, a feather, sea glass, and the wonder rock. His tuft stands straight up.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "determined",
+          "text": "I'll find the way. Follow me!"
+        }
+      ],
+      "duration": 4.11,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E09-S018",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "excited",
+        "pip": "worried",
+        "bean": "curious"
+      },
+      "action": "Ollie dashes down the sandy path toward the arch. Pip bounces in the pocket. Bean is left floating on her back, waving.",
+      "camera": "pan_right",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "worried",
+          "text": "Ollie, wait! Bean can't come that fast!"
+        }
+      ],
+      "duration": 4.49,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E09-S019",
+      "book_safe": true
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "sorry",
+        "bean": "curious"
+      },
+      "action": "Ollie skids to a stop and looks back. Bean blinks her big eyes at him.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "sorry",
+          "text": "Oops. I zoomed ahead. Sorry, Bean. Let's go together."
+        }
+      ],
+      "duration": 5.26,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E09-S020",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy",
+        "bean": "happy",
+        "luna": "calm",
+        "pip": "curious",
+        "gus": "excited"
+      },
+      "action": "Ollie scoops Bean up and tucks her kelp blanket around her. Luna glows brighter.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "curious",
+          "text": "And I could ask Gran Mari the way."
+        },
+        {
+          "char": "gus",
+          "emotion": "excited",
+          "text": "Ask? I've got a faster way!"
+        },
+        {
+          "char": "pip",
+          "emotion": "worried",
+          "text": "Gus, your faster ways always go wrong."
+        }
+      ],
+      "duration": 11.48,
+      "music_mood": "wonder",
+      "luna_glow": "bright",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E09-S021",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy",
+        "bean": "happy",
+        "luna": "calm",
+        "gus": "playful"
+      },
+      "action": "Ollie scoops Bean up and tucks her kelp blanket around her. Luna glows brighter.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "playful",
+          "text": "Not this time! I know a shortcut. Straight through the playground!"
+        },
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "But we don't know where it goes, Gus."
+        },
+        {
+          "char": "gus",
+          "emotion": "excited",
+          "text": "Don't need to! I'll find it. No asking!"
+        }
+      ],
+      "duration": 13.78,
+      "music_mood": "wonder",
+      "luna_glow": "bright",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E09-S022",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy",
+        "bean": "happy",
+        "luna": "calm",
+        "pip": "curious"
+      },
+      "action": "Ollie scoops Bean up and tucks her kelp blanket around her. Luna glows brighter.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "curious",
+          "text": "What if we try it the careful way?"
+        },
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "Gus can go first. We follow, then ask Gran Mari."
+        }
+      ],
+      "duration": 9.52,
+      "music_mood": "wonder",
+      "luna_glow": "bright",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E09-S023",
+      "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "gus": "excited"
+      },
+      "action": "Gus puffs out his chest and marches off between the driftwood logs. He disappears behind the big whale.",
+      "camera": "follow",
+      "dialogue": [],
+      "duration": 5.0,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E09-S024",
+      "book_safe": true
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy",
+        "pip": "worried",
+        "bean": "happy"
+      },
+      "action": "The friends follow his footprints across the sand, Bean cozy on Ollie's tummy.",
+      "camera": "follow",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E09-S025",
+      "book_safe": true
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "gus": "determined"
+      },
+      "action": "Gus marches around the big driftwood whale, head held high. He passes a little pile of shells and gives it a nod.",
+      "camera": "follow",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "excited",
+          "text": "Ha! Straight to the tide pools. I told you."
+        }
+      ],
+      "duration": 5.26,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [
+        "short_fail"
+      ],
+      "text_overlay": null,
+      "id": "E09-S026",
+      "book_safe": true
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "gus": "surprised"
+      },
+      "action": "He marches around the whale again. He passes the same pile of shells. His eyes light up.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "surprised",
+          "text": "Oh! A new shell pile! It looks just like the last one."
+        }
+      ],
+      "duration": 6.42,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [
+        "short_fail"
+      ],
+      "text_overlay": null,
+      "id": "E09-S027",
+      "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "gus": "playful"
+      },
+      "action": "Third lap. Gus waves hello to the big whale-shaped log, as if they've never met.",
+      "camera": "wide",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "playful",
+          "text": "Excuse me, sir! Is this the way to the tide pools?"
+        }
+      ],
+      "duration": 6.03,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [
+        "short_fail"
+      ],
+      "text_overlay": null,
+      "id": "E09-S028",
+      "book_safe": true
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "gus": "curious"
+      },
+      "action": "The log says nothing. A tiny snail crawls past, going the other way. Gus tips his head at the snail.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "worried",
+          "text": "Hmm. Maybe the whale is shy."
+        }
+      ],
+      "duration": 5.0,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [
+        "short_fail"
+      ],
+      "text_overlay": null,
+      "id": "E09-S029",
+      "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "surprised",
+        "pip": "surprised",
+        "bean": "curious"
+      },
+      "action": "Ollie, Pip, and Bean step out from behind the arch. Gus's footprints make a perfect round ring in the sand.",
+      "camera": "wide",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "surprised",
+          "text": "Gus, look at your footprints!"
+        }
+      ],
+      "duration": 4.0,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [
+        "short_fail"
+      ],
+      "text_overlay": null,
+      "id": "E09-S030",
+      "book_safe": true
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "gus": "surprised"
+      },
+      "action": "Everyone looks down. The footprints go round and round. Gus looks down too.",
+      "camera": "top_down",
+      "dialogue": [],
+      "duration": 5.0,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E09-S031",
+      "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "happy",
+        "luna": "calm",
+        "gus": "excited"
+      },
+      "action": "Ollie, Pip, and Bean try very hard not to giggle. Luna wobbles with a tiny glow.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "curious",
+          "text": "Gus, are you lost?"
+        },
+        {
+          "char": "gus",
+          "emotion": "excited",
+          "text": "Lost? No! I'm exploring. On purpose."
+        },
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "But we're back at the whale again."
+        }
+      ],
+      "duration": 9.94,
+      "music_mood": "uh-oh",
+      "luna_glow": "dim",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E09-S032",
+      "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "happy",
+        "luna": "calm",
+        "gus": "worried"
+      },
+      "action": "Ollie, Pip, and Bean try very hard not to giggle. Luna wobbles with a tiny glow.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "worried",
+          "text": "I wanted to see it three times. It's a very good whale."
+        }
+      ],
+      "duration": 6.42,
+      "music_mood": "uh-oh",
+      "luna_glow": "dim",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E09-S033",
+      "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "gus": "worried",
+        "pip": "curious"
+      },
+      "action": "Gus sits down in the middle of his own footprint ring. His feathers droop and his feather finally flops over.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "curious",
+          "text": "Maybe the shortcut was the long way."
+        }
+      ],
+      "duration": 4.49,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E09-S034",
+      "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "ollie": "worried",
+        "pip": "worried",
+        "bean": "curious"
+      },
+      "action": "A far-off bird calls and the friends all look up. The V of birds is almost gone over the hills.",
+      "camera": "tilt_up",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "worried",
+          "text": "The birds know the way. We don't. Let's ask Gran Mari."
+        }
+      ],
+      "duration": 6.03,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E09-S035",
+      "book_safe": true
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "gran_mari": "happy",
+        "ollie": "curious"
+      },
+      "action": "The friends climb the path to the lighthouse. Gran Mari rocks on her porch, knitting, her coral scarf swinging.",
+      "camera": "pan_up",
+      "dialogue": [
+        {
+          "char": "gran_mari",
+          "emotion": "happy",
+          "text": "Well now, a dizzy gull and a thoughtful otter. What's all this?"
+        },
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "Gran Mari, how do birds know where to go?"
+        },
+        {
+          "char": "gran_mari",
+          "emotion": "happy",
+          "text": "Oh, that is a good question, Ollie. Let's find out together."
+        }
+      ],
+      "duration": 15.71,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E09-S036",
+      "book_safe": true
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "gran_mari": "calm",
+        "ollie": "curious",
+        "pip": "curious"
+      },
+      "action": "Gran Mari leads them into the bright lighthouse room, where the sun streams through the big round window. She sets a sheet of paper on a low table.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gran_mari",
+          "emotion": "calm",
+          "text": "I've drawn an arrow. This is a pretend compass. Watch the sun."
+        }
+      ],
+      "duration": 6.42,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E09-S037",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "ollie": "surprised",
+        "gran_mari": "calm",
+        "pip": "curious"
+      },
+      "action": "She turns the paper arrow until it points at the sunny window, then slides it to a new spot on the table. Gran Mari points her wing at the window.",
+      "camera": "top_down",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "surprised",
+          "text": "The arrow points to the sun again!"
+        },
+        {
+          "char": "gran_mari",
+          "emotion": "calm",
+          "text": "Birds use the sun like that. It helps them know which way is which."
+        },
+        {
+          "char": "pip",
+          "emotion": "curious",
+          "text": "What about at night, when the sun is gone?"
+        }
+      ],
+      "duration": 14.94,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E09-S038",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "gran_mari": "happy"
+      },
+      "action": "Gran Mari points at the picture on the wall: a night sky full of stars over the sea.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gran_mari",
+          "emotion": "happy",
+          "text": "Then they use the stars. And they look at the land, too. The coast, the hills, the lighthouse."
+        }
+      ],
+      "duration": 8.72,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E09-S039",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "gran_mari": "calm"
+      },
+      "action": "She slides a second paper across the table, a simple map: a wavy line for the coast, a red buoy, and a little lighthouse.",
+      "camera": "top_down",
+      "dialogue": [
+        {
+          "char": "gran_mari",
+          "emotion": "calm",
+          "text": "These are landmarks. A bird sees them and knows, \"Ah, I am here."
+        }
+      ],
+      "duration": 6.8,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E09-S040",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "pip": "happy"
+      },
+      "action": "Pip scrambles onto the map and walks along the wavy coast line with one claw. He looks up at Ollie.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "happy",
+          "text": "I can follow the coast with my claw!"
+        }
+      ],
+      "duration": 5.0,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E09-S041",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "luna": "happy",
+        "ollie": "happy",
+        "pip": "happy",
+        "gus": "curious",
+        "gran_mari": "curious"
+      },
+      "action": "Luna rises above the map and sparkles. Three soft notes ring out.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "curious",
+          "text": "And what if you still get turned around?"
+        },
+        {
+          "char": "gran_mari",
+          "emotion": "curious",
+          "text": "Well now, what do you think happens next?"
+        },
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "You ask a friend who knows the way!"
+        }
+      ],
+      "duration": 12.63,
+      "music_mood": "cozy",
+      "luna_glow": "sparkle",
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E09-S042",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "luna": "happy",
+        "ollie": "happy",
+        "pip": "happy",
+        "gran_mari": "happy"
+      },
+      "action": "Luna rises above the map and sparkles. Three soft notes ring out.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gran_mari",
+          "emotion": "happy",
+          "text": "Many birds travel together, so someone always knows. Nobody has to do it alone."
+        }
+      ],
+      "duration": 7.18,
+      "music_mood": "cozy",
+      "luna_glow": "sparkle",
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E09-S043",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "gus": "sorry"
+      },
+      "action": "Gus looks at the map, then at the others. He peeks over his wing at them.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E09-S044",
+      "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy"
+      },
+      "action": "Ollie turns to the camera, holding the wonder rock. Behind him the paper arrow turns on the table.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Try it at home! Draw an arrow on paper. Turn it toward the sunny window. Then draw a map of your room. Follow it with a friend!"
+        }
+      ],
+      "duration": 12.18,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E09-S045",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "tide_pools",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "determined"
+      },
+      "action": "Golden light on the cove. Ollie scratches a map in the sand with a stick: the big whale, the lighthouse, and a wavy line for the shore.",
+      "camera": "wide",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "determined",
+          "text": "Here is the whale. Here is the lighthouse. The tide pools are here."
+        }
+      ],
+      "duration": 6.8,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E09-S046",
+      "book_safe": true
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "tide_pools",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "happy"
+      },
+      "action": "The friends follow the map along the shore. Ollie points out each landmark. Pip checks the lighthouse behind them. Bean points at the red buoy.",
+      "camera": "follow",
+      "dialogue": [],
+      "duration": 6.0,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E09-S047",
+      "book_safe": true
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "tide_pools",
+      "time": "golden_hour",
+      "characters": {
+        "gus": "worried"
+      },
+      "action": "Gus trails behind, holding a feather up as if it were a compass. He turns it left. He turns it right.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "worried",
+          "text": "This feather says... uh... both ways."
+        }
+      ],
+      "duration": 5.0,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E09-S048",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "tide_pools",
+      "time": "golden_hour",
+      "characters": {
+        "gus": "worried",
+        "bean": "worried"
+      },
+      "action": "At a fork between two rock paths, Gus stops. His sneakers shuffle in the sand.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "sorry",
+          "text": "I don't know which way. I've been lost since the whale."
+        },
+        {
+          "char": "bean",
+          "emotion": "worried",
+          "text": "Help!"
+        }
+      ],
+      "duration": 7.22,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E09-S049",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "tide_pools",
+      "time": "golden_hour",
+      "characters": {
+        "gus": "sorry",
+        "bean": "curious",
+        "ollie": "happy"
+      },
+      "action": "Everyone looks at Bean. Gus takes a big breath. He turns to Ollie.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "sorry",
+          "text": "Can you help me? I don't know the way."
+        },
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Of course, Gus! Thank you for asking."
+        }
+      ],
+      "duration": 8.75,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E09-S050",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "tide_pools",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "happy",
+        "gus": "sorry"
+      },
+      "action": "Ollie holds up the map. Pip points to the red buoy. The friends all point to the left path.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "sorry",
+          "text": "I fibbed, too. I wasn't exploring. I was lost, and I should have asked."
+        },
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Thanks for telling us the truth, Gus."
+        }
+      ],
+      "duration": 10.68,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E09-S051",
+      "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "tide_pools",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "happy",
+        "gus": "happy"
+      },
+      "action": "The friends walk to the tide pools together, Gus in the middle. Ahead the pools shimmer.",
+      "camera": "follow",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E09-S052",
+      "book_safe": true
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "tide_pools",
+      "time": "golden_hour",
+      "characters": {},
+      "action": "A flock of birds lands on the far rocks to rest, one right after the other. They hop and tuck in their wings.",
+      "camera": "wide",
+      "dialogue": [],
+      "duration": 6.0,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E09-S053",
+      "book_safe": true
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "tide_pools",
+      "time": "golden_hour",
+      "characters": {
+        "luna": "happy",
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "happy",
+        "gus": "happy"
+      },
+      "action": "Luna sparkles. Three notes ring out. The flock settles beside the shining pools.",
+      "camera": "wide",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "happy",
+          "text": "They made it! They all traveled together!"
+        },
+        {
+          "char": "gus",
+          "emotion": "excited",
+          "text": "Hello, birds! Can you show me the way home?"
+        }
+      ],
+      "duration": 8.75,
+      "music_mood": "triumph",
+      "luna_glow": "sparkle",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E09-S054",
+      "book_safe": true
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "tide_pools",
+      "time": "golden_hour",
+      "characters": {
+        "gus": "proud"
+      },
+      "action": "One bird nods toward the lighthouse. Gus grins and follows its wing.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 4.0,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E09-S055",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "happy",
+        "luna": "calm"
+      },
+      "action": "Inside the Wonder Shed, string lights glow. Ollie sits with Pip, Bean, and Luna, his vest pockets open.",
+      "camera": "static",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Time for my Wonder Pocket! Three things we learned."
+        }
+      ],
+      "duration": 5.26,
+      "music_mood": "cozy",
+      "luna_glow": "bright",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E09-S056",
+      "book_safe": true
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "luna": "calm"
+      },
+      "action": "Luna floats above the jar of sea glass, and the glass glows green and gold.",
+      "camera": "close",
+      "dialogue": [],
+      "duration": 5.0,
+      "music_mood": "cozy",
+      "luna_glow": "bright",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E09-S057",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy"
+      },
+      "action": "Ollie pulls a smooth shell from the first pocket.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "One. Birds use the sun and the stars to find their way."
+        }
+      ],
+      "duration": 6.42,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E09-S058",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy"
+      },
+      "action": "He takes a feather from the second pocket.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Two. They see landmarks, like the coast, to know where they are."
+        }
+      ],
+      "duration": 6.42,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E09-S059",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "proud"
+      },
+      "action": "He holds up a bit of sea glass from the third pocket.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "proud",
+          "text": "Three. Many birds travel together, so no one is alone."
+        }
+      ],
+      "duration": 5.65,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E09-S060",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy",
+        "luna": "calm"
+      },
+      "action": "The fourth pocket glows softly. Ollie pulls out a tiny folded note with a star on it.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "And one kind thing to try today. Ask for help when you need it."
+        }
+      ],
+      "duration": 7.18,
+      "music_mood": "cozy",
+      "luna_glow": "bright",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E09-S061",
+      "book_safe": false
+    },
+    {
+      "beat": 7,
+      "beat_name": "Wonder Pocket recap",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "happy",
+        "gus": "happy",
+        "luna": "calm"
+      },
+      "action": "Everyone waves at the camera. Gus holds a tiny hand-drawn map of the cove in one wing. The sun sets pink behind the shed.",
+      "camera": "wide",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "happy",
+          "text": "Bye, everybody! Next time, I'll ask first!"
+        }
+      ],
+      "duration": 4.49,
+      "music_mood": "cozy",
+      "luna_glow": "sparkle",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E09-S062",
+      "book_safe": true
+    },
+    {
+      "beat": 7,
+      "beat_name": "Outro",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "ollie": "happy",
+        "pip": "happy",
+        "bean": "happy",
+        "gus": "happy",
+        "luna": "calm"
+      },
+      "action": "Everyone waves goodbye as the sun sets.",
+      "camera": "wide",
+      "dialogue": [],
+      "duration": 10.0,
+      "music_mood": "cozy",
+      "luna_glow": "bright",
+      "tags": [
+        "outro"
+      ],
+      "text_overlay": null,
+      "id": "E09-S063",
+      "book_safe": true
+    },
+    {
+      "beat": 7,
+      "beat_name": "Outro",
+      "location": "driftwood_playground",
+      "time": "golden_hour",
+      "characters": {
+        "luna": "calm"
+      },
+      "action": "Soft end card: Luna drifts across the golden cove.",
+      "camera": "static",
+      "dialogue": [],
+      "duration": 10.0,
+      "music_mood": "cozy",
+      "luna_glow": "bright",
+      "tags": [
+        "outro"
+      ],
+      "text_overlay": null,
+      "id": "E09-S064",
+      "book_safe": true
+    }
+  ]
+}
