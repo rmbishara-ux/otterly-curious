@@ -132,41 +132,241 @@
  "E02-S016": {
   "job": "babce3d3-99c6-4844-b207-9ad3c0432fc4",
   "attempt": 2,
-  "cost": 2
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_225836_babce3d3-99c6-4844-b207-9ad3c0432fc4.png"
  },
  "E02-S022": {
   "job": "db38e8ac-ac0f-4240-aa69-ab5479a9bd23",
   "attempt": 2,
-  "cost": 2
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_225836_db38e8ac-ac0f-4240-aa69-ab5479a9bd23.png"
  },
  "E02-S023": {
   "job": "e0c0e69f-9862-4f8b-a50c-67ecac2a3481",
   "attempt": 2,
-  "cost": 2
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_225836_e0c0e69f-9862-4f8b-a50c-67ecac2a3481.png"
  },
  "E02-S024": {
   "job": "39c0722a-0bb3-4d33-9f78-5ee7f64aaec1",
   "attempt": 2,
-  "cost": 2
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_225836_39c0722a-0bb3-4d33-9f78-5ee7f64aaec1.png"
  },
  "E02-S025": {
   "job": "b0b600f5-2a59-4cff-b46f-b85b748b134b",
   "attempt": 2,
-  "cost": 2
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_225836_b0b600f5-2a59-4cff-b46f-b85b748b134b.png"
  },
  "E02-S021": {
   "job": "ed42114d-7fcd-42a8-ae63-e67db95cc7b9",
   "attempt": 2,
-  "cost": 2
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_225957_ed42114d-7fcd-42a8-ae63-e67db95cc7b9.png"
  },
  "E02-S026": {
   "job": "a21a0b80-3b13-4ed0-858d-6785644d2e04",
   "attempt": 2,
-  "cost": 2
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_225957_a21a0b80-3b13-4ed0-858d-6785644d2e04.png"
  },
  "E02-S027": {
   "job": "38e26c91-0197-446e-9c2b-62aba6d68a0e",
   "attempt": 2,
-  "cost": 2
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_225957_38e26c91-0197-446e-9c2b-62aba6d68a0e.png"
+ },
+ "E02-S029": {
+  "job": "054356d0-916a-416b-98a1-f1058741e9e7",
+  "attempt": 2,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_230214_054356d0-916a-416b-98a1-f1058741e9e7.png"
+ },
+ "E02-S031": {
+  "job": "9d7cd7f3-bef0-4961-bf55-9dc067c60807",
+  "attempt": 2,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_230214_9d7cd7f3-bef0-4961-bf55-9dc067c60807.png"
+ },
+ "E02-S032": {
+  "job": "559f3d70-364e-4248-b23b-d7b6077a43f8",
+  "attempt": 2,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_230214_559f3d70-364e-4248-b23b-d7b6077a43f8.png"
+ },
+ "E02-S033": {
+  "job": "d7fd872d-80fb-4626-a385-a41cd0181acb",
+  "attempt": 2,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_230325_d7fd872d-80fb-4626-a385-a41cd0181acb.png"
+ },
+ "E02-S034": {
+  "job": "d26f781f-d6f3-4570-80ff-c83c2bf637b3",
+  "attempt": 2,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_230324_d26f781f-d6f3-4570-80ff-c83c2bf637b3.png"
+ },
+ "E02-S036": {
+  "job": "a3722648-cba0-4c1f-a9f9-413df5ef9d3e",
+  "attempt": 2,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_230324_a3722648-cba0-4c1f-a9f9-413df5ef9d3e.png"
+ },
+ "E02-S028": {
+  "job": "055accbe-8aaa-4851-b22c-8b68ea080868",
+  "attempt": 2,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_230410_055accbe-8aaa-4851-b22c-8b68ea080868.png"
+ },
+ "E02-S037": {
+  "job": "0a8a1a24-b39d-4496-9b60-39dbcabafc8d",
+  "attempt": 2,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_230410_0a8a1a24-b39d-4496-9b60-39dbcabafc8d.png"
+ },
+ "E02-S038": {
+  "job": "16950fd7-47ad-419a-ad21-32fdf325f16a",
+  "attempt": 2,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_230409_16950fd7-47ad-419a-ad21-32fdf325f16a.png"
+ },
+ "E02-S039": {
+  "job": "787baf34-e6f6-4c28-993e-ee83319ac7e1",
+  "attempt": 2,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_230410_787baf34-e6f6-4c28-993e-ee83319ac7e1.png"
+ },
+ "E02-S040": {
+  "job": "05665b3d-f9e2-48f9-8900-683a8b0d1936",
+  "attempt": 2,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_230409_05665b3d-f9e2-48f9-8900-683a8b0d1936.png"
+ },
+ "E02-S035": {
+  "job": "7af1fc3f-37b3-4a53-ad09-574a96e14787",
+  "attempt": 2,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_230543_7af1fc3f-37b3-4a53-ad09-574a96e14787.png"
+ },
+ "E02-S041": {
+  "job": "3eeb0505-5c06-46c2-bbc7-9f809496e373",
+  "attempt": 2,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_230543_3eeb0505-5c06-46c2-bbc7-9f809496e373.png"
+ },
+ "E02-S042": {
+  "job": "c77ace27-ed92-4c49-bcc1-15e5747a3399",
+  "attempt": 2,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_230543_c77ace27-ed92-4c49-bcc1-15e5747a3399.png"
+ },
+ "E02-S043": {
+  "job": "6cc0b1b0-dd34-4bc6-be3f-a62bfe4291b4",
+  "attempt": 2,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_230543_6cc0b1b0-dd34-4bc6-be3f-a62bfe4291b4.png"
+ },
+ "E02-S044": {
+  "job": "2bc75012-6637-4d84-ac9e-80a3ddfed132",
+  "attempt": 2,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_230544_2bc75012-6637-4d84-ac9e-80a3ddfed132.png"
+ },
+ "E02-S045": {
+  "job": "2832a97f-1fa5-4d3a-ab36-43696a637183",
+  "attempt": 2,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_230641_2832a97f-1fa5-4d3a-ab36-43696a637183.png"
+ },
+ "E02-S046": {
+  "job": "ba85a49a-cc4c-418a-a4d4-1fc92fd0aabf",
+  "attempt": 2,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_230641_ba85a49a-cc4c-418a-a4d4-1fc92fd0aabf.png"
+ },
+ "E02-S047": {
+  "job": "eef86568-d4e2-4461-aad3-306f7d601667",
+  "attempt": 2,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_230641_eef86568-d4e2-4461-aad3-306f7d601667.png"
+ },
+ "E02-S048": {
+  "job": "bafd0bf3-d22c-434e-8cb8-374cb542ab5b",
+  "attempt": 2,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_230641_bafd0bf3-d22c-434e-8cb8-374cb542ab5b.png"
+ },
+ "E02-S049": {
+  "job": "783c367d-d6b1-4890-a084-2f99d2244883",
+  "attempt": 2,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_230641_783c367d-d6b1-4890-a084-2f99d2244883.png"
+ },
+ "E02-S050": {
+  "job": "99fdcaf4-1e70-47f1-8aef-3b03e23e95a3",
+  "attempt": 2,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_230741_99fdcaf4-1e70-47f1-8aef-3b03e23e95a3.png"
+ },
+ "E02-S051": {
+  "job": "be9eb97b-0fbd-44b1-a98b-5e6b27b610d3",
+  "attempt": 2,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_230741_be9eb97b-0fbd-44b1-a98b-5e6b27b610d3.png"
+ },
+ "E02-S052": {
+  "job": "8f91ea3c-202a-402e-a6e1-bfcbdb1f2175",
+  "attempt": 2,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_230741_8f91ea3c-202a-402e-a6e1-bfcbdb1f2175.png"
+ },
+ "E02-S053": {
+  "job": "6175a199-f956-4e60-9945-d29c81ac4dd9",
+  "attempt": 2,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_230741_6175a199-f956-4e60-9945-d29c81ac4dd9.png"
+ },
+ "E02-S054": {
+  "job": "53d283eb-f561-404e-ae0a-2140cfdc20a7",
+  "attempt": 2,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_230741_53d283eb-f561-404e-ae0a-2140cfdc20a7.png"
+ },
+ "E02-S055": {
+  "job": "a4f1be6c-7e26-43a2-a59b-f4db74c4be08",
+  "attempt": 2,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_230839_a4f1be6c-7e26-43a2-a59b-f4db74c4be08.png"
+ },
+ "E02-S056": {
+  "job": "934b0b75-2216-4207-a7bc-95b9cb47ac7e",
+  "attempt": 2,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_230838_934b0b75-2216-4207-a7bc-95b9cb47ac7e.png"
+ },
+ "E02-S057": {
+  "job": "edf718dc-a8d6-4e06-8056-f7ff948a5c37",
+  "attempt": 3,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_230926_edf718dc-a8d6-4e06-8056-f7ff948a5c37.png"
+ },
+ "E02-S058": {
+  "job": "f6581f11-0d92-4432-a252-0b03397efde2",
+  "attempt": 2,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_230839_f6581f11-0d92-4432-a252-0b03397efde2.png"
+ },
+ "E02-S059": {
+  "job": "ef4d2acd-76f3-42ca-af89-39f2dceee1f8",
+  "attempt": 2,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_230838_ef4d2acd-76f3-42ca-af89-39f2dceee1f8.png"
+ },
+ "E02-S060": {
+  "job": "91db4c70-52de-42a9-9f73-7930081aefac",
+  "attempt": 2,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_230839_91db4c70-52de-42a9-9f73-7930081aefac.png"
  }
 }
