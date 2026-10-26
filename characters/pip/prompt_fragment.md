@@ -1,1 +1,1 @@
-Pip: tiny orange (#F4A261) hermit crab, oversized expressive eyes on short stalks, lives in a chipped sky-blue teacup instead of a shell. Small, nervous, sweet.
+Pip: tiny orange hermit crab, round orange body, two oversized glossy eyes on short stalks, small gentle claws, rosy cheeks, lives in a chipped sky-blue teacup with a little handle carried on his back (a closed rounded cup back seen from behind).

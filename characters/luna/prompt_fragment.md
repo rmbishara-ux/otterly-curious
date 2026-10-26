@@ -1,1 +1,1 @@
-Luna: moon jellyfish, translucent pale-violet (#C8B6E2) bell with soft white glow (the only gradient allowed), four short trailing ribbons. Glow levels: dim, bright, sparkle.
+Luna: small moon jellyfish, translucent pale-violet dome bell with soft inner glow, four soft trailing ribbons, two tiny dot eyes and a small smile. Glow levels: dim, bright, sparkle (sparkle adds small star-shaped glints around her).

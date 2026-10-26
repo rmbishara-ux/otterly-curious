@@ -1,1 +1,1 @@
-Bean: baby sea otter, smaller rounder Ollie, same teal-grey, bigger eyes, one lavender ribbon around belly, tiny green kelp blanket, floats on her back.
+Bean: baby sea otter toddler, smaller and rounder than Ollie, same teal-blue fur with creamy face, extra-large glossy brown eyes, lavender ribbon tied around her belly, tiny green kelp blanket, usually floats on her back.

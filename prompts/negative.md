@@ -1,2 +1,1 @@
-humans, people, hands, text, logos, brands, screens, photorealism, 3D render, gradients (except Luna glow),
-fine fur, shadows with hard black, existing cartoon characters, scary, dark mood, pure black outlines
+humans, people, hands of people, text, letters, logos, brands, screens, photorealism, scary, dark, horror, gore, sharp teeth, harsh shadows, cluttered background, realistic fur, extra limbs, distorted anatomy, existing cartoon characters, watermark
