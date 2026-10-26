@@ -1,0 +1,18 @@
+{
+  "characters": {
+    "ollie": "ec442d46-4fe6-473d-a9a4-fc652c9e8931",
+    "pip": "5f822128-76fe-4d6b-868a-56a94ae44551",
+    "gran_mari": "d6283700-d8f1-45dd-b213-8fdae8c02574",
+    "gus": "a8139f0f-4c4a-4732-97a0-5be11b2b0680",
+    "bean": "5d0c0d69-8993-4918-b836-7d87966b3f02",
+    "luna": "573be74e-9eb5-4fbc-9088-76d3c32d5594"
+  },
+  "plates": {
+    "kelp_shallows": "dad39495-fb46-4203-854e-93815a6c24dc",
+    "tide_pools": "c9e20c5b-f226-49f3-8f5a-4b3d1bf9a232",
+    "lighthouse_point": "c5587c93-bc56-4f1e-af67-387a4905ba8b",
+    "driftwood_playground": "2b069453-62cd-44a9-a094-5e399c1220bf",
+    "wonder_shed": "a3150c0c-b5a9-422e-9e6b-7a55ef6b5cc1"
+  },
+  "_note": "Higgsfield job IDs of the approved reference art, usable as image_references in generate_image."
+}

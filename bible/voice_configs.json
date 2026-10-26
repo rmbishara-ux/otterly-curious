@@ -1,11 +1,11 @@
 {
-  "_note": "Provider voice_ids are TBD. Pick once, save, never change. Candidates via ElevenLabs or Higgsfield create_voice/list_voices.",
+  "_note": "LOCKED Oct 26 2026 (owner picks: A for Ollie, Pip, Gran Mari, Bean; C for Gus). Never change. Pip and Bean share base voice Gracie, separated by pitch/speed.",
   "ollie": {
     "character": "Ollie",
     "description": "Bright, warm, mid-pitch child voice, 6 years old, curious and eager",
     "pace": "medium-fast",
     "signature": "Let's find out!",
-    "voice_id": null,
+    "voice_id": "7a6845a2-5865-5669-a0ca-8fc8d8e96528",
     "model": "seed_audio",
     "settings": {
       "pitch_rate": 3,
@@ -34,14 +34,17 @@
         "type": "preset"
       }
     ],
-    "audition_note": ""
+    "audition_note": "",
+    "voice_type": "preset",
+    "voice_name": "Evie",
+    "locked": "owner pick Oct 26 2026: candidate A"
   },
   "pip": {
     "character": "Pip",
     "description": "Small, quick, slightly nervous high child voice",
     "pace": "fast, hesitant",
     "signature": "What if we try it the careful way?",
-    "voice_id": null,
+    "voice_id": "09878754-f20b-5330-9790-58a8027ab5b2",
     "model": "seed_audio",
     "settings": {
       "pitch_rate": 4,
@@ -70,14 +73,17 @@
         "type": "preset"
       }
     ],
-    "audition_note": "pip_B_Hallie sample is ~1 s for an 8-word line: likely truncated, ignore or regenerate."
+    "audition_note": "pip_B_Hallie sample is ~1 s for an 8-word line: likely truncated, ignore or regenerate.",
+    "voice_type": "preset",
+    "voice_name": "Gracie",
+    "locked": "owner pick Oct 26 2026: candidate A"
   },
   "gran_mari": {
     "character": "Gran Mari",
     "description": "Slow, warm, slightly raspy grandmother",
     "pace": "slow",
     "signature": "Well now, what do you think happens next?",
-    "voice_id": null,
+    "voice_id": "1550321e-7f5b-526e-b001-02328b03e9bc",
     "model": "seed_audio",
     "settings": {
       "pitch_rate": -2,
@@ -106,14 +112,17 @@
         "type": "preset"
       }
     ],
-    "audition_note": ""
+    "audition_note": "",
+    "voice_type": "preset",
+    "voice_name": "Delia",
+    "locked": "owner pick Oct 26 2026: candidate A"
   },
   "gus": {
     "character": "Gus",
     "description": "Fast, nasal, excitable, comic",
     "pace": "very fast",
     "signature": "I've got a faster way!",
-    "voice_id": null,
+    "voice_id": "3c7d32be-0182-5c5e-aa6a-663409bfbb26",
     "model": "seed_audio",
     "settings": {
       "pitch_rate": 1,
@@ -142,14 +151,17 @@
         "type": "preset"
       }
     ],
-    "audition_note": ""
+    "audition_note": "",
+    "voice_type": "preset",
+    "voice_name": "Emmett",
+    "locked": "owner pick Oct 26 2026: candidate C"
   },
   "bean": {
     "character": "Bean",
     "description": "Toddler babble plus one clear key word per episode",
     "pace": "slow, sing-song",
     "signature": "(episode key word)",
-    "voice_id": null,
+    "voice_id": "09878754-f20b-5330-9790-58a8027ab5b2",
     "model": "seed_audio",
     "settings": {
       "pitch_rate": 8,
@@ -178,7 +190,10 @@
         "type": "preset"
       }
     ],
-    "audition_note": ""
+    "audition_note": "",
+    "voice_type": "preset",
+    "voice_name": "Gracie",
+    "locked": "owner pick Oct 26 2026: candidate A"
   },
   "luna": {
     "character": "Luna",
