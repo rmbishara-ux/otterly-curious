@@ -36,7 +36,15 @@ def thumbnail(ep, meta, out):
     loc = next((s["location"] for s in (load_sb(ep)["shots"]) if s["beat"] == 3), "driftwood_playground")
     plate = ROOT / "bible" / "locations" / f"{loc}.png"
     bg = Image.open(plate).convert("RGB").resize((W, H)) if plate.exists() else Image.new("RGB", (W, H), (190, 220, 245))
-    bg = Image.blend(bg, Image.new("RGB", (W, H), (255, 255, 255)), 0.35)
+    blend = 0.35
+    hs = d / "hero_shots.json"
+    if hs.exists() and ep != "E01":  # E02 onward: the episode's first hero frame (e.g. the rainbow) is a stronger backdrop than the plain plate
+        import json as _j
+        still = d / "shots" / f"{ep}-{_j.loads(hs.read_text())[0]}.png"
+        if still.exists():
+            bg = Image.open(still).convert("RGB").resize((W, H))
+            blend = 0.12
+    bg = Image.blend(bg, Image.new("RGB", (W, H), (255, 255, 255)), blend)
     sheet = ROOT / "characters" / "ollie" / "expressions" / "expr_v2.png"
     if sheet.exists():
         s = Image.open(sheet).convert("RGB")

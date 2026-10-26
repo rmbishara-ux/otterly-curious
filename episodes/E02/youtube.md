@@ -7,8 +7,6 @@
 **End screens/links/QR/merch:** none.
 
 ## Description
-> NOTE: chapter times are estimates from the storyboard; regenerate after the final render.
-
 TRY IT AT HOME: Fill a wide bowl with water. Float two leaves on one side and two leaves on the other. Tie one pair loosely together with a soft string. Gently swirl the water with a finger. Watch the loose leaves drift apart while the tied leaves stay together.
 
 In this episode of Otterly Curious, Ollie the sea otter and his friends ask: Why do otters hold hands? Sea otters hold paws while they rest and sleep so the moving water cannot drift them apart. Along the way, Gus learns about sticking together.
@@ -16,12 +14,12 @@ In this episode of Otterly Curious, Ollie the sea otter and his friends ask: Why
 A science-for-kids story for ages 3-7, made to be watched together.
 
 0:00 Big question
-0:22 Theme song
-0:52 Let's guess
-2:13 Uh-oh!
-3:07 Let's find out
-4:35 Try it out
-5:31 Wonder Pocket
+0:25 Theme song
+0:55 Let's guess
+2:23 Uh-oh!
+3:22 Let's find out
+5:18 Try it out
+6:16 Wonder Pocket
 
 Subscribe to Otterly Curious for a new question every week.
 
