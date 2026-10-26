@@ -15,7 +15,8 @@
 2. f363b086-0df4-4225-99d4-9ad5d4ccaf40
 3. 0076e373-715b-4fc1-bd18-238b98238178
 4. 89cf3a06-1760-4a1a-aaa5-3eca2d215e86
-Note: image host is blocked by the sandbox proxy, so files are not yet saved in the repo.
+Saved to characters/ollie/candidates/turnaround_v1..v4.png (host now reachable).
+My read: v3 is the best otter silhouette but needs fixes (lavender limbs, whiskers, black nose, only 2 pockets). v1 matches pockets/tuft but reads as a penguin. v2 and v4 are off-palette and read as penguin/turtle.
 
 ## Cost (character-sheet cap: 300 credits)
 - Spent: 32 credits (4 x 8). Remaining under cap: 268. Account balance started at 988.1.
