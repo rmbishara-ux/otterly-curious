@@ -53,3 +53,7 @@ Expression picks (characters/<name>/<name>_expressions.png): pip v2 (5d4e82e5-81
 Luna glow steps: luna/luna_glow_steps.png (19b5e836-0f62-4685-ae18-dbc77909472c). One Luna job failed (d9d74c5c-c9bb-405e-ab66-0c1541d0c28d).
 Bean floating pose: bean/bean_float_pose.png (55760803-42fe-440f-92d0-181c337adf73); only the first two panels float on her back, side/back panels are upright.
 Open issues: Bean's face is nearly identical to Ollie's in close-ups (ribbon not visible); Gran Mari reads bald with subtle expressions; Ollie's tuft never fully upright.
+
+## Phase 1 progress
+Done: bible/series_bible.md, style_guide.md (v2 soft 3D), voice_configs.json (voice IDs TBD), songs.md (lyrics + prompts, audio not generated), 5 location hero plates (bible/locations/).
+Not started: ten scripts, storyboards, pipeline code, E01 production, YouTube packaging, book.
