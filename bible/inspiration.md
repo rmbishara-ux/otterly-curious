@@ -17,3 +17,14 @@ Scale for context: 203M subs, 229B views, 2,163 uploads (vidIQ, Oct 26 2026).
 - Glossy 3D, hyper-saturated color, constant cutting. Ours is flat cut-paper, locked 8-color palette, slow pans.
 - The nursery-rhyme loop / compilation format. Ours is one question, one story, one lesson.
 - Any character, melody, or scene from the channel.
+
+## Style direction change (Oct 26, owner decision)
+Owner dislikes the flat cut-paper look. New direction: soft, glossy 3D-rendered look inspired by the traits below.
+Traits observed in the reference channel's thumbnails (traits only; no characters, logos, or scenes are reproduced):
+- Oversized round head on a small body, toy-like rounded forms, no sharp edges
+- Very large glossy eyes with big whites, one clear emotion per frame
+- Smooth soft skin/fur surfaces, rosy cheeks, soft specular highlights
+- Bright saturated primaries against clean, simple backgrounds, shallow depth of field
+- Candy-like props with glossy plastic sheen
+This SUPERSEDES the brief's locked cut-paper style and 8-color palette (palette.json is now legacy until a new palette is chosen).
+Still locked: original animal cast, no humans, no existing characters/brands, no logos in prompts or art.
