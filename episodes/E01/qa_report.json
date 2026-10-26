@@ -24,8 +24,8 @@
     },
     {
       "check": "no character drift flags open",
-      "pass": false,
-      "detail": "4 flags"
+      "pass": true,
+      "detail": "0 flags"
     },
     {
       "check": "style/brightness on sampled frames",
@@ -40,7 +40,7 @@
     {
       "check": "Short (fail) 20-30 s",
       "pass": false,
-      "detail": "30.4s"
+      "detail": "19.4s"
     }
   ]
 }

@@ -16,10 +16,10 @@ A science-for-kids story for ages 3-7, made to be watched together.
 0:00 Big question
 0:25 Theme song
 0:55 Let's guess
-2:16 Uh-oh!
-3:10 Let's find out
-4:50 Try it out
-5:49 Wonder Pocket
+2:28 Uh-oh!
+3:26 Let's find out
+5:37 Try it out
+6:41 Wonder Pocket
 
 Subscribe to Otterly Curious for a new question every week.
 
