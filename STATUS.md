@@ -13,6 +13,10 @@ Round 2 Ollie candidates (nano_banana job IDs; saved in characters/ollie/candida
 Note: requested nano_banana_pro, jobs reported model nano_banana_2.
 Round 1 (cut-paper) candidates are superseded.
 
+## Round 3: Ollie = round-2 v1, fix pass (characters/ollie/candidates_3d_fix/)
+Fix-round job IDs: 3f22788f-d46f-462f-a64d-bff424b3e427, 7df79819-65cb-4022-9e69-c33ce2178924, ec442d46-4fe6-473d-a9a4-fc652c9e8931, 0819d505-ff5f-4987-8ba4-01a1f72c389f
+Result: reference edit barely moved. fix_v3 added small chest pockets (closest to four). Tuft still slightly angled, not straight up.
+
 ## Awaiting review
 - Pick an Ollie candidate (or request changes) before the other five characters are generated.
 
