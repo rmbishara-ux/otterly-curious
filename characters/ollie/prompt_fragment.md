@@ -1,0 +1,1 @@
+Ollie: young sea otter, round body, teal-grey fur (#6C8C9E), cream (#F4E9D8) face and belly patch, one tuft of fur standing straight up on head, mustard-yellow (#E9C46A) vest with four pockets, carries a smooth grey wonder rock. Bright curious kid.
