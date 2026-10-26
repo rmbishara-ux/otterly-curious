@@ -5,35 +5,180 @@
     "description": "Bright, warm, mid-pitch child voice, 6 years old, curious and eager",
     "pace": "medium-fast",
     "signature": "Let's find out!",
-    "voice_id": null
+    "voice_id": null,
+    "model": "seed_audio",
+    "settings": {
+      "pitch_rate": 3,
+      "speech_rate": 5
+    },
+    "audition_candidates": [
+      {
+        "label": "A",
+        "name": "Evie",
+        "voice_id": "7a6845a2-5865-5669-a0ca-8fc8d8e96528",
+        "file": "bible/voice_auditions/ollie_A_Evie.wav",
+        "type": "preset"
+      },
+      {
+        "label": "B",
+        "name": "Juno",
+        "voice_id": "a3ce02fe-4d3e-55bc-b4d4-a4801b9acdb4",
+        "file": "bible/voice_auditions/ollie_B_Juno.wav",
+        "type": "preset"
+      },
+      {
+        "label": "C",
+        "name": "Daisy",
+        "voice_id": "032386ec-491b-5bdc-81ac-49e9a6a2c89d",
+        "file": "bible/voice_auditions/ollie_C_Daisy.wav",
+        "type": "preset"
+      }
+    ],
+    "audition_note": ""
   },
   "pip": {
     "character": "Pip",
     "description": "Small, quick, slightly nervous high child voice",
     "pace": "fast, hesitant",
     "signature": "What if we try it the careful way?",
-    "voice_id": null
+    "voice_id": null,
+    "model": "seed_audio",
+    "settings": {
+      "pitch_rate": 4,
+      "speech_rate": 20
+    },
+    "audition_candidates": [
+      {
+        "label": "A",
+        "name": "Gracie",
+        "voice_id": "09878754-f20b-5330-9790-58a8027ab5b2",
+        "file": "bible/voice_auditions/pip_A_Gracie.wav",
+        "type": "preset"
+      },
+      {
+        "label": "B",
+        "name": "Hallie",
+        "voice_id": "10274bf1-fb93-554f-b59f-d620a920fd36",
+        "file": "bible/voice_auditions/pip_B_Hallie.wav",
+        "type": "preset"
+      },
+      {
+        "label": "C",
+        "name": "Benji",
+        "voice_id": "e6f9b893-51b1-51d3-afe9-9e0482cb7ac1",
+        "file": "bible/voice_auditions/pip_C_Benji.wav",
+        "type": "preset"
+      }
+    ],
+    "audition_note": "pip_B_Hallie sample is ~1 s for an 8-word line: likely truncated, ignore or regenerate."
   },
   "gran_mari": {
     "character": "Gran Mari",
     "description": "Slow, warm, slightly raspy grandmother",
     "pace": "slow",
     "signature": "Well now, what do you think happens next?",
-    "voice_id": null
+    "voice_id": null,
+    "model": "seed_audio",
+    "settings": {
+      "pitch_rate": -2,
+      "speech_rate": -15
+    },
+    "audition_candidates": [
+      {
+        "label": "A",
+        "name": "Delia",
+        "voice_id": "1550321e-7f5b-526e-b001-02328b03e9bc",
+        "file": "bible/voice_auditions/mari_A_Delia.wav",
+        "type": "preset"
+      },
+      {
+        "label": "B",
+        "name": "Celine",
+        "voice_id": "57ccb351-84d7-54ba-afd4-26b566ca6023",
+        "file": "bible/voice_auditions/mari_B_Celine.wav",
+        "type": "preset"
+      },
+      {
+        "label": "C",
+        "name": "Giselle",
+        "voice_id": "9d3128b8-dd25-5158-9bdb-2e69ac8998b9",
+        "file": "bible/voice_auditions/mari_C_Giselle.wav",
+        "type": "preset"
+      }
+    ],
+    "audition_note": ""
   },
   "gus": {
     "character": "Gus",
     "description": "Fast, nasal, excitable, comic",
     "pace": "very fast",
     "signature": "I've got a faster way!",
-    "voice_id": null
+    "voice_id": null,
+    "model": "seed_audio",
+    "settings": {
+      "pitch_rate": 1,
+      "speech_rate": 25
+    },
+    "audition_candidates": [
+      {
+        "label": "A",
+        "name": "Benji",
+        "voice_id": "e6f9b893-51b1-51d3-afe9-9e0482cb7ac1",
+        "file": "bible/voice_auditions/gus_A_Benji.wav",
+        "type": "preset"
+      },
+      {
+        "label": "B",
+        "name": "Dylan",
+        "voice_id": "b847bc29-f184-583a-8ad9-d1f1e16d1a60",
+        "file": "bible/voice_auditions/gus_B_Dylan.wav",
+        "type": "preset"
+      },
+      {
+        "label": "C",
+        "name": "Emmett",
+        "voice_id": "3c7d32be-0182-5c5e-aa6a-663409bfbb26",
+        "file": "bible/voice_auditions/gus_C_Emmett.wav",
+        "type": "preset"
+      }
+    ],
+    "audition_note": ""
   },
   "bean": {
     "character": "Bean",
     "description": "Toddler babble plus one clear key word per episode",
     "pace": "slow, sing-song",
     "signature": "(episode key word)",
-    "voice_id": null
+    "voice_id": null,
+    "model": "seed_audio",
+    "settings": {
+      "pitch_rate": 8,
+      "speech_rate": -10
+    },
+    "audition_candidates": [
+      {
+        "label": "A",
+        "name": "Gracie",
+        "voice_id": "09878754-f20b-5330-9790-58a8027ab5b2",
+        "file": "bible/voice_auditions/bean_A_Gracie.wav",
+        "type": "preset"
+      },
+      {
+        "label": "B",
+        "name": "Daisy",
+        "voice_id": "032386ec-491b-5bdc-81ac-49e9a6a2c89d",
+        "file": "bible/voice_auditions/bean_B_Daisy.wav",
+        "type": "preset"
+      },
+      {
+        "label": "C",
+        "name": "Evie",
+        "voice_id": "7a6845a2-5865-5669-a0ca-8fc8d8e96528",
+        "file": "bible/voice_auditions/bean_C_Evie.wav",
+        "type": "preset"
+      }
+    ],
+    "audition_note": ""
   },
   "luna": {
     "character": "Luna",
@@ -41,5 +186,6 @@
     "pace": "n/a",
     "signature": "three ascending piano notes",
     "voice_id": null
-  }
+  },
+  "_provider": "Higgsfield seed_audio (preset voices + fixed pitch/speed). ~0.2 credits per line. Pick one candidate per character, then set voice_id and never change it."
 }
