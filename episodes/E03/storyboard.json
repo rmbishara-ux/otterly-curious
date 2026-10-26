@@ -3,8 +3,8 @@
   "title": "E03: Gus and the Stolen Rainbow",
   "big_question": "Where does a rainbow come from?",
   "value": "Sharing",
-  "shot_count": 62,
-  "total_seconds": 447.3,
+  "shot_count": 72,
+  "total_seconds": 457.3,
   "shots": [
     {
       "beat": 1,
@@ -418,23 +418,45 @@
           "file": "episodes/E03/audio/E03-S016_L2.wav",
           "length": 3.03,
           "start": 6.43
-        },
-        {
-          "char": "gus",
-          "emotion": "playful",
-          "text": "For whoever gets to the end first. And that's me!",
-          "file": "episodes/E03/audio/E03-S016_L3.wav",
-          "length": 4.53,
-          "start": 9.86
         }
       ],
-      "duration": 15.39,
+      "duration": 10.46,
       "music_mood": "wonder",
       "luna_glow": null,
       "tags": [],
       "text_overlay": null,
       "id": "E03-S016",
       "book_safe": true
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "gus": "excited",
+        "ollie": "curious"
+      },
+      "action": "Gus lands with a flap, red sneakers skidding on the wet wood, one feather sticking up.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "playful",
+          "text": "For whoever gets to the end first. And that's me!",
+          "file": "episodes/E03/audio/E03-S016_L3.wav",
+          "length": 4.53,
+          "start": 0.5
+        }
+      ],
+      "duration": 6.03,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S016b",
+      "book_safe": true,
+      "still_of": "E03-S016"
     },
     {
       "beat": 3,
@@ -552,23 +574,47 @@
           "file": "episodes/E03/audio/E03-S020_L2.wav",
           "length": 3.5,
           "start": 6.29
-        },
-        {
-          "char": "pip",
-          "emotion": "worried",
-          "text": "Gus, your faster ways always go wrong.",
-          "file": "episodes/E03/audio/E03-S020_L3.wav",
-          "length": 4.39,
-          "start": 10.19
         }
       ],
-      "duration": 15.58,
+      "duration": 10.79,
       "music_mood": "wonder",
       "luna_glow": "bright",
       "tags": [],
       "text_overlay": null,
       "id": "E03-S020",
       "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "luna": "calm",
+        "ollie": "happy",
+        "pip": "happy",
+        "gus": "excited"
+      },
+      "action": "Luna glows brighter as Ollie turns toward Pip.",
+      "camera": "slow_push",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "worried",
+          "text": "Gus, your faster ways always go wrong.",
+          "file": "episodes/E03/audio/E03-S020_L3.wav",
+          "length": 4.39,
+          "start": 0.5
+        }
+      ],
+      "duration": 5.89,
+      "music_mood": "wonder",
+      "luna_glow": "bright",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S020b",
+      "book_safe": false,
+      "still_of": "E03-S020"
     },
     {
       "beat": 3,
@@ -756,17 +802,9 @@
           "file": "episodes/E03/audio/E03-S026_L2.wav",
           "length": 4.18,
           "start": 5.78
-        },
-        {
-          "char": "gus",
-          "emotion": "playful",
-          "text": "It's mine now! I caught it!",
-          "file": "episodes/E03/audio/E03-S026_L3.wav",
-          "length": 3.82,
-          "start": 10.36
         }
       ],
-      "duration": 15.18,
+      "duration": 10.96,
       "music_mood": "uh-oh",
       "luna_glow": null,
       "tags": [
@@ -775,6 +813,38 @@
       "text_overlay": null,
       "id": "E03-S026",
       "book_safe": true
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "wonder_shed",
+      "time": "morning",
+      "characters": {
+        "gus": "excited",
+        "ollie": "surprised"
+      },
+      "action": "On the shed wall, a little rainbow glows. It shines from a jar of rainwater on the sunny sill.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "playful",
+          "text": "It's mine now! I caught it!",
+          "file": "episodes/E03/audio/E03-S026_L3.wav",
+          "length": 3.82,
+          "start": 0.5
+        }
+      ],
+      "duration": 5.32,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [
+        "short_fail"
+      ],
+      "text_overlay": null,
+      "id": "E03-S026b",
+      "book_safe": true,
+      "still_of": "E03-S026"
     },
     {
       "beat": 4,
@@ -882,23 +952,45 @@
           "file": "episodes/E03/audio/E03-S030_L2.wav",
           "length": 2.97,
           "start": 4.1
-        },
-        {
-          "char": "gus",
-          "emotion": "worried",
-          "text": "No! It's just sleeping. Rainbows sleep a lot.",
-          "file": "episodes/E03/audio/E03-S030_L3.wav",
-          "length": 3.84,
-          "start": 7.47
         }
       ],
-      "duration": 12.31,
+      "duration": 8.07,
       "music_mood": "uh-oh",
       "luna_glow": null,
       "tags": [],
       "text_overlay": null,
       "id": "E03-S030",
       "book_safe": false
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "wonder_shed",
+      "time": "morning",
+      "characters": {
+        "gus": "worried",
+        "pip": "curious"
+      },
+      "action": "Gus peeks under his hat. The jar is dull and the wall is plain. He gulps.",
+      "camera": "slow_push",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "worried",
+          "text": "No! It's just sleeping. Rainbows sleep a lot.",
+          "file": "episodes/E03/audio/E03-S030_L3.wav",
+          "length": 3.84,
+          "start": 0.5
+        }
+      ],
+      "duration": 5.34,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S030b",
+      "book_safe": false,
+      "still_of": "E03-S030"
     },
     {
       "beat": 4,
@@ -1006,31 +1098,75 @@
           "file": "episodes/E03/audio/E03-S034_L1.wav",
           "length": 10.78,
           "start": 0.5
-        },
-        {
-          "char": "ollie",
-          "emotion": "curious",
-          "text": "Gran Mari, where does a rainbow come from?",
-          "file": "episodes/E03/audio/E03-S034_L2.wav",
-          "length": 3.04,
-          "start": 11.68
-        },
-        {
-          "char": "gran_mari",
-          "emotion": "happy",
-          "text": "Oh, that is a good question, Ollie. Let's find out together.",
-          "file": "episodes/E03/audio/E03-S034_L3.wav",
-          "length": 9.6,
-          "start": 15.12
         }
       ],
-      "duration": 25.72,
+      "duration": 12.28,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [],
       "text_overlay": null,
       "id": "E03-S034",
       "book_safe": true
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "gran_mari": "happy",
+        "ollie": "curious"
+      },
+      "action": "The friends climb the path to the lighthouse. Gran Mari rocks on her porch, her coral scarf swinging. A tall window glows with sun behind her.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "Gran Mari, where does a rainbow come from?",
+          "file": "episodes/E03/audio/E03-S034_L2.wav",
+          "length": 3.04,
+          "start": 0.5
+        }
+      ],
+      "duration": 4.54,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S034b",
+      "book_safe": true,
+      "still_of": "E03-S034"
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "gran_mari": "happy",
+        "ollie": "curious"
+      },
+      "action": "The friends climb the path to the lighthouse. Gran Mari rocks on her porch, her coral scarf swinging. A tall window glows with sun behind her.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gran_mari",
+          "emotion": "happy",
+          "text": "Oh, that is a good question, Ollie. Let's find out together.",
+          "file": "episodes/E03/audio/E03-S034_L3.wav",
+          "length": 9.6,
+          "start": 0.5
+        }
+      ],
+      "duration": 11.1,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S034c",
+      "book_safe": true,
+      "still_of": "E03-S034"
     },
     {
       "beat": 5,
@@ -1110,17 +1246,9 @@
           "file": "episodes/E03/audio/E03-S037_L1.wav",
           "length": 3.79,
           "start": 0.5
-        },
-        {
-          "char": "gran_mari",
-          "emotion": "happy",
-          "text": "The water bends the light and spreads the colors apart. Tiny drops of rain work just like this glass.",
-          "file": "episodes/E03/audio/E03-S037_L2.wav",
-          "length": 8.59,
-          "start": 4.69
         }
       ],
-      "duration": 14.28,
+      "duration": 5.29,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [
@@ -1129,6 +1257,38 @@
       "text_overlay": null,
       "id": "E03-S037",
       "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "ollie": "surprised",
+        "gran_mari": "happy"
+      },
+      "action": "On the wall beside the window, a bright rainbow appears, red, orange, yellow, green, blue, violet.",
+      "camera": "slow_push",
+      "dialogue": [
+        {
+          "char": "gran_mari",
+          "emotion": "happy",
+          "text": "The water bends the light and spreads the colors apart. Tiny drops of rain work just like this glass.",
+          "file": "episodes/E03/audio/E03-S037_L2.wav",
+          "length": 8.59,
+          "start": 0.5
+        }
+      ],
+      "duration": 10.09,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E03-S037b",
+      "book_safe": false,
+      "still_of": "E03-S037"
     },
     {
       "beat": 5,
@@ -1160,17 +1320,9 @@
           "file": "episodes/E03/audio/E03-S038_L2.wav",
           "length": 3.21,
           "start": 3.25
-        },
-        {
-          "char": "ollie",
-          "emotion": "curious",
-          "text": "It moves if you move the glass!",
-          "file": "episodes/E03/audio/E03-S038_L3.wav",
-          "length": 5.03,
-          "start": 6.86
         }
       ],
-      "duration": 12.89,
+      "duration": 7.46,
       "music_mood": "cozy",
       "luna_glow": "sparkle",
       "tags": [
@@ -1179,6 +1331,41 @@
       "text_overlay": null,
       "id": "E03-S038",
       "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "luna": "happy",
+        "ollie": "happy",
+        "pip": "happy",
+        "gus": "curious",
+        "gran_mari": "curious"
+      },
+      "action": "Luna floats near the glass and sparkles. Three soft notes ring out.",
+      "camera": "slow_push",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "It moves if you move the glass!",
+          "file": "episodes/E03/audio/E03-S038_L3.wav",
+          "length": 5.03,
+          "start": 0.5
+        }
+      ],
+      "duration": 6.53,
+      "music_mood": "cozy",
+      "luna_glow": "sparkle",
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E03-S038b",
+      "book_safe": false,
+      "still_of": "E03-S038"
     },
     {
       "beat": 5,
@@ -1347,31 +1534,73 @@
           "file": "episodes/E03/audio/E03-S045_L1.wav",
           "length": 4.22,
           "start": 0.5
-        },
-        {
-          "char": "gus",
-          "emotion": "sorry",
-          "text": "I said my rainbow was sleeping. That was a fib. I covered it with my hat.",
-          "file": "episodes/E03/audio/E03-S045_L2.wav",
-          "length": 5.65,
-          "start": 5.12
-        },
-        {
-          "char": "gus",
-          "emotion": "sorry",
-          "text": "I wanted it all for me, and then it was gone. I'm sorry.",
-          "file": "episodes/E03/audio/E03-S045_L3.wav",
-          "length": 4.08,
-          "start": 11.17
         }
       ],
-      "duration": 17.25,
+      "duration": 5.72,
       "music_mood": "triumph",
       "luna_glow": null,
       "tags": [],
       "text_overlay": null,
       "id": "E03-S045",
       "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "driftwood_playground",
+      "time": "golden_hour",
+      "characters": {
+        "gus": "sorry"
+      },
+      "action": "A shimmering rainbow lands on the sandy driftwood board, right in the middle.",
+      "camera": "slow_push",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "sorry",
+          "text": "I said my rainbow was sleeping. That was a fib. I covered it with my hat.",
+          "file": "episodes/E03/audio/E03-S045_L2.wav",
+          "length": 5.65,
+          "start": 0.5
+        }
+      ],
+      "duration": 7.15,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S045b",
+      "book_safe": false,
+      "still_of": "E03-S045"
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "driftwood_playground",
+      "time": "golden_hour",
+      "characters": {
+        "gus": "sorry"
+      },
+      "action": "A shimmering rainbow lands on the sandy driftwood board, right in the middle.",
+      "camera": "slow_push",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "sorry",
+          "text": "I wanted it all for me, and then it was gone. I'm sorry.",
+          "file": "episodes/E03/audio/E03-S045_L3.wav",
+          "length": 4.08,
+          "start": 0.5
+        }
+      ],
+      "duration": 5.58,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E03-S045c",
+      "book_safe": false,
+      "still_of": "E03-S045"
     },
     {
       "beat": 6,

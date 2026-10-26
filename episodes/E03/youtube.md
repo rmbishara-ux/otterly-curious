@@ -7,8 +7,6 @@
 **End screens/links/QR/merch:** none.
 
 ## Description
-> NOTE: chapter times are estimates from the storyboard; regenerate after the final render.
-
 TRY IT AT HOME: With a grown-up's help, fill a clear glass with water. Set it on a sunny windowsill so the sun shines through it. Look at the wall or floor nearby and find the little rainbow. Nudge the glass a little and watch the rainbow move.
 
 In this episode of Otterly Curious, Ollie the sea otter and his friends ask: Where does a rainbow come from? Sunlight looks plain, but it is made of all the colors mixed together. Water bends the light and spreads the colors apart, so we see a rainbow. Along the way, Gus learns about sharing.
@@ -16,12 +14,12 @@ In this episode of Otterly Curious, Ollie the sea otter and his friends ask: Whe
 A science-for-kids story for ages 3-7, made to be watched together.
 
 0:00 Big question
-0:21 Theme song
-0:51 Let's guess
-2:13 Uh-oh!
-3:15 Let's find out
-4:43 Try it out
-5:43 Wonder Pocket
+0:23 Theme song
+0:53 Let's guess
+2:26 Uh-oh!
+3:39 Let's find out
+5:29 Try it out
+6:32 Wonder Pocket
 
 Subscribe to Otterly Curious for a new question every week.
 

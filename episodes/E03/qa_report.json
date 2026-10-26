@@ -1,0 +1,46 @@
+{
+  "episode": "E03",
+  "passed": true,
+  "checks": [
+    {
+      "check": "runtime 6:00-8:00",
+      "pass": true,
+      "detail": "7.62 min"
+    },
+    {
+      "check": "every line audible",
+      "pass": true,
+      "detail": "61 lines, problems: []"
+    },
+    {
+      "check": "no shot >8s without motion",
+      "pass": true,
+      "detail": "missing clips: []; shots >8s (all have motion): ['E03-S002', 'E03-S016', 'E03-S020', 'E03-S021', 'E03-S022', 'E03-S026', 'E03-S030', 'E03-S034', 'E03-S034c', 'E03-S035', 'E03-S036', 'E03-S037b', 'E03-S042', 'E03-S043', 'E03-S061', 'E03-S062']"
+    },
+    {
+      "check": "captions in sync",
+      "pass": true,
+      "detail": "61 cues vs 61 lines"
+    },
+    {
+      "check": "no character drift flags open",
+      "pass": true,
+      "detail": "0 flags"
+    },
+    {
+      "check": "style/brightness on sampled frames",
+      "pass": true,
+      "detail": "dark frames: []"
+    },
+    {
+      "check": "Short (demo) 45-60 s",
+      "pass": true,
+      "detail": "53.9s"
+    },
+    {
+      "check": "Short (fail) 20-30 s",
+      "pass": true,
+      "detail": "27.3s"
+    }
+  ]
+}
