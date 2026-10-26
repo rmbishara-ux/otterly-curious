@@ -36,7 +36,7 @@ Saved to characters/ollie/candidates/turnaround_v1..v4.png (host now reachable).
 My read: v3 is the best otter silhouette but needs fixes (lavender limbs, whiskers, black nose, only 2 pockets). v1 matches pockets/tuft but reads as a penguin. v2 and v4 are off-palette and read as penguin/turtle.
 
 ## Cost (character-sheet cap: 300 credits)
-- Spent: 98 credits per Higgsfield balance (988.1 -> 890.1). Remaining under 300 cap: 202.
+- Spent: 118 credits per Higgsfield balance (988.1 -> 870.1). Remaining under the 300 cap for characters+bible art: 182.
 
 ## Cast turnarounds (round 1, soft-3D, Ollie sheet as style reference) - awaiting picks
 Files: characters/<name>/candidates/turnaround_v1|v2.png
