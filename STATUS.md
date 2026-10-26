@@ -37,3 +37,12 @@ My read: v3 is the best otter silhouette but needs fixes (lavender limbs, whiske
 
 ## Cost (character-sheet cap: 300 credits)
 - Spent: 40 credits (32 round 1 + 8 round 2). Remaining under cap: 260. Account balance started at 988.1.
+
+## Cast turnarounds (round 1, soft-3D, Ollie sheet as style reference) - awaiting picks
+Files: characters/<name>/candidates/turnaround_v1|v2.png
+- Pip: v1 0833f3d3-a300-474d-9c8d-7003e7164204, v2 26206c55-ccfb-4d9a-ac6f-12ed8c2ad213
+- Gran Mari: v1 d6283700-d8f1-45dd-b213-8fdae8c02574, v2 7ae61477-8fa1-4076-9007-9f5141ddd3d8
+- Gus: v1 311bb899-c4c6-462d-ac73-c950477f04c3, v2 a8139f0f-4c4a-4732-97a0-5be11b2b0680
+- Bean: v1 999f3d2c-d605-4aa4-8567-8a7f8890a07c, v2 5d0c0d69-8993-4918-b836-7d87966b3f02
+- Luna: v1 573be74e-9eb5-4fbc-9088-76d3c32d5594, v2 5b3bea12-b549-4d94-a683-36bd89151c38
+Known gaps: Bean not floating on her back (both upright); Luna glow steps (dim/bright/sparkle) not yet made; expression sheets for the five not yet made.
