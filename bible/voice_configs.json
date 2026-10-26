@@ -1,0 +1,45 @@
+{
+  "_note": "Provider voice_ids are TBD. Pick once, save, never change. Candidates via ElevenLabs or Higgsfield create_voice/list_voices.",
+  "ollie": {
+    "character": "Ollie",
+    "description": "Bright, warm, mid-pitch child voice, 6 years old, curious and eager",
+    "pace": "medium-fast",
+    "signature": "Let's find out!",
+    "voice_id": null
+  },
+  "pip": {
+    "character": "Pip",
+    "description": "Small, quick, slightly nervous high child voice",
+    "pace": "fast, hesitant",
+    "signature": "What if we try it the careful way?",
+    "voice_id": null
+  },
+  "gran_mari": {
+    "character": "Gran Mari",
+    "description": "Slow, warm, slightly raspy grandmother",
+    "pace": "slow",
+    "signature": "Well now, what do you think happens next?",
+    "voice_id": null
+  },
+  "gus": {
+    "character": "Gus",
+    "description": "Fast, nasal, excitable, comic",
+    "pace": "very fast",
+    "signature": "I've got a faster way!",
+    "voice_id": null
+  },
+  "bean": {
+    "character": "Bean",
+    "description": "Toddler babble plus one clear key word per episode",
+    "pace": "slow, sing-song",
+    "signature": "(episode key word)",
+    "voice_id": null
+  },
+  "luna": {
+    "character": "Luna",
+    "description": "No speech. Soft hum; three rising piano notes on sparkle",
+    "pace": "n/a",
+    "signature": "three ascending piano notes",
+    "voice_id": null
+  }
+}
