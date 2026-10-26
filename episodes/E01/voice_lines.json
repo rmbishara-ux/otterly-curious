@@ -1,0 +1,436 @@
+[
+ {
+  "idx": 0,
+  "shot": "E01-S001",
+  "line": 1,
+  "char": "ollie",
+  "text": "Good morning, Pip! Race you to the water!"
+ },
+ {
+  "idx": 1,
+  "shot": "E01-S003",
+  "line": 1,
+  "char": "pip",
+  "text": "Ollie, the water is gone!"
+ },
+ {
+  "idx": 2,
+  "shot": "E01-S003",
+  "line": 2,
+  "char": "ollie",
+  "text": "It was right here yesterday!"
+ },
+ {
+  "idx": 3,
+  "shot": "E01-S004",
+  "line": 1,
+  "char": "ollie",
+  "text": "Why does the water go away?"
+ },
+ {
+  "idx": 4,
+  "shot": "E01-S005",
+  "line": 1,
+  "char": "ollie",
+  "text": "Let's find out!"
+ },
+ {
+  "idx": 5,
+  "shot": "E01-S014",
+  "line": 1,
+  "char": "pip",
+  "text": "Maybe the sea is hiding."
+ },
+ {
+  "idx": 6,
+  "shot": "E01-S014",
+  "line": 2,
+  "char": "ollie",
+  "text": "Maybe it went on a trip!"
+ },
+ {
+  "idx": 7,
+  "shot": "E01-S015",
+  "line": 1,
+  "char": "pip",
+  "text": "Even the snails are leaving."
+ },
+ {
+  "idx": 8,
+  "shot": "E01-S016",
+  "line": 1,
+  "char": "gus",
+  "text": "I know! The sea ran away. Easy!"
+ },
+ {
+  "idx": 9,
+  "shot": "E01-S016",
+  "line": 2,
+  "char": "ollie",
+  "text": "Why would the sea run away?"
+ },
+ {
+  "idx": 10,
+  "shot": "E01-S016",
+  "line": 3,
+  "char": "gus",
+  "text": "Maybe it got bored. Or hungry!"
+ },
+ {
+  "idx": 11,
+  "shot": "E01-S017",
+  "line": 1,
+  "char": "pip",
+  "text": "I don't think seas get hungry."
+ },
+ {
+  "idx": 12,
+  "shot": "E01-S018",
+  "line": 1,
+  "char": "ollie",
+  "text": "The sand is shaped like waves. So the water was here!"
+ },
+ {
+  "idx": 13,
+  "shot": "E01-S019",
+  "line": 1,
+  "char": "ollie",
+  "text": "I'll go find it. Follow me!"
+ },
+ {
+  "idx": 14,
+  "shot": "E01-S020",
+  "line": 1,
+  "char": "pip",
+  "text": "Ollie, wait! Bean is still back there!"
+ },
+ {
+  "idx": 15,
+  "shot": "E01-S021",
+  "line": 1,
+  "char": "ollie",
+  "text": "Oops. Sorry, Bean. Let's go together."
+ },
+ {
+  "idx": 16,
+  "shot": "E01-S022",
+  "line": 1,
+  "char": "gus",
+  "text": "Ha! I've got a faster way!"
+ },
+ {
+  "idx": 17,
+  "shot": "E01-S022",
+  "line": 2,
+  "char": "pip",
+  "text": "Gus, your faster ways always go wrong."
+ },
+ {
+  "idx": 18,
+  "shot": "E01-S022",
+  "line": 3,
+  "char": "gus",
+  "text": "Not this time! We bring the sea back ourselves!"
+ },
+ {
+  "idx": 19,
+  "shot": "E01-S023",
+  "line": 1,
+  "char": "ollie",
+  "text": "How, Gus?"
+ },
+ {
+  "idx": 20,
+  "shot": "E01-S023",
+  "line": 2,
+  "char": "gus",
+  "text": "Buckets! Lots and lots of buckets!"
+ },
+ {
+  "idx": 21,
+  "shot": "E01-S025",
+  "line": 1,
+  "char": "pip",
+  "text": "What if we try it the careful way?"
+ },
+ {
+  "idx": 22,
+  "shot": "E01-S025",
+  "line": 2,
+  "char": "ollie",
+  "text": "Let's watch Gus try first. Then we ask Gran Mari."
+ },
+ {
+  "idx": 23,
+  "shot": "E01-S027",
+  "line": 1,
+  "char": "gus",
+  "text": "See? One bucket, one big splash!"
+ },
+ {
+  "idx": 24,
+  "shot": "E01-S028",
+  "line": 1,
+  "char": "gus",
+  "text": "Hey! Where did it go?"
+ },
+ {
+  "idx": 25,
+  "shot": "E01-S029",
+  "line": 1,
+  "char": "gus",
+  "text": "Whoa, whoa, whoaaa!"
+ },
+ {
+  "idx": 26,
+  "shot": "E01-S031",
+  "line": 1,
+  "char": "pip",
+  "text": "Are you okay, Gus?"
+ },
+ {
+  "idx": 27,
+  "shot": "E01-S031",
+  "line": 2,
+  "char": "gus",
+  "text": "I'm fine! I did that on purpose!"
+ },
+ {
+  "idx": 28,
+  "shot": "E01-S031",
+  "line": 3,
+  "char": "ollie",
+  "text": "Did you slip, Gus?"
+ },
+ {
+  "idx": 29,
+  "shot": "E01-S032",
+  "line": 1,
+  "char": "gus",
+  "text": "No! I was testing the water. It's wet. Very wet."
+ },
+ {
+  "idx": 30,
+  "shot": "E01-S033",
+  "line": 1,
+  "char": "ollie",
+  "text": "Your bucket water sank into the sand."
+ },
+ {
+  "idx": 31,
+  "shot": "E01-S033",
+  "line": 2,
+  "char": "gus",
+  "text": "It was already wet, so it doesn't count!"
+ },
+ {
+  "idx": 32,
+  "shot": "E01-S033",
+  "line": 3,
+  "char": "pip",
+  "text": "Maybe buckets can't bring the sea back."
+ },
+ {
+  "idx": 33,
+  "shot": "E01-S035",
+  "line": 1,
+  "char": "ollie",
+  "text": "We need help. Let's ask Gran Mari."
+ },
+ {
+  "idx": 34,
+  "shot": "E01-S036",
+  "line": 1,
+  "char": "gran_mari",
+  "text": "Well now, a soggy seagull and a worried otter. What's all this?"
+ },
+ {
+  "idx": 35,
+  "shot": "E01-S036",
+  "line": 2,
+  "char": "ollie",
+  "text": "Gran Mari, why does the water go away?"
+ },
+ {
+  "idx": 36,
+  "shot": "E01-S036",
+  "line": 3,
+  "char": "gran_mari",
+  "text": "Oh, that is a good question, Ollie. Let's find out together."
+ },
+ {
+  "idx": 37,
+  "shot": "E01-S038",
+  "line": 1,
+  "char": "gran_mari",
+  "text": "This bowl is a pretend ocean. Watch the water, and watch slowly."
+ },
+ {
+  "idx": 38,
+  "shot": "E01-S039",
+  "line": 1,
+  "char": "ollie",
+  "text": "It moves! High on one side, low on the other!"
+ },
+ {
+  "idx": 39,
+  "shot": "E01-S040",
+  "line": 1,
+  "char": "gran_mari",
+  "text": "See the moon? It pulls on the sea, just a little. Like a very gentle tug."
+ },
+ {
+  "idx": 40,
+  "shot": "E01-S040",
+  "line": 2,
+  "char": "pip",
+  "text": "So the moon makes the water go up and down?"
+ },
+ {
+  "idx": 41,
+  "shot": "E01-S040",
+  "line": 3,
+  "char": "gran_mari",
+  "text": "Yes. The water rises up the beach. Then it slides back out. Two times every day."
+ },
+ {
+  "idx": 42,
+  "shot": "E01-S041",
+  "line": 1,
+  "char": "ollie",
+  "text": "The water didn't run away! It's just out for a while!"
+ },
+ {
+  "idx": 43,
+  "shot": "E01-S043",
+  "line": 1,
+  "char": "gus",
+  "text": "So how long until it comes back?"
+ },
+ {
+  "idx": 44,
+  "shot": "E01-S043",
+  "line": 2,
+  "char": "gran_mari",
+  "text": "Well now, what do you think happens next?"
+ },
+ {
+  "idx": 45,
+  "shot": "E01-S043",
+  "line": 3,
+  "char": "ollie",
+  "text": "It slides back to the beach!"
+ },
+ {
+  "idx": 46,
+  "shot": "E01-S044",
+  "line": 1,
+  "char": "gran_mari",
+  "text": "The sea keeps its own clock. We can't hurry it. But we can watch it."
+ },
+ {
+  "idx": 47,
+  "shot": "E01-S046",
+  "line": 1,
+  "char": "ollie",
+  "text": "Try it at home! Put water in a bowl. Tilt it very slowly. Watch the water climb one side. Watch it slide away from the other."
+ },
+ {
+  "idx": 48,
+  "shot": "E01-S047",
+  "line": 1,
+  "char": "ollie",
+  "text": "This is our water line. We wait and we watch."
+ },
+ {
+  "idx": 49,
+  "shot": "E01-S051",
+  "line": 1,
+  "char": "gus",
+  "text": "I can't wait anymore! I'll go get the sea myself!"
+ },
+ {
+  "idx": 50,
+  "shot": "E01-S051",
+  "line": 2,
+  "char": "bean",
+  "text": "Wait!"
+ },
+ {
+  "idx": 51,
+  "shot": "E01-S052",
+  "line": 1,
+  "char": "gus",
+  "text": "Okay, okay. I fibbed before. My bucket water didn't count. It all sank away."
+ },
+ {
+  "idx": 52,
+  "shot": "E01-S052",
+  "line": 2,
+  "char": "gus",
+  "text": "I'm sorry I said it was already wet."
+ },
+ {
+  "idx": 53,
+  "shot": "E01-S052",
+  "line": 3,
+  "char": "ollie",
+  "text": "Thanks for telling us the truth, Gus."
+ },
+ {
+  "idx": 54,
+  "shot": "E01-S054",
+  "line": 1,
+  "char": "pip",
+  "text": "It came back all by itself!"
+ },
+ {
+  "idx": 55,
+  "shot": "E01-S054",
+  "line": 2,
+  "char": "ollie",
+  "text": "Gran Mari was right! We waited and watched!"
+ },
+ {
+  "idx": 56,
+  "shot": "E01-S056",
+  "line": 1,
+  "char": "ollie",
+  "text": "Time for my Wonder Pocket! Three things we learned."
+ },
+ {
+  "idx": 57,
+  "shot": "E01-S058",
+  "line": 1,
+  "char": "ollie",
+  "text": "One. The moon gently pulls on the sea."
+ },
+ {
+  "idx": 58,
+  "shot": "E01-S059",
+  "line": 1,
+  "char": "ollie",
+  "text": "Two. The water goes up and down two times a day."
+ },
+ {
+  "idx": 59,
+  "shot": "E01-S060",
+  "line": 1,
+  "char": "ollie",
+  "text": "Three. The sea always comes back. We just have to wait."
+ },
+ {
+  "idx": 60,
+  "shot": "E01-S061",
+  "line": 1,
+  "char": "ollie",
+  "text": "And one kind thing to try today. Wait for a friend."
+ },
+ {
+  "idx": 61,
+  "shot": "E01-S062",
+  "line": 1,
+  "char": "gus",
+  "text": "Bye, everybody! Next time, I'll wait too!"
+ }
+]

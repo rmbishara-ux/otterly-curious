@@ -23,11 +23,61 @@ def ffprobe_dur(p):
     return float(r.stdout.strip() or 0)
 
 
+def still_id(s):
+    return s.get("still_of", s["id"])
+
+
+def split_long(ep, max_len=11.0):
+    """Cut long multi-line dialogue shots into cut-ins that reuse the parent still (no extra image cost)."""
+    sb = load_sb(ep)
+    out, n_split = [], 0
+    for s in sb["shots"]:
+        if s["duration"] <= max_len or len(s["dialogue"]) < 2 or s.get("still_of"):
+            out.append(s)
+            continue
+        groups, cur, t = [], [], 0.5
+        for l in s["dialogue"]:
+            ln = l.get("length", 2.0) + 0.4
+            if cur and t + ln > max_len:
+                groups.append(cur)
+                cur, t = [], 0.5
+            cur.append(l)
+            t += ln
+        groups.append(cur)
+        if len(groups) < 2:
+            out.append(s)
+            continue
+        n_split += 1
+        for gi, g in enumerate(groups):
+            t = 0.5
+            for l in g:
+                l["start"] = round(t, 2)
+                t += l.get("length", 2.0) + 0.4
+            ns = dict(s)
+            ns["dialogue"] = g
+            ns["duration"] = round(t + 0.6, 2)
+            ns["tags"] = list(s["tags"])
+            if gi:
+                ns["id"] = s["id"] + chr(ord("a") + gi)
+                ns["still_of"] = s["id"]
+                ns["camera"] = "close" if s["camera"] != "close" else "slow_push"
+                ns["action"] = s["action"]
+                ns["text_overlay"] = None
+            out.append(ns)
+    sb["shots"] = out
+    sb["shot_count"] = len(out)
+    sb["total_seconds"] = round(sum(x["duration"] for x in out), 1)
+    write_json(sb_path(ep), sb)
+    print(f"split_long: {n_split} shots split -> {len(out)} shots, {sb['total_seconds']}s")
+
+
 def run_images(ep):
     d, sb, cache, log, ad = ep_dir(ep), load_sb(ep), None, CostLog(ep), adapters.get("image", ep)
     cache = Cache(ep)
     pending = 0
     for s in sb["shots"]:
+        if s.get("still_of"):
+            continue
         out = d / "shots" / f"{s['id']}.png"
         req = shot_prompt(s)
         if cache.hit(f"img:{s['id']}", req, out):
@@ -57,7 +107,7 @@ def run_animate(ep):
     ad = adapters.get("video", ep)
     n_ai = n_kb = pending = 0
     for s in sb["shots"]:
-        still, out = d / "shots" / f"{s['id']}.png", d / "shots" / f"{s['id']}.mp4"
+        still, out = d / "shots" / f"{still_id(s)}.png", d / "shots" / f"{s['id']}.mp4"
         if not still.exists():
             continue
         req = {"image": str(still), "motion": motion_prompt(s), "seconds": s["duration"], "seed": stable_seed(s["id"], "vid")}

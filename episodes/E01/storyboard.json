@@ -3,8 +3,8 @@
   "title": "E01: Ollie and the Vanishing Water",
   "big_question": "Why does the water go away?",
   "value": "Patience",
-  "shot_count": 64,
-  "total_seconds": 406.9,
+  "shot_count": 71,
+  "total_seconds": 466.2,
   "shots": [
     {
       "beat": 1,
@@ -21,7 +21,10 @@
         {
           "char": "ollie",
           "emotion": "happy",
-          "text": "Good morning, Pip! Race you to the water!"
+          "text": "Good morning, Pip! Race you to the water!",
+          "file": "episodes/E01/audio/E01-S001_L1.wav",
+          "length": 2.78,
+          "start": 0.5
         }
       ],
       "duration": 4.88,
@@ -64,15 +67,21 @@
         {
           "char": "pip",
           "emotion": "surprised",
-          "text": "Ollie, the water is gone!"
+          "text": "Ollie, the water is gone!",
+          "file": "episodes/E01/audio/E01-S003_L1.wav",
+          "length": 2.96,
+          "start": 0.5
         },
         {
           "char": "ollie",
           "emotion": "curious",
-          "text": "It was right here yesterday!"
+          "text": "It was right here yesterday!",
+          "file": "episodes/E01/audio/E01-S003_L2.wav",
+          "length": 1.67,
+          "start": 3.86
         }
       ],
-      "duration": 6.45,
+      "duration": 6.53,
       "music_mood": "play",
       "luna_glow": null,
       "tags": [],
@@ -94,7 +103,10 @@
         {
           "char": "ollie",
           "emotion": "curious",
-          "text": "Why does the water go away?"
+          "text": "Why does the water go away?",
+          "file": "episodes/E01/audio/E01-S004_L1.wav",
+          "length": 1.86,
+          "start": 0.5
         }
       ],
       "duration": 5.0,
@@ -120,10 +132,13 @@
         {
           "char": "ollie",
           "emotion": "excited",
-          "text": "Let's find out!"
+          "text": "Let's find out!",
+          "file": "episodes/E01/audio/E01-S005_L1.wav",
+          "length": 2.63,
+          "start": 0.5
         }
       ],
-      "duration": 4.0,
+      "duration": 4.13,
       "music_mood": "play",
       "luna_glow": "dim",
       "tags": [],
@@ -323,15 +338,21 @@
         {
           "char": "pip",
           "emotion": "worried",
-          "text": "Maybe the sea is hiding."
+          "text": "Maybe the sea is hiding.",
+          "file": "episodes/E01/audio/E01-S014_L1.wav",
+          "length": 3.32,
+          "start": 0.5
         },
         {
           "char": "ollie",
           "emotion": "curious",
-          "text": "Maybe it went on a trip!"
+          "text": "Maybe it went on a trip!",
+          "file": "episodes/E01/audio/E01-S014_L2.wav",
+          "length": 4.18,
+          "start": 4.22
         }
       ],
-      "duration": 6.83,
+      "duration": 9.4,
       "music_mood": "wonder",
       "luna_glow": null,
       "tags": [],
@@ -353,7 +374,10 @@
         {
           "char": "pip",
           "emotion": "curious",
-          "text": "Even the snails are leaving."
+          "text": "Even the snails are leaving.",
+          "file": "episodes/E01/audio/E01-S015_L1.wav",
+          "length": 3.31,
+          "start": 0.5
         }
       ],
       "duration": 5.0,
@@ -379,17 +403,26 @@
         {
           "char": "gus",
           "emotion": "excited",
-          "text": "I know! The sea ran away. Easy!"
+          "text": "I know! The sea ran away. Easy!",
+          "file": "episodes/E01/audio/E01-S016_L1.wav",
+          "length": 3.51,
+          "start": 0.5
         },
         {
           "char": "ollie",
           "emotion": "curious",
-          "text": "Why would the sea run away?"
+          "text": "Why would the sea run away?",
+          "file": "episodes/E01/audio/E01-S016_L2.wav",
+          "length": 2.02,
+          "start": 4.41
         },
         {
           "char": "gus",
           "emotion": "playful",
-          "text": "Maybe it got bored. Or hungry!"
+          "text": "Maybe it got bored. Or hungry!",
+          "file": "episodes/E01/audio/E01-S016_L3.wav",
+          "length": 2.5,
+          "start": 6.83
         }
       ],
       "duration": 10.71,
@@ -415,10 +448,13 @@
         {
           "char": "pip",
           "emotion": "worried",
-          "text": "I don't think seas get hungry."
+          "text": "I don't think seas get hungry.",
+          "file": "episodes/E01/audio/E01-S017_L1.wav",
+          "length": 3.31,
+          "start": 0.5
         }
       ],
-      "duration": 4.11,
+      "duration": 4.81,
       "music_mood": "wonder",
       "luna_glow": null,
       "tags": [],
@@ -441,10 +477,13 @@
         {
           "char": "ollie",
           "emotion": "curious",
-          "text": "The sand is shaped like waves. So the water was here!"
+          "text": "The sand is shaped like waves. So the water was here!",
+          "file": "episodes/E01/audio/E01-S018_L1.wav",
+          "length": 7.03,
+          "start": 0.5
         }
       ],
-      "duration": 6.03,
+      "duration": 8.53,
       "music_mood": "wonder",
       "luna_glow": null,
       "tags": [],
@@ -466,7 +505,10 @@
         {
           "char": "ollie",
           "emotion": "determined",
-          "text": "I'll go find it. Follow me!"
+          "text": "I'll go find it. Follow me!",
+          "file": "episodes/E01/audio/E01-S019_L1.wav",
+          "length": 1.88,
+          "start": 0.5
         }
       ],
       "duration": 4.11,
@@ -493,10 +535,13 @@
         {
           "char": "pip",
           "emotion": "worried",
-          "text": "Ollie, wait! Bean is still back there!"
+          "text": "Ollie, wait! Bean is still back there!",
+          "file": "episodes/E01/audio/E01-S020_L1.wav",
+          "length": 3.64,
+          "start": 0.5
         }
       ],
-      "duration": 4.49,
+      "duration": 5.14,
       "music_mood": "wonder",
       "luna_glow": null,
       "tags": [],
@@ -519,10 +564,13 @@
         {
           "char": "ollie",
           "emotion": "sorry",
-          "text": "Oops. Sorry, Bean. Let's go together."
+          "text": "Oops. Sorry, Bean. Let's go together.",
+          "file": "episodes/E01/audio/E01-S021_L1.wav",
+          "length": 3.8,
+          "start": 0.5
         }
       ],
-      "duration": 4.11,
+      "duration": 5.3,
       "music_mood": "wonder",
       "luna_glow": null,
       "tags": [],
@@ -548,20 +596,21 @@
         {
           "char": "gus",
           "emotion": "excited",
-          "text": "Ha! I've got a faster way!"
+          "text": "Ha! I've got a faster way!",
+          "file": "episodes/E01/audio/E01-S022_L1.wav",
+          "length": 3.18,
+          "start": 0.5
         },
         {
           "char": "pip",
           "emotion": "worried",
-          "text": "Gus, your faster ways always go wrong."
-        },
-        {
-          "char": "gus",
-          "emotion": "playful",
-          "text": "Not this time! We bring the sea back ourselves!"
+          "text": "Gus, your faster ways always go wrong.",
+          "file": "episodes/E01/audio/E01-S022_L2.wav",
+          "length": 2.73,
+          "start": 4.08
         }
       ],
-      "duration": 11.86,
+      "duration": 7.81,
       "music_mood": "wonder",
       "luna_glow": "bright",
       "tags": [],
@@ -578,29 +627,69 @@
         "ollie": "happy",
         "bean": "happy",
         "luna": "calm",
+        "gus": "excited",
+        "pip": "worried"
+      },
+      "action": "Ollie scoops Bean up and tucks her kelp blanket around her. Luna glows brighter.",
+      "camera": "slow_push",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "playful",
+          "text": "Not this time! We bring the sea back ourselves!",
+          "file": "episodes/E01/audio/E01-S022_L3.wav",
+          "length": 4.84,
+          "start": 0.5
+        }
+      ],
+      "duration": 6.34,
+      "music_mood": "wonder",
+      "luna_glow": "bright",
+      "tags": [],
+      "text_overlay": null,
+      "id": "E01-S022b",
+      "book_safe": false,
+      "still_of": "E01-S022"
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy",
+        "bean": "happy",
+        "luna": "calm",
         "gus": "excited"
       },
       "action": "Ollie scoops Bean up and tucks her kelp blanket around her. Luna glows brighter.",
-      "camera": "close",
+      "camera": "slow_push",
       "dialogue": [
         {
           "char": "ollie",
           "emotion": "curious",
-          "text": "How, Gus?"
+          "text": "How, Gus?",
+          "file": "episodes/E01/audio/E01-S023_L1.wav",
+          "length": 2.14,
+          "start": 0.5
         },
         {
           "char": "gus",
           "emotion": "excited",
-          "text": "Buckets! Lots and lots of buckets!"
+          "text": "Buckets! Lots and lots of buckets!",
+          "file": "episodes/E01/audio/E01-S023_L2.wav",
+          "length": 2.84,
+          "start": 3.04
         }
       ],
-      "duration": 5.68,
+      "duration": 6.88,
       "music_mood": "wonder",
       "luna_glow": "bright",
       "tags": [],
       "text_overlay": null,
       "id": "E01-S023",
-      "book_safe": false
+      "still_of": "E01-S022",
+      "book_safe": true
     },
     {
       "beat": 3,
@@ -638,15 +727,21 @@
         {
           "char": "pip",
           "emotion": "curious",
-          "text": "What if we try it the careful way?"
+          "text": "What if we try it the careful way?",
+          "file": "episodes/E01/audio/E01-S025_L1.wav",
+          "length": 2.22,
+          "start": 0.5
         },
         {
           "char": "ollie",
           "emotion": "curious",
-          "text": "Let's watch Gus try first. Then we ask Gran Mari."
+          "text": "Let's watch Gus try first. Then we ask Gran Mari.",
+          "file": "episodes/E01/audio/E01-S025_L2.wav",
+          "length": 5.87,
+          "start": 3.12
         }
       ],
-      "duration": 9.52,
+      "duration": 9.99,
       "music_mood": "wonder",
       "luna_glow": null,
       "tags": [],
@@ -689,10 +784,13 @@
         {
           "char": "gus",
           "emotion": "excited",
-          "text": "See? One bucket, one big splash!"
+          "text": "See? One bucket, one big splash!",
+          "file": "episodes/E01/audio/E01-S027_L1.wav",
+          "length": 3.18,
+          "start": 0.5
         }
       ],
-      "duration": 4.11,
+      "duration": 4.68,
       "music_mood": "uh-oh",
       "luna_glow": null,
       "tags": [
@@ -716,10 +814,13 @@
         {
           "char": "gus",
           "emotion": "worried",
-          "text": "Hey! Where did it go?"
+          "text": "Hey! Where did it go?",
+          "file": "episodes/E01/audio/E01-S028_L1.wav",
+          "length": 3.19,
+          "start": 0.5
         }
       ],
-      "duration": 4.0,
+      "duration": 4.69,
       "music_mood": "uh-oh",
       "luna_glow": null,
       "tags": [
@@ -743,7 +844,10 @@
         {
           "char": "gus",
           "emotion": "surprised",
-          "text": "Whoa, whoa, whoaaa!"
+          "text": "Whoa, whoa, whoaaa!",
+          "file": "episodes/E01/audio/E01-S029_L1.wav",
+          "length": 2.47,
+          "start": 0.5
         }
       ],
       "duration": 4.0,
@@ -795,20 +899,29 @@
         {
           "char": "pip",
           "emotion": "surprised",
-          "text": "Are you okay, Gus?"
+          "text": "Are you okay, Gus?",
+          "file": "episodes/E01/audio/E01-S031_L1.wav",
+          "length": 1.49,
+          "start": 0.5
         },
         {
           "char": "gus",
           "emotion": "excited",
-          "text": "I'm fine! I did that on purpose!"
+          "text": "I'm fine! I did that on purpose!",
+          "file": "episodes/E01/audio/E01-S031_L2.wav",
+          "length": 3.84,
+          "start": 2.39
         },
         {
           "char": "ollie",
           "emotion": "curious",
-          "text": "Did you slip, Gus?"
+          "text": "Did you slip, Gus?",
+          "file": "episodes/E01/audio/E01-S031_L3.wav",
+          "length": 3.4,
+          "start": 6.63
         }
       ],
-      "duration": 9.17,
+      "duration": 11.03,
       "music_mood": "uh-oh",
       "luna_glow": "dim",
       "tags": [
@@ -831,21 +944,25 @@
         "gus": "worried"
       },
       "action": "Ollie, Pip, and Bean try very hard not to giggle. Luna wobbles with a tiny glow.",
-      "camera": "close",
+      "camera": "slow_push",
       "dialogue": [
         {
           "char": "gus",
           "emotion": "worried",
-          "text": "No! I was testing the water. It's wet. Very wet."
+          "text": "No! I was testing the water. It's wet. Very wet.",
+          "file": "episodes/E01/audio/E01-S032_L1.wav",
+          "length": 4.55,
+          "start": 0.5
         }
       ],
-      "duration": 5.65,
+      "duration": 6.05,
       "music_mood": "uh-oh",
       "luna_glow": "dim",
       "tags": [],
       "text_overlay": null,
       "id": "E01-S032",
-      "book_safe": false
+      "still_of": "E01-S031",
+      "book_safe": true
     },
     {
       "beat": 4,
@@ -863,17 +980,26 @@
         {
           "char": "ollie",
           "emotion": "curious",
-          "text": "Your bucket water sank into the sand."
+          "text": "Your bucket water sank into the sand.",
+          "file": "episodes/E01/audio/E01-S033_L1.wav",
+          "length": 2.15,
+          "start": 0.5
         },
         {
           "char": "gus",
           "emotion": "worried",
-          "text": "It was already wet, so it doesn't count!"
+          "text": "It was already wet, so it doesn't count!",
+          "file": "episodes/E01/audio/E01-S033_L2.wav",
+          "length": 2.38,
+          "start": 3.05
         },
         {
           "char": "pip",
           "emotion": "curious",
-          "text": "Maybe buckets can't bring the sea back."
+          "text": "Maybe buckets can't bring the sea back.",
+          "file": "episodes/E01/audio/E01-S033_L3.wav",
+          "length": 2.57,
+          "start": 5.83
         }
       ],
       "duration": 11.86,
@@ -917,10 +1043,13 @@
         {
           "char": "ollie",
           "emotion": "worried",
-          "text": "We need help. Let's ask Gran Mari."
+          "text": "We need help. Let's ask Gran Mari.",
+          "file": "episodes/E01/audio/E01-S035_L1.wav",
+          "length": 4.55,
+          "start": 0.5
         }
       ],
-      "duration": 4.49,
+      "duration": 6.05,
       "music_mood": "uh-oh",
       "luna_glow": null,
       "tags": [],
@@ -943,26 +1072,79 @@
         {
           "char": "gran_mari",
           "emotion": "happy",
-          "text": "Well now, a soggy seagull and a worried otter. What's all this?"
-        },
-        {
-          "char": "ollie",
-          "emotion": "curious",
-          "text": "Gran Mari, why does the water go away?"
-        },
-        {
-          "char": "gran_mari",
-          "emotion": "happy",
-          "text": "Oh, that is a good question, Ollie. Let's find out together."
+          "text": "Well now, a soggy seagull and a worried otter. What's all this?",
+          "file": "episodes/E01/audio/E01-S036_L1.wav",
+          "length": 8.39,
+          "start": 0.5
         }
       ],
-      "duration": 15.32,
+      "duration": 9.89,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [],
       "text_overlay": null,
       "id": "E01-S036",
       "book_safe": true
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "gran_mari": "happy",
+        "ollie": "curious"
+      },
+      "action": "The friends climb the path to the lighthouse. Gran Mari rocks on her porch, knitting, her coral scarf swinging.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "Gran Mari, why does the water go away?",
+          "file": "episodes/E01/audio/E01-S036_L2.wav",
+          "length": 5.04,
+          "start": 0.5
+        }
+      ],
+      "duration": 6.54,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E01-S036b",
+      "book_safe": true,
+      "still_of": "E01-S036"
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "gran_mari": "happy",
+        "ollie": "curious"
+      },
+      "action": "The friends climb the path to the lighthouse. Gran Mari rocks on her porch, knitting, her coral scarf swinging.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gran_mari",
+          "emotion": "happy",
+          "text": "Oh, that is a good question, Ollie. Let's find out together.",
+          "file": "episodes/E01/audio/E01-S036_L3.wav",
+          "length": 8.11,
+          "start": 0.5
+        }
+      ],
+      "duration": 9.61,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E01-S036c",
+      "book_safe": true,
+      "still_of": "E01-S036"
     },
     {
       "beat": 5,
@@ -999,10 +1181,13 @@
         {
           "char": "gran_mari",
           "emotion": "calm",
-          "text": "This bowl is a pretend ocean. Watch the water, and watch slowly."
+          "text": "This bowl is a pretend ocean. Watch the water, and watch slowly.",
+          "file": "episodes/E01/audio/E01-S038_L1.wav",
+          "length": 10.57,
+          "start": 0.5
         }
       ],
-      "duration": 6.42,
+      "duration": 12.07,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [],
@@ -1024,7 +1209,10 @@
         {
           "char": "ollie",
           "emotion": "surprised",
-          "text": "It moves! High on one side, low on the other!"
+          "text": "It moves! High on one side, low on the other!",
+          "file": "episodes/E01/audio/E01-S039_L1.wav",
+          "length": 5.4,
+          "start": 0.5
         }
       ],
       "duration": 7.0,
@@ -1050,26 +1238,79 @@
         {
           "char": "gran_mari",
           "emotion": "calm",
-          "text": "See the moon? It pulls on the sea, just a little. Like a very gentle tug."
-        },
-        {
-          "char": "pip",
-          "emotion": "curious",
-          "text": "So the moon makes the water go up and down?"
-        },
-        {
-          "char": "gran_mari",
-          "emotion": "happy",
-          "text": "Yes. The water rises up the beach. Then it slides back out. Two times every day."
+          "text": "See the moon? It pulls on the sea, just a little. Like a very gentle tug.",
+          "file": "episodes/E01/audio/E01-S040_L1.wav",
+          "length": 9.61,
+          "start": 0.5
         }
       ],
-      "duration": 19.55,
+      "duration": 11.11,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [],
       "text_overlay": null,
       "id": "E01-S040",
       "book_safe": true
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "gran_mari": "calm",
+        "pip": "curious"
+      },
+      "action": "A pale moon hangs in the blue morning sky above the lighthouse.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "curious",
+          "text": "So the moon makes the water go up and down?",
+          "file": "episodes/E01/audio/E01-S040_L2.wav",
+          "length": 5.06,
+          "start": 0.5
+        }
+      ],
+      "duration": 6.56,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E01-S040b",
+      "book_safe": true,
+      "still_of": "E01-S040"
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "gran_mari": "calm",
+        "pip": "curious"
+      },
+      "action": "A pale moon hangs in the blue morning sky above the lighthouse.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gran_mari",
+          "emotion": "happy",
+          "text": "Yes. The water rises up the beach. Then it slides back out. Two times every day.",
+          "file": "episodes/E01/audio/E01-S040_L3.wav",
+          "length": 9.61,
+          "start": 0.5
+        }
+      ],
+      "duration": 11.11,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E01-S040c",
+      "book_safe": true,
+      "still_of": "E01-S040"
     },
     {
       "beat": 5,
@@ -1085,7 +1326,10 @@
         {
           "char": "ollie",
           "emotion": "excited",
-          "text": "The water didn't run away! It's just out for a while!"
+          "text": "The water didn't run away! It's just out for a while!",
+          "file": "episodes/E01/audio/E01-S041_L1.wav",
+          "length": 3.57,
+          "start": 0.5
         }
       ],
       "duration": 7.0,
@@ -1138,20 +1382,21 @@
         {
           "char": "gus",
           "emotion": "curious",
-          "text": "So how long until it comes back?"
+          "text": "So how long until it comes back?",
+          "file": "episodes/E01/audio/E01-S043_L1.wav",
+          "length": 3.5,
+          "start": 0.5
         },
         {
           "char": "gran_mari",
           "emotion": "curious",
-          "text": "Well now, what do you think happens next?"
-        },
-        {
-          "char": "ollie",
-          "emotion": "curious",
-          "text": "It slides back to the beach!"
+          "text": "Well now, what do you think happens next?",
+          "file": "episodes/E01/audio/E01-S043_L2.wav",
+          "length": 3.6,
+          "start": 4.4
         }
       ],
-      "duration": 11.48,
+      "duration": 9.0,
       "music_mood": "cozy",
       "luna_glow": "sparkle",
       "tags": [
@@ -1167,6 +1412,41 @@
       "location": "lighthouse_point",
       "time": "morning",
       "characters": {
+        "luna": "happy",
+        "ollie": "happy",
+        "pip": "happy",
+        "gus": "curious",
+        "gran_mari": "curious"
+      },
+      "action": "Luna rises above the bowl and sparkles. Three soft notes ring out.",
+      "camera": "slow_push",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "It slides back to the beach!",
+          "file": "episodes/E01/audio/E01-S043_L3.wav",
+          "length": 4.17,
+          "start": 0.5
+        }
+      ],
+      "duration": 5.67,
+      "music_mood": "cozy",
+      "luna_glow": "sparkle",
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E01-S043b",
+      "book_safe": false,
+      "still_of": "E01-S043"
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
         "gran_mari": "calm"
       },
       "action": "Gran Mari tilts the bowl the other way. The water flows back across the bowl.",
@@ -1175,10 +1455,13 @@
         {
           "char": "gran_mari",
           "emotion": "calm",
-          "text": "The sea keeps its own clock. We can't hurry it. But we can watch it."
+          "text": "The sea keeps its own clock. We can't hurry it. But we can watch it.",
+          "file": "episodes/E01/audio/E01-S044_L1.wav",
+          "length": 7.78,
+          "start": 0.5
         }
       ],
-      "duration": 7.57,
+      "duration": 9.28,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [
@@ -1223,10 +1506,13 @@
         {
           "char": "ollie",
           "emotion": "happy",
-          "text": "Try it at home! Put water in a bowl. Tilt it very slowly. Watch the water climb one side. Watch it slide away from the other."
+          "text": "Try it at home! Put water in a bowl. Tilt it very slowly. Watch the water climb one side. Watch it slide away from the other.",
+          "file": "episodes/E01/audio/E01-S046_L1.wav",
+          "length": 10.6,
+          "start": 0.5
         }
       ],
-      "duration": 11.8,
+      "duration": 12.1,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [
@@ -1250,10 +1536,13 @@
         {
           "char": "ollie",
           "emotion": "determined",
-          "text": "This is our water line. We wait and we watch."
+          "text": "This is our water line. We wait and we watch.",
+          "file": "episodes/E01/audio/E01-S047_L1.wav",
+          "length": 6.17,
+          "start": 0.5
         }
       ],
-      "duration": 5.65,
+      "duration": 7.67,
       "music_mood": "triumph",
       "luna_glow": null,
       "tags": [],
@@ -1337,15 +1626,21 @@
         {
           "char": "gus",
           "emotion": "excited",
-          "text": "I can't wait anymore! I'll go get the sea myself!"
+          "text": "I can't wait anymore! I'll go get the sea myself!",
+          "file": "episodes/E01/audio/E01-S051_L1.wav",
+          "length": 4.84,
+          "start": 0.5
         },
         {
           "char": "bean",
           "emotion": "worried",
-          "text": "Wait!"
+          "text": "Wait!",
+          "file": "episodes/E01/audio/E01-S051_L2.wav",
+          "length": 2.03,
+          "start": 5.74
         }
       ],
-      "duration": 6.83,
+      "duration": 8.77,
       "music_mood": "triumph",
       "luna_glow": null,
       "tags": [],
@@ -1369,26 +1664,58 @@
         {
           "char": "gus",
           "emotion": "sorry",
-          "text": "Okay, okay. I fibbed before. My bucket water didn't count. It all sank away."
+          "text": "Okay, okay. I fibbed before. My bucket water didn't count. It all sank away.",
+          "file": "episodes/E01/audio/E01-S052_L1.wav",
+          "length": 5.82,
+          "start": 0.5
         },
         {
           "char": "gus",
           "emotion": "sorry",
-          "text": "I'm sorry I said it was already wet."
-        },
-        {
-          "char": "ollie",
-          "emotion": "happy",
-          "text": "Thanks for telling us the truth, Gus."
+          "text": "I'm sorry I said it was already wet.",
+          "file": "episodes/E01/audio/E01-S052_L2.wav",
+          "length": 2.16,
+          "start": 6.72
         }
       ],
-      "duration": 14.55,
+      "duration": 9.88,
       "music_mood": "triumph",
       "luna_glow": null,
       "tags": [],
       "text_overlay": null,
       "id": "E01-S052",
       "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "driftwood_playground",
+      "time": "golden_hour",
+      "characters": {
+        "gus": "surprised",
+        "bean": "curious",
+        "ollie": "happy"
+      },
+      "action": "Gus freezes mid-step, one red sneaker in the air. Everyone looks at Bean.",
+      "camera": "slow_push",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Thanks for telling us the truth, Gus.",
+          "file": "episodes/E01/audio/E01-S052_L3.wav",
+          "length": 2.26,
+          "start": 0.5
+        }
+      ],
+      "duration": 3.76,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E01-S052b",
+      "book_safe": false,
+      "still_of": "E01-S052"
     },
     {
       "beat": 6,
@@ -1425,15 +1752,21 @@
         {
           "char": "pip",
           "emotion": "happy",
-          "text": "It came back all by itself!"
+          "text": "It came back all by itself!",
+          "file": "episodes/E01/audio/E01-S054_L1.wav",
+          "length": 3.32,
+          "start": 0.5
         },
         {
           "char": "ollie",
           "emotion": "excited",
-          "text": "Gran Mari was right! We waited and watched!"
+          "text": "Gran Mari was right! We waited and watched!",
+          "file": "episodes/E01/audio/E01-S054_L2.wav",
+          "length": 4.54,
+          "start": 4.22
         }
       ],
-      "duration": 7.98,
+      "duration": 9.76,
       "music_mood": "triumph",
       "luna_glow": "sparkle",
       "tags": [],
@@ -1477,10 +1810,13 @@
         {
           "char": "ollie",
           "emotion": "happy",
-          "text": "Time for my Wonder Pocket! Three things we learned."
+          "text": "Time for my Wonder Pocket! Three things we learned.",
+          "file": "episodes/E01/audio/E01-S056_L1.wav",
+          "length": 5.76,
+          "start": 0.5
         }
       ],
-      "duration": 5.26,
+      "duration": 7.26,
       "music_mood": "cozy",
       "luna_glow": "bright",
       "tags": [],
@@ -1521,10 +1857,13 @@
         {
           "char": "ollie",
           "emotion": "happy",
-          "text": "One. The moon gently pulls on the sea."
+          "text": "One. The moon gently pulls on the sea.",
+          "file": "episodes/E01/audio/E01-S058_L1.wav",
+          "length": 4.17,
+          "start": 0.5
         }
       ],
-      "duration": 4.88,
+      "duration": 5.67,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [],
@@ -1546,10 +1885,13 @@
         {
           "char": "ollie",
           "emotion": "happy",
-          "text": "Two. The water goes up and down two times a day."
+          "text": "Two. The water goes up and down two times a day.",
+          "file": "episodes/E01/audio/E01-S059_L1.wav",
+          "length": 5.03,
+          "start": 0.5
         }
       ],
-      "duration": 6.03,
+      "duration": 6.53,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [],
@@ -1571,10 +1913,13 @@
         {
           "char": "ollie",
           "emotion": "proud",
-          "text": "Three. The sea always comes back. We just have to wait."
+          "text": "Three. The sea always comes back. We just have to wait.",
+          "file": "episodes/E01/audio/E01-S060_L1.wav",
+          "length": 6.17,
+          "start": 0.5
         }
       ],
-      "duration": 6.03,
+      "duration": 7.67,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [],
@@ -1597,7 +1942,10 @@
         {
           "char": "ollie",
           "emotion": "happy",
-          "text": "And one kind thing to try today. Wait for a friend."
+          "text": "And one kind thing to try today. Wait for a friend.",
+          "file": "episodes/E01/audio/E01-S061_L1.wav",
+          "length": 4.28,
+          "start": 0.5
         }
       ],
       "duration": 6.03,
@@ -1626,10 +1974,13 @@
         {
           "char": "gus",
           "emotion": "happy",
-          "text": "Bye, everybody! Next time, I'll wait too!"
+          "text": "Bye, everybody! Next time, I'll wait too!",
+          "file": "episodes/E01/audio/E01-S062_L1.wav",
+          "length": 4.84,
+          "start": 0.5
         }
       ],
-      "duration": 4.49,
+      "duration": 6.34,
       "music_mood": "cozy",
       "luna_glow": "sparkle",
       "tags": [],

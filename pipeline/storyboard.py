@@ -61,6 +61,12 @@ def build(ep):
     for (loc, tm, chars, act, cam, dur) in OUTRO:
         add(beat=7, beat_name="Outro", location=loc, time=TIME_NAMES.get(tm, tm), characters=chars, action=act, camera=cam,
             dialogue=[], duration=float(dur), music_mood="cozy", luna_glow="bright" if "luna" in chars else None, tags=["outro"], text_overlay=None)
+    # continued shots (3+ lines under one action) are cut-ins on the previous still
+    for i, s in enumerate(shots):
+        if s.get("continued") and i > 0:
+            prev = shots[i - 1]
+            s["still_of"] = prev.get("still_of", prev["id"])
+            s["camera"] = "close" if prev["camera"] != "close" else "slow_push"
     # durations: speech-driven for dialogue shots
     for s in shots:
         if s["duration"] == 0.0:

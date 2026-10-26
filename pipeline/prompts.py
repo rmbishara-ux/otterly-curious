@@ -39,3 +39,29 @@ def shot_prompt(shot):
 def motion_prompt(shot):
     return (f"{CAMERA.get(shot['camera'], 'static')}, gentle character motion in simple arcs, soft blinking and breathing, "
             f"{shot['action'][:140]} Keep characters on model, no morphing, no new characters.")
+
+
+NAMES = {"ollie": "Ollie the sea otter", "pip": "Pip the hermit crab in his teacup", "gran_mari": "Gran Mari the pelican", "gus": "Gus the seagull",
+         "bean": "Bean the baby otter", "luna": "Luna the glowing jellyfish"}
+
+
+def compact_request(shot):
+    """Short prompt for providers that take reference images (the look comes from the references, not from text)."""
+    import json
+    reg = json.loads((ROOT / "bible" / "reference_jobs.json").read_text())
+    chars = ", ".join(f"{NAMES[c]} ({e})" for c, e in shot["characters"].items())
+    glow = GLOW.get(shot["luna_glow"], "")
+    cam = CAMERA.get(shot["camera"], shot["camera"])
+    scene = LOC_SHORT[shot["location"]]
+    prompt = (f"Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. "
+              f"Scene: {scene}, {TIME_SHORT.get(shot['time'], shot['time'])}. Characters (match references exactly): {chars}. "
+              f"Action: {shot['action'] or 'the characters react to each other'} {glow}. Camera: {cam}. 16:9. No text, no humans, no logos.")
+    refs = [reg["characters"][c] for c in shot["characters"]] + [reg["plates"][shot["location"]]]
+    return {"prompt": prompt, "refs": refs, "seed": stable_seed(shot["id"], "img")}
+
+
+LOC_SHORT = {
+    "kelp_shallows": "sunny underwater kelp forest in a rocky cove", "tide_pools": "sunny rocky shore with tide pools and wet sand, the sea far away",
+    "lighthouse_point": "grassy point with a red-and-white striped lighthouse, wooden porch and rocking chair, harbor behind",
+    "driftwood_playground": "sandy beach playground of smooth driftwood, calm sea behind", "wonder_shed": "cozy beached rowboat clubhouse under a patchwork tarp with string lights and shelves of shells"}
+TIME_SHORT = {"morning": "bright morning light", "golden_hour": "warm golden-hour light", "golden": "warm golden-hour light", "night": "soft moonlit night, still cozy"}

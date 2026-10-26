@@ -40,6 +40,7 @@ def main():
             if stages.run_images(ep):
                 sys.exit("images queued in episodes/%s/queue/; fulfil them, then re-run" % ep)
         elif st == "animate":
+            stages.split_long(ep)
             stages.run_animate(ep)
         elif st == "voice":
             stages.run_voice(ep)

@@ -24,7 +24,7 @@ def drift_check(ep, sb):
     flags = []
     d = ep_dir(ep)
     for s in sb["shots"]:
-        p = d / "shots" / f"{s['id']}.png"
+        p = d / "shots" / f"{s.get('still_of', s['id'])}.png"
         if not p.exists():
             flags.append({"shot": s["id"], "issue": "missing still"})
             continue
@@ -43,7 +43,7 @@ def style_check(ep, sb, sample=12):
     shots = sb["shots"][:: max(1, len(sb["shots"]) // sample)]
     bad = []
     for s in shots:
-        p = d / "shots" / f"{s['id']}.png"
+        p = d / "shots" / f"{s.get('still_of', s['id'])}.png"
         if not p.exists():
             continue
         g = np.asarray(Image.open(p).convert("L").resize((240, 135)), dtype=np.float32) / 255
