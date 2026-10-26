@@ -150,7 +150,9 @@ def run_voice(ep):
             ext = "mp3" if ad.name == "elevenlabs" else "wav"
             out = d / "audio" / f"{s['id']}_L{i+1}.{ext}"
             req = {"char": l["char"], "emotion": l["emotion"], "text": l["text"]}
-            if not cache.hit(f"voice:{s['id']}:{i}", req, out):
+            if ad.name == "manifest" and out.exists() and out.stat().st_size > 1000:
+                pass  # real audio already fetched from the generation ledger
+            elif not cache.hit(f"voice:{s['id']}:{i}", req, out):
                 try:
                     cost = ad.generate(req, out)
                 except Pending:

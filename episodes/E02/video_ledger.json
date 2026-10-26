@@ -34,5 +34,37 @@
   "cost": 8.75,
   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_061955_872c7c89-e049-426d-ae57-dd172639d7f5.mp4",
   "reused_from": "E01-S064"
+ },
+ "E02-S002": {
+  "job": "e910007a-c8af-4d21-a098-36ddf8d9a42c",
+  "cost": 8.75
+ },
+ "E02-S016": {
+  "job": "42ad2218-5f9a-4c06-8ccc-cccf1d5756fe",
+  "cost": 8.75
+ },
+ "E02-S026": {
+  "job": "3beb0a02-c183-472f-aa6d-01e71c695b73",
+  "cost": 8.75
+ },
+ "E02-S037": {
+  "job": "e2d0a0d2-73b6-48c4-a7f7-a7b5a43411ef",
+  "cost": 8.75
+ },
+ "E02-S039": {
+  "job": "83c7f733-7016-41ca-92f0-4ae5286651bf",
+  "cost": 8.75
+ },
+ "E02-S040": {
+  "job": "96593f70-ca88-438c-a8c4-36b2bb1d896c",
+  "cost": 8.75
+ },
+ "E02-S047": {
+  "job": "6944d293-67d8-44ce-b015-7402bc33d4c0",
+  "cost": 8.75
+ },
+ "E02-S052": {
+  "job": "19e76234-a053-401f-bb37-e189e6d7eff3",
+  "cost": 8.75
  }
 }

@@ -4,7 +4,7 @@
   "big_question": "Where does a rainbow come from?",
   "value": "Sharing",
   "shot_count": 62,
-  "total_seconds": 400.1,
+  "total_seconds": 447.3,
   "shots": [
     {
       "beat": 1,
@@ -21,7 +21,10 @@
         {
           "char": "ollie",
           "emotion": "happy",
-          "text": "The rain stopped! Everything is shiny, Pip!"
+          "text": "The rain stopped! Everything is shiny, Pip!",
+          "file": "episodes/E03/audio/E03-S001_L1.wav",
+          "length": 2.78,
+          "start": 0.5
         }
       ],
       "duration": 5.0,
@@ -47,15 +50,21 @@
         {
           "char": "pip",
           "emotion": "surprised",
-          "text": "Ollie, look up. Look up!"
+          "text": "Ollie, look up. Look up!",
+          "file": "episodes/E03/audio/E03-S002_L1.wav",
+          "length": 3.32,
+          "start": 0.5
         },
         {
           "char": "ollie",
           "emotion": "surprised",
-          "text": "A rainbow! It's so big and so bright!"
+          "text": "A rainbow! It's so big and so bright!",
+          "file": "episodes/E03/audio/E03-S002_L2.wav",
+          "length": 4.54,
+          "start": 4.22
         }
       ],
-      "duration": 7.6,
+      "duration": 9.76,
       "music_mood": "play",
       "luna_glow": null,
       "tags": [],
@@ -77,7 +86,10 @@
         {
           "char": "ollie",
           "emotion": "curious",
-          "text": "Where does a rainbow come from?"
+          "text": "Where does a rainbow come from?",
+          "file": "episodes/E03/audio/E03-S003_L1.wav",
+          "length": 1.63,
+          "start": 0.5
         }
       ],
       "duration": 5.0,
@@ -103,10 +115,13 @@
         {
           "char": "ollie",
           "emotion": "excited",
-          "text": "Let's find out!"
+          "text": "Let's find out!",
+          "file": "episodes/E03/audio/E03-S004_L1.wav",
+          "length": 2.62,
+          "start": 0.5
         }
       ],
-      "duration": 4.0,
+      "duration": 4.12,
       "music_mood": "play",
       "luna_glow": "dim",
       "tags": [],
@@ -306,15 +321,21 @@
         {
           "char": "pip",
           "emotion": "curious",
-          "text": "Maybe the sky painted it."
+          "text": "Maybe the sky painted it.",
+          "file": "episodes/E03/audio/E03-S013_L1.wav",
+          "length": 3.31,
+          "start": 0.5
         },
         {
           "char": "ollie",
           "emotion": "curious",
-          "text": "With what? Sky paint?"
+          "text": "With what? Sky paint?",
+          "file": "episodes/E03/audio/E03-S013_L2.wav",
+          "length": 2.62,
+          "start": 4.21
         }
       ],
-      "duration": 6.06,
+      "duration": 7.83,
       "music_mood": "wonder",
       "luna_glow": null,
       "tags": [],
@@ -336,7 +357,10 @@
         {
           "char": "pip",
           "emotion": "worried",
-          "text": "Maybe it fell off a very big butterfly."
+          "text": "Maybe it fell off a very big butterfly.",
+          "file": "episodes/E03/audio/E03-S014_L1.wav",
+          "length": 2.85,
+          "start": 0.5
         }
       ],
       "duration": 4.88,
@@ -382,20 +406,29 @@
         {
           "char": "gus",
           "emotion": "excited",
-          "text": "Easy! The rainbow is a prize, and I'm getting it!"
+          "text": "Easy! The rainbow is a prize, and I'm getting it!",
+          "file": "episodes/E03/audio/E03-S016_L1.wav",
+          "length": 5.53,
+          "start": 0.5
         },
         {
           "char": "ollie",
           "emotion": "curious",
-          "text": "A prize for what?"
+          "text": "A prize for what?",
+          "file": "episodes/E03/audio/E03-S016_L2.wav",
+          "length": 3.03,
+          "start": 6.43
         },
         {
           "char": "gus",
           "emotion": "playful",
-          "text": "For whoever gets to the end first. And that's me!"
+          "text": "For whoever gets to the end first. And that's me!",
+          "file": "episodes/E03/audio/E03-S016_L3.wav",
+          "length": 4.53,
+          "start": 9.86
         }
       ],
-      "duration": 12.63,
+      "duration": 15.39,
       "music_mood": "wonder",
       "luna_glow": null,
       "tags": [],
@@ -417,10 +450,13 @@
         {
           "char": "ollie",
           "emotion": "determined",
-          "text": "I'll race you, Gus! Follow me!"
+          "text": "I'll race you, Gus! Follow me!",
+          "file": "episodes/E03/audio/E03-S017_L1.wav",
+          "length": 2.83,
+          "start": 0.5
         }
       ],
-      "duration": 4.11,
+      "duration": 4.33,
       "music_mood": "wonder",
       "luna_glow": null,
       "tags": [],
@@ -444,10 +480,13 @@
         {
           "char": "pip",
           "emotion": "worried",
-          "text": "Ollie, I have an idea! Ollie? Please stop!"
+          "text": "Ollie, I have an idea! Ollie? Please stop!",
+          "file": "episodes/E03/audio/E03-S018_L1.wav",
+          "length": 5.06,
+          "start": 0.5
         }
       ],
-      "duration": 4.88,
+      "duration": 6.56,
       "music_mood": "wonder",
       "luna_glow": null,
       "tags": [],
@@ -470,10 +509,13 @@
         {
           "char": "ollie",
           "emotion": "sorry",
-          "text": "Sorry, Pip. I ran before I listened. What's your idea?"
+          "text": "Sorry, Pip. I ran before I listened. What's your idea?",
+          "file": "episodes/E03/audio/E03-S019_L1.wav",
+          "length": 4.55,
+          "start": 0.5
         }
       ],
-      "duration": 5.65,
+      "duration": 6.05,
       "music_mood": "wonder",
       "luna_glow": null,
       "tags": [],
@@ -498,20 +540,29 @@
         {
           "char": "pip",
           "emotion": "happy",
-          "text": "The rain stopped and the sun came out. Maybe they go together."
+          "text": "The rain stopped and the sun came out. Maybe they go together.",
+          "file": "episodes/E03/audio/E03-S020_L1.wav",
+          "length": 5.39,
+          "start": 0.5
         },
         {
           "char": "gus",
           "emotion": "excited",
-          "text": "Too slow! I've got a faster way!"
+          "text": "Too slow! I've got a faster way!",
+          "file": "episodes/E03/audio/E03-S020_L2.wav",
+          "length": 3.5,
+          "start": 6.29
         },
         {
           "char": "pip",
           "emotion": "worried",
-          "text": "Gus, your faster ways always go wrong."
+          "text": "Gus, your faster ways always go wrong.",
+          "file": "episodes/E03/audio/E03-S020_L3.wav",
+          "length": 4.39,
+          "start": 10.19
         }
       ],
-      "duration": 13.4,
+      "duration": 15.58,
       "music_mood": "wonder",
       "luna_glow": "bright",
       "tags": [],
@@ -536,17 +587,26 @@
         {
           "char": "gus",
           "emotion": "playful",
-          "text": "Not this time! I'll run to the end and grab the rainbow!"
+          "text": "Not this time! I'll run to the end and grab the rainbow!",
+          "file": "episodes/E03/audio/E03-S021_L1.wav",
+          "length": 3.11,
+          "start": 0.5
         },
         {
           "char": "ollie",
           "emotion": "curious",
-          "text": "Can you grab a rainbow?"
+          "text": "Can you grab a rainbow?",
+          "file": "episodes/E03/audio/E03-S021_L2.wav",
+          "length": 1.89,
+          "start": 4.01
         },
         {
           "char": "gus",
           "emotion": "excited",
-          "text": "Watch me! I'll put it in my hat!"
+          "text": "Watch me! I'll put it in my hat!",
+          "file": "episodes/E03/audio/E03-S021_L3.wav",
+          "length": 3.5,
+          "start": 6.3
         }
       ],
       "duration": 13.02,
@@ -575,12 +635,18 @@
         {
           "char": "pip",
           "emotion": "curious",
-          "text": "What if we try it the careful way?"
+          "text": "What if we try it the careful way?",
+          "file": "episodes/E03/audio/E03-S022_L1.wav",
+          "length": 1.96,
+          "start": 0.5
         },
         {
           "char": "ollie",
           "emotion": "curious",
-          "text": "Let's watch Gus first. Then we ask Gran Mari."
+          "text": "Let's watch Gus first. Then we ask Gran Mari.",
+          "file": "episodes/E03/audio/E03-S022_L2.wav",
+          "length": 4.07,
+          "start": 2.86
         }
       ],
       "duration": 9.14,
@@ -626,7 +692,10 @@
         {
           "char": "gus",
           "emotion": "worried",
-          "text": "Hey! Stay still, rainbow!"
+          "text": "Hey! Stay still, rainbow!",
+          "file": "episodes/E03/audio/E03-S024_L1.wav",
+          "length": 2.84,
+          "start": 0.5
         }
       ],
       "duration": 6.0,
@@ -675,20 +744,29 @@
         {
           "char": "gus",
           "emotion": "excited",
-          "text": "There it is! It came down all by itself!"
+          "text": "There it is! It came down all by itself!",
+          "file": "episodes/E03/audio/E03-S026_L1.wav",
+          "length": 4.88,
+          "start": 0.5
         },
         {
           "char": "ollie",
           "emotion": "surprised",
-          "text": "Gus, that's a different rainbow."
+          "text": "Gus, that's a different rainbow.",
+          "file": "episodes/E03/audio/E03-S026_L2.wav",
+          "length": 4.18,
+          "start": 5.78
         },
         {
           "char": "gus",
           "emotion": "playful",
-          "text": "It's mine now! I caught it!"
+          "text": "It's mine now! I caught it!",
+          "file": "episodes/E03/audio/E03-S026_L3.wav",
+          "length": 3.82,
+          "start": 10.36
         }
       ],
-      "duration": 11.09,
+      "duration": 15.18,
       "music_mood": "uh-oh",
       "luna_glow": null,
       "tags": [
@@ -712,7 +790,10 @@
         {
           "char": "gus",
           "emotion": "excited",
-          "text": "My rainbow. Nobody else gets to look."
+          "text": "My rainbow. Nobody else gets to look.",
+          "file": "episodes/E03/audio/E03-S027_L1.wav",
+          "length": 2.91,
+          "start": 0.5
         }
       ],
       "duration": 5.0,
@@ -740,7 +821,10 @@
         {
           "char": "bean",
           "emotion": "curious",
-          "text": "Share?"
+          "text": "Share?",
+          "file": "episodes/E03/audio/E03-S028_L1.wav",
+          "length": 2.07,
+          "start": 0.5
         }
       ],
       "duration": 4.0,
@@ -786,20 +870,29 @@
         {
           "char": "gus",
           "emotion": "worried",
-          "text": "Uh oh. Where did it go?"
+          "text": "Uh oh. Where did it go?",
+          "file": "episodes/E03/audio/E03-S030_L1.wav",
+          "length": 3.2,
+          "start": 0.5
         },
         {
           "char": "pip",
           "emotion": "curious",
-          "text": "Did you lose it, Gus?"
+          "text": "Did you lose it, Gus?",
+          "file": "episodes/E03/audio/E03-S030_L2.wav",
+          "length": 2.97,
+          "start": 4.1
         },
         {
           "char": "gus",
           "emotion": "worried",
-          "text": "No! It's just sleeping. Rainbows sleep a lot."
+          "text": "No! It's just sleeping. Rainbows sleep a lot.",
+          "file": "episodes/E03/audio/E03-S030_L3.wav",
+          "length": 3.84,
+          "start": 7.47
         }
       ],
-      "duration": 10.71,
+      "duration": 12.31,
       "music_mood": "uh-oh",
       "luna_glow": null,
       "tags": [],
@@ -822,15 +915,21 @@
         {
           "char": "ollie",
           "emotion": "curious",
-          "text": "Rainbows sleep?"
+          "text": "Rainbows sleep?",
+          "file": "episodes/E03/audio/E03-S031_L1.wav",
+          "length": 2.15,
+          "start": 0.5
         },
         {
           "char": "gus",
           "emotion": "worried",
-          "text": "It was tiny anyway. Hardly a rainbow at all!"
+          "text": "It was tiny anyway. Hardly a rainbow at all!",
+          "file": "episodes/E03/audio/E03-S031_L2.wav",
+          "length": 3.64,
+          "start": 3.05
         }
       ],
-      "duration": 6.83,
+      "duration": 7.69,
       "music_mood": "uh-oh",
       "luna_glow": null,
       "tags": [],
@@ -874,10 +973,13 @@
         {
           "char": "ollie",
           "emotion": "worried",
-          "text": "We need help. Let's ask Gran Mari."
+          "text": "We need help. Let's ask Gran Mari.",
+          "file": "episodes/E03/audio/E03-S033_L1.wav",
+          "length": 4.55,
+          "start": 0.5
         }
       ],
-      "duration": 4.49,
+      "duration": 6.05,
       "music_mood": "uh-oh",
       "luna_glow": null,
       "tags": [],
@@ -900,20 +1002,29 @@
         {
           "char": "gran_mari",
           "emotion": "happy",
-          "text": "Well now, a seagull with a tiny hat and an otter with a big question. What's all this?"
+          "text": "Well now, a seagull with a tiny hat and an otter with a big question. What's all this?",
+          "file": "episodes/E03/audio/E03-S034_L1.wav",
+          "length": 10.78,
+          "start": 0.5
         },
         {
           "char": "ollie",
           "emotion": "curious",
-          "text": "Gran Mari, where does a rainbow come from?"
+          "text": "Gran Mari, where does a rainbow come from?",
+          "file": "episodes/E03/audio/E03-S034_L2.wav",
+          "length": 3.04,
+          "start": 11.68
         },
         {
           "char": "gran_mari",
           "emotion": "happy",
-          "text": "Oh, that is a good question, Ollie. Let's find out together."
+          "text": "Oh, that is a good question, Ollie. Let's find out together.",
+          "file": "episodes/E03/audio/E03-S034_L3.wav",
+          "length": 9.6,
+          "start": 15.12
         }
       ],
-      "duration": 17.63,
+      "duration": 25.72,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [],
@@ -936,10 +1047,13 @@
         {
           "char": "gran_mari",
           "emotion": "calm",
-          "text": "Never look right at the sun, little one. We look at the wall instead."
+          "text": "Never look right at the sun, little one. We look at the wall instead.",
+          "file": "episodes/E03/audio/E03-S035_L1.wav",
+          "length": 9.16,
+          "start": 0.5
         }
       ],
-      "duration": 7.18,
+      "duration": 10.66,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [],
@@ -963,10 +1077,13 @@
         {
           "char": "gran_mari",
           "emotion": "calm",
-          "text": "Sunlight looks plain. But it is made of every color, all mixed up together."
+          "text": "Sunlight looks plain. But it is made of every color, all mixed up together.",
+          "file": "episodes/E03/audio/E03-S036_L1.wav",
+          "length": 8.31,
+          "start": 0.5
         }
       ],
-      "duration": 7.18,
+      "duration": 9.81,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [],
@@ -989,15 +1106,21 @@
         {
           "char": "ollie",
           "emotion": "surprised",
-          "text": "A rainbow! On the wall!"
+          "text": "A rainbow! On the wall!",
+          "file": "episodes/E03/audio/E03-S037_L1.wav",
+          "length": 3.79,
+          "start": 0.5
         },
         {
           "char": "gran_mari",
           "emotion": "happy",
-          "text": "The water bends the light and spreads the colors apart. Tiny drops of rain work just like this glass."
+          "text": "The water bends the light and spreads the colors apart. Tiny drops of rain work just like this glass.",
+          "file": "episodes/E03/audio/E03-S037_L2.wav",
+          "length": 8.59,
+          "start": 4.69
         }
       ],
-      "duration": 11.83,
+      "duration": 14.28,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [
@@ -1025,20 +1148,29 @@
         {
           "char": "gus",
           "emotion": "curious",
-          "text": "So the rainbow is hiding in the sunlight?"
+          "text": "So the rainbow is hiding in the sunlight?",
+          "file": "episodes/E03/audio/E03-S038_L1.wav",
+          "length": 2.35,
+          "start": 0.5
         },
         {
           "char": "gran_mari",
           "emotion": "curious",
-          "text": "Well now, what do you think happens next?"
+          "text": "Well now, what do you think happens next?",
+          "file": "episodes/E03/audio/E03-S038_L2.wav",
+          "length": 3.21,
+          "start": 3.25
         },
         {
           "char": "ollie",
           "emotion": "curious",
-          "text": "It moves if you move the glass!"
+          "text": "It moves if you move the glass!",
+          "file": "episodes/E03/audio/E03-S038_L3.wav",
+          "length": 5.03,
+          "start": 6.86
         }
       ],
-      "duration": 12.25,
+      "duration": 12.89,
       "music_mood": "cozy",
       "luna_glow": "sparkle",
       "tags": [
@@ -1081,7 +1213,10 @@
         {
           "char": "pip",
           "emotion": "surprised",
-          "text": "It needs the sun to shine through!"
+          "text": "It needs the sun to shine through!",
+          "file": "episodes/E03/audio/E03-S040_L1.wav",
+          "length": 2.07,
+          "start": 0.5
         }
       ],
       "duration": 6.0,
@@ -1129,7 +1264,10 @@
         {
           "char": "ollie",
           "emotion": "happy",
-          "text": "Try it at home with a grown-up! Fill a clear glass with water. Set it on a sunny windowsill."
+          "text": "Try it at home with a grown-up! Fill a clear glass with water. Set it on a sunny windowsill.",
+          "file": "episodes/E03/audio/E03-S042_L1.wav",
+          "length": 5.13,
+          "start": 0.5
         }
       ],
       "duration": 9.49,
@@ -1156,10 +1294,13 @@
         {
           "char": "ollie",
           "emotion": "excited",
-          "text": "Look at the wall nearby. Find the rainbow! Never look right at the sun."
+          "text": "Look at the wall nearby. Find the rainbow! Never look right at the sun.",
+          "file": "episodes/E03/audio/E03-S043_L1.wav",
+          "length": 6.92,
+          "start": 0.5
         }
       ],
-      "duration": 7.18,
+      "duration": 8.42,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [
@@ -1202,17 +1343,26 @@
         {
           "char": "gus",
           "emotion": "sorry",
-          "text": "Wait. I have to tell you something."
+          "text": "Wait. I have to tell you something.",
+          "file": "episodes/E03/audio/E03-S045_L1.wav",
+          "length": 4.22,
+          "start": 0.5
         },
         {
           "char": "gus",
           "emotion": "sorry",
-          "text": "I said my rainbow was sleeping. That was a fib. I covered it with my hat."
+          "text": "I said my rainbow was sleeping. That was a fib. I covered it with my hat.",
+          "file": "episodes/E03/audio/E03-S045_L2.wav",
+          "length": 5.65,
+          "start": 5.12
         },
         {
           "char": "gus",
           "emotion": "sorry",
-          "text": "I wanted it all for me, and then it was gone. I'm sorry."
+          "text": "I wanted it all for me, and then it was gone. I'm sorry.",
+          "file": "episodes/E03/audio/E03-S045_L3.wav",
+          "length": 4.08,
+          "start": 11.17
         }
       ],
       "duration": 17.25,
@@ -1238,10 +1388,13 @@
         {
           "char": "ollie",
           "emotion": "happy",
-          "text": "Thanks for telling us the truth, Gus."
+          "text": "Thanks for telling us the truth, Gus.",
+          "file": "episodes/E03/audio/E03-S046_L1.wav",
+          "length": 4.55,
+          "start": 0.5
         }
       ],
-      "duration": 4.49,
+      "duration": 6.05,
       "music_mood": "triumph",
       "luna_glow": null,
       "tags": [],
@@ -1302,7 +1455,10 @@
         {
           "char": "pip",
           "emotion": "happy",
-          "text": "Look! It's on my shell too!"
+          "text": "Look! It's on my shell too!",
+          "file": "episodes/E03/audio/E03-S049_L1.wav",
+          "length": 2.33,
+          "start": 0.5
         }
       ],
       "duration": 4.11,
@@ -1330,7 +1486,10 @@
         {
           "char": "bean",
           "emotion": "happy",
-          "text": "Share!"
+          "text": "Share!",
+          "file": "episodes/E03/audio/E03-S050_L1.wav",
+          "length": 2.06,
+          "start": 0.5
         }
       ],
       "duration": 5.0,
@@ -1378,7 +1537,10 @@
         {
           "char": "gus",
           "emotion": "excited",
-          "text": "There's enough for everybody! That's the best part!"
+          "text": "There's enough for everybody! That's the best part!",
+          "file": "episodes/E03/audio/E03-S052_L1.wav",
+          "length": 3.41,
+          "start": 0.5
         }
       ],
       "duration": 5.0,
@@ -1404,7 +1566,10 @@
         {
           "char": "pip",
           "emotion": "happy",
-          "text": "It sparkles even more, with friends."
+          "text": "It sparkles even more, with friends.",
+          "file": "episodes/E03/audio/E03-S053_L1.wav",
+          "length": 2.33,
+          "start": 0.5
         }
       ],
       "duration": 4.11,
@@ -1432,10 +1597,13 @@
         {
           "char": "ollie",
           "emotion": "happy",
-          "text": "Time for my Wonder Pocket! Three things we learned."
+          "text": "Time for my Wonder Pocket! Three things we learned.",
+          "file": "episodes/E03/audio/E03-S054_L1.wav",
+          "length": 5.02,
+          "start": 0.5
         }
       ],
-      "duration": 5.26,
+      "duration": 6.52,
       "music_mood": "cozy",
       "luna_glow": "bright",
       "tags": [],
@@ -1476,10 +1644,13 @@
         {
           "char": "ollie",
           "emotion": "happy",
-          "text": "One. Sunlight is made of all the colors."
+          "text": "One. Sunlight is made of all the colors.",
+          "file": "episodes/E03/audio/E03-S056_L1.wav",
+          "length": 5.39,
+          "start": 0.5
         }
       ],
-      "duration": 4.88,
+      "duration": 6.89,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [],
@@ -1501,7 +1672,10 @@
         {
           "char": "ollie",
           "emotion": "happy",
-          "text": "Two. Water bends the light and spreads the colors out."
+          "text": "Two. Water bends the light and spreads the colors out.",
+          "file": "episodes/E03/audio/E03-S057_L1.wav",
+          "length": 3.79,
+          "start": 0.5
         }
       ],
       "duration": 5.65,
@@ -1526,10 +1700,13 @@
         {
           "char": "ollie",
           "emotion": "proud",
-          "text": "Three. A rainbow needs sunshine. It fades when it's hidden."
+          "text": "Three. A rainbow needs sunshine. It fades when it's hidden.",
+          "file": "episodes/E03/audio/E03-S058_L1.wav",
+          "length": 5.39,
+          "start": 0.5
         }
       ],
-      "duration": 5.65,
+      "duration": 6.89,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [],
@@ -1552,10 +1729,13 @@
         {
           "char": "ollie",
           "emotion": "happy",
-          "text": "And one kind thing to try today. Share your favorite thing."
+          "text": "And one kind thing to try today. Share your favorite thing.",
+          "file": "episodes/E03/audio/E03-S059_L1.wav",
+          "length": 5.78,
+          "start": 0.5
         }
       ],
-      "duration": 6.03,
+      "duration": 7.28,
       "music_mood": "cozy",
       "luna_glow": "bright",
       "tags": [],
@@ -1581,10 +1761,13 @@
         {
           "char": "gus",
           "emotion": "happy",
-          "text": "Bye, everybody! Next time, I'll share first!"
+          "text": "Bye, everybody! Next time, I'll share first!",
+          "file": "episodes/E03/audio/E03-S060_L1.wav",
+          "length": 4.85,
+          "start": 0.5
         }
       ],
-      "duration": 4.49,
+      "duration": 6.35,
       "music_mood": "cozy",
       "luna_glow": "sparkle",
       "tags": [],

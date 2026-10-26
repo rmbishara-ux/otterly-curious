@@ -4,7 +4,7 @@
   "big_question": "Why do otters hold hands?",
   "value": "Sticking together",
   "shot_count": 62,
-  "total_seconds": 387.5,
+  "total_seconds": 433.6,
   "shots": [
     {
       "beat": 1,
@@ -22,7 +22,10 @@
         {
           "char": "ollie",
           "emotion": "happy",
-          "text": "Good morning, Pip! The water is so calm today."
+          "text": "Good morning, Pip! The water is so calm today.",
+          "file": "episodes/E02/audio/E02-S001_L1.wav",
+          "length": 3.67,
+          "start": 0.5
         }
       ],
       "duration": 5.26,
@@ -48,15 +51,21 @@
         {
           "char": "pip",
           "emotion": "surprised",
-          "text": "Ollie, look! They are all linked up."
+          "text": "Ollie, look! They are all linked up.",
+          "file": "episodes/E02/audio/E02-S002_L1.wav",
+          "length": 3.66,
+          "start": 0.5
         },
         {
           "char": "ollie",
           "emotion": "curious",
-          "text": "They're holding hands, even while they sleep!"
+          "text": "They're holding hands, even while they sleep!",
+          "file": "episodes/E02/audio/E02-S002_L2.wav",
+          "length": 5.39,
+          "start": 4.56
         }
       ],
-      "duration": 7.98,
+      "duration": 10.95,
       "music_mood": "play",
       "luna_glow": null,
       "tags": [],
@@ -78,7 +87,10 @@
         {
           "char": "ollie",
           "emotion": "curious",
-          "text": "Why do otters hold hands?"
+          "text": "Why do otters hold hands?",
+          "file": "episodes/E02/audio/E02-S003_L1.wav",
+          "length": 2.36,
+          "start": 0.5
         }
       ],
       "duration": 5.0,
@@ -104,10 +116,13 @@
         {
           "char": "ollie",
           "emotion": "excited",
-          "text": "Let's find out!"
+          "text": "Let's find out!",
+          "file": "episodes/E02/audio/E02-S004_L1.wav",
+          "length": 2.62,
+          "start": 0.5
         }
       ],
-      "duration": 4.0,
+      "duration": 4.12,
       "music_mood": "play",
       "luna_glow": "dim",
       "tags": [],
@@ -307,15 +322,21 @@
         {
           "char": "ollie",
           "emotion": "excited",
-          "text": "Maybe they're cold! Or maybe they're best friends!"
+          "text": "Maybe they're cold! Or maybe they're best friends!",
+          "file": "episodes/E02/audio/E02-S013_L1.wav",
+          "length": 5.77,
+          "start": 0.5
         },
         {
           "char": "pip",
           "emotion": "worried",
-          "text": "Ollie, I think Bean is floating away."
+          "text": "Ollie, I think Bean is floating away.",
+          "file": "episodes/E02/audio/E02-S013_L2.wav",
+          "length": 2.43,
+          "start": 6.67
         }
       ],
-      "duration": 8.37,
+      "duration": 10.1,
       "music_mood": "wonder",
       "luna_glow": null,
       "tags": [],
@@ -357,10 +378,13 @@
         {
           "char": "ollie",
           "emotion": "sorry",
-          "text": "Oh no. I swam off without you, Bean."
+          "text": "Oh no. I swam off without you, Bean.",
+          "file": "episodes/E02/audio/E02-S015_L1.wav",
+          "length": 5.38,
+          "start": 0.5
         }
       ],
-      "duration": 4.88,
+      "duration": 6.88,
       "music_mood": "wonder",
       "luna_glow": null,
       "tags": [],
@@ -405,15 +429,21 @@
         {
           "char": "pip",
           "emotion": "happy",
-          "text": "Look. Now you're not drifting at all."
+          "text": "Look. Now you're not drifting at all.",
+          "file": "episodes/E02/audio/E02-S017_L1.wav",
+          "length": 3.66,
+          "start": 0.5
         },
         {
           "char": "ollie",
           "emotion": "curious",
-          "text": "Hmm. Is that why otters hold hands?"
+          "text": "Hmm. Is that why otters hold hands?",
+          "file": "episodes/E02/audio/E02-S017_L2.wav",
+          "length": 3.29,
+          "start": 4.56
         }
       ],
-      "duration": 7.98,
+      "duration": 8.85,
       "music_mood": "wonder",
       "luna_glow": "bright",
       "tags": [],
@@ -436,7 +466,10 @@
         {
           "char": "pip",
           "emotion": "curious",
-          "text": "Even the baby is holding on."
+          "text": "Even the baby is holding on.",
+          "file": "episodes/E02/audio/E02-S018_L1.wav",
+          "length": 1.51,
+          "start": 0.5
         }
       ],
       "duration": 5.0,
@@ -462,17 +495,26 @@
         {
           "char": "gus",
           "emotion": "excited",
-          "text": "Hold hands? That sounds slow. I've got a faster way!"
+          "text": "Hold hands? That sounds slow. I've got a faster way!",
+          "file": "episodes/E02/audio/E02-S019_L1.wav",
+          "length": 4.15,
+          "start": 0.5
         },
         {
           "char": "pip",
           "emotion": "worried",
-          "text": "Gus, your faster ways always go wrong."
+          "text": "Gus, your faster ways always go wrong.",
+          "file": "episodes/E02/audio/E02-S019_L2.wav",
+          "length": 3.64,
+          "start": 5.05
         },
         {
           "char": "gus",
           "emotion": "playful",
-          "text": "Not this time! I'll just lie down and stay right here."
+          "text": "Not this time! I'll just lie down and stay right here.",
+          "file": "episodes/E02/audio/E02-S019_L3.wav",
+          "length": 3.32,
+          "start": 9.09
         }
       ],
       "duration": 14.17,
@@ -498,15 +540,21 @@
         {
           "char": "ollie",
           "emotion": "curious",
-          "text": "You won't hold on to anything?"
+          "text": "You won't hold on to anything?",
+          "file": "episodes/E02/audio/E02-S020_L1.wav",
+          "length": 4.17,
+          "start": 0.5
         },
         {
           "char": "gus",
           "emotion": "excited",
-          "text": "Nope! Naps are easy. Watch me."
+          "text": "Nope! Naps are easy. Watch me.",
+          "file": "episodes/E02/audio/E02-S020_L2.wav",
+          "length": 3.82,
+          "start": 5.07
         }
       ],
-      "duration": 7.22,
+      "duration": 9.89,
       "music_mood": "wonder",
       "luna_glow": null,
       "tags": [],
@@ -549,12 +597,18 @@
         {
           "char": "pip",
           "emotion": "curious",
-          "text": "What if we try it the careful way?"
+          "text": "What if we try it the careful way?",
+          "file": "episodes/E02/audio/E02-S022_L1.wav",
+          "length": 2.12,
+          "start": 0.5
         },
         {
           "char": "ollie",
           "emotion": "curious",
-          "text": "Good idea, Pip. Let's watch Gus first. Then we ask Gran Mari."
+          "text": "Good idea, Pip. Let's watch Gus first. Then we ask Gran Mari.",
+          "file": "episodes/E02/audio/E02-S022_L2.wav",
+          "length": 6.18,
+          "start": 3.02
         }
       ],
       "duration": 10.29,
@@ -642,7 +696,10 @@
         {
           "char": "pip",
           "emotion": "surprised",
-          "text": "Ollie, he's drifting away!"
+          "text": "Ollie, he's drifting away!",
+          "file": "episodes/E02/audio/E02-S026_L1.wav",
+          "length": 2.98,
+          "start": 0.5
         }
       ],
       "duration": 6.0,
@@ -672,10 +729,13 @@
         {
           "char": "ollie",
           "emotion": "happy",
-          "text": "Gus! Gus, wake up! You're floating away!"
+          "text": "Gus! Gus, wake up! You're floating away!",
+          "file": "episodes/E02/audio/E02-S027_L1.wav",
+          "length": 4.17,
+          "start": 0.5
         }
       ],
-      "duration": 4.49,
+      "duration": 5.67,
       "music_mood": "uh-oh",
       "luna_glow": "dim",
       "tags": [
@@ -699,7 +759,10 @@
         {
           "char": "gus",
           "emotion": "surprised",
-          "text": "Hey! Where did everybody go?"
+          "text": "Hey! Where did everybody go?",
+          "file": "episodes/E02/audio/E02-S028_L1.wav",
+          "length": 3.5,
+          "start": 0.5
         }
       ],
       "duration": 5.0,
@@ -728,20 +791,29 @@
         {
           "char": "ollie",
           "emotion": "curious",
-          "text": "Did you float away, Gus?"
+          "text": "Did you float away, Gus?",
+          "file": "episodes/E02/audio/E02-S029_L1.wav",
+          "length": 2.09,
+          "start": 0.5
         },
         {
           "char": "gus",
           "emotion": "excited",
-          "text": "No! I went for a swim. On purpose!"
+          "text": "No! I went for a swim. On purpose!",
+          "file": "episodes/E02/audio/E02-S029_L2.wav",
+          "length": 4.22,
+          "start": 2.99
         },
         {
           "char": "pip",
           "emotion": "curious",
-          "text": "But you were asleep."
+          "text": "But you were asleep.",
+          "file": "episodes/E02/audio/E02-S029_L3.wav",
+          "length": 2.66,
+          "start": 7.61
         }
       ],
-      "duration": 9.94,
+      "duration": 11.27,
       "music_mood": "uh-oh",
       "luna_glow": null,
       "tags": [],
@@ -763,10 +835,13 @@
         {
           "char": "gus",
           "emotion": "worried",
-          "text": "I was swimming in my sleep. Very fast. Everyone does it."
+          "text": "I was swimming in my sleep. Very fast. Everyone does it.",
+          "file": "episodes/E02/audio/E02-S030_L1.wav",
+          "length": 4.95,
+          "start": 0.5
         }
       ],
-      "duration": 6.03,
+      "duration": 6.45,
       "music_mood": "uh-oh",
       "luna_glow": null,
       "tags": [],
@@ -790,15 +865,21 @@
         {
           "char": "ollie",
           "emotion": "curious",
-          "text": "The water moved you, and nothing held you."
+          "text": "The water moved you, and nothing held you.",
+          "file": "episodes/E02/audio/E02-S031_L1.wav",
+          "length": 4.56,
+          "start": 0.5
         },
         {
           "char": "gus",
           "emotion": "worried",
-          "text": "It was only a little bit. It doesn't count!"
+          "text": "It was only a little bit. It doesn't count!",
+          "file": "episodes/E02/audio/E02-S031_L2.wav",
+          "length": 3.05,
+          "start": 5.46
         }
       ],
-      "duration": 9.14,
+      "duration": 9.51,
       "music_mood": "uh-oh",
       "luna_glow": null,
       "tags": [],
@@ -841,10 +922,13 @@
         {
           "char": "ollie",
           "emotion": "worried",
-          "text": "We need help. Let's ask Gran Mari."
+          "text": "We need help. Let's ask Gran Mari.",
+          "file": "episodes/E02/audio/E02-S033_L1.wav",
+          "length": 4.16,
+          "start": 0.5
         }
       ],
-      "duration": 4.49,
+      "duration": 5.66,
       "music_mood": "uh-oh",
       "luna_glow": null,
       "tags": [],
@@ -867,20 +951,29 @@
         {
           "char": "gran_mari",
           "emotion": "happy",
-          "text": "Well now, a damp seagull and a worried otter. What's all this?"
+          "text": "Well now, a damp seagull and a worried otter. What's all this?",
+          "file": "episodes/E02/audio/E02-S034_L1.wav",
+          "length": 8.44,
+          "start": 0.5
         },
         {
           "char": "ollie",
           "emotion": "curious",
-          "text": "Gran Mari, why do otters hold hands?"
+          "text": "Gran Mari, why do otters hold hands?",
+          "file": "episodes/E02/audio/E02-S034_L2.wav",
+          "length": 4.17,
+          "start": 9.34
         },
         {
           "char": "gran_mari",
           "emotion": "happy",
-          "text": "Oh, that is a good question, Ollie. Let's find out together."
+          "text": "Oh, that is a good question, Ollie. Let's find out together.",
+          "file": "episodes/E02/audio/E02-S034_L3.wav",
+          "length": 7.13,
+          "start": 13.91
         }
       ],
-      "duration": 14.94,
+      "duration": 22.04,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [],
@@ -904,10 +997,13 @@
         {
           "char": "gran_mari",
           "emotion": "calm",
-          "text": "This bowl is a pretend sea. These leaves are pretend otters."
+          "text": "This bowl is a pretend sea. These leaves are pretend otters.",
+          "file": "episodes/E02/audio/E02-S035_L1.wav",
+          "length": 7.63,
+          "start": 0.5
         }
       ],
-      "duration": 6.03,
+      "duration": 9.13,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [],
@@ -929,10 +1025,13 @@
         {
           "char": "gran_mari",
           "emotion": "calm",
-          "text": "This string is pretend paws. Watch the water, and watch closely."
+          "text": "This string is pretend paws. Watch the water, and watch closely.",
+          "file": "episodes/E02/audio/E02-S036_L1.wav",
+          "length": 8.57,
+          "start": 0.5
         }
       ],
-      "duration": 6.03,
+      "duration": 10.07,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [],
@@ -954,10 +1053,13 @@
         {
           "char": "ollie",
           "emotion": "surprised",
-          "text": "They're drifting! The loose ones are drifting apart!"
+          "text": "They're drifting! The loose ones are drifting apart!",
+          "file": "episodes/E02/audio/E02-S037_L1.wav",
+          "length": 4.55,
+          "start": 0.5
         }
       ],
-      "duration": 6.0,
+      "duration": 6.05,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [],
@@ -980,15 +1082,21 @@
         {
           "char": "pip",
           "emotion": "surprised",
-          "text": "The tied leaves stay together!"
+          "text": "The tied leaves stay together!",
+          "file": "episodes/E02/audio/E02-S038_L1.wav",
+          "length": 3.64,
+          "start": 0.5
         },
         {
           "char": "gran_mari",
           "emotion": "happy",
-          "text": "The sea is always moving, even when the otters sleep. So they hold paws, and nothing pulls them apart."
+          "text": "The sea is always moving, even when the otters sleep. So they hold paws, and nothing pulls them apart.",
+          "file": "episodes/E02/audio/E02-S038_L2.wav",
+          "length": 10.08,
+          "start": 4.54
         }
       ],
-      "duration": 11.83,
+      "duration": 15.62,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [
@@ -1016,20 +1124,29 @@
         {
           "char": "gus",
           "emotion": "curious",
-          "text": "So if I'd held on to something, I wouldn't have drifted?"
+          "text": "So if I'd held on to something, I wouldn't have drifted?",
+          "file": "episodes/E02/audio/E02-S039_L1.wav",
+          "length": 3.0,
+          "start": 0.5
         },
         {
           "char": "gran_mari",
           "emotion": "curious",
-          "text": "Well now, what do you think happens next?"
+          "text": "Well now, what do you think happens next?",
+          "file": "episodes/E02/audio/E02-S039_L2.wav",
+          "length": 6.22,
+          "start": 3.9
         },
         {
           "char": "ollie",
           "emotion": "curious",
-          "text": "The loose leaves keep drifting, and the tied leaves stay close!"
+          "text": "The loose leaves keep drifting, and the tied leaves stay close!",
+          "file": "episodes/E02/audio/E02-S039_L3.wav",
+          "length": 6.54,
+          "start": 10.52
         }
       ],
-      "duration": 14.94,
+      "duration": 18.06,
       "music_mood": "cozy",
       "luna_glow": "sparkle",
       "tags": [
@@ -1093,10 +1210,13 @@
         {
           "char": "ollie",
           "emotion": "happy",
-          "text": "Try it at home! Fill a bowl with water. Float four leaves on it. Tie two leaves together with a soft string."
+          "text": "Try it at home! Fill a bowl with water. Float four leaves on it. Tie two leaves together with a soft string.",
+          "file": "episodes/E02/audio/E02-S042_L1.wav",
+          "length": 10.56,
+          "start": 0.5
         }
       ],
-      "duration": 10.26,
+      "duration": 12.06,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [
@@ -1120,10 +1240,13 @@
         {
           "char": "ollie",
           "emotion": "excited",
-          "text": "Now swirl the water gently. Watch the loose leaves drift apart. Watch the tied leaves stay together."
+          "text": "Now swirl the water gently. Watch the loose leaves drift apart. Watch the tied leaves stay together.",
+          "file": "episodes/E02/audio/E02-S043_L1.wav",
+          "length": 7.55,
+          "start": 0.5
         }
       ],
-      "duration": 8.34,
+      "duration": 9.05,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [
@@ -1168,10 +1291,13 @@
         {
           "char": "ollie",
           "emotion": "happy",
-          "text": "Gus, come float with us. There's room."
+          "text": "Gus, come float with us. There's room.",
+          "file": "episodes/E02/audio/E02-S045_L1.wav",
+          "length": 4.18,
+          "start": 0.5
         }
       ],
-      "duration": 4.49,
+      "duration": 5.68,
       "music_mood": "triumph",
       "luna_glow": null,
       "tags": [],
@@ -1194,17 +1320,26 @@
         {
           "char": "gus",
           "emotion": "sorry",
-          "text": "I fibbed before. I wasn't swimming. I was drifting."
+          "text": "I fibbed before. I wasn't swimming. I was drifting.",
+          "file": "episodes/E02/audio/E02-S046_L1.wav",
+          "length": 5.18,
+          "start": 0.5
         },
         {
           "char": "gus",
           "emotion": "sorry",
-          "text": "I'm sorry I said it didn't count."
+          "text": "I'm sorry I said it didn't count.",
+          "file": "episodes/E02/audio/E02-S046_L2.wav",
+          "length": 1.82,
+          "start": 6.08
         },
         {
           "char": "ollie",
           "emotion": "happy",
-          "text": "Thanks for telling us the truth, Gus."
+          "text": "Thanks for telling us the truth, Gus.",
+          "file": "episodes/E02/audio/E02-S046_L3.wav",
+          "length": 2.25,
+          "start": 8.3
         }
       ],
       "duration": 12.25,
@@ -1289,7 +1424,10 @@
         {
           "char": "bean",
           "emotion": "worried",
-          "text": "Hold!"
+          "text": "Hold!",
+          "file": "episodes/E02/audio/E02-S050_L1.wav",
+          "length": 2.03,
+          "start": 0.5
         }
       ],
       "duration": 4.0,
@@ -1316,10 +1454,13 @@
         {
           "char": "gus",
           "emotion": "happy",
-          "text": "Phew! I'm not going anywhere. Thanks, friends."
+          "text": "Phew! I'm not going anywhere. Thanks, friends.",
+          "file": "episodes/E02/audio/E02-S051_L1.wav",
+          "length": 4.66,
+          "start": 0.5
         }
       ],
-      "duration": 5.0,
+      "duration": 6.16,
       "music_mood": "triumph",
       "luna_glow": null,
       "tags": [],
@@ -1345,7 +1486,10 @@
         {
           "char": "pip",
           "emotion": "happy",
-          "text": "We stayed together all by ourselves."
+          "text": "We stayed together all by ourselves.",
+          "file": "episodes/E02/audio/E02-S052_L1.wav",
+          "length": 2.13,
+          "start": 0.5
         }
       ],
       "duration": 5.0,
@@ -1393,7 +1537,10 @@
         {
           "char": "ollie",
           "emotion": "happy",
-          "text": "Time for my Wonder Pocket! Three things we learned."
+          "text": "Time for my Wonder Pocket! Three things we learned.",
+          "file": "episodes/E02/audio/E02-S054_L1.wav",
+          "length": 3.72,
+          "start": 0.5
         }
       ],
       "duration": 5.26,
@@ -1437,10 +1584,13 @@
         {
           "char": "ollie",
           "emotion": "happy",
-          "text": "One. The sea is always moving, even at night."
+          "text": "One. The sea is always moving, even at night.",
+          "file": "episodes/E02/audio/E02-S056_L1.wav",
+          "length": 5.02,
+          "start": 0.5
         }
       ],
-      "duration": 5.26,
+      "duration": 6.52,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [],
@@ -1462,10 +1612,13 @@
         {
           "char": "ollie",
           "emotion": "happy",
-          "text": "Two. Otters hold paws so they do not drift apart."
+          "text": "Two. Otters hold paws so they do not drift apart.",
+          "file": "episodes/E02/audio/E02-S057_L1.wav",
+          "length": 5.4,
+          "start": 0.5
         }
       ],
-      "duration": 5.65,
+      "duration": 6.9,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [],
@@ -1487,10 +1640,13 @@
         {
           "char": "ollie",
           "emotion": "proud",
-          "text": "Three. Holding on keeps friends together."
+          "text": "Three. Holding on keeps friends together.",
+          "file": "episodes/E02/audio/E02-S058_L1.wav",
+          "length": 4.17,
+          "start": 0.5
         }
       ],
-      "duration": 4.11,
+      "duration": 5.67,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [],
@@ -1513,7 +1669,10 @@
         {
           "char": "ollie",
           "emotion": "happy",
-          "text": "And one kind thing to try today. Hold a friend's hand."
+          "text": "And one kind thing to try today. Hold a friend's hand.",
+          "file": "episodes/E02/audio/E02-S059_L1.wav",
+          "length": 4.04,
+          "start": 0.5
         }
       ],
       "duration": 6.03,
@@ -1542,10 +1701,13 @@
         {
           "char": "gus",
           "emotion": "happy",
-          "text": "Bye, everybody! Next time, I'll hold on too!"
+          "text": "Bye, everybody! Next time, I'll hold on too!",
+          "file": "episodes/E02/audio/E02-S060_L1.wav",
+          "length": 4.53,
+          "start": 0.5
         }
       ],
-      "duration": 4.88,
+      "duration": 6.03,
       "music_mood": "cozy",
       "luna_glow": "sparkle",
       "tags": [],
