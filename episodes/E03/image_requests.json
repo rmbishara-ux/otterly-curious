@@ -1,0 +1,604 @@
+[
+ {
+  "id": "E03-S001",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: sandy beach playground of smooth driftwood, calm sea behind, bright morning light. Characters (match references exactly): Ollie the sea otter (happy), Pip the hermit crab in his teacup (happy). Action: A short sunshower has just ended at the driftwood playground. Raindrops sparkle on the logs. Ollie hops from log to log, Pip peeking out of his pocket. . Camera: static medium shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "ec442d46-4fe6-473d-a9a4-fc652c9e8931",
+   "5f822128-76fe-4d6b-868a-56a94ae44551",
+   "2b069453-62cd-44a9-a094-5e399c1220bf"
+  ],
+  "seed": 4004947560
+ },
+ {
+  "id": "E03-S002",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: sandy beach playground of smooth driftwood, calm sea behind, bright morning light. Characters (match references exactly): Ollie the sea otter (surprised), Pip the hermit crab in his teacup (surprised). Action: A big rainbow arches over the whole cove, one end near the lighthouse, the other out over the sea. . Camera: tilt up to the sky. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "ec442d46-4fe6-473d-a9a4-fc652c9e8931",
+   "5f822128-76fe-4d6b-868a-56a94ae44551",
+   "2b069453-62cd-44a9-a094-5e399c1220bf"
+  ],
+  "seed": 458670918
+ },
+ {
+  "id": "E03-S003",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: sandy beach playground of smooth driftwood, calm sea behind, bright morning light. Characters (match references exactly): Ollie the sea otter (curious). Action: Ollie turns to the camera, eyes wide, holding up his wonder rock. His tuft pops up. . Camera: close-up shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "ec442d46-4fe6-473d-a9a4-fc652c9e8931",
+   "2b069453-62cd-44a9-a094-5e399c1220bf"
+  ],
+  "seed": 3445546087
+ },
+ {
+  "id": "E03-S004",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: sandy beach playground of smooth driftwood, calm sea behind, bright morning light. Characters (match references exactly): Luna the glowing jellyfish (calm), Ollie the sea otter (excited). Action: A pale Luna drifts in beside him, tilting her bell as if she wonders too. Luna glows very softly. Camera: static medium shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "573be74e-9eb5-4fbc-9088-76d3c32d5594",
+   "ec442d46-4fe6-473d-a9a4-fc652c9e8931",
+   "2b069453-62cd-44a9-a094-5e399c1220bf"
+  ],
+  "seed": 65784541
+ },
+ {
+  "id": "E03-S005",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: sandy beach playground of smooth driftwood, calm sea behind, bright morning light. Characters (match references exactly): Ollie the sea otter (happy). Action: Sunrise over the cove, the sea sparkling. Ollie waves hello. . Camera: wide establishing shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "ec442d46-4fe6-473d-a9a4-fc652c9e8931",
+   "2b069453-62cd-44a9-a094-5e399c1220bf"
+  ],
+  "seed": 3327021854
+ },
+ {
+  "id": "E03-S006",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: sunny rocky shore with tide pools and wet sand, the sea far away, bright morning light. Characters (match references exactly): Ollie the sea otter (excited), Pip the hermit crab in his teacup (happy). Action: Ollie and Pip hop between the tide pools. . Camera: tracking shot following the characters. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "ec442d46-4fe6-473d-a9a4-fc652c9e8931",
+   "5f822128-76fe-4d6b-868a-56a94ae44551",
+   "c9e20c5b-f226-49f3-8f5a-4b3d1bf9a232"
+  ],
+  "seed": 3030187248
+ },
+ {
+  "id": "E03-S007",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: grassy point with a red-and-white striped lighthouse, wooden porch and rocking chair, harbor behind, bright morning light. Characters (match references exactly): Gran Mari the pelican (happy). Action: Gran Mari waves from her porch, scarf swinging. . Camera: static medium shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "d6283700-d8f1-45dd-b213-8fdae8c02574",
+   "c5587c93-bc56-4f1e-af67-387a4905ba8b"
+  ],
+  "seed": 4871977
+ },
+ {
+  "id": "E03-S008",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: sandy beach playground of smooth driftwood, calm sea behind, bright morning light. Characters (match references exactly): Gus the seagull (excited). Action: Gus swoops through, red sneakers kicking up sand. . Camera: gentle pan to the right. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "a8139f0f-4c4a-4732-97a0-5be11b2b0680",
+   "2b069453-62cd-44a9-a094-5e399c1220bf"
+  ],
+  "seed": 2372763447
+ },
+ {
+  "id": "E03-S009",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: sunny underwater kelp forest in a rocky cove, bright morning light. Characters (match references exactly): Bean the baby otter (happy), Luna the glowing jellyfish (calm). Action: Bean floats by with Luna glowing softly beside her. Luna glows very softly. Camera: static medium shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "5d0c0d69-8993-4918-b836-7d87966b3f02",
+   "573be74e-9eb5-4fbc-9088-76d3c32d5594",
+   "dad39495-fb46-4203-854e-93815a6c24dc"
+  ],
+  "seed": 1739293290
+ },
+ {
+  "id": "E03-S010",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: cozy beached rowboat clubhouse under a patchwork tarp with string lights and shelves of shells, bright morning light. Characters (match references exactly): Ollie the sea otter (curious), Pip the hermit crab in his teacup (curious). Action: Ollie pulls a shell from his Wonder Pocket and holds it up. . Camera: close-up shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "ec442d46-4fe6-473d-a9a4-fc652c9e8931",
+   "5f822128-76fe-4d6b-868a-56a94ae44551",
+   "a3150c0c-b5a9-422e-9e6b-7a55ef6b5cc1"
+  ],
+  "seed": 3507041758
+ },
+ {
+  "id": "E03-S011",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: sandy beach playground of smooth driftwood, calm sea behind, bright morning light. Characters (match references exactly): Ollie the sea otter (happy), Pip the hermit crab in his teacup (happy), Gran Mari the pelican (happy), Gus the seagull (happy), Bean the baby otter (happy), Luna the glowing jellyfish (calm). Action: Everyone runs together toward the camera. Luna glows very softly. Camera: wide establishing shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "ec442d46-4fe6-473d-a9a4-fc652c9e8931",
+   "5f822128-76fe-4d6b-868a-56a94ae44551",
+   "d6283700-d8f1-45dd-b213-8fdae8c02574",
+   "a8139f0f-4c4a-4732-97a0-5be11b2b0680",
+   "5d0c0d69-8993-4918-b836-7d87966b3f02",
+   "573be74e-9eb5-4fbc-9088-76d3c32d5594",
+   "2b069453-62cd-44a9-a094-5e399c1220bf"
+  ],
+  "seed": 1879305190
+ },
+ {
+  "id": "E03-S012",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: sandy beach playground of smooth driftwood, calm sea behind, bright morning light. Characters (match references exactly): Ollie the sea otter (excited). Action: Title card: OTTERLY CURIOUS over the sparkling cove. . Camera: static medium shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "ec442d46-4fe6-473d-a9a4-fc652c9e8931",
+   "2b069453-62cd-44a9-a094-5e399c1220bf"
+  ],
+  "seed": 1761918001
+ },
+ {
+  "id": "E03-S013",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: sandy beach playground of smooth driftwood, calm sea behind, bright morning light. Characters (match references exactly): Bean the baby otter (curious), Pip the hermit crab in his teacup (curious), Ollie the sea otter (curious). Action: Bean floats in a puddle by the swing logs, her kelp blanket on her tummy, staring up at the rainbow. . Camera: static medium shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "5d0c0d69-8993-4918-b836-7d87966b3f02",
+   "5f822128-76fe-4d6b-868a-56a94ae44551",
+   "ec442d46-4fe6-473d-a9a4-fc652c9e8931",
+   "2b069453-62cd-44a9-a094-5e399c1220bf"
+  ],
+  "seed": 1405050469
+ },
+ {
+  "id": "E03-S014",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: sandy beach playground of smooth driftwood, calm sea behind, bright morning light. Characters (match references exactly): Pip the hermit crab in his teacup (curious). Action: A bright butterfly flaps past, fluttering through colored light. Pip's eyes follow it. . Camera: close-up shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "5f822128-76fe-4d6b-868a-56a94ae44551",
+   "2b069453-62cd-44a9-a094-5e399c1220bf"
+  ],
+  "seed": 2600070701
+ },
+ {
+  "id": "E03-S015",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: sandy beach playground of smooth driftwood, calm sea behind, bright morning light. Characters (match references exactly): Ollie the sea otter (curious), Pip the hermit crab in his teacup (curious). Action: Ollie leans over the puddle. A wobbly rainbow of color floats on a drop of water on a log. He pokes it and it wiggles. . Camera: close-up shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "ec442d46-4fe6-473d-a9a4-fc652c9e8931",
+   "5f822128-76fe-4d6b-868a-56a94ae44551",
+   "2b069453-62cd-44a9-a094-5e399c1220bf"
+  ],
+  "seed": 1146003343
+ },
+ {
+  "id": "E03-S016",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: sandy beach playground of smooth driftwood, calm sea behind, bright morning light. Characters (match references exactly): Gus the seagull (excited), Ollie the sea otter (curious). Action: Gus lands with a flap, red sneakers skidding on the wet wood, one feather sticking up. . Camera: gentle pan to the right. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "a8139f0f-4c4a-4732-97a0-5be11b2b0680",
+   "ec442d46-4fe6-473d-a9a4-fc652c9e8931",
+   "2b069453-62cd-44a9-a094-5e399c1220bf"
+  ],
+  "seed": 4222781691
+ },
+ {
+  "id": "E03-S017",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: sandy beach playground of smooth driftwood, calm sea behind, bright morning light. Characters (match references exactly): Ollie the sea otter (determined). Action: Ollie checks his four pockets: a shell, a feather, a bit of sea glass, and the wonder rock. . Camera: close-up shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "ec442d46-4fe6-473d-a9a4-fc652c9e8931",
+   "2b069453-62cd-44a9-a094-5e399c1220bf"
+  ],
+  "seed": 2292981663
+ },
+ {
+  "id": "E03-S018",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: sandy beach playground of smooth driftwood, calm sea behind, bright morning light. Characters (match references exactly): Ollie the sea otter (excited), Pip the hermit crab in his teacup (worried), Bean the baby otter (curious). Action: Ollie dashes across the logs toward the rainbow. Pip bounces in his pocket. Bean watches them go. . Camera: gentle pan to the right. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "ec442d46-4fe6-473d-a9a4-fc652c9e8931",
+   "5f822128-76fe-4d6b-868a-56a94ae44551",
+   "5d0c0d69-8993-4918-b836-7d87966b3f02",
+   "2b069453-62cd-44a9-a094-5e399c1220bf"
+  ],
+  "seed": 3402386511
+ },
+ {
+  "id": "E03-S019",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: sandy beach playground of smooth driftwood, calm sea behind, bright morning light. Characters (match references exactly): Ollie the sea otter (sorry), Pip the hermit crab in his teacup (worried). Action: Ollie skids to a stop. His tuft droops. Pip is still holding his tiny claw up. . Camera: close-up shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "ec442d46-4fe6-473d-a9a4-fc652c9e8931",
+   "5f822128-76fe-4d6b-868a-56a94ae44551",
+   "2b069453-62cd-44a9-a094-5e399c1220bf"
+  ],
+  "seed": 2193816985
+ },
+ {
+  "id": "E03-S020",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: sandy beach playground of smooth driftwood, calm sea behind, bright morning light. Characters (match references exactly): Luna the glowing jellyfish (calm), Ollie the sea otter (happy), Pip the hermit crab in his teacup (happy), Gus the seagull (excited). Action: Luna glows brighter as Ollie turns toward Pip. Luna glows noticeably brighter, warm white. Camera: close-up shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "573be74e-9eb5-4fbc-9088-76d3c32d5594",
+   "ec442d46-4fe6-473d-a9a4-fc652c9e8931",
+   "5f822128-76fe-4d6b-868a-56a94ae44551",
+   "a8139f0f-4c4a-4732-97a0-5be11b2b0680",
+   "2b069453-62cd-44a9-a094-5e399c1220bf"
+  ],
+  "seed": 3270154064
+ },
+ {
+  "id": "E03-S022",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: sandy beach playground of smooth driftwood, calm sea behind, bright morning light. Characters (match references exactly): Bean the baby otter (happy), Gus the seagull (excited), Pip the hermit crab in his teacup (curious), Ollie the sea otter (curious). Action: Bean claps her paws. Gus takes off his tiny hat and trots away, wings flapping. . Camera: tracking shot following the characters. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "5d0c0d69-8993-4918-b836-7d87966b3f02",
+   "a8139f0f-4c4a-4732-97a0-5be11b2b0680",
+   "5f822128-76fe-4d6b-868a-56a94ae44551",
+   "ec442d46-4fe6-473d-a9a4-fc652c9e8931",
+   "2b069453-62cd-44a9-a094-5e399c1220bf"
+  ],
+  "seed": 3253023868
+ },
+ {
+  "id": "E03-S023",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: sandy beach playground of smooth driftwood, calm sea behind, bright morning light. Characters (match references exactly): Ollie the sea otter (happy), Pip the hermit crab in his teacup (curious), Bean the baby otter (happy). Action: The friends trail after Gus down the beach, Bean riding on Ollie's tummy. . Camera: tracking shot following the characters. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "ec442d46-4fe6-473d-a9a4-fc652c9e8931",
+   "5f822128-76fe-4d6b-868a-56a94ae44551",
+   "5d0c0d69-8993-4918-b836-7d87966b3f02",
+   "2b069453-62cd-44a9-a094-5e399c1220bf"
+  ],
+  "seed": 690838980
+ },
+ {
+  "id": "E03-S024",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: cozy beached rowboat clubhouse under a patchwork tarp with string lights and shelves of shells, bright morning light. Characters (match references exactly): Gus the seagull (worried). Action: Gus runs and runs along the beach, but the end of the rainbow keeps sliding away from him. He stops, huffing. . Camera: wide establishing shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "a8139f0f-4c4a-4732-97a0-5be11b2b0680",
+   "a3150c0c-b5a9-422e-9e6b-7a55ef6b5cc1"
+  ],
+  "seed": 548986943
+ },
+ {
+  "id": "E03-S025",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: cozy beached rowboat clubhouse under a patchwork tarp with string lights and shelves of shells, bright morning light. Characters (match references exactly): Gus the seagull (surprised). Action: He turns in a tangle of seaweed, hops in a circle, and tumbles into the doorway of the Wonder Shed, a ribbon of seaweed on his head. . Camera: wide establishing shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "a8139f0f-4c4a-4732-97a0-5be11b2b0680",
+   "a3150c0c-b5a9-422e-9e6b-7a55ef6b5cc1"
+  ],
+  "seed": 1230937547
+ },
+ {
+  "id": "E03-S026",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: cozy beached rowboat clubhouse under a patchwork tarp with string lights and shelves of shells, bright morning light. Characters (match references exactly): Gus the seagull (excited), Ollie the sea otter (surprised). Action: On the shed wall, a little rainbow glows. It shines from a jar of rainwater on the sunny sill. . Camera: gentle pan to the right. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "a8139f0f-4c4a-4732-97a0-5be11b2b0680",
+   "ec442d46-4fe6-473d-a9a4-fc652c9e8931",
+   "a3150c0c-b5a9-422e-9e6b-7a55ef6b5cc1"
+  ],
+  "seed": 944976938
+ },
+ {
+  "id": "E03-S027",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: cozy beached rowboat clubhouse under a patchwork tarp with string lights and shelves of shells, bright morning light. Characters (match references exactly): Gus the seagull (playful). Action: Gus stretches his wings wide, hiding the little rainbow behind him. He plops his hat on top of the jar. . Camera: close-up shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "a8139f0f-4c4a-4732-97a0-5be11b2b0680",
+   "a3150c0c-b5a9-422e-9e6b-7a55ef6b5cc1"
+  ],
+  "seed": 1704411849
+ },
+ {
+  "id": "E03-S028",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: cozy beached rowboat clubhouse under a patchwork tarp with string lights and shelves of shells, bright morning light. Characters (match references exactly): Gus the seagull (excited), Bean the baby otter (curious). Action: The little rainbow on the wall fades to nothing. Gus doesn't notice. . Camera: close-up shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "a8139f0f-4c4a-4732-97a0-5be11b2b0680",
+   "5d0c0d69-8993-4918-b836-7d87966b3f02",
+   "a3150c0c-b5a9-422e-9e6b-7a55ef6b5cc1"
+  ],
+  "seed": 3431170749
+ },
+ {
+  "id": "E03-S029",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: cozy beached rowboat clubhouse under a patchwork tarp with string lights and shelves of shells, bright morning light. Characters (match references exactly): Gus the seagull (excited), Bean the baby otter (curious). Action: Gus hugs the hat tightly. Everyone peeks around him at the empty wall. . Camera: close-up shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "a8139f0f-4c4a-4732-97a0-5be11b2b0680",
+   "5d0c0d69-8993-4918-b836-7d87966b3f02",
+   "a3150c0c-b5a9-422e-9e6b-7a55ef6b5cc1"
+  ],
+  "seed": 941279320
+ },
+ {
+  "id": "E03-S030",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: cozy beached rowboat clubhouse under a patchwork tarp with string lights and shelves of shells, bright morning light. Characters (match references exactly): Gus the seagull (worried), Pip the hermit crab in his teacup (curious). Action: Gus peeks under his hat. The jar is dull and the wall is plain. He gulps. . Camera: close-up shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "a8139f0f-4c4a-4732-97a0-5be11b2b0680",
+   "5f822128-76fe-4d6b-868a-56a94ae44551",
+   "a3150c0c-b5a9-422e-9e6b-7a55ef6b5cc1"
+  ],
+  "seed": 1437937848
+ },
+ {
+  "id": "E03-S032",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: cozy beached rowboat clubhouse under a patchwork tarp with string lights and shelves of shells, bright morning light. Characters (match references exactly): Luna the glowing jellyfish (calm). Action: Luna drifts to the hat and dims, as if she is sad for the little rainbow. Luna glows very softly. Camera: close-up shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "573be74e-9eb5-4fbc-9088-76d3c32d5594",
+   "a3150c0c-b5a9-422e-9e6b-7a55ef6b5cc1"
+  ],
+  "seed": 1931968884
+ },
+ {
+  "id": "E03-S033",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: cozy beached rowboat clubhouse under a patchwork tarp with string lights and shelves of shells, bright morning light. Characters (match references exactly): Ollie the sea otter (worried), Pip the hermit crab in his teacup (worried), Bean the baby otter (curious). Action: Ollie, Pip, and Bean look at the empty wall. The sky outside is still full of color. . Camera: slow push-in medium shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "ec442d46-4fe6-473d-a9a4-fc652c9e8931",
+   "5f822128-76fe-4d6b-868a-56a94ae44551",
+   "5d0c0d69-8993-4918-b836-7d87966b3f02",
+   "a3150c0c-b5a9-422e-9e6b-7a55ef6b5cc1"
+  ],
+  "seed": 645644501
+ },
+ {
+  "id": "E03-S034",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: grassy point with a red-and-white striped lighthouse, wooden porch and rocking chair, harbor behind, bright morning light. Characters (match references exactly): Gran Mari the pelican (happy), Ollie the sea otter (curious). Action: The friends climb the path to the lighthouse. Gran Mari rocks on her porch, her coral scarf swinging. A tall window glows with sun behind her. . Camera: tilt up from low angle. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "d6283700-d8f1-45dd-b213-8fdae8c02574",
+   "ec442d46-4fe6-473d-a9a4-fc652c9e8931",
+   "c5587c93-bc56-4f1e-af67-387a4905ba8b"
+  ],
+  "seed": 3380230100
+ },
+ {
+  "id": "E03-S035",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: grassy point with a red-and-white striped lighthouse, wooden porch and rocking chair, harbor behind, bright morning light. Characters (match references exactly): Pip the hermit crab in his teacup (curious), Gran Mari the pelican (calm). Action: Pip climbs out onto the windowsill and peers at the sun. Gran Mari gently turns him away. . Camera: close-up shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "5f822128-76fe-4d6b-868a-56a94ae44551",
+   "d6283700-d8f1-45dd-b213-8fdae8c02574",
+   "c5587c93-bc56-4f1e-af67-387a4905ba8b"
+  ],
+  "seed": 2445800703
+ },
+ {
+  "id": "E03-S036",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: grassy point with a red-and-white striped lighthouse, wooden porch and rocking chair, harbor behind, bright morning light. Characters (match references exactly): Gran Mari the pelican (calm), Ollie the sea otter (curious), Pip the hermit crab in his teacup (curious). Action: Gran Mari sets a clear glass of water on the sunny windowsill. The sun shines through it. The friends gather round. . Camera: close-up shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "d6283700-d8f1-45dd-b213-8fdae8c02574",
+   "ec442d46-4fe6-473d-a9a4-fc652c9e8931",
+   "5f822128-76fe-4d6b-868a-56a94ae44551",
+   "c5587c93-bc56-4f1e-af67-387a4905ba8b"
+  ],
+  "seed": 2074130397
+ },
+ {
+  "id": "E03-S037",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: grassy point with a red-and-white striped lighthouse, wooden porch and rocking chair, harbor behind, bright morning light. Characters (match references exactly): Ollie the sea otter (surprised), Gran Mari the pelican (happy). Action: On the wall beside the window, a bright rainbow appears, red, orange, yellow, green, blue, violet. . Camera: close-up shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "ec442d46-4fe6-473d-a9a4-fc652c9e8931",
+   "d6283700-d8f1-45dd-b213-8fdae8c02574",
+   "c5587c93-bc56-4f1e-af67-387a4905ba8b"
+  ],
+  "seed": 700812891
+ },
+ {
+  "id": "E03-S038",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: grassy point with a red-and-white striped lighthouse, wooden porch and rocking chair, harbor behind, bright morning light. Characters (match references exactly): Luna the glowing jellyfish (happy), Ollie the sea otter (happy), Pip the hermit crab in his teacup (happy), Gus the seagull (curious), Gran Mari the pelican (curious). Action: Luna floats near the glass and sparkles. Three soft notes ring out. Luna glows radiant white with small star sparkles around her. Camera: close-up shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "573be74e-9eb5-4fbc-9088-76d3c32d5594",
+   "ec442d46-4fe6-473d-a9a4-fc652c9e8931",
+   "5f822128-76fe-4d6b-868a-56a94ae44551",
+   "a8139f0f-4c4a-4732-97a0-5be11b2b0680",
+   "d6283700-d8f1-45dd-b213-8fdae8c02574",
+   "c5587c93-bc56-4f1e-af67-387a4905ba8b"
+  ],
+  "seed": 854691846
+ },
+ {
+  "id": "E03-S039",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: grassy point with a red-and-white striped lighthouse, wooden porch and rocking chair, harbor behind, bright morning light. Characters (match references exactly): . Action: Gran Mari slides the glass a tiny bit. The rainbow glides along the wall. . Camera: close-up shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "c5587c93-bc56-4f1e-af67-387a4905ba8b"
+  ],
+  "seed": 2578342298
+ },
+ {
+  "id": "E03-S040",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: grassy point with a red-and-white striped lighthouse, wooden porch and rocking chair, harbor behind, bright morning light. Characters (match references exactly): Pip the hermit crab in his teacup (surprised). Action: Then she holds a book in front of the window. The rainbow vanishes. When she lifts the book, it returns. . Camera: close-up shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "5f822128-76fe-4d6b-868a-56a94ae44551",
+   "c5587c93-bc56-4f1e-af67-387a4905ba8b"
+  ],
+  "seed": 2617954193
+ },
+ {
+  "id": "E03-S041",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: grassy point with a red-and-white striped lighthouse, wooden porch and rocking chair, harbor behind, bright morning light. Characters (match references exactly): Gus the seagull (sorry). Action: Gus looks at his hat, then slowly lowers it from his head. . Camera: close-up shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "a8139f0f-4c4a-4732-97a0-5be11b2b0680",
+   "c5587c93-bc56-4f1e-af67-387a4905ba8b"
+  ],
+  "seed": 4225105713
+ },
+ {
+  "id": "E03-S042",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: grassy point with a red-and-white striped lighthouse, wooden porch and rocking chair, harbor behind, bright morning light. Characters (match references exactly): Ollie the sea otter (happy). Action: Ollie turns to the camera, holding the wonder rock. Behind him the rainbow glows on the wall. . Camera: close-up shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "ec442d46-4fe6-473d-a9a4-fc652c9e8931",
+   "c5587c93-bc56-4f1e-af67-387a4905ba8b"
+  ],
+  "seed": 2990141920
+ },
+ {
+  "id": "E03-S043",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: grassy point with a red-and-white striped lighthouse, wooden porch and rocking chair, harbor behind, bright morning light. Characters (match references exactly): Ollie the sea otter (excited). Action: Ollie points to the wall, where the little rainbow shimmers. . Camera: close-up shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "ec442d46-4fe6-473d-a9a4-fc652c9e8931",
+   "c5587c93-bc56-4f1e-af67-387a4905ba8b"
+  ],
+  "seed": 3136717050
+ },
+ {
+  "id": "E03-S044",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: sandy beach playground of smooth driftwood, calm sea behind, warm golden-hour light. Characters (match references exactly): Ollie the sea otter (determined). Action: Back at the driftwood playground. The golden sun is low and warm. Ollie sets the clear glass of water on a flat log in the sun. . Camera: wide establishing shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "ec442d46-4fe6-473d-a9a4-fc652c9e8931",
+   "2b069453-62cd-44a9-a094-5e399c1220bf"
+  ],
+  "seed": 3272010999
+ },
+ {
+  "id": "E03-S045",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: sandy beach playground of smooth driftwood, calm sea behind, warm golden-hour light. Characters (match references exactly): Gus the seagull (sorry). Action: A shimmering rainbow lands on the sandy driftwood board, right in the middle. . Camera: close-up shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "a8139f0f-4c4a-4732-97a0-5be11b2b0680",
+   "2b069453-62cd-44a9-a094-5e399c1220bf"
+  ],
+  "seed": 2025963738
+ },
+ {
+  "id": "E03-S046",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: sandy beach playground of smooth driftwood, calm sea behind, warm golden-hour light. Characters (match references exactly): Ollie the sea otter (happy), Gus the seagull (sorry). Action: Ollie smiles and puts a paw on Gus's wing. . Camera: close-up shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "ec442d46-4fe6-473d-a9a4-fc652c9e8931",
+   "a8139f0f-4c4a-4732-97a0-5be11b2b0680",
+   "2b069453-62cd-44a9-a094-5e399c1220bf"
+  ],
+  "seed": 323027770
+ },
+ {
+  "id": "E03-S047",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: sandy beach playground of smooth driftwood, calm sea behind, warm golden-hour light. Characters (match references exactly): Gus the seagull (happy), Bean the baby otter (happy). Action: Gus picks his hat up off the log and holds it out to Bean. She giggles and puts it on her head. . Camera: close-up shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "a8139f0f-4c4a-4732-97a0-5be11b2b0680",
+   "5d0c0d69-8993-4918-b836-7d87966b3f02",
+   "2b069453-62cd-44a9-a094-5e399c1220bf"
+  ],
+  "seed": 337523399
+ },
+ {
+  "id": "E03-S048",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: sandy beach playground of smooth driftwood, calm sea behind, warm golden-hour light. Characters (match references exactly): Gus the seagull (happy). Action: Gus's red sneakers shuffle. He looks at the shining rainbow, then at his friends, and grins a little. . Camera: close-up shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "a8139f0f-4c4a-4732-97a0-5be11b2b0680",
+   "2b069453-62cd-44a9-a094-5e399c1220bf"
+  ],
+  "seed": 2892308305
+ },
+ {
+  "id": "E03-S049",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: sandy beach playground of smooth driftwood, calm sea behind, warm golden-hour light. Characters (match references exactly): Pip the hermit crab in his teacup (curious). Action: Pip scoots to the edge of the glass and sees colors swirl in the water. . Camera: close-up shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "5f822128-76fe-4d6b-868a-56a94ae44551",
+   "2b069453-62cd-44a9-a094-5e399c1220bf"
+  ],
+  "seed": 3843020024
+ },
+ {
+  "id": "E03-S050",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: sandy beach playground of smooth driftwood, calm sea behind, warm golden-hour light. Characters (match references exactly): Ollie the sea otter (happy), Pip the hermit crab in his teacup (happy), Bean the baby otter (happy), Gus the seagull (happy). Action: The rainbow lands across all their faces, a stripe of color on each. Bean claps. . Camera: close-up shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "ec442d46-4fe6-473d-a9a4-fc652c9e8931",
+   "5f822128-76fe-4d6b-868a-56a94ae44551",
+   "5d0c0d69-8993-4918-b836-7d87966b3f02",
+   "a8139f0f-4c4a-4732-97a0-5be11b2b0680",
+   "2b069453-62cd-44a9-a094-5e399c1220bf"
+  ],
+  "seed": 978434107
+ },
+ {
+  "id": "E03-S051",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: sandy beach playground of smooth driftwood, calm sea behind, warm golden-hour light. Characters (match references exactly): Gus the seagull (happy). Action: Gus carefully lifts the glass so the rainbow swings across every friend, one by one. Everyone gets a turn. . Camera: gentle pan to the right. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "a8139f0f-4c4a-4732-97a0-5be11b2b0680",
+   "2b069453-62cd-44a9-a094-5e399c1220bf"
+  ],
+  "seed": 2847850945
+ },
+ {
+  "id": "E03-S052",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: sandy beach playground of smooth driftwood, calm sea behind, warm golden-hour light. Characters (match references exactly): Luna the glowing jellyfish (happy), Ollie the sea otter (happy), Pip the hermit crab in his teacup (happy), Bean the baby otter (happy), Gus the seagull (happy). Action: Luna floats over the friends, sparkling. Three soft notes ring out. Luna glows radiant white with small star sparkles around her. Camera: wide establishing shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "573be74e-9eb5-4fbc-9088-76d3c32d5594",
+   "ec442d46-4fe6-473d-a9a4-fc652c9e8931",
+   "5f822128-76fe-4d6b-868a-56a94ae44551",
+   "5d0c0d69-8993-4918-b836-7d87966b3f02",
+   "a8139f0f-4c4a-4732-97a0-5be11b2b0680",
+   "2b069453-62cd-44a9-a094-5e399c1220bf"
+  ],
+  "seed": 670222166
+ },
+ {
+  "id": "E03-S053",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: sandy beach playground of smooth driftwood, calm sea behind, warm golden-hour light. Characters (match references exactly): Ollie the sea otter (happy), Pip the hermit crab in his teacup (happy). Action: Ollie hands the wonder rock to Pip so he can see the colors in it, too. . Camera: close-up shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "ec442d46-4fe6-473d-a9a4-fc652c9e8931",
+   "5f822128-76fe-4d6b-868a-56a94ae44551",
+   "2b069453-62cd-44a9-a094-5e399c1220bf"
+  ],
+  "seed": 2183248808
+ },
+ {
+  "id": "E03-S054",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: cozy beached rowboat clubhouse under a patchwork tarp with string lights and shelves of shells, warm golden-hour light. Characters (match references exactly): Ollie the sea otter (happy), Pip the hermit crab in his teacup (happy), Bean the baby otter (happy), Luna the glowing jellyfish (calm). Action: Inside the Wonder Shed, string lights glow. A small rainbow shines on the wall from the jar on the sill. Ollie sits with Pip, Bean, and Luna. Luna glows noticeably brighter, warm white. Camera: static medium shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "ec442d46-4fe6-473d-a9a4-fc652c9e8931",
+   "5f822128-76fe-4d6b-868a-56a94ae44551",
+   "5d0c0d69-8993-4918-b836-7d87966b3f02",
+   "573be74e-9eb5-4fbc-9088-76d3c32d5594",
+   "a3150c0c-b5a9-422e-9e6b-7a55ef6b5cc1"
+  ],
+  "seed": 1561125868
+ },
+ {
+  "id": "E03-S055",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: cozy beached rowboat clubhouse under a patchwork tarp with string lights and shelves of shells, warm golden-hour light. Characters (match references exactly): Luna the glowing jellyfish (calm). Action: Luna floats above the jar of sea glass, and the glass glows green and gold. Luna glows noticeably brighter, warm white. Camera: close-up shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "573be74e-9eb5-4fbc-9088-76d3c32d5594",
+   "a3150c0c-b5a9-422e-9e6b-7a55ef6b5cc1"
+  ],
+  "seed": 2271606606
+ },
+ {
+  "id": "E03-S056",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: cozy beached rowboat clubhouse under a patchwork tarp with string lights and shelves of shells, warm golden-hour light. Characters (match references exactly): Ollie the sea otter (happy). Action: Ollie pulls a smooth shell from the first pocket. . Camera: close-up shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "ec442d46-4fe6-473d-a9a4-fc652c9e8931",
+   "a3150c0c-b5a9-422e-9e6b-7a55ef6b5cc1"
+  ],
+  "seed": 3494262016
+ },
+ {
+  "id": "E03-S057",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: cozy beached rowboat clubhouse under a patchwork tarp with string lights and shelves of shells, warm golden-hour light. Characters (match references exactly): Ollie the sea otter (happy). Action: He takes a feather from the second pocket. . Camera: close-up shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "ec442d46-4fe6-473d-a9a4-fc652c9e8931",
+   "a3150c0c-b5a9-422e-9e6b-7a55ef6b5cc1"
+  ],
+  "seed": 2098363716
+ },
+ {
+  "id": "E03-S058",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: cozy beached rowboat clubhouse under a patchwork tarp with string lights and shelves of shells, warm golden-hour light. Characters (match references exactly): Ollie the sea otter (proud). Action: He holds up a bit of sea glass from the third pocket. . Camera: close-up shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "ec442d46-4fe6-473d-a9a4-fc652c9e8931",
+   "a3150c0c-b5a9-422e-9e6b-7a55ef6b5cc1"
+  ],
+  "seed": 1855104780
+ },
+ {
+  "id": "E03-S059",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: cozy beached rowboat clubhouse under a patchwork tarp with string lights and shelves of shells, warm golden-hour light. Characters (match references exactly): Ollie the sea otter (happy), Luna the glowing jellyfish (calm). Action: The fourth pocket glows softly. Ollie pulls out a tiny folded note with a star on it. Luna glows noticeably brighter, warm white. Camera: close-up shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "ec442d46-4fe6-473d-a9a4-fc652c9e8931",
+   "573be74e-9eb5-4fbc-9088-76d3c32d5594",
+   "a3150c0c-b5a9-422e-9e6b-7a55ef6b5cc1"
+  ],
+  "seed": 979797946
+ },
+ {
+  "id": "E03-S060",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: cozy beached rowboat clubhouse under a patchwork tarp with string lights and shelves of shells, warm golden-hour light. Characters (match references exactly): Ollie the sea otter (happy), Pip the hermit crab in his teacup (happy), Bean the baby otter (happy), Gus the seagull (happy), Luna the glowing jellyfish (calm). Action: Everyone waves at the camera. The little rainbow glimmers across them all. Luna glows radiant white with small star sparkles around her. Camera: wide establishing shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "ec442d46-4fe6-473d-a9a4-fc652c9e8931",
+   "5f822128-76fe-4d6b-868a-56a94ae44551",
+   "5d0c0d69-8993-4918-b836-7d87966b3f02",
+   "a8139f0f-4c4a-4732-97a0-5be11b2b0680",
+   "573be74e-9eb5-4fbc-9088-76d3c32d5594",
+   "a3150c0c-b5a9-422e-9e6b-7a55ef6b5cc1"
+  ],
+  "seed": 3265413838
+ },
+ {
+  "id": "E03-S061",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: cozy beached rowboat clubhouse under a patchwork tarp with string lights and shelves of shells, warm golden-hour light. Characters (match references exactly): Ollie the sea otter (happy), Pip the hermit crab in his teacup (happy), Bean the baby otter (happy), Gus the seagull (happy), Luna the glowing jellyfish (calm). Action: Everyone waves goodbye as the sun sets. Luna glows noticeably brighter, warm white. Camera: wide establishing shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "ec442d46-4fe6-473d-a9a4-fc652c9e8931",
+   "5f822128-76fe-4d6b-868a-56a94ae44551",
+   "5d0c0d69-8993-4918-b836-7d87966b3f02",
+   "a8139f0f-4c4a-4732-97a0-5be11b2b0680",
+   "573be74e-9eb5-4fbc-9088-76d3c32d5594",
+   "a3150c0c-b5a9-422e-9e6b-7a55ef6b5cc1"
+  ],
+  "seed": 2077844272
+ },
+ {
+  "id": "E03-S062",
+  "prompt": "Soft glossy 3D animation render for a preschool series, characters designed exactly like the reference images (the references are character-design guides only: NEVER paste, inset or copy the reference images into the frame; draw each character fully integrated into the 3D scene, in action, at natural scale, standing on the ground with shadows, in full color scene lighting), bright and cozy. Scene: sandy beach playground of smooth driftwood, calm sea behind, warm golden-hour light. Characters (match references exactly): Luna the glowing jellyfish (calm). Action: Soft end card: Luna drifts across the golden cove. Luna glows noticeably brighter, warm white. Camera: static medium shot. 16:9. No text, no humans, no logos.",
+  "refs": [
+   "573be74e-9eb5-4fbc-9088-76d3c32d5594",
+   "2b069453-62cd-44a9-a094-5e399c1220bf"
+  ],
+  "seed": 266512977
+ }
+]

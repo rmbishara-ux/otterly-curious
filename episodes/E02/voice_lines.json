@@ -1,0 +1,380 @@
+[
+ {
+  "idx": 0,
+  "shot": "E02-S001",
+  "line": 1,
+  "char": "ollie",
+  "text": "Good morning, Pip! The water is so calm today."
+ },
+ {
+  "idx": 1,
+  "shot": "E02-S002",
+  "line": 1,
+  "char": "pip",
+  "text": "Ollie, look! They are all linked up."
+ },
+ {
+  "idx": 2,
+  "shot": "E02-S002",
+  "line": 2,
+  "char": "ollie",
+  "text": "They're holding hands, even while they sleep!"
+ },
+ {
+  "idx": 3,
+  "shot": "E02-S003",
+  "line": 1,
+  "char": "ollie",
+  "text": "Why do otters hold hands?"
+ },
+ {
+  "idx": 4,
+  "shot": "E02-S004",
+  "line": 1,
+  "char": "ollie",
+  "text": "Let's find out!"
+ },
+ {
+  "idx": 5,
+  "shot": "E02-S013",
+  "line": 1,
+  "char": "ollie",
+  "text": "Maybe they're cold! Or maybe they're best friends!"
+ },
+ {
+  "idx": 6,
+  "shot": "E02-S013",
+  "line": 2,
+  "char": "pip",
+  "text": "Ollie, I think Bean is floating away."
+ },
+ {
+  "idx": 7,
+  "shot": "E02-S015",
+  "line": 1,
+  "char": "ollie",
+  "text": "Oh no. I swam off without you, Bean."
+ },
+ {
+  "idx": 8,
+  "shot": "E02-S017",
+  "line": 1,
+  "char": "pip",
+  "text": "Look. Now you're not drifting at all."
+ },
+ {
+  "idx": 9,
+  "shot": "E02-S017",
+  "line": 2,
+  "char": "ollie",
+  "text": "Hmm. Is that why otters hold hands?"
+ },
+ {
+  "idx": 10,
+  "shot": "E02-S018",
+  "line": 1,
+  "char": "pip",
+  "text": "Even the baby is holding on."
+ },
+ {
+  "idx": 11,
+  "shot": "E02-S019",
+  "line": 1,
+  "char": "gus",
+  "text": "Hold hands? That sounds slow. I've got a faster way!"
+ },
+ {
+  "idx": 12,
+  "shot": "E02-S019",
+  "line": 2,
+  "char": "pip",
+  "text": "Gus, your faster ways always go wrong."
+ },
+ {
+  "idx": 13,
+  "shot": "E02-S019",
+  "line": 3,
+  "char": "gus",
+  "text": "Not this time! I'll just lie down and stay right here."
+ },
+ {
+  "idx": 14,
+  "shot": "E02-S020",
+  "line": 1,
+  "char": "ollie",
+  "text": "You won't hold on to anything?"
+ },
+ {
+  "idx": 15,
+  "shot": "E02-S020",
+  "line": 2,
+  "char": "gus",
+  "text": "Nope! Naps are easy. Watch me."
+ },
+ {
+  "idx": 16,
+  "shot": "E02-S022",
+  "line": 1,
+  "char": "pip",
+  "text": "What if we try it the careful way?"
+ },
+ {
+  "idx": 17,
+  "shot": "E02-S022",
+  "line": 2,
+  "char": "ollie",
+  "text": "Good idea, Pip. Let's watch Gus first. Then we ask Gran Mari."
+ },
+ {
+  "idx": 18,
+  "shot": "E02-S026",
+  "line": 1,
+  "char": "pip",
+  "text": "Ollie, he's drifting away!"
+ },
+ {
+  "idx": 19,
+  "shot": "E02-S027",
+  "line": 1,
+  "char": "ollie",
+  "text": "Gus! Gus, wake up! You're floating away!"
+ },
+ {
+  "idx": 20,
+  "shot": "E02-S028",
+  "line": 1,
+  "char": "gus",
+  "text": "Hey! Where did everybody go?"
+ },
+ {
+  "idx": 21,
+  "shot": "E02-S029",
+  "line": 1,
+  "char": "ollie",
+  "text": "Did you float away, Gus?"
+ },
+ {
+  "idx": 22,
+  "shot": "E02-S029",
+  "line": 2,
+  "char": "gus",
+  "text": "No! I went for a swim. On purpose!"
+ },
+ {
+  "idx": 23,
+  "shot": "E02-S029",
+  "line": 3,
+  "char": "pip",
+  "text": "But you were asleep."
+ },
+ {
+  "idx": 24,
+  "shot": "E02-S030",
+  "line": 1,
+  "char": "gus",
+  "text": "I was swimming in my sleep. Very fast. Everyone does it."
+ },
+ {
+  "idx": 25,
+  "shot": "E02-S031",
+  "line": 1,
+  "char": "ollie",
+  "text": "The water moved you, and nothing held you."
+ },
+ {
+  "idx": 26,
+  "shot": "E02-S031",
+  "line": 2,
+  "char": "gus",
+  "text": "It was only a little bit. It doesn't count!"
+ },
+ {
+  "idx": 27,
+  "shot": "E02-S033",
+  "line": 1,
+  "char": "ollie",
+  "text": "We need help. Let's ask Gran Mari."
+ },
+ {
+  "idx": 28,
+  "shot": "E02-S034",
+  "line": 1,
+  "char": "gran_mari",
+  "text": "Well now, a damp seagull and a worried otter. What's all this?"
+ },
+ {
+  "idx": 29,
+  "shot": "E02-S034",
+  "line": 2,
+  "char": "ollie",
+  "text": "Gran Mari, why do otters hold hands?"
+ },
+ {
+  "idx": 30,
+  "shot": "E02-S034",
+  "line": 3,
+  "char": "gran_mari",
+  "text": "Oh, that is a good question, Ollie. Let's find out together."
+ },
+ {
+  "idx": 31,
+  "shot": "E02-S035",
+  "line": 1,
+  "char": "gran_mari",
+  "text": "This bowl is a pretend sea. These leaves are pretend otters."
+ },
+ {
+  "idx": 32,
+  "shot": "E02-S036",
+  "line": 1,
+  "char": "gran_mari",
+  "text": "This string is pretend paws. Watch the water, and watch closely."
+ },
+ {
+  "idx": 33,
+  "shot": "E02-S037",
+  "line": 1,
+  "char": "ollie",
+  "text": "They're drifting! The loose ones are drifting apart!"
+ },
+ {
+  "idx": 34,
+  "shot": "E02-S038",
+  "line": 1,
+  "char": "pip",
+  "text": "The tied leaves stay together!"
+ },
+ {
+  "idx": 35,
+  "shot": "E02-S038",
+  "line": 2,
+  "char": "gran_mari",
+  "text": "The sea is always moving, even when the otters sleep. So they hold paws, and nothing pulls them apart."
+ },
+ {
+  "idx": 36,
+  "shot": "E02-S039",
+  "line": 1,
+  "char": "gus",
+  "text": "So if I'd held on to something, I wouldn't have drifted?"
+ },
+ {
+  "idx": 37,
+  "shot": "E02-S039",
+  "line": 2,
+  "char": "gran_mari",
+  "text": "Well now, what do you think happens next?"
+ },
+ {
+  "idx": 38,
+  "shot": "E02-S039",
+  "line": 3,
+  "char": "ollie",
+  "text": "The loose leaves keep drifting, and the tied leaves stay close!"
+ },
+ {
+  "idx": 39,
+  "shot": "E02-S042",
+  "line": 1,
+  "char": "ollie",
+  "text": "Try it at home! Fill a bowl with water. Float four leaves on it. Tie two leaves together with a soft string."
+ },
+ {
+  "idx": 40,
+  "shot": "E02-S043",
+  "line": 1,
+  "char": "ollie",
+  "text": "Now swirl the water gently. Watch the loose leaves drift apart. Watch the tied leaves stay together."
+ },
+ {
+  "idx": 41,
+  "shot": "E02-S045",
+  "line": 1,
+  "char": "ollie",
+  "text": "Gus, come float with us. There's room."
+ },
+ {
+  "idx": 42,
+  "shot": "E02-S046",
+  "line": 1,
+  "char": "gus",
+  "text": "I fibbed before. I wasn't swimming. I was drifting."
+ },
+ {
+  "idx": 43,
+  "shot": "E02-S046",
+  "line": 2,
+  "char": "gus",
+  "text": "I'm sorry I said it didn't count."
+ },
+ {
+  "idx": 44,
+  "shot": "E02-S046",
+  "line": 3,
+  "char": "ollie",
+  "text": "Thanks for telling us the truth, Gus."
+ },
+ {
+  "idx": 45,
+  "shot": "E02-S050",
+  "line": 1,
+  "char": "bean",
+  "text": "Hold!"
+ },
+ {
+  "idx": 46,
+  "shot": "E02-S051",
+  "line": 1,
+  "char": "gus",
+  "text": "Phew! I'm not going anywhere. Thanks, friends."
+ },
+ {
+  "idx": 47,
+  "shot": "E02-S052",
+  "line": 1,
+  "char": "pip",
+  "text": "We stayed together all by ourselves."
+ },
+ {
+  "idx": 48,
+  "shot": "E02-S054",
+  "line": 1,
+  "char": "ollie",
+  "text": "Time for my Wonder Pocket! Three things we learned."
+ },
+ {
+  "idx": 49,
+  "shot": "E02-S056",
+  "line": 1,
+  "char": "ollie",
+  "text": "One. The sea is always moving, even at night."
+ },
+ {
+  "idx": 50,
+  "shot": "E02-S057",
+  "line": 1,
+  "char": "ollie",
+  "text": "Two. Otters hold paws so they do not drift apart."
+ },
+ {
+  "idx": 51,
+  "shot": "E02-S058",
+  "line": 1,
+  "char": "ollie",
+  "text": "Three. Holding on keeps friends together."
+ },
+ {
+  "idx": 52,
+  "shot": "E02-S059",
+  "line": 1,
+  "char": "ollie",
+  "text": "And one kind thing to try today. Hold a friend's hand."
+ },
+ {
+  "idx": 53,
+  "shot": "E02-S060",
+  "line": 1,
+  "char": "gus",
+  "text": "Bye, everybody! Next time, I'll hold on too!"
+ }
+]

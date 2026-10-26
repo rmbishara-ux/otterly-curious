@@ -531,7 +531,7 @@
         "gus": "playful"
       },
       "action": "Luna glows brighter as Ollie turns toward Pip.",
-      "camera": "close",
+      "camera": "slow_push",
       "dialogue": [
         {
           "char": "gus",
@@ -555,7 +555,8 @@
       "tags": [],
       "text_overlay": null,
       "id": "E03-S021",
-      "book_safe": false
+      "still_of": "E03-S020",
+      "book_safe": true
     },
     {
       "beat": 3,
@@ -816,7 +817,7 @@
         "ollie": "curious"
       },
       "action": "Gus peeks under his hat. The jar is dull and the wall is plain. He gulps.",
-      "camera": "close",
+      "camera": "slow_push",
       "dialogue": [
         {
           "char": "ollie",
@@ -835,7 +836,8 @@
       "tags": [],
       "text_overlay": null,
       "id": "E03-S031",
-      "book_safe": false
+      "still_of": "E03-S030",
+      "book_safe": true
     },
     {
       "beat": 4,

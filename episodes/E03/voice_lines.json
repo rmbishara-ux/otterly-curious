@@ -1,0 +1,429 @@
+[
+ {
+  "idx": 0,
+  "shot": "E03-S001",
+  "line": 1,
+  "char": "ollie",
+  "text": "The rain stopped! Everything is shiny, Pip!"
+ },
+ {
+  "idx": 1,
+  "shot": "E03-S002",
+  "line": 1,
+  "char": "pip",
+  "text": "Ollie, look up. Look up!"
+ },
+ {
+  "idx": 2,
+  "shot": "E03-S002",
+  "line": 2,
+  "char": "ollie",
+  "text": "A rainbow! It's so big and so bright!"
+ },
+ {
+  "idx": 3,
+  "shot": "E03-S003",
+  "line": 1,
+  "char": "ollie",
+  "text": "Where does a rainbow come from?"
+ },
+ {
+  "idx": 4,
+  "shot": "E03-S004",
+  "line": 1,
+  "char": "ollie",
+  "text": "Let's find out!"
+ },
+ {
+  "idx": 5,
+  "shot": "E03-S013",
+  "line": 1,
+  "char": "pip",
+  "text": "Maybe the sky painted it."
+ },
+ {
+  "idx": 6,
+  "shot": "E03-S013",
+  "line": 2,
+  "char": "ollie",
+  "text": "With what? Sky paint?"
+ },
+ {
+  "idx": 7,
+  "shot": "E03-S014",
+  "line": 1,
+  "char": "pip",
+  "text": "Maybe it fell off a very big butterfly."
+ },
+ {
+  "idx": 8,
+  "shot": "E03-S016",
+  "line": 1,
+  "char": "gus",
+  "text": "Easy! The rainbow is a prize, and I'm getting it!"
+ },
+ {
+  "idx": 9,
+  "shot": "E03-S016",
+  "line": 2,
+  "char": "ollie",
+  "text": "A prize for what?"
+ },
+ {
+  "idx": 10,
+  "shot": "E03-S016",
+  "line": 3,
+  "char": "gus",
+  "text": "For whoever gets to the end first. And that's me!"
+ },
+ {
+  "idx": 11,
+  "shot": "E03-S017",
+  "line": 1,
+  "char": "ollie",
+  "text": "I'll race you, Gus! Follow me!"
+ },
+ {
+  "idx": 12,
+  "shot": "E03-S018",
+  "line": 1,
+  "char": "pip",
+  "text": "Ollie, I have an idea! Ollie? Please stop!"
+ },
+ {
+  "idx": 13,
+  "shot": "E03-S019",
+  "line": 1,
+  "char": "ollie",
+  "text": "Sorry, Pip. I ran before I listened. What's your idea?"
+ },
+ {
+  "idx": 14,
+  "shot": "E03-S020",
+  "line": 1,
+  "char": "pip",
+  "text": "The rain stopped and the sun came out. Maybe they go together."
+ },
+ {
+  "idx": 15,
+  "shot": "E03-S020",
+  "line": 2,
+  "char": "gus",
+  "text": "Too slow! I've got a faster way!"
+ },
+ {
+  "idx": 16,
+  "shot": "E03-S020",
+  "line": 3,
+  "char": "pip",
+  "text": "Gus, your faster ways always go wrong."
+ },
+ {
+  "idx": 17,
+  "shot": "E03-S021",
+  "line": 1,
+  "char": "gus",
+  "text": "Not this time! I'll run to the end and grab the rainbow!"
+ },
+ {
+  "idx": 18,
+  "shot": "E03-S021",
+  "line": 2,
+  "char": "ollie",
+  "text": "Can you grab a rainbow?"
+ },
+ {
+  "idx": 19,
+  "shot": "E03-S021",
+  "line": 3,
+  "char": "gus",
+  "text": "Watch me! I'll put it in my hat!"
+ },
+ {
+  "idx": 20,
+  "shot": "E03-S022",
+  "line": 1,
+  "char": "pip",
+  "text": "What if we try it the careful way?"
+ },
+ {
+  "idx": 21,
+  "shot": "E03-S022",
+  "line": 2,
+  "char": "ollie",
+  "text": "Let's watch Gus first. Then we ask Gran Mari."
+ },
+ {
+  "idx": 22,
+  "shot": "E03-S024",
+  "line": 1,
+  "char": "gus",
+  "text": "Hey! Stay still, rainbow!"
+ },
+ {
+  "idx": 23,
+  "shot": "E03-S026",
+  "line": 1,
+  "char": "gus",
+  "text": "There it is! It came down all by itself!"
+ },
+ {
+  "idx": 24,
+  "shot": "E03-S026",
+  "line": 2,
+  "char": "ollie",
+  "text": "Gus, that's a different rainbow."
+ },
+ {
+  "idx": 25,
+  "shot": "E03-S026",
+  "line": 3,
+  "char": "gus",
+  "text": "It's mine now! I caught it!"
+ },
+ {
+  "idx": 26,
+  "shot": "E03-S027",
+  "line": 1,
+  "char": "gus",
+  "text": "My rainbow. Nobody else gets to look."
+ },
+ {
+  "idx": 27,
+  "shot": "E03-S028",
+  "line": 1,
+  "char": "bean",
+  "text": "Share?"
+ },
+ {
+  "idx": 28,
+  "shot": "E03-S030",
+  "line": 1,
+  "char": "gus",
+  "text": "Uh oh. Where did it go?"
+ },
+ {
+  "idx": 29,
+  "shot": "E03-S030",
+  "line": 2,
+  "char": "pip",
+  "text": "Did you lose it, Gus?"
+ },
+ {
+  "idx": 30,
+  "shot": "E03-S030",
+  "line": 3,
+  "char": "gus",
+  "text": "No! It's just sleeping. Rainbows sleep a lot."
+ },
+ {
+  "idx": 31,
+  "shot": "E03-S031",
+  "line": 1,
+  "char": "ollie",
+  "text": "Rainbows sleep?"
+ },
+ {
+  "idx": 32,
+  "shot": "E03-S031",
+  "line": 2,
+  "char": "gus",
+  "text": "It was tiny anyway. Hardly a rainbow at all!"
+ },
+ {
+  "idx": 33,
+  "shot": "E03-S033",
+  "line": 1,
+  "char": "ollie",
+  "text": "We need help. Let's ask Gran Mari."
+ },
+ {
+  "idx": 34,
+  "shot": "E03-S034",
+  "line": 1,
+  "char": "gran_mari",
+  "text": "Well now, a seagull with a tiny hat and an otter with a big question. What's all this?"
+ },
+ {
+  "idx": 35,
+  "shot": "E03-S034",
+  "line": 2,
+  "char": "ollie",
+  "text": "Gran Mari, where does a rainbow come from?"
+ },
+ {
+  "idx": 36,
+  "shot": "E03-S034",
+  "line": 3,
+  "char": "gran_mari",
+  "text": "Oh, that is a good question, Ollie. Let's find out together."
+ },
+ {
+  "idx": 37,
+  "shot": "E03-S035",
+  "line": 1,
+  "char": "gran_mari",
+  "text": "Never look right at the sun, little one. We look at the wall instead."
+ },
+ {
+  "idx": 38,
+  "shot": "E03-S036",
+  "line": 1,
+  "char": "gran_mari",
+  "text": "Sunlight looks plain. But it is made of every color, all mixed up together."
+ },
+ {
+  "idx": 39,
+  "shot": "E03-S037",
+  "line": 1,
+  "char": "ollie",
+  "text": "A rainbow! On the wall!"
+ },
+ {
+  "idx": 40,
+  "shot": "E03-S037",
+  "line": 2,
+  "char": "gran_mari",
+  "text": "The water bends the light and spreads the colors apart. Tiny drops of rain work just like this glass."
+ },
+ {
+  "idx": 41,
+  "shot": "E03-S038",
+  "line": 1,
+  "char": "gus",
+  "text": "So the rainbow is hiding in the sunlight?"
+ },
+ {
+  "idx": 42,
+  "shot": "E03-S038",
+  "line": 2,
+  "char": "gran_mari",
+  "text": "Well now, what do you think happens next?"
+ },
+ {
+  "idx": 43,
+  "shot": "E03-S038",
+  "line": 3,
+  "char": "ollie",
+  "text": "It moves if you move the glass!"
+ },
+ {
+  "idx": 44,
+  "shot": "E03-S040",
+  "line": 1,
+  "char": "pip",
+  "text": "It needs the sun to shine through!"
+ },
+ {
+  "idx": 45,
+  "shot": "E03-S042",
+  "line": 1,
+  "char": "ollie",
+  "text": "Try it at home with a grown-up! Fill a clear glass with water. Set it on a sunny windowsill."
+ },
+ {
+  "idx": 46,
+  "shot": "E03-S043",
+  "line": 1,
+  "char": "ollie",
+  "text": "Look at the wall nearby. Find the rainbow! Never look right at the sun."
+ },
+ {
+  "idx": 47,
+  "shot": "E03-S045",
+  "line": 1,
+  "char": "gus",
+  "text": "Wait. I have to tell you something."
+ },
+ {
+  "idx": 48,
+  "shot": "E03-S045",
+  "line": 2,
+  "char": "gus",
+  "text": "I said my rainbow was sleeping. That was a fib. I covered it with my hat."
+ },
+ {
+  "idx": 49,
+  "shot": "E03-S045",
+  "line": 3,
+  "char": "gus",
+  "text": "I wanted it all for me, and then it was gone. I'm sorry."
+ },
+ {
+  "idx": 50,
+  "shot": "E03-S046",
+  "line": 1,
+  "char": "ollie",
+  "text": "Thanks for telling us the truth, Gus."
+ },
+ {
+  "idx": 51,
+  "shot": "E03-S049",
+  "line": 1,
+  "char": "pip",
+  "text": "Look! It's on my shell too!"
+ },
+ {
+  "idx": 52,
+  "shot": "E03-S050",
+  "line": 1,
+  "char": "bean",
+  "text": "Share!"
+ },
+ {
+  "idx": 53,
+  "shot": "E03-S052",
+  "line": 1,
+  "char": "gus",
+  "text": "There's enough for everybody! That's the best part!"
+ },
+ {
+  "idx": 54,
+  "shot": "E03-S053",
+  "line": 1,
+  "char": "pip",
+  "text": "It sparkles even more, with friends."
+ },
+ {
+  "idx": 55,
+  "shot": "E03-S054",
+  "line": 1,
+  "char": "ollie",
+  "text": "Time for my Wonder Pocket! Three things we learned."
+ },
+ {
+  "idx": 56,
+  "shot": "E03-S056",
+  "line": 1,
+  "char": "ollie",
+  "text": "One. Sunlight is made of all the colors."
+ },
+ {
+  "idx": 57,
+  "shot": "E03-S057",
+  "line": 1,
+  "char": "ollie",
+  "text": "Two. Water bends the light and spreads the colors out."
+ },
+ {
+  "idx": 58,
+  "shot": "E03-S058",
+  "line": 1,
+  "char": "ollie",
+  "text": "Three. A rainbow needs sunshine. It fades when it's hidden."
+ },
+ {
+  "idx": 59,
+  "shot": "E03-S059",
+  "line": 1,
+  "char": "ollie",
+  "text": "And one kind thing to try today. Share your favorite thing."
+ },
+ {
+  "idx": 60,
+  "shot": "E03-S060",
+  "line": 1,
+  "char": "gus",
+  "text": "Bye, everybody! Next time, I'll share first!"
+ }
+]
