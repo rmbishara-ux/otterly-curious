@@ -102,6 +102,12 @@ def kenburns(still, out, dur, camera):
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(still), "-vf", vf, "-t", f"{dur:.2f}", "-c:v", "libx264", "-preset", "veryfast", str(out)], check=True)
 
 
+def ai_clip(src, out, dur):
+    """Fit a generated AI clip to the shot length: trim if long, hold the last frame if short."""
+    vf = f"scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},fps={FPS},tpad=stop_mode=clone:stop_duration={max(0.0, dur):.2f},format=yuv420p"
+    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(src), "-vf", vf, "-t", f"{dur:.2f}", "-an", "-c:v", "libx264", "-preset", "veryfast", str(out)], check=True)
+
+
 def run_animate(ep):
     d, sb, cache, log, ad = ep_dir(ep), load_sb(ep), Cache(ep), CostLog(ep), None
     ad = adapters.get("video", ep)
@@ -109,6 +115,11 @@ def run_animate(ep):
     for s in sb["shots"]:
         still, out = d / "shots" / f"{still_id(s)}.png", d / "shots" / f"{s['id']}.mp4"
         if not still.exists():
+            continue
+        src = d / "ai" / f"{s['id']}.mp4"
+        if src.exists():
+            ai_clip(src, out, s["duration"])
+            n_ai += 1
             continue
         req = {"image": str(still), "motion": motion_prompt(s), "seconds": s["duration"], "seed": stable_seed(s["id"], "vid")}
         if cache.hit(f"vid:{s['id']}", req, out):
