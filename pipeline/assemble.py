@@ -109,6 +109,9 @@ def assemble(ep):
     out = {"episode": str(final), "seconds": total}
     for tag, name in (("short_demo", "short_demo"), ("short_fail", "short_fail")):
         picked = [s for s in sb["shots"] if tag in s["tags"]]
+        cap = 29.5 if tag == "short_fail" else 59.5  # voice timing can lengthen shots after tagging
+        while len(picked) > 1 and sum(s["duration"] for s in picked) > cap:
+            picked.pop()
         if not picked:
             continue
         vs = [tmp / f"{s['id']}.v.mp4" for s in picked]

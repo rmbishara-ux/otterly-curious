@@ -23,6 +23,10 @@ def drift_check(ep, sb):
     drift; a face-embedding model is the next upgrade. Writes logs/EXX_drift.json."""
     flags = []
     d = ep_dir(ep)
+    reviewed = set()
+    rv = d / "drift_reviewed.json"  # shots a human eyeballed (lighting shifts the signature colors)
+    if rv.exists():
+        reviewed = {(r["shot"], r["char"]) for r in read_json(rv)}
     for s in sb["shots"]:
         p = d / "shots" / f"{s.get('still_of', s['id'])}.png"
         if not p.exists():
@@ -31,7 +35,7 @@ def drift_check(ep, sb):
         im = Image.open(p)
         for c in s["characters"]:
             best = max(color_frac(im, k) for k in KEY[c])
-            if best < MIN_FRAC[c]:
+            if best < MIN_FRAC[c] and (s["id"], c) not in reviewed:
                 flags.append({"shot": s["id"], "char": c, "issue": f"signature color not found ({best:.5f})"})
     write_json(ROOT / "logs" / f"{ep}_drift.json", flags)
     return flags

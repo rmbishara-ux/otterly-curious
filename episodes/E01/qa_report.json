@@ -1,11 +1,11 @@
 {
   "episode": "E01",
-  "passed": true,
+  "passed": false,
   "checks": [
     {
       "check": "runtime 6:00-8:00",
       "pass": true,
-      "detail": "6.78 min"
+      "detail": "7.77 min"
     },
     {
       "check": "every line audible",
@@ -15,7 +15,7 @@
     {
       "check": "no shot >8s without motion",
       "pass": true,
-      "detail": "missing clips: []; shots >8s (all have motion): ['E01-S016', 'E01-S022', 'E01-S025', 'E01-S031', 'E01-S033', 'E01-S036', 'E01-S040', 'E01-S043', 'E01-S046', 'E01-S052', 'E01-S063', 'E01-S064']"
+      "detail": "missing clips: []; shots >8s (all have motion): ['E01-S014', 'E01-S016', 'E01-S018', 'E01-S025', 'E01-S031', 'E01-S033', 'E01-S036', 'E01-S036c', 'E01-S038', 'E01-S040', 'E01-S040c', 'E01-S043', 'E01-S044', 'E01-S046', 'E01-S051', 'E01-S052', 'E01-S054', 'E01-S063', 'E01-S064']"
     },
     {
       "check": "captions in sync",
@@ -24,8 +24,8 @@
     },
     {
       "check": "no character drift flags open",
-      "pass": true,
-      "detail": "0 flags"
+      "pass": false,
+      "detail": "4 flags"
     },
     {
       "check": "style/brightness on sampled frames",
@@ -35,12 +35,12 @@
     {
       "check": "Short (demo) 45-60 s",
       "pass": true,
-      "detail": "46.9s"
+      "detail": "52.0s"
     },
     {
       "check": "Short (fail) 20-30 s",
-      "pass": true,
-      "detail": "27.3s"
+      "pass": false,
+      "detail": "30.4s"
     }
   ]
 }

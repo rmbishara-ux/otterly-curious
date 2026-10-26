@@ -46,11 +46,13 @@
  },
  "E01-S016": {
   "job": "5e235db6-8c9f-4931-b18c-8fdc3c61a921",
-  "cost": 8.75
+  "cost": 8.75,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_061957_5e235db6-8c9f-4931-b18c-8fdc3c61a921.mp4"
  },
  "E01-S030": {
   "job": "948203f3-fdac-4a60-b44e-59b365cd6330",
-  "cost": 8.75
+  "cost": 8.75,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_061955_948203f3-fdac-4a60-b44e-59b365cd6330.mp4"
  },
  "E01-S039": {
   "job": "32a48e61-336f-4044-a23f-850d74ede860",
@@ -59,7 +61,8 @@
  },
  "E01-S041": {
   "job": "cf2c71ab-5b69-40a0-b9d1-320bdd3ee31d",
-  "cost": 8.75
+  "cost": 8.75,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_061956_cf2c71ab-5b69-40a0-b9d1-320bdd3ee31d.mp4"
  },
  "E01-S043": {
   "job": "e4028f99-bcc4-40ad-b51b-e8a3d6e0a6d0",
@@ -68,15 +71,18 @@
  },
  "E01-S044": {
   "job": "e9e5c6a3-f975-40eb-a4e0-cd547c3849e4",
-  "cost": 8.75
+  "cost": 8.75,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_061955_e9e5c6a3-f975-40eb-a4e0-cd547c3849e4.mp4"
  },
  "E01-S053": {
   "job": "08196133-cbab-4869-b650-6087d96b033a",
-  "cost": 8.75
+  "cost": 8.75,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_061955_08196133-cbab-4869-b650-6087d96b033a.mp4"
  },
  "E01-S054": {
   "job": "4bb85fa8-3da6-4330-8277-50b0880ed33e",
-  "cost": 8.75
+  "cost": 8.75,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_061955_4bb85fa8-3da6-4330-8277-50b0880ed33e.mp4"
  },
  "E01-S057": {
   "job": "fc33d1ce-720a-43a0-81e3-ab62792f3c66",
@@ -85,10 +91,12 @@
  },
  "E01-S062": {
   "job": "90c44e30-19db-4ead-b7c0-1d913441f783",
-  "cost": 8.75
+  "cost": 8.75,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_061955_90c44e30-19db-4ead-b7c0-1d913441f783.mp4"
  },
  "E01-S064": {
   "job": "872c7c89-e049-426d-ae57-dd172639d7f5",
-  "cost": 8.75
+  "cost": 8.75,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_061955_872c7c89-e049-426d-ae57-dd172639d7f5.mp4"
  }
 }

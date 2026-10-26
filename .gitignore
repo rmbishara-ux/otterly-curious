@@ -16,3 +16,4 @@ channel/branding/banner_src_*.png
 episodes/*/book/out/
 episodes/*/final/*.png
 !episodes/*/final/*_thumbnail.png
+episodes/*/ai/
