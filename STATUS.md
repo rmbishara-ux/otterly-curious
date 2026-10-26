@@ -46,3 +46,10 @@ Files: characters/<name>/candidates/turnaround_v1|v2.png
 - Bean: v1 999f3d2c-d605-4aa4-8567-8a7f8890a07c, v2 5d0c0d69-8993-4918-b836-7d87966b3f02
 - Luna: v1 573be74e-9eb5-4fbc-9088-76d3c32d5594, v2 5b3bea12-b549-4d94-a683-36bd89151c38
 Known gaps: Bean not floating on her back (both upright); Luna glow steps (dim/bright/sparkle) not yet made; expression sheets for the five not yet made.
+
+## Cast LOCKED (owner: "use your picks")
+Turnarounds: pip v1 (back-view fixed via 5f822128-76fe-4d6b-868a-56a94ae44551), gran_mari v1, gus v2, bean v2, luna v1
+Expression picks (characters/<name>/<name>_expressions.png): pip v2 (5d4e82e5-8120-4681-bb7d-157691cbfa38), gran_mari v1 (691cace8-c36b-411a-8058-b67777cc4022), gus v1 (a60a51f1-6901-49f3-bb43-141f7d5f7ec0), bean v2 (e656249e-9e9e-4d0b-985b-85a911d135e2)
+Luna glow steps: luna/luna_glow_steps.png (19b5e836-0f62-4685-ae18-dbc77909472c). One Luna job failed (d9d74c5c-c9bb-405e-ab66-0c1541d0c28d).
+Bean floating pose: bean/bean_float_pose.png (55760803-42fe-440f-92d0-181c337adf73); only the first two panels float on her back, side/back panels are upright.
+Open issues: Bean's face is nearly identical to Ollie's in close-ups (ribbon not visible); Gran Mari reads bald with subtle expressions; Ollie's tuft never fully upright.
