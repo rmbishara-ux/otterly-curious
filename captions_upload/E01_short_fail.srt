@@ -1,0 +1,19 @@
+1
+00:00:00,500 --> 00:00:03,690
+Gus: Hey! Where did it go?
+
+2
+00:00:05,190 --> 00:00:07,660
+Gus: Whoa, whoa, whoaaa!
+
+3
+00:00:15,190 --> 00:00:16,680
+Pip: Are you okay, Gus?
+
+4
+00:00:17,080 --> 00:00:20,920
+Gus: I'm fine! I did that on purpose!
+
+5
+00:00:21,320 --> 00:00:24,720
+Ollie: Did you slip, Gus?

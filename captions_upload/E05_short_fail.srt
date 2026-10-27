@@ -1,0 +1,19 @@
+1
+00:00:00,500 --> 00:00:03,420
+Ollie: Today the seed grows! I bet it's huge!
+
+2
+00:00:05,380 --> 00:00:09,170
+Ollie: It didn't change at all!
+
+3
+00:00:10,670 --> 00:00:14,890
+Gus: Is it a tree yet? I did not forget!
+
+4
+00:00:15,290 --> 00:00:17,170
+Pip: Gus, did you give it anything to drink?
+
+5
+00:00:18,670 --> 00:00:23,630
+Gus: Drink? Um. Yes! Lots. It drank it all. Very fast.

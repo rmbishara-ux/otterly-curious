@@ -1,0 +1,247 @@
+1
+00:00:00,500 --> 00:00:03,280
+Ollie: Good morning, Pip! Race you to the water!
+
+2
+00:00:10,380 --> 00:00:13,340
+Pip: Ollie, the water is gone!
+
+3
+00:00:13,740 --> 00:00:15,410
+Ollie: It was right here yesterday!
+
+4
+00:00:16,910 --> 00:00:18,770
+Ollie: Why does the water go away?
+
+5
+00:00:21,910 --> 00:00:24,540
+Ollie: Let's find out!
+
+6
+00:00:56,040 --> 00:00:59,360
+Pip: Maybe the sea is hiding.
+
+7
+00:00:59,760 --> 00:01:03,940
+Ollie: Maybe it went on a trip!
+
+8
+00:01:05,440 --> 00:01:08,750
+Pip: Even the snails are leaving.
+
+9
+00:01:10,440 --> 00:01:13,950
+Gus: I know! The sea ran away. Easy!
+
+10
+00:01:14,350 --> 00:01:16,370
+Ollie: Why would the sea run away?
+
+11
+00:01:16,770 --> 00:01:19,270
+Gus: Maybe it got bored. Or hungry!
+
+12
+00:01:21,150 --> 00:01:24,460
+Pip: I don't think seas get hungry.
+
+13
+00:01:25,960 --> 00:01:32,990
+Ollie: The sand is shaped like waves. So the water was here!
+
+14
+00:01:34,490 --> 00:01:36,370
+Ollie: I'll go find it. Follow me!
+
+15
+00:01:38,600 --> 00:01:42,240
+Pip: Ollie, wait! Bean is still back there!
+
+16
+00:01:43,740 --> 00:01:47,540
+Ollie: Oops. Sorry, Bean. Let's go together.
+
+17
+00:01:49,040 --> 00:01:52,220
+Gus: Ha! I've got a faster way!
+
+18
+00:01:52,620 --> 00:01:55,350
+Pip: Gus, your faster ways always go wrong.
+
+19
+00:01:56,850 --> 00:02:01,690
+Gus: Not this time! We bring the sea back ourselves!
+
+20
+00:02:03,190 --> 00:02:05,330
+Ollie: How, Gus?
+
+21
+00:02:05,730 --> 00:02:08,570
+Gus: Buckets! Lots and lots of buckets!
+
+22
+00:02:15,070 --> 00:02:17,290
+Pip: What if we try it the careful way?
+
+23
+00:02:17,690 --> 00:02:23,560
+Ollie: Let's watch Gus try first. Then we ask Gran Mari.
+
+24
+00:02:29,060 --> 00:02:32,240
+Gus: See? One bucket, one big splash!
+
+25
+00:02:33,740 --> 00:02:36,930
+Gus: Hey! Where did it go?
+
+26
+00:02:38,430 --> 00:02:40,900
+Gus: Whoa, whoa, whoaaa!
+
+27
+00:02:48,430 --> 00:02:49,920
+Pip: Are you okay, Gus?
+
+28
+00:02:50,320 --> 00:02:54,160
+Gus: I'm fine! I did that on purpose!
+
+29
+00:02:54,560 --> 00:02:57,960
+Ollie: Did you slip, Gus?
+
+30
+00:02:59,460 --> 00:03:04,010
+Gus: No! I was testing the water. It's wet. Very wet.
+
+31
+00:03:05,510 --> 00:03:07,660
+Ollie: Your bucket water sank into the sand.
+
+32
+00:03:08,060 --> 00:03:10,440
+Gus: It was already wet, so it doesn't count!
+
+33
+00:03:10,840 --> 00:03:13,410
+Pip: Maybe buckets can't bring the sea back.
+
+34
+00:03:21,370 --> 00:03:25,920
+Ollie: We need help. Let's ask Gran Mari.
+
+35
+00:03:27,420 --> 00:03:35,810
+Gran Mari: Well now, a soggy seagull and a worried otter. What's all this?
+
+36
+00:03:37,310 --> 00:03:42,350
+Ollie: Gran Mari, why does the water go away?
+
+37
+00:03:43,850 --> 00:03:51,960
+Gran Mari: Oh, that is a good question, Ollie. Let's find out together.
+
+38
+00:03:58,460 --> 00:04:09,030
+Gran Mari: This bowl is a pretend ocean. Watch the water, and watch slowly.
+
+39
+00:04:10,530 --> 00:04:15,930
+Ollie: It moves! High on one side, low on the other!
+
+40
+00:04:17,530 --> 00:04:27,140
+Gran Mari: See the moon? It pulls on the sea, just a little. Like a very gentle tug.
+
+41
+00:04:28,640 --> 00:04:33,700
+Pip: So the moon makes the water go up and down?
+
+42
+00:04:35,200 --> 00:04:44,810
+Gran Mari: Yes. The water rises up the beach. Then it slides back out. Two times every day.
+
+43
+00:04:46,310 --> 00:04:49,880
+Ollie: The water didn't run away! It's just out for a while!
+
+44
+00:04:58,310 --> 00:05:01,810
+Gus: So how long until it comes back?
+
+45
+00:05:02,210 --> 00:05:05,810
+Gran Mari: Well now, what do you think happens next?
+
+46
+00:05:07,310 --> 00:05:11,480
+Ollie: It slides back to the beach!
+
+47
+00:05:12,980 --> 00:05:20,760
+Gran Mari: The sea keeps its own clock. We can't hurry it. But we can watch it.
+
+48
+00:05:26,260 --> 00:05:36,860
+Ollie: Try it at home! Put water in a bowl. Tilt it very slowly. Watch the water climb one side. Watch it slide away from the other.
+
+49
+00:05:38,360 --> 00:05:44,530
+Ollie: This is our water line. We wait and we watch.
+
+50
+00:06:00,030 --> 00:06:04,870
+Gus: I can't wait anymore! I'll go get the sea myself!
+
+51
+00:06:05,270 --> 00:06:07,300
+Bean: Wait!
+
+52
+00:06:08,800 --> 00:06:14,620
+Gus: Okay, okay. I fibbed before. My bucket water didn't count. It all sank away.
+
+53
+00:06:15,020 --> 00:06:17,180
+Gus: I'm sorry I said it was already wet.
+
+54
+00:06:18,680 --> 00:06:20,940
+Ollie: Thanks for telling us the truth, Gus.
+
+55
+00:06:28,440 --> 00:06:31,760
+Pip: It came back all by itself!
+
+56
+00:06:32,160 --> 00:06:36,700
+Ollie: Gran Mari was right! We waited and watched!
+
+57
+00:06:42,200 --> 00:06:47,960
+Ollie: Time for my Wonder Pocket! Three things we learned.
+
+58
+00:06:54,460 --> 00:06:58,630
+Ollie: One. The moon gently pulls on the sea.
+
+59
+00:07:00,130 --> 00:07:05,160
+Ollie: Two. The water goes up and down two times a day.
+
+60
+00:07:06,660 --> 00:07:12,830
+Ollie: Three. The sea always comes back. We just have to wait.
+
+61
+00:07:14,330 --> 00:07:18,610
+Ollie: And one kind thing to try today. Wait for a friend.
+
+62
+00:07:20,360 --> 00:07:25,200
+Gus: Bye, everybody! Next time, I'll wait too!
