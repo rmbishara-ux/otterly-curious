@@ -14,12 +14,12 @@ In this episode of Otterly Curious, Ollie the sea otter and his friends ask: Why
 A science-for-kids story for ages 3-7, made to be watched together.
 
 0:00 Big question
-0:27 Theme song
-0:57 Let's guess
-2:24 Uh-oh!
-3:20 Let's find out
-5:40 Try it out
-6:40 Wonder Pocket
+0:28 Theme song
+0:58 Let's guess
+2:26 Uh-oh!
+3:22 Let's find out
+5:47 Try it out
+6:46 Wonder Pocket
 
 Subscribe to Otterly Curious for a new question every week.
 
