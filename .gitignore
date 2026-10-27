@@ -17,3 +17,5 @@ episodes/*/book/out/
 episodes/*/final/*.png
 !episodes/*/final/*_thumbnail.png
 episodes/*/ai/
+channel/trailer/*.mp4
+channel/trailer/tmp/
