@@ -1,0 +1,46 @@
+{
+  "episode": "E04",
+  "passed": true,
+  "checks": [
+    {
+      "check": "runtime 6:00-8:00",
+      "pass": true,
+      "detail": "7.79 min"
+    },
+    {
+      "check": "every line audible",
+      "pass": true,
+      "detail": "58 lines, problems: []"
+    },
+    {
+      "check": "no shot >8s without motion",
+      "pass": true,
+      "detail": "missing clips: []; shots >8s (all have motion): ['E04-S002', 'E04-S013', 'E04-S021', 'E04-S024', 'E04-S030', 'E04-S032', 'E04-S035', 'E04-S036', 'E04-S039', 'E04-S040', 'E04-S041', 'E04-S043', 'E04-S045', 'E04-S046', 'E04-S048', 'E04-S054', 'E04-S062', 'E04-S063']"
+    },
+    {
+      "check": "captions in sync",
+      "pass": true,
+      "detail": "58 cues vs 58 lines"
+    },
+    {
+      "check": "no character drift flags open",
+      "pass": true,
+      "detail": "0 flags"
+    },
+    {
+      "check": "style/brightness on sampled frames",
+      "pass": true,
+      "detail": "dark frames: []"
+    },
+    {
+      "check": "Short (demo) 45-60 s",
+      "pass": true,
+      "detail": "50.0s"
+    },
+    {
+      "check": "Short (fail) 20-30 s",
+      "pass": true,
+      "detail": "26.9s"
+    }
+  ]
+}

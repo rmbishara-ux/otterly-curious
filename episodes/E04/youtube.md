@@ -7,8 +7,6 @@
 **End screens/links/QR/merch:** none.
 
 ## Description
-> NOTE: chapter times are estimates from the storyboard; regenerate after the final render.
-
 TRY IT AT HOME: Fill a sink or bathtub with water. Take two same-size pieces of foil. Squeeze one into a tight ball. Fold the other into a wide, flat boat with edges. Gently set both on the water. Watch the ball sink and the boat float. Then add a few small stones to the boat and see how many it can carry.
 
 In this episode of Otterly Curious, Ollie the sea otter and his friends ask: Why do boats float? A wide, light boat shape pushes a lot of water aside, and the water pushes back up, so it floats. A small, heavy lump pushes only a little water aside, so it sinks. Along the way, Gus learns about trying again.
@@ -16,12 +14,12 @@ In this episode of Otterly Curious, Ollie the sea otter and his friends ask: Why
 A science-for-kids story for ages 3-7, made to be watched together.
 
 0:00 Big question
-0:23 Theme song
-0:53 Let's guess
-2:13 Uh-oh!
-3:06 Let's find out
-4:54 Try it out
-5:49 Wonder Pocket
+0:27 Theme song
+0:57 Let's guess
+2:24 Uh-oh!
+3:20 Let's find out
+5:40 Try it out
+6:40 Wonder Pocket
 
 Subscribe to Otterly Curious for a new question every week.
 

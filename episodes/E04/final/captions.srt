@@ -1,0 +1,231 @@
+1
+00:00:00,500 --> 00:00:05,630
+Ollie: Plip! The pebble sank right to the bottom.
+
+2
+00:00:07,130 --> 00:00:11,120
+Pip: But that big boat is not sinking at all!
+
+3
+00:00:11,520 --> 00:00:17,300
+Ollie: It's much bigger than the pebble, and it floats!
+
+4
+00:00:18,800 --> 00:00:19,970
+Ollie: Why do boats float?
+
+5
+00:00:23,800 --> 00:00:26,420
+Ollie: Let's find out!
+
+6
+00:00:57,920 --> 00:01:02,650
+Pip: I want to sail! Can I make a boat?
+
+7
+00:01:03,050 --> 00:01:07,600
+Ollie: Yes! A boat of your very own!
+
+8
+00:01:09,100 --> 00:01:12,270
+Ollie: It's tall and shiny! Let's go launch it!
+
+9
+00:01:14,100 --> 00:01:15,860
+Pip: Ollie, I don't think it's ready yet!
+
+10
+00:01:19,100 --> 00:01:24,860
+Ollie: Sorry, Pip. It's your boat. You tell us when.
+
+11
+00:01:30,360 --> 00:01:31,750
+Pip: Oh no. It's tilting...
+
+12
+00:01:40,360 --> 00:01:45,090
+Pip: My boat is no good. Maybe I should stop.
+
+13
+00:01:46,590 --> 00:01:50,410
+Gus: Don't stop! I've got a faster way!
+
+14
+00:01:50,810 --> 00:01:54,470
+Pip: Gus, your faster ways always go wrong.
+
+15
+00:01:54,870 --> 00:02:00,720
+Gus: Not this time! A boat needs to be strong. Strong like a lump of clay!
+
+16
+00:02:02,220 --> 00:02:03,490
+Ollie: A lump of clay?
+
+17
+00:02:05,560 --> 00:02:09,260
+Gus: Squeeze it hard, and it's a boat in two seconds!
+
+18
+00:02:11,210 --> 00:02:13,000
+Pip: What if we try it the careful way?
+
+19
+00:02:13,400 --> 00:02:19,570
+Ollie: Let's watch Gus try first. Then we ask Gran Mari.
+
+20
+00:02:29,070 --> 00:02:32,570
+Gus: Whoa. Where did my boat go?
+
+21
+00:02:44,070 --> 00:02:46,720
+Pip: Gus, your boat sank!
+
+22
+00:02:47,120 --> 00:02:50,980
+Gus: It didn't sink! It's a submarine! I meant to do that.
+
+23
+00:02:51,380 --> 00:02:53,800
+Ollie: Do submarines fall down and stay down?
+
+24
+00:02:55,930 --> 00:02:59,030
+Gus: Mine does. It's the best submarine ever.
+
+25
+00:03:00,530 --> 00:03:02,300
+Ollie: But a boat should float on top.
+
+26
+00:03:02,700 --> 00:03:05,800
+Gus: It's not my fault. The water was too deep!
+
+27
+00:03:09,280 --> 00:03:12,040
+Pip: And my boat flipped over. Boats are hard.
+
+28
+00:03:14,160 --> 00:03:19,180
+Ollie: We need help. Let's ask Gran Mari.
+
+29
+00:03:20,680 --> 00:03:31,690
+Gran Mari: Well now, a muddy seagull and a gloomy crab. What's all this?
+
+30
+00:03:32,090 --> 00:03:36,250
+Ollie: Gran Mari, why do boats float?
+
+31
+00:03:36,650 --> 00:03:43,790
+Gran Mari: Oh, that is a good question, Ollie. Let's find out together.
+
+32
+00:03:45,290 --> 00:03:55,060
+Gran Mari: These are the same foil. I'll squeeze this one into a ball. I'll fold this one into a wide boat.
+
+33
+00:04:03,560 --> 00:04:08,250
+Gran Mari: First, the ball. Watch the water.
+
+34
+00:04:09,750 --> 00:04:12,380
+Ollie: The ball sinks!
+
+35
+00:04:12,780 --> 00:04:19,450
+Gran Mari: Now the boat. Same foil, same weight.
+
+36
+00:04:20,950 --> 00:04:23,250
+Pip: The boat floats!
+
+37
+00:04:23,650 --> 00:04:38,700
+Gran Mari: The wide boat pushes a lot of water aside. The water pushes back up and holds it. The small ball pushes only a little, so it sinks.
+
+38
+00:04:40,200 --> 00:04:42,530
+Gus: So my clay needed to be flat and wide?
+
+39
+00:04:42,930 --> 00:04:48,560
+Gran Mari: Well now, what do you think happens next?
+
+40
+00:04:48,960 --> 00:04:52,460
+Ollie: If we flatten the clay, it will float!
+
+41
+00:04:59,960 --> 00:05:11,480
+Gran Mari: Too much on one side, and it tips. Not a mistake, just something to learn. So we try again.
+
+42
+00:05:16,980 --> 00:05:28,660
+Ollie: Try it at home! Fill a sink with water. Squeeze one piece of foil into a ball. Fold another into a wide boat.
+
+43
+00:05:30,160 --> 00:05:39,480
+Ollie: Set them on the water. The ball sinks. The boat floats! Add a few stones, one at a time.
+
+44
+00:05:45,980 --> 00:05:51,420
+Gus: Wait, before we go. I fibbed. My boat sank, and I said it was a submarine.
+
+45
+00:05:51,820 --> 00:05:55,360
+Gus: I'm sorry I said I meant to. I just wanted to be fast.
+
+46
+00:05:55,760 --> 00:05:59,130
+Ollie: Thanks for telling us the truth, Gus.
+
+47
+00:06:03,230 --> 00:06:06,380
+Gus: It floats! My lump is a boat after all!
+
+48
+00:06:08,490 --> 00:06:10,290
+Pip: What if it tips again?
+
+49
+00:06:12,490 --> 00:06:14,520
+Bean: Try!
+
+50
+00:06:22,490 --> 00:06:25,880
+Pip: I did it! I tried again, and it floated!
+
+51
+00:06:28,490 --> 00:06:34,650
+Ollie: Can I ride along, Pip? You're the captain.
+
+52
+00:06:35,050 --> 00:06:39,020
+Pip: Yes! Hop aboard, first mate.
+
+53
+00:06:40,520 --> 00:06:45,910
+Ollie: Time for my Wonder Pocket! Three things we learned.
+
+54
+00:06:52,410 --> 00:06:58,580
+Ollie: One. A wide, light boat pushes the water aside and floats.
+
+55
+00:07:00,080 --> 00:07:05,470
+Ollie: Two. A small, heavy lump pushes less water and sinks.
+
+56
+00:07:06,970 --> 00:07:12,740
+Ollie: Three. If a boat tips over, we can try again.
+
+57
+00:07:14,240 --> 00:07:18,630
+Ollie: And one kind thing to try today. Cheer on a friend who tries again.
+
+58
+00:07:21,420 --> 00:07:26,260
+Gus: Bye, everybody! Next time, I'll try the careful way too!

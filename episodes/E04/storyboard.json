@@ -3,8 +3,8 @@
   "title": "E04: Pip's Tippy Boat",
   "big_question": "Why do boats float?",
   "value": "Trying again",
-  "shot_count": 63,
-  "total_seconds": 467.3,
+  "shot_count": 71,
+  "total_seconds": 473.5,
   "shots": [
     {
       "beat": 1,
@@ -54,23 +54,45 @@
           "file": "episodes/E04/audio/E04-S002_L1.wav",
           "length": 3.99,
           "start": 0.5
-        },
-        {
-          "char": "ollie",
-          "emotion": "curious",
-          "text": "It's much bigger than the pebble, and it floats!",
-          "file": "episodes/E04/audio/E04-S002_L2.wav",
-          "length": 5.78,
-          "start": 4.89
         }
       ],
-      "duration": 11.67,
+      "duration": 5.49,
       "music_mood": "play",
       "luna_glow": null,
       "tags": [],
       "text_overlay": null,
       "id": "E04-S002",
       "book_safe": true
+    },
+    {
+      "beat": 1,
+      "beat_name": "Cold open",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "ollie": "surprised",
+        "pip": "surprised"
+      },
+      "action": "Far out on the sea, a little fishing boat bobs on the waves. Nobody is in sight. It glides along, light as a leaf.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "It's much bigger than the pebble, and it floats!",
+          "file": "episodes/E04/audio/E04-S002_L2.wav",
+          "length": 5.78,
+          "start": 0.5
+        }
+      ],
+      "duration": 7.28,
+      "music_mood": "play",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S002b",
+      "book_safe": true,
+      "still_of": "E04-S002"
     },
     {
       "beat": 1,
@@ -553,23 +575,45 @@
           "file": "episodes/E04/audio/E04-S021_L2.wav",
           "length": 3.66,
           "start": 4.72
-        },
-        {
-          "char": "gus",
-          "emotion": "playful",
-          "text": "Not this time! A boat needs to be strong. Strong like a lump of clay!",
-          "file": "episodes/E04/audio/E04-S021_L3.wav",
-          "length": 5.85,
-          "start": 8.78
         }
       ],
-      "duration": 15.63,
+      "duration": 9.38,
       "music_mood": "wonder",
       "luna_glow": null,
       "tags": [],
       "text_overlay": null,
       "id": "E04-S021",
       "book_safe": true
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "tide_pools",
+      "time": "morning",
+      "characters": {
+        "gus": "excited",
+        "pip": "worried"
+      },
+      "action": "Gus lands with a flap, red sneakers slipping, a pebble stuck to his beak.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "playful",
+          "text": "Not this time! A boat needs to be strong. Strong like a lump of clay!",
+          "file": "episodes/E04/audio/E04-S021_L3.wav",
+          "length": 5.85,
+          "start": 0.5
+        }
+      ],
+      "duration": 7.35,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S021b",
+      "book_safe": true,
+      "still_of": "E04-S021"
     },
     {
       "beat": 3,
@@ -977,31 +1021,75 @@
           "file": "episodes/E04/audio/E04-S035_L1.wav",
           "length": 11.01,
           "start": 0.5
-        },
-        {
-          "char": "ollie",
-          "emotion": "curious",
-          "text": "Gran Mari, why do boats float?",
-          "file": "episodes/E04/audio/E04-S035_L2.wav",
-          "length": 4.16,
-          "start": 11.91
-        },
-        {
-          "char": "gran_mari",
-          "emotion": "happy",
-          "text": "Oh, that is a good question, Ollie. Let's find out together.",
-          "file": "episodes/E04/audio/E04-S035_L3.wav",
-          "length": 7.14,
-          "start": 16.47
         }
       ],
-      "duration": 24.61,
+      "duration": 12.51,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [],
       "text_overlay": null,
       "id": "E04-S035",
       "book_safe": true
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "gran_mari": "happy",
+        "ollie": "curious"
+      },
+      "action": "The friends find Gran Mari at the driftwood playground, a big washtub of water on a log beside her, her coral scarf swinging.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "Gran Mari, why do boats float?",
+          "file": "episodes/E04/audio/E04-S035_L2.wav",
+          "length": 4.16,
+          "start": 0.5
+        }
+      ],
+      "duration": 5.66,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S035b",
+      "book_safe": true,
+      "still_of": "E04-S035"
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "gran_mari": "happy",
+        "ollie": "curious"
+      },
+      "action": "The friends find Gran Mari at the driftwood playground, a big washtub of water on a log beside her, her coral scarf swinging.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gran_mari",
+          "emotion": "happy",
+          "text": "Oh, that is a good question, Ollie. Let's find out together.",
+          "file": "episodes/E04/audio/E04-S035_L3.wav",
+          "length": 7.14,
+          "start": 0.5
+        }
+      ],
+      "duration": 8.64,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S035c",
+      "book_safe": true,
+      "still_of": "E04-S035"
     },
     {
       "beat": 5,
@@ -1133,23 +1221,45 @@
           "file": "episodes/E04/audio/E04-S040_L1.wav",
           "length": 2.3,
           "start": 0.5
-        },
-        {
-          "char": "gran_mari",
-          "emotion": "happy",
-          "text": "The wide boat pushes a lot of water aside. The water pushes back up and holds it. The small ball pushes only a little, so it sinks.",
-          "file": "episodes/E04/audio/E04-S040_L2.wav",
-          "length": 15.05,
-          "start": 3.2
         }
       ],
-      "duration": 19.25,
+      "duration": 3.8,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [],
       "text_overlay": null,
       "id": "E04-S040",
       "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "pip": "surprised",
+        "gran_mari": "happy"
+      },
+      "action": "The foil boat settles on the water and floats, riding high on the surface.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gran_mari",
+          "emotion": "happy",
+          "text": "The wide boat pushes a lot of water aside. The water pushes back up and holds it. The small ball pushes only a little, so it sinks.",
+          "file": "episodes/E04/audio/E04-S040_L2.wav",
+          "length": 15.05,
+          "start": 0.5
+        }
+      ],
+      "duration": 16.55,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S040b",
+      "book_safe": false,
+      "still_of": "E04-S040"
     },
     {
       "beat": 5,
@@ -1181,17 +1291,9 @@
           "file": "episodes/E04/audio/E04-S041_L2.wav",
           "length": 5.63,
           "start": 3.23
-        },
-        {
-          "char": "ollie",
-          "emotion": "curious",
-          "text": "If we flatten the clay, it will float!",
-          "file": "episodes/E04/audio/E04-S041_L3.wav",
-          "length": 3.5,
-          "start": 9.26
         }
       ],
-      "duration": 13.76,
+      "duration": 9.86,
       "music_mood": "cozy",
       "luna_glow": "sparkle",
       "tags": [
@@ -1200,6 +1302,41 @@
       "text_overlay": null,
       "id": "E04-S041",
       "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "driftwood_playground",
+      "time": "morning",
+      "characters": {
+        "luna": "happy",
+        "ollie": "happy",
+        "pip": "happy",
+        "gus": "curious",
+        "gran_mari": "curious"
+      },
+      "action": "Luna rises above the tub and sparkles. Three soft notes ring out.",
+      "camera": "slow_push",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "If we flatten the clay, it will float!",
+          "file": "episodes/E04/audio/E04-S041_L3.wav",
+          "length": 3.5,
+          "start": 0.5
+        }
+      ],
+      "duration": 5.0,
+      "music_mood": "cozy",
+      "luna_glow": "sparkle",
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E04-S041b",
+      "book_safe": false,
+      "still_of": "E04-S041"
     },
     {
       "beat": 5,
@@ -1377,23 +1514,45 @@
           "file": "episodes/E04/audio/E04-S048_L2.wav",
           "length": 3.54,
           "start": 6.34
-        },
-        {
-          "char": "ollie",
-          "emotion": "happy",
-          "text": "Thanks for telling us the truth, Gus.",
-          "file": "episodes/E04/audio/E04-S048_L3.wav",
-          "length": 3.37,
-          "start": 10.28
         }
       ],
-      "duration": 17.25,
+      "duration": 10.88,
       "music_mood": "triumph",
       "luna_glow": null,
       "tags": [],
       "text_overlay": null,
       "id": "E04-S048",
       "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "kelp_shallows",
+      "time": "golden_hour",
+      "characters": {
+        "gus": "determined",
+        "ollie": "happy"
+      },
+      "action": "Gus flattens the clay lump into a wide round dish. Ollie holds Pip's new boat steady.",
+      "camera": "slow_push",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Thanks for telling us the truth, Gus.",
+          "file": "episodes/E04/audio/E04-S048_L3.wav",
+          "length": 3.37,
+          "start": 0.5
+        }
+      ],
+      "duration": 4.87,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S048b",
+      "book_safe": false,
+      "still_of": "E04-S048"
     },
     {
       "beat": 6,
@@ -1551,23 +1710,46 @@
           "file": "episodes/E04/audio/E04-S054_L1.wav",
           "length": 6.16,
           "start": 0.5
-        },
-        {
-          "char": "pip",
-          "emotion": "happy",
-          "text": "Yes! Hop aboard, first mate.",
-          "file": "episodes/E04/audio/E04-S054_L2.wav",
-          "length": 3.97,
-          "start": 7.06
         }
       ],
-      "duration": 12.03,
+      "duration": 7.66,
       "music_mood": "triumph",
       "luna_glow": null,
       "tags": [],
       "text_overlay": null,
       "id": "E04-S054",
       "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "kelp_shallows",
+      "time": "golden_hour",
+      "characters": {
+        "gus": "happy",
+        "pip": "happy",
+        "ollie": "happy"
+      },
+      "action": "Gus pushes his clay dish beside Pip's bark boat. Two small boats drift side by side.",
+      "camera": "slow_push",
+      "dialogue": [
+        {
+          "char": "pip",
+          "emotion": "happy",
+          "text": "Yes! Hop aboard, first mate.",
+          "file": "episodes/E04/audio/E04-S054_L2.wav",
+          "length": 3.97,
+          "start": 0.5
+        }
+      ],
+      "duration": 5.47,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E04-S054b",
+      "book_safe": false,
+      "still_of": "E04-S054"
     },
     {
       "beat": 7,
