@@ -10,5 +10,29 @@
   "cost": 8.75,
   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_061932_ab76b929-399e-452c-8e24-5e623d737c07.mp4",
   "reused_from": "E01-S007"
+ },
+ "E05-S010": {
+  "job": "9d4a7754-e133-45f1-97d9-b3a15e021a7f",
+  "cost": 8.75,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_061932_9d4a7754-e133-45f1-97d9-b3a15e021a7f.mp4",
+  "reused_from": "E01-S009"
+ },
+ "E05-S011": {
+  "job": "fbda41c1-bd22-4161-a784-3b96d47c5bac",
+  "cost": 8.75,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_061933_fbda41c1-bd22-4161-a784-3b96d47c5bac.mp4",
+  "reused_from": "E01-S010"
+ },
+ "E05-S013": {
+  "job": "e607037d-bf95-4b23-8673-e799191bc618",
+  "cost": 8.75,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_061932_e607037d-bf95-4b23-8673-e799191bc618.mp4",
+  "reused_from": "E01-S012"
+ },
+ "E05-S064": {
+  "job": "872c7c89-e049-426d-ae57-dd172639d7f5",
+  "cost": 8.75,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_061955_872c7c89-e049-426d-ae57-dd172639d7f5.mp4",
+  "reused_from": "E01-S064"
  }
 }

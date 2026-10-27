@@ -19,5 +19,68 @@
   "cost": 2,
   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_054803_38c95ebb-595f-431b-8d4b-1c3e5419940a.png",
   "reused_from": "E01-S008"
+ },
+ "E05-S010": {
+  "job": "f85fd007-cccc-42ef-937a-bd16a4f61d24",
+  "attempt": 2,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_060316_f85fd007-cccc-42ef-937a-bd16a4f61d24.png",
+  "reused_from": "E01-S009"
+ },
+ "E05-S011": {
+  "job": "7a4ac9d1-eac3-4842-9a76-4e05b89c8eff",
+  "attempt": 2,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_060316_7a4ac9d1-eac3-4842-9a76-4e05b89c8eff.png",
+  "reused_from": "E01-S010"
+ },
+ "E05-S012": {
+  "job": "e102aaf6-a886-4eef-b792-7f8de465244a",
+  "attempt": 2,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_060316_e102aaf6-a886-4eef-b792-7f8de465244a.png",
+  "reused_from": "E01-S011"
+ },
+ "E05-S013": {
+  "job": "51ee66e5-f757-4b95-af9a-413542271042",
+  "attempt": 2,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_060316_51ee66e5-f757-4b95-af9a-413542271042.png",
+  "reused_from": "E01-S012"
+ },
+ "E05-S014": {
+  "job": "52e3b5e5-f812-4253-a9ab-d3b9c2bdfd49",
+  "attempt": 2,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_060522_52e3b5e5-f812-4253-a9ab-d3b9c2bdfd49.png",
+  "reused_from": "E01-S013"
+ },
+ "E05-S063": {
+  "job": "01eff520-54c2-4049-8d2c-8117f5b61814",
+  "attempt": 2,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_061550_01eff520-54c2-4049-8d2c-8117f5b61814.png",
+  "reused_from": "E01-S063"
+ },
+ "E05-S064": {
+  "job": "10a67945-7f6a-4743-b4f0-95805f2252e4",
+  "attempt": 2,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_061550_10a67945-7f6a-4743-b4f0-95805f2252e4.png",
+  "reused_from": "E01-S064"
+ },
+ "E05-S058": {
+  "job": "4b58c03b-1d94-4fc9-9ffa-63f0618877a2",
+  "attempt": 2,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_061450_4b58c03b-1d94-4fc9-9ffa-63f0618877a2.png",
+  "reused_from": "E01-S058"
+ },
+ "E05-S059": {
+  "job": "f670e8ba-e57d-4f5d-a6a4-4f2d2456e0e3",
+  "attempt": 2,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_061450_f670e8ba-e57d-4f5d-a6a4-4f2d2456e0e3.png",
+  "reused_from": "E01-S059"
  }
 }
