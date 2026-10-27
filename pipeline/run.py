@@ -10,7 +10,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from pipeline.common import load_env, CostLog, ep_dir  # noqa: E402
 from pipeline import script_format, storyboard, stages, assemble as asm, qa, package as pkg  # noqa: E402
 
-ORDER = ["script", "storyboard", "images", "animate", "voice", "music", "assemble", "qa", "package"]
+ORDER = ["script", "storyboard", "images", "voice", "animate", "music", "assemble", "qa", "package"]  # voice first: real line lengths set shot durations
 
 
 def main():
