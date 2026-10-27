@@ -3,8 +3,8 @@
   "title": "E05: The Day Gus Forgot the Seed",
   "big_question": "What does a seed need?",
   "value": "Responsibility",
-  "shot_count": 64,
-  "total_seconds": 452.8,
+  "shot_count": 74,
+  "total_seconds": 459.9,
   "shots": [
     {
       "beat": 1,
@@ -515,23 +515,45 @@
           "file": "episodes/E05/audio/E05-S019_L2.wav",
           "length": 3.66,
           "start": 5.12
-        },
-        {
-          "char": "gus",
-          "emotion": "excited",
-          "text": "I've got a faster way! Seeds grow all by themselves.",
-          "file": "episodes/E05/audio/E05-S019_L3.wav",
-          "length": 4.84,
-          "start": 9.18
         }
       ],
-      "duration": 15.02,
+      "duration": 9.78,
       "music_mood": "wonder",
       "luna_glow": null,
       "tags": [],
       "text_overlay": null,
       "id": "E05-S019",
       "book_safe": false
+    },
+    {
+      "beat": 3,
+      "beat_name": "The question in play",
+      "location": "wonder_shed",
+      "time": "morning",
+      "characters": {
+        "gus": "playful",
+        "pip": "curious"
+      },
+      "action": "Gus peeks at the jar, wing tip tapping. He yawns and his tummy rumbles.",
+      "camera": "slow_push",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "excited",
+          "text": "I've got a faster way! Seeds grow all by themselves.",
+          "file": "episodes/E05/audio/E05-S019_L3.wav",
+          "length": 4.84,
+          "start": 0.5
+        }
+      ],
+      "duration": 6.34,
+      "music_mood": "wonder",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S019b",
+      "book_safe": false,
+      "still_of": "E05-S019"
     },
     {
       "beat": 3,
@@ -727,17 +749,9 @@
           "file": "episodes/E05/audio/E05-S026_L2.wav",
           "length": 1.88,
           "start": 5.12
-        },
-        {
-          "char": "gus",
-          "emotion": "worried",
-          "text": "Drink? Um. Yes! Lots. It drank it all. Very fast.",
-          "file": "episodes/E05/audio/E05-S026_L3.wav",
-          "length": 4.96,
-          "start": 7.4
         }
       ],
-      "duration": 13.78,
+      "duration": 8.0,
       "music_mood": "uh-oh",
       "luna_glow": null,
       "tags": [
@@ -746,6 +760,38 @@
       "text_overlay": null,
       "id": "E05-S026",
       "book_safe": true
+    },
+    {
+      "beat": 4,
+      "beat_name": "It goes wrong",
+      "location": "wonder_shed",
+      "time": "morning",
+      "characters": {
+        "gus": "surprised",
+        "pip": "curious"
+      },
+      "action": "Gus bursts in, crumbs on his beak, and skids to a stop.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gus",
+          "emotion": "worried",
+          "text": "Drink? Um. Yes! Lots. It drank it all. Very fast.",
+          "file": "episodes/E05/audio/E05-S026_L3.wav",
+          "length": 4.96,
+          "start": 0.5
+        }
+      ],
+      "duration": 6.46,
+      "music_mood": "uh-oh",
+      "luna_glow": null,
+      "tags": [
+        "short_fail"
+      ],
+      "text_overlay": null,
+      "id": "E05-S026b",
+      "book_safe": true,
+      "still_of": "E05-S026"
     },
     {
       "beat": 4,
@@ -966,31 +1012,75 @@
           "file": "episodes/E05/audio/E05-S034_L1.wav",
           "length": 10.09,
           "start": 0.5
-        },
-        {
-          "char": "ollie",
-          "emotion": "curious",
-          "text": "Gran Mari, what does a seed need?",
-          "file": "episodes/E05/audio/E05-S034_L2.wav",
-          "length": 4.17,
-          "start": 10.99
-        },
-        {
-          "char": "gran_mari",
-          "emotion": "happy",
-          "text": "Oh, that is a good question, Ollie. Let's find out together.",
-          "file": "episodes/E05/audio/E05-S034_L3.wav",
-          "length": 10.11,
-          "start": 15.56
         }
       ],
-      "duration": 26.67,
+      "duration": 11.59,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [],
       "text_overlay": null,
       "id": "E05-S034",
       "book_safe": true
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "gran_mari": "happy",
+        "ollie": "curious"
+      },
+      "action": "The friends climb the path, Ollie carrying the jar. Gran Mari sits on her porch in her coral scarf. Two clear bags are taped to the sunny window beside her.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "Gran Mari, what does a seed need?",
+          "file": "episodes/E05/audio/E05-S034_L2.wav",
+          "length": 4.17,
+          "start": 0.5
+        }
+      ],
+      "duration": 5.67,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S034b",
+      "book_safe": true,
+      "still_of": "E05-S034"
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "gran_mari": "happy",
+        "ollie": "curious"
+      },
+      "action": "The friends climb the path, Ollie carrying the jar. Gran Mari sits on her porch in her coral scarf. Two clear bags are taped to the sunny window beside her.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gran_mari",
+          "emotion": "happy",
+          "text": "Oh, that is a good question, Ollie. Let's find out together.",
+          "file": "episodes/E05/audio/E05-S034_L3.wav",
+          "length": 10.11,
+          "start": 0.5
+        }
+      ],
+      "duration": 11.61,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S034c",
+      "book_safe": true,
+      "still_of": "E05-S034"
     },
     {
       "beat": 5,
@@ -1030,23 +1120,44 @@
           "file": "episodes/E05/audio/E05-S036_L1.wav",
           "length": 7.62,
           "start": 0.5
-        },
-        {
-          "char": "gran_mari",
-          "emotion": "calm",
-          "text": "Only one thing is different. The towel.",
-          "file": "episodes/E05/audio/E05-S036_L2.wav",
-          "length": 5.74,
-          "start": 8.52
         }
       ],
-      "duration": 15.26,
+      "duration": 9.12,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [],
       "text_overlay": null,
       "id": "E05-S036",
       "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "gran_mari": "calm"
+      },
+      "action": "Close on the two clear bags. In the first, a seed rests on a dry paper towel. In the second, a seed rests on a wet one.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gran_mari",
+          "emotion": "calm",
+          "text": "Only one thing is different. The towel.",
+          "file": "episodes/E05/audio/E05-S036_L2.wav",
+          "length": 5.74,
+          "start": 0.5
+        }
+      ],
+      "duration": 7.24,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S036b",
+      "book_safe": false,
+      "still_of": "E05-S036"
     },
     {
       "beat": 5,
@@ -1097,17 +1208,9 @@
           "file": "episodes/E05/audio/E05-S038_L1.wav",
           "length": 1.45,
           "start": 0.5
-        },
-        {
-          "char": "gran_mari",
-          "emotion": "calm",
-          "text": "Water wakes a seed up. A warm spot helps too. Then the green shoot reaches for the light.",
-          "file": "episodes/E05/audio/E05-S038_L2.wav",
-          "length": 11.52,
-          "start": 2.35
         }
       ],
-      "duration": 14.87,
+      "duration": 2.95,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [
@@ -1116,6 +1219,38 @@
       "text_overlay": null,
       "id": "E05-S038",
       "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "pip": "surprised",
+        "gran_mari": "calm"
+      },
+      "action": "The wet bag. The seed has split open. A thin white root and a small green shoot curl up.",
+      "camera": "slow_push",
+      "dialogue": [
+        {
+          "char": "gran_mari",
+          "emotion": "calm",
+          "text": "Water wakes a seed up. A warm spot helps too. Then the green shoot reaches for the light.",
+          "file": "episodes/E05/audio/E05-S038_L2.wav",
+          "length": 11.52,
+          "start": 0.5
+        }
+      ],
+      "duration": 13.02,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E05-S038b",
+      "book_safe": false,
+      "still_of": "E05-S038"
     },
     {
       "beat": 5,
@@ -1166,25 +1301,9 @@
           "file": "episodes/E05/audio/E05-S040_L1.wav",
           "length": 6.22,
           "start": 0.5
-        },
-        {
-          "char": "ollie",
-          "emotion": "curious",
-          "text": "The seed wakes up! But not right away.",
-          "file": "episodes/E05/audio/E05-S040_L2.wav",
-          "length": 6.18,
-          "start": 7.12
-        },
-        {
-          "char": "gran_mari",
-          "emotion": "happy",
-          "text": "Right. A seed takes time. It can't be hurried.",
-          "file": "episodes/E05/audio/E05-S040_L3.wav",
-          "length": 7.63,
-          "start": 13.7
         }
       ],
-      "duration": 22.33,
+      "duration": 7.72,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [
@@ -1193,6 +1312,70 @@
       "text_overlay": null,
       "id": "E05-S040",
       "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "gran_mari": "calm",
+        "ollie": "curious"
+      },
+      "action": "Gran Mari picks up a little spoon. She dribbles a few drops of water onto the dry towel in the first bag.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "curious",
+          "text": "The seed wakes up! But not right away.",
+          "file": "episodes/E05/audio/E05-S040_L2.wav",
+          "length": 6.18,
+          "start": 0.5
+        }
+      ],
+      "duration": 7.68,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E05-S040b",
+      "book_safe": false,
+      "still_of": "E05-S040"
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "gran_mari": "calm",
+        "ollie": "curious"
+      },
+      "action": "Gran Mari picks up a little spoon. She dribbles a few drops of water onto the dry towel in the first bag.",
+      "camera": "close",
+      "dialogue": [
+        {
+          "char": "gran_mari",
+          "emotion": "happy",
+          "text": "Right. A seed takes time. It can't be hurried.",
+          "file": "episodes/E05/audio/E05-S040_L3.wav",
+          "length": 7.63,
+          "start": 0.5
+        }
+      ],
+      "duration": 9.13,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E05-S040c",
+      "book_safe": false,
+      "still_of": "E05-S040"
     },
     {
       "beat": 5,
@@ -1264,17 +1447,9 @@
           "file": "episodes/E05/audio/E05-S043_L2.wav",
           "length": 4.32,
           "start": 4.85
-        },
-        {
-          "char": "ollie",
-          "emotion": "happy",
-          "text": "Tape the bag to a sunny window. Check it every day.",
-          "file": "episodes/E05/audio/E05-S043_L3.wav",
-          "length": 3.96,
-          "start": 9.57
         }
       ],
-      "duration": 18.02,
+      "duration": 10.17,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [
@@ -1283,6 +1458,37 @@
       "text_overlay": null,
       "id": "E05-S043",
       "book_safe": false
+    },
+    {
+      "beat": 5,
+      "beat_name": "Find out",
+      "location": "lighthouse_point",
+      "time": "morning",
+      "characters": {
+        "ollie": "happy"
+      },
+      "action": "Ollie turns to the camera, wonder rock in his paw. Behind him the bags glow in the window.",
+      "camera": "slow_push",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Tape the bag to a sunny window. Check it every day.",
+          "file": "episodes/E05/audio/E05-S043_L3.wav",
+          "length": 3.96,
+          "start": 0.5
+        }
+      ],
+      "duration": 5.46,
+      "music_mood": "cozy",
+      "luna_glow": null,
+      "tags": [
+        "short_demo"
+      ],
+      "text_overlay": null,
+      "id": "E05-S043b",
+      "book_safe": false,
+      "still_of": "E05-S043"
     },
     {
       "beat": 6,
@@ -1313,23 +1519,47 @@
           "file": "episodes/E05/audio/E05-S044_L2.wav",
           "length": 6.15,
           "start": 4.43
-        },
-        {
-          "char": "ollie",
-          "emotion": "happy",
-          "text": "Thanks for telling us, Gus.",
-          "file": "episodes/E05/audio/E05-S044_L3.wav",
-          "length": 1.56,
-          "start": 10.98
         }
       ],
-      "duration": 13.54,
+      "duration": 11.58,
       "music_mood": "triumph",
       "luna_glow": null,
       "tags": [],
       "text_overlay": null,
       "id": "E05-S044",
       "book_safe": false
+    },
+    {
+      "beat": 6,
+      "beat_name": "Put it to use",
+      "location": "wonder_shed",
+      "time": "golden_hour",
+      "characters": {
+        "gus": "sorry",
+        "ollie": "curious",
+        "pip": "curious",
+        "bean": "curious"
+      },
+      "action": "Back in the Wonder Shed. Gus holds the jar in both wings, very still. Everyone waits.",
+      "camera": "slow_push",
+      "dialogue": [
+        {
+          "char": "ollie",
+          "emotion": "happy",
+          "text": "Thanks for telling us, Gus.",
+          "file": "episodes/E05/audio/E05-S044_L3.wav",
+          "length": 1.56,
+          "start": 0.5
+        }
+      ],
+      "duration": 3.06,
+      "music_mood": "triumph",
+      "luna_glow": null,
+      "tags": [],
+      "text_overlay": null,
+      "id": "E05-S044b",
+      "book_safe": false,
+      "still_of": "E05-S044"
     },
     {
       "beat": 6,
