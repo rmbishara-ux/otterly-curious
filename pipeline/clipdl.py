@@ -5,7 +5,7 @@ ROOT = Path(__file__).resolve().parent.parent
 ep = sys.argv[1]
 p = ROOT / "episodes" / ep / "video_ledger.json"; d = json.loads(p.read_text())
 B = "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_%s_%s_%s.mp4"
-date = "20261026"
+date = __import__("os").environ.get("DATE","20261027")
 (ROOT / "episodes" / ep / "ai").mkdir(exist_ok=True)
 for a in sys.argv[2:]:
     shot, t = a.split("="); k = f"{ep}-{shot}"

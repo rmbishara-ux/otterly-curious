@@ -7,8 +7,6 @@
 **End screens/links/QR/merch:** none.
 
 ## Description
-> NOTE: chapter times are estimates from the storyboard; regenerate after the final render.
-
 TRY IT AT HOME: Ask a grown-up to help. Wet a paper towel and fold it. Slip the towel and a bean seed into a clear bag. Tape the bag to a sunny window. Check it every day. Add a few drops of water if the towel dries out. In about a week, a white root and a green shoot appear.
 
 In this episode of Otterly Curious, Ollie the sea otter and his friends ask: What does a seed need? A seed wakes up and starts to grow when it gets water and warmth. Then the little plant reaches for light, and it needs time to grow big. Along the way, Gus learns about responsibility.
@@ -16,12 +14,12 @@ In this episode of Otterly Curious, Ollie the sea otter and his friends ask: Wha
 A science-for-kids story for ages 3-7, made to be watched together.
 
 0:00 Big question
-0:33 Theme song
-1:03 Let's guess
-2:04 Uh-oh!
-3:10 Let's find out
-4:39 Try it out
-5:51 Wonder Pocket
+0:34 Theme song
+1:04 Let's guess
+2:11 Uh-oh!
+3:22 Let's find out
+5:26 Try it out
+6:43 Wonder Pocket
 
 Subscribe to Otterly Curious for a new question every week.
 
