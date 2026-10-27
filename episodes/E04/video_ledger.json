@@ -1,0 +1,14 @@
+{
+ "E04-S005": {
+  "job": "4b4039e3-595d-465a-a709-b71c3094c717",
+  "cost": 8.75,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_061933_4b4039e3-595d-465a-a709-b71c3094c717.mp4",
+  "reused_from": "E01-S006"
+ },
+ "E04-S006": {
+  "job": "ab76b929-399e-452c-8e24-5e623d737c07",
+  "cost": 8.75,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_061932_ab76b929-399e-452c-8e24-5e623d737c07.mp4",
+  "reused_from": "E01-S007"
+ }
+}

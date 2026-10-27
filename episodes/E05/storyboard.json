@@ -498,7 +498,7 @@
         "pip": "worried"
       },
       "action": "Gus peeks at the jar, wing tip tapping. He yawns and his tummy rumbles.",
-      "camera": "close",
+      "camera": "slow_push",
       "dialogue": [
         {
           "char": "gus",
@@ -517,7 +517,8 @@
       "tags": [],
       "text_overlay": null,
       "id": "E05-S020",
-      "book_safe": false
+      "still_of": "E05-S019",
+      "book_safe": true
     },
     {
       "beat": 3,
@@ -687,7 +688,7 @@
         "ollie": "curious"
       },
       "action": "Gus bursts in, crumbs on his beak, and skids to a stop.",
-      "camera": "pan_right",
+      "camera": "close",
       "dialogue": [
         {
           "char": "ollie",
@@ -706,7 +707,8 @@
       "tags": [],
       "text_overlay": null,
       "id": "E05-S027",
-      "book_safe": true
+      "still_of": "E05-S026",
+      "book_safe": false
     },
     {
       "beat": 4,

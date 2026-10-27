@@ -536,7 +536,7 @@
         "ollie": "curious"
       },
       "action": "Gus lands with a flap, red sneakers slipping, a pebble stuck to his beak.",
-      "camera": "pan_right",
+      "camera": "close",
       "dialogue": [
         {
           "char": "ollie",
@@ -550,7 +550,8 @@
       "tags": [],
       "text_overlay": null,
       "id": "E04-S022",
-      "book_safe": true
+      "still_of": "E04-S021",
+      "book_safe": false
     },
     {
       "beat": 3,
@@ -773,7 +774,7 @@
         "gus": "worried"
       },
       "action": "Ollie, Pip, and Bean try very hard not to giggle. Luna wobbles with a tiny glow.",
-      "camera": "close",
+      "camera": "slow_push",
       "dialogue": [
         {
           "char": "gus",
@@ -787,7 +788,8 @@
       "tags": [],
       "text_overlay": null,
       "id": "E04-S031",
-      "book_safe": false
+      "still_of": "E04-S030",
+      "book_safe": true
     },
     {
       "beat": 4,

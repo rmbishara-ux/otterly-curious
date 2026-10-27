@@ -1,0 +1,23 @@
+{
+ "E05-S007": {
+  "job": "f8efae3a-e92e-42c1-a556-ea868645d020",
+  "attempt": 1,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_054803_f8efae3a-e92e-42c1-a556-ea868645d020.png",
+  "reused_from": "E01-S006"
+ },
+ "E05-S008": {
+  "job": "afe3fdc5-1b36-456a-a493-9998d8bd2d1b",
+  "attempt": 1,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_054803_afe3fdc5-1b36-456a-a493-9998d8bd2d1b.png",
+  "reused_from": "E01-S007"
+ },
+ "E05-S009": {
+  "job": "38c95ebb-595f-431b-8d4b-1c3e5419940a",
+  "attempt": 1,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_054803_38c95ebb-595f-431b-8d4b-1c3e5419940a.png",
+  "reused_from": "E01-S008"
+ }
+}

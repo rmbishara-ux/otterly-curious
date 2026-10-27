@@ -1,0 +1,408 @@
+[
+ {
+  "idx": 0,
+  "shot": "E04-S001",
+  "line": 1,
+  "char": "ollie",
+  "text": "Plip! The pebble sank right to the bottom."
+ },
+ {
+  "idx": 1,
+  "shot": "E04-S002",
+  "line": 1,
+  "char": "pip",
+  "text": "But that big boat is not sinking at all!"
+ },
+ {
+  "idx": 2,
+  "shot": "E04-S002",
+  "line": 2,
+  "char": "ollie",
+  "text": "It's much bigger than the pebble, and it floats!"
+ },
+ {
+  "idx": 3,
+  "shot": "E04-S003",
+  "line": 1,
+  "char": "ollie",
+  "text": "Why do boats float?"
+ },
+ {
+  "idx": 4,
+  "shot": "E04-S004",
+  "line": 1,
+  "char": "ollie",
+  "text": "Let's find out!"
+ },
+ {
+  "idx": 5,
+  "shot": "E04-S013",
+  "line": 1,
+  "char": "pip",
+  "text": "I want to sail! Can I make a boat?"
+ },
+ {
+  "idx": 6,
+  "shot": "E04-S013",
+  "line": 2,
+  "char": "ollie",
+  "text": "Yes! A boat of your very own!"
+ },
+ {
+  "idx": 7,
+  "shot": "E04-S014",
+  "line": 1,
+  "char": "ollie",
+  "text": "It's tall and shiny! Let's go launch it!"
+ },
+ {
+  "idx": 8,
+  "shot": "E04-S015",
+  "line": 1,
+  "char": "pip",
+  "text": "Ollie, I don't think it's ready yet!"
+ },
+ {
+  "idx": 9,
+  "shot": "E04-S016",
+  "line": 1,
+  "char": "ollie",
+  "text": "Sorry, Pip. It's your boat. You tell us when."
+ },
+ {
+  "idx": 10,
+  "shot": "E04-S018",
+  "line": 1,
+  "char": "pip",
+  "text": "Oh no. It's tilting..."
+ },
+ {
+  "idx": 11,
+  "shot": "E04-S020",
+  "line": 1,
+  "char": "pip",
+  "text": "My boat is no good. Maybe I should stop."
+ },
+ {
+  "idx": 12,
+  "shot": "E04-S021",
+  "line": 1,
+  "char": "gus",
+  "text": "Don't stop! I've got a faster way!"
+ },
+ {
+  "idx": 13,
+  "shot": "E04-S021",
+  "line": 2,
+  "char": "pip",
+  "text": "Gus, your faster ways always go wrong."
+ },
+ {
+  "idx": 14,
+  "shot": "E04-S021",
+  "line": 3,
+  "char": "gus",
+  "text": "Not this time! A boat needs to be strong. Strong like a lump of clay!"
+ },
+ {
+  "idx": 15,
+  "shot": "E04-S022",
+  "line": 1,
+  "char": "ollie",
+  "text": "A lump of clay?"
+ },
+ {
+  "idx": 16,
+  "shot": "E04-S023",
+  "line": 1,
+  "char": "gus",
+  "text": "Squeeze it hard, and it's a boat in two seconds!"
+ },
+ {
+  "idx": 17,
+  "shot": "E04-S024",
+  "line": 1,
+  "char": "pip",
+  "text": "What if we try it the careful way?"
+ },
+ {
+  "idx": 18,
+  "shot": "E04-S024",
+  "line": 2,
+  "char": "ollie",
+  "text": "Let's watch Gus try first. Then we ask Gran Mari."
+ },
+ {
+  "idx": 19,
+  "shot": "E04-S027",
+  "line": 1,
+  "char": "gus",
+  "text": "Whoa. Where did my boat go?"
+ },
+ {
+  "idx": 20,
+  "shot": "E04-S030",
+  "line": 1,
+  "char": "pip",
+  "text": "Gus, your boat sank!"
+ },
+ {
+  "idx": 21,
+  "shot": "E04-S030",
+  "line": 2,
+  "char": "gus",
+  "text": "It didn't sink! It's a submarine! I meant to do that."
+ },
+ {
+  "idx": 22,
+  "shot": "E04-S030",
+  "line": 3,
+  "char": "ollie",
+  "text": "Do submarines fall down and stay down?"
+ },
+ {
+  "idx": 23,
+  "shot": "E04-S031",
+  "line": 1,
+  "char": "gus",
+  "text": "Mine does. It's the best submarine ever."
+ },
+ {
+  "idx": 24,
+  "shot": "E04-S032",
+  "line": 1,
+  "char": "ollie",
+  "text": "But a boat should float on top."
+ },
+ {
+  "idx": 25,
+  "shot": "E04-S032",
+  "line": 2,
+  "char": "gus",
+  "text": "It's not my fault. The water was too deep!"
+ },
+ {
+  "idx": 26,
+  "shot": "E04-S033",
+  "line": 1,
+  "char": "pip",
+  "text": "And my boat flipped over. Boats are hard."
+ },
+ {
+  "idx": 27,
+  "shot": "E04-S034",
+  "line": 1,
+  "char": "ollie",
+  "text": "We need help. Let's ask Gran Mari."
+ },
+ {
+  "idx": 28,
+  "shot": "E04-S035",
+  "line": 1,
+  "char": "gran_mari",
+  "text": "Well now, a muddy seagull and a gloomy crab. What's all this?"
+ },
+ {
+  "idx": 29,
+  "shot": "E04-S035",
+  "line": 2,
+  "char": "ollie",
+  "text": "Gran Mari, why do boats float?"
+ },
+ {
+  "idx": 30,
+  "shot": "E04-S035",
+  "line": 3,
+  "char": "gran_mari",
+  "text": "Oh, that is a good question, Ollie. Let's find out together."
+ },
+ {
+  "idx": 31,
+  "shot": "E04-S036",
+  "line": 1,
+  "char": "gran_mari",
+  "text": "These are the same foil. I'll squeeze this one into a ball. I'll fold this one into a wide boat."
+ },
+ {
+  "idx": 32,
+  "shot": "E04-S038",
+  "line": 1,
+  "char": "gran_mari",
+  "text": "First, the ball. Watch the water."
+ },
+ {
+  "idx": 33,
+  "shot": "E04-S039",
+  "line": 1,
+  "char": "ollie",
+  "text": "The ball sinks!"
+ },
+ {
+  "idx": 34,
+  "shot": "E04-S039",
+  "line": 2,
+  "char": "gran_mari",
+  "text": "Now the boat. Same foil, same weight."
+ },
+ {
+  "idx": 35,
+  "shot": "E04-S040",
+  "line": 1,
+  "char": "pip",
+  "text": "The boat floats!"
+ },
+ {
+  "idx": 36,
+  "shot": "E04-S040",
+  "line": 2,
+  "char": "gran_mari",
+  "text": "The wide boat pushes a lot of water aside. The water pushes back up and holds it. The small ball pushes only a little, so it sinks."
+ },
+ {
+  "idx": 37,
+  "shot": "E04-S041",
+  "line": 1,
+  "char": "gus",
+  "text": "So my clay needed to be flat and wide?"
+ },
+ {
+  "idx": 38,
+  "shot": "E04-S041",
+  "line": 2,
+  "char": "gran_mari",
+  "text": "Well now, what do you think happens next?"
+ },
+ {
+  "idx": 39,
+  "shot": "E04-S041",
+  "line": 3,
+  "char": "ollie",
+  "text": "If we flatten the clay, it will float!"
+ },
+ {
+  "idx": 40,
+  "shot": "E04-S043",
+  "line": 1,
+  "char": "gran_mari",
+  "text": "Too much on one side, and it tips. Not a mistake, just something to learn. So we try again."
+ },
+ {
+  "idx": 41,
+  "shot": "E04-S045",
+  "line": 1,
+  "char": "ollie",
+  "text": "Try it at home! Fill a sink with water. Squeeze one piece of foil into a ball. Fold another into a wide boat."
+ },
+ {
+  "idx": 42,
+  "shot": "E04-S046",
+  "line": 1,
+  "char": "ollie",
+  "text": "Set them on the water. The ball sinks. The boat floats! Add a few stones, one at a time."
+ },
+ {
+  "idx": 43,
+  "shot": "E04-S048",
+  "line": 1,
+  "char": "gus",
+  "text": "Wait, before we go. I fibbed. My boat sank, and I said it was a submarine."
+ },
+ {
+  "idx": 44,
+  "shot": "E04-S048",
+  "line": 2,
+  "char": "gus",
+  "text": "I'm sorry I said I meant to. I just wanted to be fast."
+ },
+ {
+  "idx": 45,
+  "shot": "E04-S048",
+  "line": 3,
+  "char": "ollie",
+  "text": "Thanks for telling us the truth, Gus."
+ },
+ {
+  "idx": 46,
+  "shot": "E04-S049",
+  "line": 1,
+  "char": "gus",
+  "text": "It floats! My lump is a boat after all!"
+ },
+ {
+  "idx": 47,
+  "shot": "E04-S050",
+  "line": 1,
+  "char": "pip",
+  "text": "What if it tips again?"
+ },
+ {
+  "idx": 48,
+  "shot": "E04-S051",
+  "line": 1,
+  "char": "bean",
+  "text": "Try!"
+ },
+ {
+  "idx": 49,
+  "shot": "E04-S053",
+  "line": 1,
+  "char": "pip",
+  "text": "I did it! I tried again, and it floated!"
+ },
+ {
+  "idx": 50,
+  "shot": "E04-S054",
+  "line": 1,
+  "char": "ollie",
+  "text": "Can I ride along, Pip? You're the captain."
+ },
+ {
+  "idx": 51,
+  "shot": "E04-S054",
+  "line": 2,
+  "char": "pip",
+  "text": "Yes! Hop aboard, first mate."
+ },
+ {
+  "idx": 52,
+  "shot": "E04-S055",
+  "line": 1,
+  "char": "ollie",
+  "text": "Time for my Wonder Pocket! Three things we learned."
+ },
+ {
+  "idx": 53,
+  "shot": "E04-S057",
+  "line": 1,
+  "char": "ollie",
+  "text": "One. A wide, light boat pushes the water aside and floats."
+ },
+ {
+  "idx": 54,
+  "shot": "E04-S058",
+  "line": 1,
+  "char": "ollie",
+  "text": "Two. A small, heavy lump pushes less water and sinks."
+ },
+ {
+  "idx": 55,
+  "shot": "E04-S059",
+  "line": 1,
+  "char": "ollie",
+  "text": "Three. If a boat tips over, we can try again."
+ },
+ {
+  "idx": 56,
+  "shot": "E04-S060",
+  "line": 1,
+  "char": "ollie",
+  "text": "And one kind thing to try today. Cheer on a friend who tries again."
+ },
+ {
+  "idx": 57,
+  "shot": "E04-S061",
+  "line": 1,
+  "char": "gus",
+  "text": "Bye, everybody! Next time, I'll try the careful way too!"
+ }
+]
