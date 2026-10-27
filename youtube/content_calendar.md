@@ -1,3 +1,5 @@
+> SUPERSEDED 2026-10-27: dates below are the original December plan. The live schedule is youtube/release_schedule.md. Titles, questions and values remain valid.
+
 # Content calendar (10 weeks)
 
 Rules: same weekday and time every week; all uploads made-for-kids; no links, QR, or merch mentions; captions from script.

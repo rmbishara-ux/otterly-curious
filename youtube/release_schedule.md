@@ -13,7 +13,14 @@ Re-check after 2-3 weeks against our own YouTube Studio "When your viewers are o
 | Sat 2026-11-07 6:00 AM | 2026-11-07 14:00Z | E03 Where does a rainbow come from? (launch-week cluster) | affD-2yPnc0 |
 | Tue 2026-11-17 12:00 PM | 2026-11-17 20:00Z | E03 demo Short | i5vL2Fe8Zgo |
 | Thu 2026-11-19 12:00 PM | 2026-11-19 20:00Z | E03 Gus Short | yrJ6iWRzAp4 |
-| Sat 2026-11-14 6:00 AM | 2026-11-14 14:00Z | E04 (must be finished by Nov 11) | - |
-| Sat 2026-11-21 6:00 AM | 2026-11-21 14:00Z | E05 (finished by Nov 18) | - |
+| Sat 2026-11-14 6:00 AM | 2026-11-14 14:00Z | E04 Why do boats float? (SCHEDULED, thumbnail set) | 1n-ybLnnxHs |
+| Tue 2026-11-24 12:00 PM | 2026-11-24 20:00Z | E04 demo Short (SCHEDULED) | C31uvFPeOdg |
+| Thu 2026-11-26 12:00 PM | 2026-11-26 20:00Z | E04 Gus Short "Gus builds a boat the fast way!" (SCHEDULED, Thanksgiving) | aF04FhjZSaw |
+| Sat 2026-11-21 6:00 AM | 2026-11-21 14:00Z | E05 What does a seed need? (video produced, NOT yet uploaded) | - |
+| Tue 2026-12-01 12:00 PM | 2026-12-01 20:00Z | E05 demo Short (planned) | - |
+| Thu 2026-12-03 12:00 PM | 2026-12-03 20:00Z | E05 Gus Short (planned) | - |
+| Sat 2026-11-28 / 12-05 / 12-12 ... 6:00 AM | 14:00Z | E06, E07, E08 ... (scripts ready, not produced) | - |
 
-Trailer: uoGMLcdwtSE, Unlisted, featured for non-subscribers. Note: the clocks change on Sun 2026-11-01 (PDT -> PST), so 6:00 AM Pacific is 13:00Z on Oct 31 and 14:00Z afterwards.
+Trailer: uoGMLcdwtSE, Public, featured for non-subscribers. Note: the clocks change on Sun 2026-11-01 (PDT -> PST), so 6:00 AM Pacific is 13:00Z on Oct 31 and 14:00Z afterwards.
+
+This file is the single source of truth for dates. youtube/content_calendar.md is superseded (old December plan). Each episode follows the same pattern: long video Sat 6 AM PT, demo Short the following Tue noon PT, Gus Short the following Thu noon PT. Wait for the first-weeks numbers before producing E06+.

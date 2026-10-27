@@ -1,4 +1,7 @@
-# STATUS (Oct 26, 2026)
+# STATUS (Oct 27, 2026)
+
+SCHEDULE: youtube/release_schedule.md is the single source of truth. E01-E04 and all Shorts are scheduled on YouTube (E04 long 1n-ybLnnxHs Nov 14, Shorts Nov 24/26, thumbnail set). E05 is produced but not uploaded (owner uploads in Studio, then metadata/thumbnail via vidIQ, slot Nov 21). Owner still does made-for-kids + captions .srt in Studio for E04/E05. E06+ on hold until early numbers are in.
+
 
 ## Cost
 Higgsfield credits: 988.1 at start of project. Pre-production (sheets, plates, banner) 122 -> 866.1. Real E01 production: 862.5 -> 436.1 = 426.4 credits (voice ~13; 62 first-pass stills 124 incl. ~108 wasted by the reference-inset bug, then 54 re-rolls ~108; 20 Kling 3.0 Pro 5 s silent hero clips = 175). E01 is inside the 700-credit cap with ~270 to spare; balance 436.1.

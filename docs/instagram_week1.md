@@ -18,3 +18,16 @@ Hashtags (use 6-8, not 30): #kidsscience #scienceforkids #preschoolactivities #t
 4 (Thu Nov 5): Gus tries to take a nap the fast way. The kelp pad has other plans. 😴🦦 Full episode on YouTube, link in bio.
 5 (Sat Nov 7): Where does a rainbow come from? 🌈 With a grown-up's help, set a clear glass of water on a sunny windowsill and look at the wall for a tiny rainbow. Nudge the glass and watch it move. New episode out this morning, link in bio.
 6 (Sun Nov 8): Gus caught a rainbow! (Or did he?) 🌈🧢 Full story on YouTube, link in bio.
+
+## Weeks 2-3 (E04, E05)
+| Day | Reel (file) | Purpose |
+|---|---|---|
+| Sat Nov 14, 9 AM ET | E04 demo Short (episodes/E04/final/E04_short_demo.mp4) | E04 live that morning |
+| Mon Nov 16, 8 PM ET | E04 Gus Short (E04_short_fail.mp4) | Funny follow-up |
+| Sat Nov 21, 9 AM ET | E05 demo Short (episodes/E05/final/E05_short_demo.mp4) | E05 live that morning |
+| Mon Nov 23, 8 PM ET | E05 Gus Short (E05_short_fail.mp4) | Funny follow-up |
+
+7 (Sat Nov 14): Why do boats float? ⛵ Squeeze one piece of foil into a ball, fold another into a wide, flat boat, and set both on the water in the sink. The ball sinks, the boat floats, and a few small stones show how much it can carry. New episode out this morning, link in bio.
+8 (Mon Nov 16): Gus builds a boat the fast way. 🦅⛵ Full story on YouTube, link in bio.
+9 (Sat Nov 21): What does a seed need? 🌱 With a grown-up, tuck a bean seed and a damp paper towel into a clear bag and tape it to a sunny window. Check every day. In about a week, a root and a shoot appear. New episode out this morning, link in bio.
+10 (Mon Nov 23): Gus is in a hurry to grow a plant. 🌱 Full story on YouTube, link in bio.
