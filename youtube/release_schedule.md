@@ -17,8 +17,8 @@ Re-check after 2-3 weeks against our own YouTube Studio "When your viewers are o
 | Tue 2026-11-24 12:00 PM | 2026-11-24 20:00Z | E04 demo Short (SCHEDULED) | C31uvFPeOdg |
 | Thu 2026-11-26 12:00 PM | 2026-11-26 20:00Z | E04 Gus Short "Gus builds a boat the fast way!" (SCHEDULED, Thanksgiving) | aF04FhjZSaw |
 | Sat 2026-11-21 6:00 AM | 2026-11-21 14:00Z | E05 What does a seed need? (SCHEDULED, thumbnail set) | DPN_-z9n_nw |
-| Tue 2026-12-01 12:00 PM | 2026-12-01 20:00Z | E05 demo Short (planned) | - |
-| Thu 2026-12-03 12:00 PM | 2026-12-03 20:00Z | E05 Gus Short (planned) | - |
+| Tue 2026-12-01 12:00 PM | 2026-12-01 20:00Z | E05 demo Short (SCHEDULED) | NWuDEF6mFjY |
+| Thu 2026-12-03 12:00 PM | 2026-12-03 20:00Z | E05 Gus Short "Gus forgot the seed! Is it a tree yet?" (SCHEDULED) | pRQSHxAZxNc |
 | Sat 2026-11-28 / 12-05 / 12-12 ... 6:00 AM | 14:00Z | E06, E07, E08 ... (scripts ready, not produced) | - |
 
 Trailer: uoGMLcdwtSE, Unlisted (set back 2026-10-27 until launch), featured for non-subscribers. Note: the clocks change on Sun 2026-11-01 (PDT -> PST), so 6:00 AM Pacific is 13:00Z on Oct 31 and 14:00Z afterwards.
