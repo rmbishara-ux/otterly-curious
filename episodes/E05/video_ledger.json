@@ -12,9 +12,9 @@
   "reused_from": "E01-S007"
  },
  "E05-S010": {
-  "job": "9d4a7754-e133-45f1-97d9-b3a15e021a7f",
+  "job": "a3756cf2-220e-4b79-a094-5e3f474dfde9",
   "cost": 8.75,
-  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_061932_9d4a7754-e133-45f1-97d9-b3a15e021a7f.mp4",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261027_020230_a3756cf2-220e-4b79-a094-5e3f474dfde9.mp4",
   "reused_from": "E01-S009"
  },
  "E05-S011": {
@@ -34,5 +34,40 @@
   "cost": 8.75,
   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_061955_872c7c89-e049-426d-ae57-dd172639d7f5.mp4",
   "reused_from": "E01-S064"
+ },
+ "E05-S041": {
+  "job": "f7a69869-e811-464e-a70c-3d461dd4c7aa",
+  "cost": 8.75,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261027_020230_f7a69869-e811-464e-a70c-3d461dd4c7aa.mp4"
+ },
+ "E05-S030": {
+  "job": "8c04fd27-36ce-46d5-883f-559210936070",
+  "cost": 8.75,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261027_020239_8c04fd27-36ce-46d5-883f-559210936070.mp4"
+ },
+ "E05-S050": {
+  "job": "cdb85ece-78be-4999-a3e0-3b40dd0894aa",
+  "cost": 8.75,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261027_020239_cdb85ece-78be-4999-a3e0-3b40dd0894aa.mp4"
+ },
+ "E05-S051": {
+  "job": "a3a1bafa-f10f-4c31-89a1-94896acdf7ca",
+  "cost": 8.75,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261027_020239_a3a1bafa-f10f-4c31-89a1-94896acdf7ca.mp4"
+ },
+ "E05-S053": {
+  "job": "e7e8cb99-4a9d-4fcc-b3af-ee74a6f2b504",
+  "cost": 8.75,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261027_020239_e7e8cb99-4a9d-4fcc-b3af-ee74a6f2b504.mp4"
+ },
+ "E05-S054": {
+  "job": "bbf099f9-44b9-4b9c-971c-7b7e0e62594f",
+  "cost": 8.75,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261027_020241_bbf099f9-44b9-4b9c-971c-7b7e0e62594f.mp4"
+ },
+ "E05-S062": {
+  "job": "e82ad713-e3c7-4a38-b568-9c5d0ba0bc18",
+  "cost": 8.75,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261027_020241_e82ad713-e3c7-4a38-b568-9c5d0ba0bc18.mp4"
  }
 }

@@ -4,7 +4,7 @@
   "big_question": "What does a seed need?",
   "value": "Responsibility",
   "shot_count": 64,
-  "total_seconds": 404.1,
+  "total_seconds": 452.8,
   "shots": [
     {
       "beat": 1,
@@ -21,10 +21,13 @@
         {
           "char": "ollie",
           "emotion": "happy",
-          "text": "Good morning, Pip! It's a perfect day!"
+          "text": "Good morning, Pip! It's a perfect day!",
+          "file": "episodes/E05/audio/E05-S001_L1.wav",
+          "length": 3.68,
+          "start": 0.5
         }
       ],
-      "duration": 4.49,
+      "duration": 5.18,
       "music_mood": "play",
       "luna_glow": null,
       "tags": [],
@@ -46,12 +49,18 @@
         {
           "char": "gus",
           "emotion": "excited",
-          "text": "Look what Gran Mari gave me! A job!"
+          "text": "Look what Gran Mari gave me! A job!",
+          "file": "episodes/E05/audio/E05-S002_L1.wav",
+          "length": 3.35,
+          "start": 0.5
         },
         {
           "char": "gus",
           "emotion": "excited",
-          "text": "I get to look after this seed!"
+          "text": "I get to look after this seed!",
+          "file": "episodes/E05/audio/E05-S002_L2.wav",
+          "length": 2.12,
+          "start": 4.25
         }
       ],
       "duration": 8.37,
@@ -78,12 +87,18 @@
         {
           "char": "pip",
           "emotion": "curious",
-          "text": "It looks like a tiny rock."
+          "text": "It looks like a tiny rock.",
+          "file": "episodes/E05/audio/E05-S003_L1.wav",
+          "length": 1.83,
+          "start": 0.5
         },
         {
           "char": "ollie",
           "emotion": "curious",
-          "text": "But it's not a rock. It's a seed!"
+          "text": "But it's not a rock. It's a seed!",
+          "file": "episodes/E05/audio/E05-S003_L2.wav",
+          "length": 3.31,
+          "start": 2.73
         }
       ],
       "duration": 7.98,
@@ -127,7 +142,10 @@
         {
           "char": "ollie",
           "emotion": "curious",
-          "text": "What does a seed need?"
+          "text": "What does a seed need?",
+          "file": "episodes/E05/audio/E05-S005_L1.wav",
+          "length": 1.45,
+          "start": 0.5
         }
       ],
       "duration": 5.0,
@@ -153,7 +171,10 @@
         {
           "char": "ollie",
           "emotion": "excited",
-          "text": "Let's find out!"
+          "text": "Let's find out!",
+          "file": "episodes/E05/audio/E05-S006_L1.wav",
+          "length": 0.8,
+          "start": 0.5
         }
       ],
       "duration": 4.0,
@@ -357,15 +378,21 @@
         {
           "char": "pip",
           "emotion": "curious",
-          "text": "Where should the seed go?"
+          "text": "Where should the seed go?",
+          "file": "episodes/E05/audio/E05-S015_L1.wav",
+          "length": 1.26,
+          "start": 0.5
         },
         {
           "char": "ollie",
           "emotion": "excited",
-          "text": "The dark shelf! It's closest. Quick, quick!"
+          "text": "The dark shelf! It's closest. Quick, quick!",
+          "file": "episodes/E05/audio/E05-S015_L2.wav",
+          "length": 4.18,
+          "start": 2.16
         }
       ],
-      "duration": 7.22,
+      "duration": 7.34,
       "music_mood": "wonder",
       "luna_glow": null,
       "tags": [],
@@ -388,7 +415,10 @@
         {
           "char": "pip",
           "emotion": "worried",
-          "text": "Ollie, you didn't ask anyone!"
+          "text": "Ollie, you didn't ask anyone!",
+          "file": "episodes/E05/audio/E05-S016_L1.wav",
+          "length": 3.31,
+          "start": 0.5
         }
       ],
       "duration": 5.0,
@@ -414,10 +444,13 @@
         {
           "char": "ollie",
           "emotion": "sorry",
-          "text": "Oops. I rushed again. What do you think, Bean?"
+          "text": "Oops. I rushed again. What do you think, Bean?",
+          "file": "episodes/E05/audio/E05-S017_L1.wav",
+          "length": 5.39,
+          "start": 0.5
         }
       ],
-      "duration": 5.26,
+      "duration": 6.89,
       "music_mood": "wonder",
       "luna_glow": null,
       "tags": [],
@@ -441,10 +474,13 @@
         {
           "char": "ollie",
           "emotion": "happy",
-          "text": "Great idea, Bean! It's warm and bright here."
+          "text": "Great idea, Bean! It's warm and bright here.",
+          "file": "episodes/E05/audio/E05-S018_L1.wav",
+          "length": 4.57,
+          "start": 0.5
         }
       ],
-      "duration": 4.88,
+      "duration": 6.07,
       "music_mood": "wonder",
       "luna_glow": "bright",
       "tags": [],
@@ -467,20 +503,29 @@
         {
           "char": "gus",
           "emotion": "playful",
-          "text": "Job done! The seed is on the sill. Time to play!"
+          "text": "Job done! The seed is on the sill. Time to play!",
+          "file": "episodes/E05/audio/E05-S019_L1.wav",
+          "length": 4.22,
+          "start": 0.5
         },
         {
           "char": "pip",
           "emotion": "curious",
-          "text": "Doesn't a seed need more than a sill?"
+          "text": "Doesn't a seed need more than a sill?",
+          "file": "episodes/E05/audio/E05-S019_L2.wav",
+          "length": 3.66,
+          "start": 5.12
         },
         {
           "char": "gus",
           "emotion": "excited",
-          "text": "I've got a faster way! Seeds grow all by themselves."
+          "text": "I've got a faster way! Seeds grow all by themselves.",
+          "file": "episodes/E05/audio/E05-S019_L3.wav",
+          "length": 4.84,
+          "start": 9.18
         }
       ],
-      "duration": 14.55,
+      "duration": 15.02,
       "music_mood": "wonder",
       "luna_glow": null,
       "tags": [],
@@ -503,12 +548,18 @@
         {
           "char": "gus",
           "emotion": "excited",
-          "text": "I'll check on it later. Much later!"
+          "text": "I'll check on it later. Much later!",
+          "file": "episodes/E05/audio/E05-S020_L1.wav",
+          "length": 3.5,
+          "start": 0.5
         },
         {
           "char": "pip",
           "emotion": "worried",
-          "text": "What if we try the careful way? Let's ask Gran Mari."
+          "text": "What if we try the careful way? Let's ask Gran Mari.",
+          "file": "episodes/E05/audio/E05-S020_L2.wav",
+          "length": 3.38,
+          "start": 4.4
         }
       ],
       "duration": 9.52,
@@ -535,10 +586,13 @@
         {
           "char": "ollie",
           "emotion": "curious",
-          "text": "Okay. We'll check on the seed tomorrow."
+          "text": "Okay. We'll check on the seed tomorrow.",
+          "file": "episodes/E05/audio/E05-S021_L1.wav",
+          "length": 4.17,
+          "start": 0.5
         }
       ],
-      "duration": 4.49,
+      "duration": 5.67,
       "music_mood": "wonder",
       "luna_glow": null,
       "tags": [],
@@ -600,7 +654,10 @@
         {
           "char": "ollie",
           "emotion": "excited",
-          "text": "Today the seed grows! I bet it's huge!"
+          "text": "Today the seed grows! I bet it's huge!",
+          "file": "episodes/E05/audio/E05-S024_L1.wav",
+          "length": 2.92,
+          "start": 0.5
         }
       ],
       "duration": 4.88,
@@ -627,10 +684,13 @@
         {
           "char": "ollie",
           "emotion": "surprised",
-          "text": "It didn't change at all!"
+          "text": "It didn't change at all!",
+          "file": "episodes/E05/audio/E05-S025_L1.wav",
+          "length": 3.79,
+          "start": 0.5
         }
       ],
-      "duration": 5.0,
+      "duration": 5.29,
       "music_mood": "uh-oh",
       "luna_glow": null,
       "tags": [
@@ -655,17 +715,26 @@
         {
           "char": "gus",
           "emotion": "surprised",
-          "text": "Is it a tree yet? I did not forget!"
+          "text": "Is it a tree yet? I did not forget!",
+          "file": "episodes/E05/audio/E05-S026_L1.wav",
+          "length": 4.22,
+          "start": 0.5
         },
         {
           "char": "pip",
           "emotion": "curious",
-          "text": "Gus, did you give it anything to drink?"
+          "text": "Gus, did you give it anything to drink?",
+          "file": "episodes/E05/audio/E05-S026_L2.wav",
+          "length": 1.88,
+          "start": 5.12
         },
         {
           "char": "gus",
           "emotion": "worried",
-          "text": "Drink? Um. Yes! Lots. It drank it all. Very fast."
+          "text": "Drink? Um. Yes! Lots. It drank it all. Very fast.",
+          "file": "episodes/E05/audio/E05-S026_L3.wav",
+          "length": 4.96,
+          "start": 7.4
         }
       ],
       "duration": 13.78,
@@ -693,15 +762,21 @@
         {
           "char": "ollie",
           "emotion": "curious",
-          "text": "But the jar is dry, Gus."
+          "text": "But the jar is dry, Gus.",
+          "file": "episodes/E05/audio/E05-S027_L1.wav",
+          "length": 4.54,
+          "start": 0.5
         },
         {
           "char": "gus",
           "emotion": "excited",
-          "text": "That's just its dry look! Very fashionable!"
+          "text": "That's just its dry look! Very fashionable!",
+          "file": "episodes/E05/audio/E05-S027_L2.wav",
+          "length": 4.85,
+          "start": 5.44
         }
       ],
-      "duration": 7.6,
+      "duration": 11.29,
       "music_mood": "uh-oh",
       "luna_glow": null,
       "tags": [],
@@ -724,10 +799,13 @@
         {
           "char": "gus",
           "emotion": "determined",
-          "text": "Seeds like it warm! I'll hatch it!"
+          "text": "Seeds like it warm! I'll hatch it!",
+          "file": "episodes/E05/audio/E05-S028_L1.wav",
+          "length": 4.53,
+          "start": 0.5
         }
       ],
-      "duration": 4.49,
+      "duration": 6.03,
       "music_mood": "uh-oh",
       "luna_glow": null,
       "tags": [],
@@ -769,7 +847,10 @@
         {
           "char": "gus",
           "emotion": "surprised",
-          "text": "Whoa! I'm fine! I meant to do that!"
+          "text": "Whoa! I'm fine! I meant to do that!",
+          "file": "episodes/E05/audio/E05-S030_L1.wav",
+          "length": 3.5,
+          "start": 0.5
         }
       ],
       "duration": 6.0,
@@ -798,12 +879,18 @@
         {
           "char": "ollie",
           "emotion": "curious",
-          "text": "Gus, what does a seed really need?"
+          "text": "Gus, what does a seed really need?",
+          "file": "episodes/E05/audio/E05-S031_L1.wav",
+          "length": 2.4,
+          "start": 0.5
         },
         {
           "char": "gus",
           "emotion": "worried",
-          "text": "I don't know. Seeds are small. How hard can it be?"
+          "text": "I don't know. Seeds are small. How hard can it be?",
+          "file": "episodes/E05/audio/E05-S031_L2.wav",
+          "length": 4.53,
+          "start": 3.3
         }
       ],
       "duration": 9.52,
@@ -846,7 +933,10 @@
         {
           "char": "ollie",
           "emotion": "worried",
-          "text": "We need help. Let's ask Gran Mari."
+          "text": "We need help. Let's ask Gran Mari.",
+          "file": "episodes/E05/audio/E05-S033_L1.wav",
+          "length": 3.13,
+          "start": 0.5
         }
       ],
       "duration": 5.0,
@@ -872,20 +962,29 @@
         {
           "char": "gran_mari",
           "emotion": "happy",
-          "text": "Well now, a yarny seagull and a puzzled otter. What's all this?"
+          "text": "Well now, a yarny seagull and a puzzled otter. What's all this?",
+          "file": "episodes/E05/audio/E05-S034_L1.wav",
+          "length": 10.09,
+          "start": 0.5
         },
         {
           "char": "ollie",
           "emotion": "curious",
-          "text": "Gran Mari, what does a seed need?"
+          "text": "Gran Mari, what does a seed need?",
+          "file": "episodes/E05/audio/E05-S034_L2.wav",
+          "length": 4.17,
+          "start": 10.99
         },
         {
           "char": "gran_mari",
           "emotion": "happy",
-          "text": "Oh, that is a good question, Ollie. Let's find out together."
+          "text": "Oh, that is a good question, Ollie. Let's find out together.",
+          "file": "episodes/E05/audio/E05-S034_L3.wav",
+          "length": 10.11,
+          "start": 15.56
         }
       ],
-      "duration": 14.94,
+      "duration": 26.67,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [],
@@ -927,15 +1026,21 @@
         {
           "char": "gran_mari",
           "emotion": "calm",
-          "text": "I set these up last week. Same seeds, same sunny window."
+          "text": "I set these up last week. Same seeds, same sunny window.",
+          "file": "episodes/E05/audio/E05-S036_L1.wav",
+          "length": 7.62,
+          "start": 0.5
         },
         {
           "char": "gran_mari",
           "emotion": "calm",
-          "text": "Only one thing is different. The towel."
+          "text": "Only one thing is different. The towel.",
+          "file": "episodes/E05/audio/E05-S036_L2.wav",
+          "length": 5.74,
+          "start": 8.52
         }
       ],
-      "duration": 9.52,
+      "duration": 15.26,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [],
@@ -957,7 +1062,10 @@
         {
           "char": "ollie",
           "emotion": "surprised",
-          "text": "That looks just like our seed."
+          "text": "That looks just like our seed.",
+          "file": "episodes/E05/audio/E05-S037_L1.wav",
+          "length": 1.8,
+          "start": 0.5
         }
       ],
       "duration": 4.11,
@@ -985,15 +1093,21 @@
         {
           "char": "pip",
           "emotion": "surprised",
-          "text": "This one is waking up!"
+          "text": "This one is waking up!",
+          "file": "episodes/E05/audio/E05-S038_L1.wav",
+          "length": 1.45,
+          "start": 0.5
         },
         {
           "char": "gran_mari",
           "emotion": "calm",
-          "text": "Water wakes a seed up. A warm spot helps too. Then the green shoot reaches for the light."
+          "text": "Water wakes a seed up. A warm spot helps too. Then the green shoot reaches for the light.",
+          "file": "episodes/E05/audio/E05-S038_L2.wav",
+          "length": 11.52,
+          "start": 2.35
         }
       ],
-      "duration": 11.45,
+      "duration": 14.87,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [
@@ -1017,7 +1131,10 @@
         {
           "char": "ollie",
           "emotion": "excited",
-          "text": "It's growing toward the sun!"
+          "text": "It's growing toward the sun!",
+          "file": "episodes/E05/audio/E05-S039_L1.wav",
+          "length": 1.84,
+          "start": 0.5
         }
       ],
       "duration": 5.0,
@@ -1045,20 +1162,29 @@
         {
           "char": "gran_mari",
           "emotion": "curious",
-          "text": "Well now, what do you think happens next?"
+          "text": "Well now, what do you think happens next?",
+          "file": "episodes/E05/audio/E05-S040_L1.wav",
+          "length": 6.22,
+          "start": 0.5
         },
         {
           "char": "ollie",
           "emotion": "curious",
-          "text": "The seed wakes up! But not right away."
+          "text": "The seed wakes up! But not right away.",
+          "file": "episodes/E05/audio/E05-S040_L2.wav",
+          "length": 6.18,
+          "start": 7.12
         },
         {
           "char": "gran_mari",
           "emotion": "happy",
-          "text": "Right. A seed takes time. It can't be hurried."
+          "text": "Right. A seed takes time. It can't be hurried.",
+          "file": "episodes/E05/audio/E05-S040_L3.wav",
+          "length": 7.63,
+          "start": 13.7
         }
       ],
-      "duration": 13.02,
+      "duration": 22.33,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [
@@ -1126,17 +1252,26 @@
         {
           "char": "ollie",
           "emotion": "happy",
-          "text": "Try it at home! Ask a grown-up to help you."
+          "text": "Try it at home! Ask a grown-up to help you.",
+          "file": "episodes/E05/audio/E05-S043_L1.wav",
+          "length": 3.95,
+          "start": 0.5
         },
         {
           "char": "ollie",
           "emotion": "happy",
-          "text": "Wet a paper towel and fold it. Put it in a clear bag with a bean."
+          "text": "Wet a paper towel and fold it. Put it in a clear bag with a bean.",
+          "file": "episodes/E05/audio/E05-S043_L2.wav",
+          "length": 4.32,
+          "start": 4.85
         },
         {
           "char": "ollie",
           "emotion": "happy",
-          "text": "Tape the bag to a sunny window. Check it every day."
+          "text": "Tape the bag to a sunny window. Check it every day.",
+          "file": "episodes/E05/audio/E05-S043_L3.wav",
+          "length": 3.96,
+          "start": 9.57
         }
       ],
       "duration": 18.02,
@@ -1166,20 +1301,29 @@
         {
           "char": "gus",
           "emotion": "sorry",
-          "text": "I have to say something. I fibbed."
+          "text": "I have to say something. I fibbed.",
+          "file": "episodes/E05/audio/E05-S044_L1.wav",
+          "length": 3.53,
+          "start": 0.5
         },
         {
           "char": "gus",
           "emotion": "sorry",
-          "text": "I said it drank lots. It didn't. I forgot all about it."
+          "text": "I said it drank lots. It didn't. I forgot all about it.",
+          "file": "episodes/E05/audio/E05-S044_L2.wav",
+          "length": 6.15,
+          "start": 4.43
         },
         {
           "char": "ollie",
           "emotion": "happy",
-          "text": "Thanks for telling us, Gus."
+          "text": "Thanks for telling us, Gus.",
+          "file": "episodes/E05/audio/E05-S044_L3.wav",
+          "length": 1.56,
+          "start": 10.98
         }
       ],
-      "duration": 12.63,
+      "duration": 13.54,
       "music_mood": "triumph",
       "luna_glow": null,
       "tags": [],
@@ -1241,10 +1385,13 @@
         {
           "char": "gus",
           "emotion": "determined",
-          "text": "One shell for every day I check. That's my job."
+          "text": "One shell for every day I check. That's my job.",
+          "file": "episodes/E05/audio/E05-S047_L1.wav",
+          "length": 5.2,
+          "start": 0.5
         }
       ],
-      "duration": 5.65,
+      "duration": 6.7,
       "music_mood": "triumph",
       "luna_glow": null,
       "tags": [],
@@ -1287,7 +1434,10 @@
         {
           "char": "bean",
           "emotion": "curious",
-          "text": "Water!"
+          "text": "Water!",
+          "file": "episodes/E05/audio/E05-S049_L1.wav",
+          "length": 2.03,
+          "start": 0.5
         }
       ],
       "duration": 4.0,
@@ -1313,10 +1463,13 @@
         {
           "char": "gus",
           "emotion": "surprised",
-          "text": "You're right, Bean! I almost forgot again!"
+          "text": "You're right, Bean! I almost forgot again!",
+          "file": "episodes/E05/audio/E05-S050_L1.wav",
+          "length": 3.82,
+          "start": 0.5
         }
       ],
-      "duration": 4.49,
+      "duration": 5.32,
       "music_mood": "triumph",
       "luna_glow": null,
       "tags": [],
@@ -1374,7 +1527,10 @@
         {
           "char": "gus",
           "emotion": "excited",
-          "text": "It's growing! It's really growing!"
+          "text": "It's growing! It's really growing!",
+          "file": "episodes/E05/audio/E05-S053_L1.wav",
+          "length": 2.98,
+          "start": 0.5
         }
       ],
       "duration": 6.0,
@@ -1403,10 +1559,13 @@
         {
           "char": "pip",
           "emotion": "happy",
-          "text": "Look! A tiny green hat on a seed!"
+          "text": "Look! A tiny green hat on a seed!",
+          "file": "episodes/E05/audio/E05-S054_L1.wav",
+          "length": 3.99,
+          "start": 0.5
         }
       ],
-      "duration": 4.88,
+      "duration": 5.49,
       "music_mood": "triumph",
       "luna_glow": "sparkle",
       "tags": [],
@@ -1469,10 +1628,13 @@
         {
           "char": "ollie",
           "emotion": "happy",
-          "text": "Time for my Wonder Pocket! Three things we learned."
+          "text": "Time for my Wonder Pocket! Three things we learned.",
+          "file": "episodes/E05/audio/E05-S057_L1.wav",
+          "length": 3.78,
+          "start": 0.5
         }
       ],
-      "duration": 5.26,
+      "duration": 5.28,
       "music_mood": "cozy",
       "luna_glow": "bright",
       "tags": [],
@@ -1494,10 +1656,13 @@
         {
           "char": "ollie",
           "emotion": "happy",
-          "text": "One. A seed needs water to wake up."
+          "text": "One. A seed needs water to wake up.",
+          "file": "episodes/E05/audio/E05-S058_L1.wav",
+          "length": 5.39,
+          "start": 0.5
         }
       ],
-      "duration": 4.88,
+      "duration": 6.89,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [],
@@ -1519,10 +1684,13 @@
         {
           "char": "ollie",
           "emotion": "happy",
-          "text": "Two. A warm, sunny spot helps it grow."
+          "text": "Two. A warm, sunny spot helps it grow.",
+          "file": "episodes/E05/audio/E05-S059_L1.wav",
+          "length": 3.71,
+          "start": 0.5
         }
       ],
-      "duration": 4.88,
+      "duration": 5.21,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [],
@@ -1544,10 +1712,13 @@
         {
           "char": "ollie",
           "emotion": "proud",
-          "text": "Three. A seed needs time. We can't hurry it."
+          "text": "Three. A seed needs time. We can't hurry it.",
+          "file": "episodes/E05/audio/E05-S060_L1.wav",
+          "length": 5.76,
+          "start": 0.5
         }
       ],
-      "duration": 5.26,
+      "duration": 7.26,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [],
@@ -1570,7 +1741,10 @@
         {
           "char": "ollie",
           "emotion": "happy",
-          "text": "And one kind thing to try today. Look after something small. Give it water!"
+          "text": "And one kind thing to try today. Look after something small. Give it water!",
+          "file": "episodes/E05/audio/E05-S061_L1.wav",
+          "length": 4.85,
+          "start": 0.5
         }
       ],
       "duration": 7.18,
@@ -1599,7 +1773,10 @@
         {
           "char": "gus",
           "emotion": "happy",
-          "text": "Bye, everybody! I'm off to water my seed!"
+          "text": "Bye, everybody! I'm off to water my seed!",
+          "file": "episodes/E05/audio/E05-S062_L1.wav",
+          "length": 2.98,
+          "start": 0.5
         }
       ],
       "duration": 4.88,

@@ -12,6 +12,7 @@ NAVY, YEL, WHITE = (24, 44, 84), (255, 214, 64), (255, 255, 255)
 SPEC = {
     "E01": ("E01_A", [("WHERE DID THE", WHITE), ("WATER GO?", YEL)], 40, 64, 96),
     "E02": ("E02_B", [("WHY HOLD", WHITE), ("HANDS?", YEL)], 40, 56, 112),
+    "E05": ("E05_A", [("WHAT DOES", WHITE), ("A SEED", YEL), ("NEED?", WHITE)], 44, 190, 88),
     "E03": ("E03_A", [("WHERE DO", WHITE), ("RAINBOWS", YEL), ("COME FROM?", WHITE)], 44, 330, 92),
 }
 def draw_text(base, lines, x, y, size):
