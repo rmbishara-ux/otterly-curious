@@ -21,6 +21,6 @@ Re-check after 2-3 weeks against our own YouTube Studio "When your viewers are o
 | Thu 2026-12-03 12:00 PM | 2026-12-03 20:00Z | E05 Gus Short (planned) | - |
 | Sat 2026-11-28 / 12-05 / 12-12 ... 6:00 AM | 14:00Z | E06, E07, E08 ... (scripts ready, not produced) | - |
 
-Trailer: uoGMLcdwtSE, Public, featured for non-subscribers. Note: the clocks change on Sun 2026-11-01 (PDT -> PST), so 6:00 AM Pacific is 13:00Z on Oct 31 and 14:00Z afterwards.
+Trailer: uoGMLcdwtSE, Unlisted (set back 2026-10-27 until launch), featured for non-subscribers. Note: the clocks change on Sun 2026-11-01 (PDT -> PST), so 6:00 AM Pacific is 13:00Z on Oct 31 and 14:00Z afterwards.
 
 This file is the single source of truth for dates. youtube/content_calendar.md is superseded (old December plan). Each episode follows the same pattern: long video Sat 6 AM PT, demo Short the following Tue noon PT, Gus Short the following Thu noon PT. Wait for the first-weeks numbers before producing E06+.
