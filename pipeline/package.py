@@ -42,7 +42,12 @@ def thumbnail(ep, meta, out):
         import json as _j
         still = d / "shots" / f"{ep}-{_j.loads(hs.read_text())[0]}.png"
         if still.exists():
-            bg = Image.open(still).convert("RGB").resize((W, H))
+            bg = Image.open(still).convert("RGB")
+            lay = d / "thumb_layout.json"  # optional per-episode crop (fractions x0,y0,x1,y1) so the key subject stays visible
+            if lay.exists():
+                x0, y0, x1, y1 = _j.loads(lay.read_text())["crop"]
+                bg = bg.crop((int(bg.width * x0), int(bg.height * y0), int(bg.width * x1), int(bg.height * y1)))
+            bg = bg.resize((W, H))
             blend = 0.12
     bg = Image.blend(bg, Image.new("RGB", (W, H), (255, 255, 255)), blend)
     sheet = ROOT / "characters" / "ollie" / "expressions" / "expr_v2.png"
@@ -69,6 +74,12 @@ def thumbnail(ep, meta, out):
             cur = w
     lines.append(cur)
     y = (H - len(lines) * (size + 8)) // 2
+    lay = d / "thumb_layout.json"
+    if lay.exists():
+        import json as _k
+        ty = _k.loads(lay.read_text()).get("text_y")
+        if ty:
+            y = ty
     for ln in lines:
         dr.text((int(W * 0.51), y), ln, font=fnt, fill=(255, 255, 255), stroke_width=8, stroke_fill=(29, 53, 87))
         y += size + 8
