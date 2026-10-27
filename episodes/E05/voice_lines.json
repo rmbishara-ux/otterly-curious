@@ -1,0 +1,415 @@
+[
+ {
+  "idx": 0,
+  "shot": "E05-S001",
+  "line": 1,
+  "char": "ollie",
+  "text": "Good morning, Pip! It's a perfect day!"
+ },
+ {
+  "idx": 1,
+  "shot": "E05-S002",
+  "line": 1,
+  "char": "gus",
+  "text": "Look what Gran Mari gave me! A job!"
+ },
+ {
+  "idx": 2,
+  "shot": "E05-S002",
+  "line": 2,
+  "char": "gus",
+  "text": "I get to look after this seed!"
+ },
+ {
+  "idx": 3,
+  "shot": "E05-S003",
+  "line": 1,
+  "char": "pip",
+  "text": "It looks like a tiny rock."
+ },
+ {
+  "idx": 4,
+  "shot": "E05-S003",
+  "line": 2,
+  "char": "ollie",
+  "text": "But it's not a rock. It's a seed!"
+ },
+ {
+  "idx": 5,
+  "shot": "E05-S005",
+  "line": 1,
+  "char": "ollie",
+  "text": "What does a seed need?"
+ },
+ {
+  "idx": 6,
+  "shot": "E05-S006",
+  "line": 1,
+  "char": "ollie",
+  "text": "Let's find out!"
+ },
+ {
+  "idx": 7,
+  "shot": "E05-S015",
+  "line": 1,
+  "char": "pip",
+  "text": "Where should the seed go?"
+ },
+ {
+  "idx": 8,
+  "shot": "E05-S015",
+  "line": 2,
+  "char": "ollie",
+  "text": "The dark shelf! It's closest. Quick, quick!"
+ },
+ {
+  "idx": 9,
+  "shot": "E05-S016",
+  "line": 1,
+  "char": "pip",
+  "text": "Ollie, you didn't ask anyone!"
+ },
+ {
+  "idx": 10,
+  "shot": "E05-S017",
+  "line": 1,
+  "char": "ollie",
+  "text": "Oops. I rushed again. What do you think, Bean?"
+ },
+ {
+  "idx": 11,
+  "shot": "E05-S018",
+  "line": 1,
+  "char": "ollie",
+  "text": "Great idea, Bean! It's warm and bright here."
+ },
+ {
+  "idx": 12,
+  "shot": "E05-S019",
+  "line": 1,
+  "char": "gus",
+  "text": "Job done! The seed is on the sill. Time to play!"
+ },
+ {
+  "idx": 13,
+  "shot": "E05-S019",
+  "line": 2,
+  "char": "pip",
+  "text": "Doesn't a seed need more than a sill?"
+ },
+ {
+  "idx": 14,
+  "shot": "E05-S019",
+  "line": 3,
+  "char": "gus",
+  "text": "I've got a faster way! Seeds grow all by themselves."
+ },
+ {
+  "idx": 15,
+  "shot": "E05-S020",
+  "line": 1,
+  "char": "gus",
+  "text": "I'll check on it later. Much later!"
+ },
+ {
+  "idx": 16,
+  "shot": "E05-S020",
+  "line": 2,
+  "char": "pip",
+  "text": "What if we try the careful way? Let's ask Gran Mari."
+ },
+ {
+  "idx": 17,
+  "shot": "E05-S021",
+  "line": 1,
+  "char": "ollie",
+  "text": "Okay. We'll check on the seed tomorrow."
+ },
+ {
+  "idx": 18,
+  "shot": "E05-S024",
+  "line": 1,
+  "char": "ollie",
+  "text": "Today the seed grows! I bet it's huge!"
+ },
+ {
+  "idx": 19,
+  "shot": "E05-S025",
+  "line": 1,
+  "char": "ollie",
+  "text": "It didn't change at all!"
+ },
+ {
+  "idx": 20,
+  "shot": "E05-S026",
+  "line": 1,
+  "char": "gus",
+  "text": "Is it a tree yet? I did not forget!"
+ },
+ {
+  "idx": 21,
+  "shot": "E05-S026",
+  "line": 2,
+  "char": "pip",
+  "text": "Gus, did you give it anything to drink?"
+ },
+ {
+  "idx": 22,
+  "shot": "E05-S026",
+  "line": 3,
+  "char": "gus",
+  "text": "Drink? Um. Yes! Lots. It drank it all. Very fast."
+ },
+ {
+  "idx": 23,
+  "shot": "E05-S027",
+  "line": 1,
+  "char": "ollie",
+  "text": "But the jar is dry, Gus."
+ },
+ {
+  "idx": 24,
+  "shot": "E05-S027",
+  "line": 2,
+  "char": "gus",
+  "text": "That's just its dry look! Very fashionable!"
+ },
+ {
+  "idx": 25,
+  "shot": "E05-S028",
+  "line": 1,
+  "char": "gus",
+  "text": "Seeds like it warm! I'll hatch it!"
+ },
+ {
+  "idx": 26,
+  "shot": "E05-S030",
+  "line": 1,
+  "char": "gus",
+  "text": "Whoa! I'm fine! I meant to do that!"
+ },
+ {
+  "idx": 27,
+  "shot": "E05-S031",
+  "line": 1,
+  "char": "ollie",
+  "text": "Gus, what does a seed really need?"
+ },
+ {
+  "idx": 28,
+  "shot": "E05-S031",
+  "line": 2,
+  "char": "gus",
+  "text": "I don't know. Seeds are small. How hard can it be?"
+ },
+ {
+  "idx": 29,
+  "shot": "E05-S033",
+  "line": 1,
+  "char": "ollie",
+  "text": "We need help. Let's ask Gran Mari."
+ },
+ {
+  "idx": 30,
+  "shot": "E05-S034",
+  "line": 1,
+  "char": "gran_mari",
+  "text": "Well now, a yarny seagull and a puzzled otter. What's all this?"
+ },
+ {
+  "idx": 31,
+  "shot": "E05-S034",
+  "line": 2,
+  "char": "ollie",
+  "text": "Gran Mari, what does a seed need?"
+ },
+ {
+  "idx": 32,
+  "shot": "E05-S034",
+  "line": 3,
+  "char": "gran_mari",
+  "text": "Oh, that is a good question, Ollie. Let's find out together."
+ },
+ {
+  "idx": 33,
+  "shot": "E05-S036",
+  "line": 1,
+  "char": "gran_mari",
+  "text": "I set these up last week. Same seeds, same sunny window."
+ },
+ {
+  "idx": 34,
+  "shot": "E05-S036",
+  "line": 2,
+  "char": "gran_mari",
+  "text": "Only one thing is different. The towel."
+ },
+ {
+  "idx": 35,
+  "shot": "E05-S037",
+  "line": 1,
+  "char": "ollie",
+  "text": "That looks just like our seed."
+ },
+ {
+  "idx": 36,
+  "shot": "E05-S038",
+  "line": 1,
+  "char": "pip",
+  "text": "This one is waking up!"
+ },
+ {
+  "idx": 37,
+  "shot": "E05-S038",
+  "line": 2,
+  "char": "gran_mari",
+  "text": "Water wakes a seed up. A warm spot helps too. Then the green shoot reaches for the light."
+ },
+ {
+  "idx": 38,
+  "shot": "E05-S039",
+  "line": 1,
+  "char": "ollie",
+  "text": "It's growing toward the sun!"
+ },
+ {
+  "idx": 39,
+  "shot": "E05-S040",
+  "line": 1,
+  "char": "gran_mari",
+  "text": "Well now, what do you think happens next?"
+ },
+ {
+  "idx": 40,
+  "shot": "E05-S040",
+  "line": 2,
+  "char": "ollie",
+  "text": "The seed wakes up! But not right away."
+ },
+ {
+  "idx": 41,
+  "shot": "E05-S040",
+  "line": 3,
+  "char": "gran_mari",
+  "text": "Right. A seed takes time. It can't be hurried."
+ },
+ {
+  "idx": 42,
+  "shot": "E05-S043",
+  "line": 1,
+  "char": "ollie",
+  "text": "Try it at home! Ask a grown-up to help you."
+ },
+ {
+  "idx": 43,
+  "shot": "E05-S043",
+  "line": 2,
+  "char": "ollie",
+  "text": "Wet a paper towel and fold it. Put it in a clear bag with a bean."
+ },
+ {
+  "idx": 44,
+  "shot": "E05-S043",
+  "line": 3,
+  "char": "ollie",
+  "text": "Tape the bag to a sunny window. Check it every day."
+ },
+ {
+  "idx": 45,
+  "shot": "E05-S044",
+  "line": 1,
+  "char": "gus",
+  "text": "I have to say something. I fibbed."
+ },
+ {
+  "idx": 46,
+  "shot": "E05-S044",
+  "line": 2,
+  "char": "gus",
+  "text": "I said it drank lots. It didn't. I forgot all about it."
+ },
+ {
+  "idx": 47,
+  "shot": "E05-S044",
+  "line": 3,
+  "char": "ollie",
+  "text": "Thanks for telling us, Gus."
+ },
+ {
+  "idx": 48,
+  "shot": "E05-S047",
+  "line": 1,
+  "char": "gus",
+  "text": "One shell for every day I check. That's my job."
+ },
+ {
+  "idx": 49,
+  "shot": "E05-S049",
+  "line": 1,
+  "char": "bean",
+  "text": "Water!"
+ },
+ {
+  "idx": 50,
+  "shot": "E05-S050",
+  "line": 1,
+  "char": "gus",
+  "text": "You're right, Bean! I almost forgot again!"
+ },
+ {
+  "idx": 51,
+  "shot": "E05-S053",
+  "line": 1,
+  "char": "gus",
+  "text": "It's growing! It's really growing!"
+ },
+ {
+  "idx": 52,
+  "shot": "E05-S054",
+  "line": 1,
+  "char": "pip",
+  "text": "Look! A tiny green hat on a seed!"
+ },
+ {
+  "idx": 53,
+  "shot": "E05-S057",
+  "line": 1,
+  "char": "ollie",
+  "text": "Time for my Wonder Pocket! Three things we learned."
+ },
+ {
+  "idx": 54,
+  "shot": "E05-S058",
+  "line": 1,
+  "char": "ollie",
+  "text": "One. A seed needs water to wake up."
+ },
+ {
+  "idx": 55,
+  "shot": "E05-S059",
+  "line": 1,
+  "char": "ollie",
+  "text": "Two. A warm, sunny spot helps it grow."
+ },
+ {
+  "idx": 56,
+  "shot": "E05-S060",
+  "line": 1,
+  "char": "ollie",
+  "text": "Three. A seed needs time. We can't hurry it."
+ },
+ {
+  "idx": 57,
+  "shot": "E05-S061",
+  "line": 1,
+  "char": "ollie",
+  "text": "And one kind thing to try today. Look after something small. Give it water!"
+ },
+ {
+  "idx": 58,
+  "shot": "E05-S062",
+  "line": 1,
+  "char": "gus",
+  "text": "Bye, everybody! I'm off to water my seed!"
+ }
+]

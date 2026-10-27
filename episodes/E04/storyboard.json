@@ -4,7 +4,7 @@
   "big_question": "Why do boats float?",
   "value": "Trying again",
   "shot_count": 63,
-  "total_seconds": 410.1,
+  "total_seconds": 467.3,
   "shots": [
     {
       "beat": 1,
@@ -21,10 +21,13 @@
         {
           "char": "ollie",
           "emotion": "happy",
-          "text": "Plip! The pebble sank right to the bottom."
+          "text": "Plip! The pebble sank right to the bottom.",
+          "file": "episodes/E04/audio/E04-S001_L1.wav",
+          "length": 5.13,
+          "start": 0.5
         }
       ],
-      "duration": 5.0,
+      "duration": 6.63,
       "music_mood": "play",
       "luna_glow": null,
       "tags": [],
@@ -47,15 +50,21 @@
         {
           "char": "pip",
           "emotion": "surprised",
-          "text": "But that big boat is not sinking at all!"
+          "text": "But that big boat is not sinking at all!",
+          "file": "episodes/E04/audio/E04-S002_L1.wav",
+          "length": 3.99,
+          "start": 0.5
         },
         {
           "char": "ollie",
           "emotion": "curious",
-          "text": "It's much bigger than the pebble, and it floats!"
+          "text": "It's much bigger than the pebble, and it floats!",
+          "file": "episodes/E04/audio/E04-S002_L2.wav",
+          "length": 5.78,
+          "start": 4.89
         }
       ],
-      "duration": 9.52,
+      "duration": 11.67,
       "music_mood": "play",
       "luna_glow": null,
       "tags": [],
@@ -77,7 +86,10 @@
         {
           "char": "ollie",
           "emotion": "curious",
-          "text": "Why do boats float?"
+          "text": "Why do boats float?",
+          "file": "episodes/E04/audio/E04-S003_L1.wav",
+          "length": 1.17,
+          "start": 0.5
         }
       ],
       "duration": 5.0,
@@ -103,10 +115,13 @@
         {
           "char": "ollie",
           "emotion": "excited",
-          "text": "Let's find out!"
+          "text": "Let's find out!",
+          "file": "episodes/E04/audio/E04-S004_L1.wav",
+          "length": 2.62,
+          "start": 0.5
         }
       ],
-      "duration": 4.0,
+      "duration": 4.12,
       "music_mood": "play",
       "luna_glow": "dim",
       "tags": [],
@@ -305,15 +320,21 @@
         {
           "char": "pip",
           "emotion": "excited",
-          "text": "I want to sail! Can I make a boat?"
+          "text": "I want to sail! Can I make a boat?",
+          "file": "episodes/E04/audio/E04-S013_L1.wav",
+          "length": 4.73,
+          "start": 0.5
         },
         {
           "char": "ollie",
           "emotion": "excited",
-          "text": "Yes! A boat of your very own!"
+          "text": "Yes! A boat of your very own!",
+          "file": "episodes/E04/audio/E04-S013_L2.wav",
+          "length": 4.55,
+          "start": 5.63
         }
       ],
-      "duration": 8.75,
+      "duration": 11.18,
       "music_mood": "wonder",
       "luna_glow": null,
       "tags": [],
@@ -336,7 +357,10 @@
         {
           "char": "ollie",
           "emotion": "happy",
-          "text": "It's tall and shiny! Let's go launch it!"
+          "text": "It's tall and shiny! Let's go launch it!",
+          "file": "episodes/E04/audio/E04-S014_L1.wav",
+          "length": 3.17,
+          "start": 0.5
         }
       ],
       "duration": 5.0,
@@ -363,7 +387,10 @@
         {
           "char": "pip",
           "emotion": "worried",
-          "text": "Ollie, I don't think it's ready yet!"
+          "text": "Ollie, I don't think it's ready yet!",
+          "file": "episodes/E04/audio/E04-S015_L1.wav",
+          "length": 1.76,
+          "start": 0.5
         }
       ],
       "duration": 5.0,
@@ -389,10 +416,13 @@
         {
           "char": "ollie",
           "emotion": "sorry",
-          "text": "Sorry, Pip. It's your boat. You tell us when."
+          "text": "Sorry, Pip. It's your boat. You tell us when.",
+          "file": "episodes/E04/audio/E04-S016_L1.wav",
+          "length": 5.76,
+          "start": 0.5
         }
       ],
-      "duration": 5.26,
+      "duration": 7.26,
       "music_mood": "wonder",
       "luna_glow": null,
       "tags": [],
@@ -435,7 +465,10 @@
         {
           "char": "pip",
           "emotion": "worried",
-          "text": "Oh no. It's tilting..."
+          "text": "Oh no. It's tilting...",
+          "file": "episodes/E04/audio/E04-S018_L1.wav",
+          "length": 1.39,
+          "start": 0.5
         }
       ],
       "duration": 5.0,
@@ -479,10 +512,13 @@
         {
           "char": "pip",
           "emotion": "worried",
-          "text": "My boat is no good. Maybe I should stop."
+          "text": "My boat is no good. Maybe I should stop.",
+          "file": "episodes/E04/audio/E04-S020_L1.wav",
+          "length": 4.73,
+          "start": 0.5
         }
       ],
-      "duration": 5.26,
+      "duration": 6.23,
       "music_mood": "wonder",
       "luna_glow": null,
       "tags": [],
@@ -505,20 +541,29 @@
         {
           "char": "gus",
           "emotion": "excited",
-          "text": "Don't stop! I've got a faster way!"
+          "text": "Don't stop! I've got a faster way!",
+          "file": "episodes/E04/audio/E04-S021_L1.wav",
+          "length": 3.82,
+          "start": 0.5
         },
         {
           "char": "pip",
           "emotion": "worried",
-          "text": "Gus, your faster ways always go wrong."
+          "text": "Gus, your faster ways always go wrong.",
+          "file": "episodes/E04/audio/E04-S021_L2.wav",
+          "length": 3.66,
+          "start": 4.72
         },
         {
           "char": "gus",
           "emotion": "playful",
-          "text": "Not this time! A boat needs to be strong. Strong like a lump of clay!"
+          "text": "Not this time! A boat needs to be strong. Strong like a lump of clay!",
+          "file": "episodes/E04/audio/E04-S021_L3.wav",
+          "length": 5.85,
+          "start": 8.78
         }
       ],
-      "duration": 14.55,
+      "duration": 15.63,
       "music_mood": "wonder",
       "luna_glow": null,
       "tags": [],
@@ -541,7 +586,10 @@
         {
           "char": "ollie",
           "emotion": "curious",
-          "text": "A lump of clay?"
+          "text": "A lump of clay?",
+          "file": "episodes/E04/audio/E04-S022_L1.wav",
+          "length": 1.27,
+          "start": 0.5
         }
       ],
       "duration": 3.34,
@@ -567,7 +615,10 @@
         {
           "char": "gus",
           "emotion": "excited",
-          "text": "Squeeze it hard, and it's a boat in two seconds!"
+          "text": "Squeeze it hard, and it's a boat in two seconds!",
+          "file": "episodes/E04/audio/E04-S023_L1.wav",
+          "length": 3.7,
+          "start": 0.5
         }
       ],
       "duration": 5.65,
@@ -595,15 +646,21 @@
         {
           "char": "pip",
           "emotion": "curious",
-          "text": "What if we try it the careful way?"
+          "text": "What if we try it the careful way?",
+          "file": "episodes/E04/audio/E04-S024_L1.wav",
+          "length": 1.79,
+          "start": 0.5
         },
         {
           "char": "ollie",
           "emotion": "curious",
-          "text": "Let's watch Gus try first. Then we ask Gran Mari."
+          "text": "Let's watch Gus try first. Then we ask Gran Mari.",
+          "file": "episodes/E04/audio/E04-S024_L2.wav",
+          "length": 6.17,
+          "start": 2.69
         }
       ],
-      "duration": 9.52,
+      "duration": 9.86,
       "music_mood": "wonder",
       "luna_glow": "dim",
       "tags": [],
@@ -667,10 +724,13 @@
         {
           "char": "gus",
           "emotion": "surprised",
-          "text": "Whoa. Where did my boat go?"
+          "text": "Whoa. Where did my boat go?",
+          "file": "episodes/E04/audio/E04-S027_L1.wav",
+          "length": 3.5,
+          "start": 0.5
         }
       ],
-      "duration": 4.11,
+      "duration": 5.0,
       "music_mood": "uh-oh",
       "luna_glow": null,
       "tags": [
@@ -738,17 +798,26 @@
         {
           "char": "pip",
           "emotion": "surprised",
-          "text": "Gus, your boat sank!"
+          "text": "Gus, your boat sank!",
+          "file": "episodes/E04/audio/E04-S030_L1.wav",
+          "length": 2.65,
+          "start": 0.5
         },
         {
           "char": "gus",
           "emotion": "excited",
-          "text": "It didn't sink! It's a submarine! I meant to do that."
+          "text": "It didn't sink! It's a submarine! I meant to do that.",
+          "file": "episodes/E04/audio/E04-S030_L2.wav",
+          "length": 3.86,
+          "start": 3.55
         },
         {
           "char": "ollie",
           "emotion": "curious",
-          "text": "Do submarines fall down and stay down?"
+          "text": "Do submarines fall down and stay down?",
+          "file": "episodes/E04/audio/E04-S030_L3.wav",
+          "length": 2.42,
+          "start": 7.81
         }
       ],
       "duration": 11.86,
@@ -779,10 +848,13 @@
         {
           "char": "gus",
           "emotion": "worried",
-          "text": "Mine does. It's the best submarine ever."
+          "text": "Mine does. It's the best submarine ever.",
+          "file": "episodes/E04/audio/E04-S031_L1.wav",
+          "length": 3.1,
+          "start": 0.5
         }
       ],
-      "duration": 4.49,
+      "duration": 4.6,
       "music_mood": "uh-oh",
       "luna_glow": "dim",
       "tags": [],
@@ -806,12 +878,18 @@
         {
           "char": "ollie",
           "emotion": "curious",
-          "text": "But a boat should float on top."
+          "text": "But a boat should float on top.",
+          "file": "episodes/E04/audio/E04-S032_L1.wav",
+          "length": 1.77,
+          "start": 0.5
         },
         {
           "char": "gus",
           "emotion": "worried",
-          "text": "It's not my fault. The water was too deep!"
+          "text": "It's not my fault. The water was too deep!",
+          "file": "episodes/E04/audio/E04-S032_L2.wav",
+          "length": 3.1,
+          "start": 2.67
         }
       ],
       "duration": 8.75,
@@ -836,7 +914,10 @@
         {
           "char": "pip",
           "emotion": "worried",
-          "text": "And my boat flipped over. Boats are hard."
+          "text": "And my boat flipped over. Boats are hard.",
+          "file": "episodes/E04/audio/E04-S033_L1.wav",
+          "length": 2.76,
+          "start": 0.5
         }
       ],
       "duration": 4.88,
@@ -863,10 +944,13 @@
         {
           "char": "ollie",
           "emotion": "worried",
-          "text": "We need help. Let's ask Gran Mari."
+          "text": "We need help. Let's ask Gran Mari.",
+          "file": "episodes/E04/audio/E04-S034_L1.wav",
+          "length": 5.02,
+          "start": 0.5
         }
       ],
-      "duration": 5.0,
+      "duration": 6.52,
       "music_mood": "uh-oh",
       "luna_glow": null,
       "tags": [],
@@ -889,20 +973,29 @@
         {
           "char": "gran_mari",
           "emotion": "happy",
-          "text": "Well now, a muddy seagull and a gloomy crab. What's all this?"
+          "text": "Well now, a muddy seagull and a gloomy crab. What's all this?",
+          "file": "episodes/E04/audio/E04-S035_L1.wav",
+          "length": 11.01,
+          "start": 0.5
         },
         {
           "char": "ollie",
           "emotion": "curious",
-          "text": "Gran Mari, why do boats float?"
+          "text": "Gran Mari, why do boats float?",
+          "file": "episodes/E04/audio/E04-S035_L2.wav",
+          "length": 4.16,
+          "start": 11.91
         },
         {
           "char": "gran_mari",
           "emotion": "happy",
-          "text": "Oh, that is a good question, Ollie. Let's find out together."
+          "text": "Oh, that is a good question, Ollie. Let's find out together.",
+          "file": "episodes/E04/audio/E04-S035_L3.wav",
+          "length": 7.14,
+          "start": 16.47
         }
       ],
-      "duration": 14.55,
+      "duration": 24.61,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [],
@@ -924,10 +1017,13 @@
         {
           "char": "gran_mari",
           "emotion": "calm",
-          "text": "These are the same foil. I'll squeeze this one into a ball. I'll fold this one into a wide boat."
+          "text": "These are the same foil. I'll squeeze this one into a ball. I'll fold this one into a wide boat.",
+          "file": "episodes/E04/audio/E04-S036_L1.wav",
+          "length": 9.77,
+          "start": 0.5
         }
       ],
-      "duration": 9.49,
+      "duration": 11.27,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [],
@@ -967,10 +1063,13 @@
         {
           "char": "gran_mari",
           "emotion": "calm",
-          "text": "First, the ball. Watch the water."
+          "text": "First, the ball. Watch the water.",
+          "file": "episodes/E04/audio/E04-S038_L1.wav",
+          "length": 4.69,
+          "start": 0.5
         }
       ],
-      "duration": 4.11,
+      "duration": 6.19,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [],
@@ -993,15 +1092,21 @@
         {
           "char": "ollie",
           "emotion": "surprised",
-          "text": "The ball sinks!"
+          "text": "The ball sinks!",
+          "file": "episodes/E04/audio/E04-S039_L1.wav",
+          "length": 2.63,
+          "start": 0.5
         },
         {
           "char": "gran_mari",
           "emotion": "calm",
-          "text": "Now the boat. Same foil, same weight."
+          "text": "Now the boat. Same foil, same weight.",
+          "file": "episodes/E04/audio/E04-S039_L2.wav",
+          "length": 6.67,
+          "start": 3.53
         }
       ],
-      "duration": 6.45,
+      "duration": 11.2,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [],
@@ -1024,15 +1129,21 @@
         {
           "char": "pip",
           "emotion": "surprised",
-          "text": "The boat floats!"
+          "text": "The boat floats!",
+          "file": "episodes/E04/audio/E04-S040_L1.wav",
+          "length": 2.3,
+          "start": 0.5
         },
         {
           "char": "gran_mari",
           "emotion": "happy",
-          "text": "The wide boat pushes a lot of water aside. The water pushes back up and holds it. The small ball pushes only a little, so it sinks."
+          "text": "The wide boat pushes a lot of water aside. The water pushes back up and holds it. The small ball pushes only a little, so it sinks.",
+          "file": "episodes/E04/audio/E04-S040_L2.wav",
+          "length": 15.05,
+          "start": 3.2
         }
       ],
-      "duration": 14.14,
+      "duration": 19.25,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [],
@@ -1058,20 +1169,29 @@
         {
           "char": "gus",
           "emotion": "curious",
-          "text": "So my clay needed to be flat and wide?"
+          "text": "So my clay needed to be flat and wide?",
+          "file": "episodes/E04/audio/E04-S041_L1.wav",
+          "length": 2.33,
+          "start": 0.5
         },
         {
           "char": "gran_mari",
           "emotion": "curious",
-          "text": "Well now, what do you think happens next?"
+          "text": "Well now, what do you think happens next?",
+          "file": "episodes/E04/audio/E04-S041_L2.wav",
+          "length": 5.63,
+          "start": 3.23
         },
         {
           "char": "ollie",
           "emotion": "curious",
-          "text": "If we flatten the clay, it will float!"
+          "text": "If we flatten the clay, it will float!",
+          "file": "episodes/E04/audio/E04-S041_L3.wav",
+          "length": 3.5,
+          "start": 9.26
         }
       ],
-      "duration": 13.02,
+      "duration": 13.76,
       "music_mood": "cozy",
       "luna_glow": "sparkle",
       "tags": [
@@ -1114,10 +1234,13 @@
         {
           "char": "gran_mari",
           "emotion": "calm",
-          "text": "Too much on one side, and it tips. Not a mistake, just something to learn. So we try again."
+          "text": "Too much on one side, and it tips. Not a mistake, just something to learn. So we try again.",
+          "file": "episodes/E04/audio/E04-S043_L1.wav",
+          "length": 11.52,
+          "start": 0.5
         }
       ],
-      "duration": 9.11,
+      "duration": 13.02,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [
@@ -1162,10 +1285,13 @@
         {
           "char": "ollie",
           "emotion": "happy",
-          "text": "Try it at home! Fill a sink with water. Squeeze one piece of foil into a ball. Fold another into a wide boat."
+          "text": "Try it at home! Fill a sink with water. Squeeze one piece of foil into a ball. Fold another into a wide boat.",
+          "file": "episodes/E04/audio/E04-S045_L1.wav",
+          "length": 11.68,
+          "start": 0.5
         }
       ],
-      "duration": 10.65,
+      "duration": 13.18,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [
@@ -1189,10 +1315,13 @@
         {
           "char": "ollie",
           "emotion": "excited",
-          "text": "Set them on the water. The ball sinks. The boat floats! Add a few stones, one at a time."
+          "text": "Set them on the water. The ball sinks. The boat floats! Add a few stones, one at a time.",
+          "file": "episodes/E04/audio/E04-S046_L1.wav",
+          "length": 9.32,
+          "start": 0.5
         }
       ],
-      "duration": 9.11,
+      "duration": 10.82,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [
@@ -1236,17 +1365,26 @@
         {
           "char": "gus",
           "emotion": "sorry",
-          "text": "Wait, before we go. I fibbed. My boat sank, and I said it was a submarine."
+          "text": "Wait, before we go. I fibbed. My boat sank, and I said it was a submarine.",
+          "file": "episodes/E04/audio/E04-S048_L1.wav",
+          "length": 5.44,
+          "start": 0.5
         },
         {
           "char": "gus",
           "emotion": "sorry",
-          "text": "I'm sorry I said I meant to. I just wanted to be fast."
+          "text": "I'm sorry I said I meant to. I just wanted to be fast.",
+          "file": "episodes/E04/audio/E04-S048_L2.wav",
+          "length": 3.54,
+          "start": 6.34
         },
         {
           "char": "ollie",
           "emotion": "happy",
-          "text": "Thanks for telling us the truth, Gus."
+          "text": "Thanks for telling us the truth, Gus.",
+          "file": "episodes/E04/audio/E04-S048_L3.wav",
+          "length": 3.37,
+          "start": 10.28
         }
       ],
       "duration": 17.25,
@@ -1271,7 +1409,10 @@
         {
           "char": "gus",
           "emotion": "surprised",
-          "text": "It floats! My lump is a boat after all!"
+          "text": "It floats! My lump is a boat after all!",
+          "file": "episodes/E04/audio/E04-S049_L1.wav",
+          "length": 3.15,
+          "start": 0.5
         }
       ],
       "duration": 5.26,
@@ -1296,7 +1437,10 @@
         {
           "char": "pip",
           "emotion": "worried",
-          "text": "What if it tips again?"
+          "text": "What if it tips again?",
+          "file": "episodes/E04/audio/E04-S050_L1.wav",
+          "length": 1.8,
+          "start": 0.5
         }
       ],
       "duration": 4.0,
@@ -1322,7 +1466,10 @@
         {
           "char": "bean",
           "emotion": "happy",
-          "text": "Try!"
+          "text": "Try!",
+          "file": "episodes/E04/audio/E04-S051_L1.wav",
+          "length": 2.03,
+          "start": 0.5
         }
       ],
       "duration": 4.0,
@@ -1370,7 +1517,10 @@
         {
           "char": "pip",
           "emotion": "proud",
-          "text": "I did it! I tried again, and it floated!"
+          "text": "I did it! I tried again, and it floated!",
+          "file": "episodes/E04/audio/E04-S053_L1.wav",
+          "length": 3.39,
+          "start": 0.5
         }
       ],
       "duration": 6.0,
@@ -1397,15 +1547,21 @@
         {
           "char": "ollie",
           "emotion": "happy",
-          "text": "Can I ride along, Pip? You're the captain."
+          "text": "Can I ride along, Pip? You're the captain.",
+          "file": "episodes/E04/audio/E04-S054_L1.wav",
+          "length": 6.16,
+          "start": 0.5
         },
         {
           "char": "pip",
           "emotion": "happy",
-          "text": "Yes! Hop aboard, first mate."
+          "text": "Yes! Hop aboard, first mate.",
+          "file": "episodes/E04/audio/E04-S054_L2.wav",
+          "length": 3.97,
+          "start": 7.06
         }
       ],
-      "duration": 7.6,
+      "duration": 12.03,
       "music_mood": "triumph",
       "luna_glow": null,
       "tags": [],
@@ -1430,10 +1586,13 @@
         {
           "char": "ollie",
           "emotion": "happy",
-          "text": "Time for my Wonder Pocket! Three things we learned."
+          "text": "Time for my Wonder Pocket! Three things we learned.",
+          "file": "episodes/E04/audio/E04-S055_L1.wav",
+          "length": 5.39,
+          "start": 0.5
         }
       ],
-      "duration": 5.26,
+      "duration": 6.89,
       "music_mood": "cozy",
       "luna_glow": "bright",
       "tags": [],
@@ -1474,10 +1633,13 @@
         {
           "char": "ollie",
           "emotion": "happy",
-          "text": "One. A wide, light boat pushes the water aside and floats."
+          "text": "One. A wide, light boat pushes the water aside and floats.",
+          "file": "episodes/E04/audio/E04-S057_L1.wav",
+          "length": 6.17,
+          "start": 0.5
         }
       ],
-      "duration": 6.03,
+      "duration": 7.67,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [],
@@ -1499,10 +1661,13 @@
         {
           "char": "ollie",
           "emotion": "happy",
-          "text": "Two. A small, heavy lump pushes less water and sinks."
+          "text": "Two. A small, heavy lump pushes less water and sinks.",
+          "file": "episodes/E04/audio/E04-S058_L1.wav",
+          "length": 5.39,
+          "start": 0.5
         }
       ],
-      "duration": 5.65,
+      "duration": 6.89,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [],
@@ -1524,10 +1689,13 @@
         {
           "char": "ollie",
           "emotion": "proud",
-          "text": "Three. If a boat tips over, we can try again."
+          "text": "Three. If a boat tips over, we can try again.",
+          "file": "episodes/E04/audio/E04-S059_L1.wav",
+          "length": 5.77,
+          "start": 0.5
         }
       ],
-      "duration": 5.65,
+      "duration": 7.27,
       "music_mood": "cozy",
       "luna_glow": null,
       "tags": [],
@@ -1550,7 +1718,10 @@
         {
           "char": "ollie",
           "emotion": "happy",
-          "text": "And one kind thing to try today. Cheer on a friend who tries again."
+          "text": "And one kind thing to try today. Cheer on a friend who tries again.",
+          "file": "episodes/E04/audio/E04-S060_L1.wav",
+          "length": 4.39,
+          "start": 0.5
         }
       ],
       "duration": 7.18,
@@ -1579,10 +1750,13 @@
         {
           "char": "gus",
           "emotion": "happy",
-          "text": "Bye, everybody! Next time, I'll try the careful way too!"
+          "text": "Bye, everybody! Next time, I'll try the careful way too!",
+          "file": "episodes/E04/audio/E04-S061_L1.wav",
+          "length": 4.84,
+          "start": 0.5
         }
       ],
-      "duration": 5.65,
+      "duration": 6.34,
       "music_mood": "cozy",
       "luna_glow": "sparkle",
       "tags": [],

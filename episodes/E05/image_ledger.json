@@ -82,5 +82,205 @@
   "cost": 2,
   "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_061450_f670e8ba-e57d-4f5d-a6a4-4f2d2456e0e3.png",
   "reused_from": "E01-S059"
+ },
+ "E05-S060": {
+  "job": "bd19f3a3-caed-48e4-b08c-443e69e76ae6",
+  "attempt": 2,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_061450_bd19f3a3-caed-48e4-b08c-443e69e76ae6.png",
+  "reused_from": "E01-S060"
+ },
+ "E05-S061": {
+  "job": "7e54ef11-c529-4095-b3f6-55cb1dc6f712",
+  "attempt": 2,
+  "cost": 2,
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261026_061450_7e54ef11-c529-4095-b3f6-55cb1dc6f712.png",
+  "reused_from": "E01-S061"
+ },
+ "E05-S001": {
+  "job": "162aa7c7-6d4e-4424-ae50-2f531d2e488b",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261027_014228_162aa7c7-6d4e-4424-ae50-2f531d2e488b.png",
+  "attempt": 1,
+  "cost": 2
+ },
+ "E05-S002": {
+  "job": "399a57a3-148f-4cdc-b0c1-766ca7694a2c",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261027_014228_399a57a3-148f-4cdc-b0c1-766ca7694a2c.png",
+  "attempt": 1,
+  "cost": 2
+ },
+ "E05-S003": {
+  "job": "88e74246-3e5f-46bf-96fe-e7dc79528f35",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261027_014228_88e74246-3e5f-46bf-96fe-e7dc79528f35.png",
+  "attempt": 1,
+  "cost": 2
+ },
+ "E05-S004": {
+  "job": "98085372-59e2-485c-9986-a35d8b777e2c",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261027_014228_98085372-59e2-485c-9986-a35d8b777e2c.png",
+  "attempt": 1,
+  "cost": 2
+ },
+ "E05-S005": {
+  "job": "4248d256-e113-4496-a3df-f59a4980b25b",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261027_014340_4248d256-e113-4496-a3df-f59a4980b25b.png",
+  "attempt": 1,
+  "cost": 2
+ },
+ "E05-S006": {
+  "job": "57b7e46f-c71a-4ded-bb8e-8accd297fadb",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261027_014340_57b7e46f-c71a-4ded-bb8e-8accd297fadb.png",
+  "attempt": 1,
+  "cost": 2
+ },
+ "E05-S015": {
+  "job": "a3fc4650-90ca-4441-a1fc-a0292653d518",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261027_014340_a3fc4650-90ca-4441-a1fc-a0292653d518.png",
+  "attempt": 1,
+  "cost": 2
+ },
+ "E05-S016": {
+  "job": "20c1eec8-59c3-43ea-82f0-250dbfff9ff1",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261027_014340_20c1eec8-59c3-43ea-82f0-250dbfff9ff1.png",
+  "attempt": 1,
+  "cost": 2
+ },
+ "E05-S017": {
+  "job": "09616de2-39be-4829-8a4e-31368c9278d1",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261027_014500_09616de2-39be-4829-8a4e-31368c9278d1.png",
+  "attempt": 1,
+  "cost": 2
+ },
+ "E05-S018": {
+  "job": "709cdf1e-27db-4d9e-b3d6-266136046fc1",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261027_014459_709cdf1e-27db-4d9e-b3d6-266136046fc1.png",
+  "attempt": 1,
+  "cost": 2
+ },
+ "E05-S019": {
+  "job": "d4e32845-70f0-4962-abc5-67f708b2bfb5",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261027_014459_d4e32845-70f0-4962-abc5-67f708b2bfb5.png",
+  "attempt": 1,
+  "cost": 2
+ },
+ "E05-S021": {
+  "job": "6fadc159-f050-4f8a-82a0-56a8c0133ba2",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261027_014459_6fadc159-f050-4f8a-82a0-56a8c0133ba2.png",
+  "attempt": 1,
+  "cost": 2
+ },
+ "E05-S022": {
+  "job": "01d6baa6-7e3c-442c-8603-9fdfe3c2f7c6",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261027_014607_01d6baa6-7e3c-442c-8603-9fdfe3c2f7c6.png",
+  "attempt": 1,
+  "cost": 2
+ },
+ "E05-S023": {
+  "job": "3d246e23-16fa-4be0-ae64-bf3d9bfd0b29",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261027_014606_3d246e23-16fa-4be0-ae64-bf3d9bfd0b29.png",
+  "attempt": 1,
+  "cost": 2
+ },
+ "E05-S024": {
+  "job": "0ce4ae98-a3b8-4b7b-a10a-26b71cb72843",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261027_014607_0ce4ae98-a3b8-4b7b-a10a-26b71cb72843.png",
+  "attempt": 1,
+  "cost": 2
+ },
+ "E05-S025": {
+  "job": "28109028-97a7-49c5-bde6-f4260bee5eb0",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261027_014606_28109028-97a7-49c5-bde6-f4260bee5eb0.png",
+  "attempt": 1,
+  "cost": 2
+ },
+ "E05-S026": {
+  "job": "c8aba9fa-6d71-4b2c-902a-3d376baa8af5",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261027_014828_c8aba9fa-6d71-4b2c-902a-3d376baa8af5.png",
+  "attempt": 1,
+  "cost": 2
+ },
+ "E05-S028": {
+  "job": "c8235438-a5b8-42c9-bfd4-5f42700b00e6",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261027_014828_c8235438-a5b8-42c9-bfd4-5f42700b00e6.png",
+  "attempt": 1,
+  "cost": 2
+ },
+ "E05-S030": {
+  "job": "2d08c44a-8a4c-4594-84eb-531e45e8ffda",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261027_014828_2d08c44a-8a4c-4594-84eb-531e45e8ffda.png",
+  "attempt": 1,
+  "cost": 2
+ },
+ "E05-S029": {
+  "job": "1edbe33e-8e89-46db-951d-6b40d46747a4",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261027_014828_1edbe33e-8e89-46db-951d-6b40d46747a4.png",
+  "attempt": 1,
+  "cost": 2
+ },
+ "E05-S032": {
+  "job": "7a1b91d8-8a21-4d09-9ea9-2cdc2c382c62",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261027_015031_7a1b91d8-8a21-4d09-9ea9-2cdc2c382c62.png",
+  "attempt": 1,
+  "cost": 2
+ },
+ "E05-S034": {
+  "job": "c319e1ae-682c-469d-9563-dec688edd34d",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261027_015031_c319e1ae-682c-469d-9563-dec688edd34d.png",
+  "attempt": 1,
+  "cost": 2
+ },
+ "E05-S031": {
+  "job": "1cb92c47-4cc9-4a42-bab6-f73e4f7a9878",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261027_015032_1cb92c47-4cc9-4a42-bab6-f73e4f7a9878.png",
+  "attempt": 1,
+  "cost": 2
+ },
+ "E05-S033": {
+  "job": "cf162ffa-2633-4825-8257-61b300bf23a8",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261027_015033_cf162ffa-2633-4825-8257-61b300bf23a8.png",
+  "attempt": 1,
+  "cost": 2
+ },
+ "E05-S036": {
+  "job": "a0cf1bc2-8686-4b0f-af43-ab055b60e581",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261027_015214_a0cf1bc2-8686-4b0f-af43-ab055b60e581.png",
+  "attempt": 1,
+  "cost": 2
+ },
+ "E05-S037": {
+  "job": "e71b57c5-44c3-4941-98ba-9e8756e1f2dd",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261027_015214_e71b57c5-44c3-4941-98ba-9e8756e1f2dd.png",
+  "attempt": 1,
+  "cost": 2
+ },
+ "E05-S038": {
+  "job": "d2310229-2e43-4f4c-8dc3-1122185dc938",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261027_015214_d2310229-2e43-4f4c-8dc3-1122185dc938.png",
+  "attempt": 1,
+  "cost": 2
+ },
+ "E05-S035": {
+  "job": "d66953d1-0d8a-4f12-9f46-40740eecd183",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261027_015214_d66953d1-0d8a-4f12-9f46-40740eecd183.png",
+  "attempt": 1,
+  "cost": 2
+ },
+ "E05-S039": {
+  "job": "4f67cc4e-56db-479d-99ac-147b0ec0f404",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261027_015328_4f67cc4e-56db-479d-99ac-147b0ec0f404.png",
+  "attempt": 1,
+  "cost": 2
+ },
+ "E05-S040": {
+  "job": "43d4ebb0-c451-45b5-87b6-14db84f5b508",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261027_015328_43d4ebb0-c451-45b5-87b6-14db84f5b508.png",
+  "attempt": 1,
+  "cost": 2
+ },
+ "E05-S041": {
+  "job": "9a0bdf0f-5522-4952-b685-4dd74ce32c5c",
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_3GF0wsWv24c9iFrHaP1guTwfxH4/hf_20261027_015328_9a0bdf0f-5522-4952-b685-4dd74ce32c5c.png",
+  "attempt": 1,
+  "cost": 2
  }
 }
