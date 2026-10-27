@@ -1,6 +1,6 @@
 # STATUS (Oct 27, 2026)
 
-SCHEDULE: youtube/release_schedule.md is the single source of truth. E01-E04 and all Shorts are scheduled on YouTube (E04 long 1n-ybLnnxHs Nov 14, Shorts Nov 24/26, thumbnail set). E05 is produced but not uploaded (owner uploads in Studio, then metadata/thumbnail via vidIQ, slot Nov 21). Owner still does made-for-kids + captions .srt in Studio for E04/E05. E06+ on hold until early numbers are in.
+SCHEDULE: youtube/release_schedule.md is the single source of truth. E01-E04 and all Shorts are scheduled on YouTube (E04 long 1n-ybLnnxHs Nov 14, Shorts Nov 24/26, thumbnail set). E05 long DPN_-z9n_nw is scheduled Nov 21 with thumbnail; its two Shorts still need uploading. Owner still does made-for-kids + captions .srt in Studio for E04/E05. E06+ on hold until early numbers are in.
 
 
 ## Cost

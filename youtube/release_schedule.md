@@ -16,7 +16,7 @@ Re-check after 2-3 weeks against our own YouTube Studio "When your viewers are o
 | Sat 2026-11-14 6:00 AM | 2026-11-14 14:00Z | E04 Why do boats float? (SCHEDULED, thumbnail set) | 1n-ybLnnxHs |
 | Tue 2026-11-24 12:00 PM | 2026-11-24 20:00Z | E04 demo Short (SCHEDULED) | C31uvFPeOdg |
 | Thu 2026-11-26 12:00 PM | 2026-11-26 20:00Z | E04 Gus Short "Gus builds a boat the fast way!" (SCHEDULED, Thanksgiving) | aF04FhjZSaw |
-| Sat 2026-11-21 6:00 AM | 2026-11-21 14:00Z | E05 What does a seed need? (video produced, NOT yet uploaded) | - |
+| Sat 2026-11-21 6:00 AM | 2026-11-21 14:00Z | E05 What does a seed need? (SCHEDULED, thumbnail set) | DPN_-z9n_nw |
 | Tue 2026-12-01 12:00 PM | 2026-12-01 20:00Z | E05 demo Short (planned) | - |
 | Thu 2026-12-03 12:00 PM | 2026-12-03 20:00Z | E05 Gus Short (planned) | - |
 | Sat 2026-11-28 / 12-05 / 12-12 ... 6:00 AM | 14:00Z | E06, E07, E08 ... (scripts ready, not produced) | - |
