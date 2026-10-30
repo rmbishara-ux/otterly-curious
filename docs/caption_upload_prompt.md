@@ -2,7 +2,7 @@
 
 Task: upload English caption files to 15 videos on the Otterly Curious YouTube channel (channel ID UCCLZx9rLKy-UJBqsrL5LRaA) using my signed-in YouTube Studio in Chrome. Do not change anything else on the channel: no titles, descriptions, visibility, schedules, thumbnails or audience settings.
 
-Files are in `captions_upload/` of this repo (ryanbishara/otterly-curious). Each file is a timed .srt.
+Files are in `captions_upload/` of this repo (rmbishara-ux/otterly-curious). Each file is a timed .srt.
 
 | Video ID | Caption file |
 |---|---|
