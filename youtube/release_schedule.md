@@ -15,11 +15,13 @@ Re-check after 2-3 weeks against our own YouTube Studio "When your viewers are o
 | Thu 2026-11-19 12:00 PM | 2026-11-19 20:00Z | E03 Gus Short "My rainbow!" (SCHEDULED) | aYkIFKzwSfE |
 | Sat 2026-11-21 6:00 AM | 2026-11-21 14:00Z | E04 Why do boats float? (SCHEDULED) | YDeByIxf4H4 |
 | Tue 2026-11-24 12:00 PM | 2026-11-24 20:00Z | E04 demo Short (SCHEDULED) | EYUpZ9P5k1M |
-| Thu 2026-11-26 12:00 PM | 2026-11-26 20:00Z | E04 Gus Short "It's a submarine!" (SCHEDULED, Thanksgiving) | Wg8Nf4bCMLI |
+| Fri 2026-11-27 12:00 PM | 2026-11-27 20:00Z | E04 Gus Short "It's a submarine!" (SCHEDULED; moved off Thanksgiving) | Wg8Nf4bCMLI |
 | Sat 2026-11-28 6:00 AM | 2026-11-28 14:00Z | E05 What does a seed need? (SCHEDULED) | YG5j9xIwt_0 |
 | Tue 2026-12-01 12:00 PM | 2026-12-01 20:00Z | E05 demo Short (SCHEDULED) | yzO6weG71fQ |
 | Thu 2026-12-03 12:00 PM | 2026-12-03 20:00Z | E05 Gus Short "Is it a tree yet?" (SCHEDULED) | h00l0lnA188 |
 | Sat 2026-12-05 / 12-12 ... 6:00 AM | 14:00Z | E06, E07 ... (scripts ready, not produced) | - |
+
+Related-video links on Shorts are disabled by YouTube for made-for-kids content, so the description link is the only path from a Short to its episode.
 
 Every scheduled video has its title, description, tags, made-for-kids, custom thumbnail and script captions set. Captions show "1 Draft" in Studio until the video goes public.
 
