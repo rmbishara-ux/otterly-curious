@@ -4,7 +4,7 @@ Re-check after 2-3 weeks against our own YouTube Studio "When your viewers are o
 
 | When (Pacific) | UTC | Video | ID |
 |---|---|---|---|
-| Sat 2026-10-31 6:00 AM | 2026-10-31 13:00Z | E01 Why does the water go away? (SCHEDULED as a YouTube Premiere) | lMtzeNCWr-Q |
+| Sat 2026-10-31 10:00 AM | 2026-10-31 17:00Z | E01 Why does the water go away? (YouTube Premiere, moved from 6 AM) | lMtzeNCWr-Q |
 | Tue 2026-11-03 12:00 PM | 2026-11-03 20:00Z | E01 demo Short (SCHEDULED) | earXuRg9lpM |
 | Thu 2026-11-05 12:00 PM | 2026-11-05 20:00Z | E01 Gus Short "Splash!" (SCHEDULED) | WL5Ze8cfgX0 |
 | Sat 2026-11-07 6:00 AM | 2026-11-07 14:00Z | E02 Why do otters hold hands? (SCHEDULED) | l7amXVDOmtE |
