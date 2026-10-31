@@ -14,8 +14,8 @@ Re-check after 2-3 weeks against our own YouTube Studio "When your viewers are o
 | Tue 2026-11-17 12:00 PM | 2026-11-17 20:00Z | E03 demo Short (SCHEDULED) | BoFVYz5IQcE |
 | Thu 2026-11-19 12:00 PM | 2026-11-19 20:00Z | E03 Gus Short "My rainbow!" (SCHEDULED) | aYkIFKzwSfE |
 | Sat 2026-11-21 6:00 AM | 2026-11-21 14:00Z | E04 Why do boats float? (SCHEDULED) | YDeByIxf4H4 |
-| Tue 2026-11-24 12:00 PM | 2026-11-24 20:00Z | E04 demo Short (NOT UPLOADED YET; thumbnail ready) | - |
-| Thu 2026-11-26 12:00 PM | 2026-11-26 20:00Z | E04 Gus Short (NOT UPLOADED YET; thumbnail ready; Thanksgiving) | - |
+| Tue 2026-11-24 12:00 PM | 2026-11-24 20:00Z | E04 demo Short (SCHEDULED) | EYUpZ9P5k1M |
+| Thu 2026-11-26 12:00 PM | 2026-11-26 20:00Z | E04 Gus Short "It's a submarine!" (SCHEDULED, Thanksgiving) | Wg8Nf4bCMLI |
 | Sat 2026-11-28 6:00 AM | 2026-11-28 14:00Z | E05 What does a seed need? (SCHEDULED) | YG5j9xIwt_0 |
 | Tue 2026-12-01 12:00 PM | 2026-12-01 20:00Z | E05 demo Short (SCHEDULED) | yzO6weG71fQ |
 | Thu 2026-12-03 12:00 PM | 2026-12-03 20:00Z | E05 Gus Short "Is it a tree yet?" (SCHEDULED) | h00l0lnA188 |
