@@ -1,4 +1,4 @@
-"""Channel trailer (about 44 s) cut from approved episode footage + 2 new Ollie lines. Run: python3 channel/build_trailer.py"""
+"""Channel trailer (about 44 s) cut from approved episode footage; Ollie's three lines are lip-synced on camera (Wan 2.7, 1080p). Run: python3 channel/build_trailer.py"""
 import subprocess, sys
 from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
@@ -7,17 +7,19 @@ from pipeline.common import font_path
 W, H, FPS = 1920, 1080, 30
 T = ROOT / "channel" / "trailer"; (T / "tmp").mkdir(exist_ok=True)
 A = lambda ep, s: ROOT / "episodes" / ep / "ai" / f"{ep}-{s}.mp4"
+SILENT = lambda ep, s: (lambda b: b if b.exists() else A(ep, s))(ROOT / "episodes" / ep / "ai_silent_backup" / f"{ep}-{s}.mp4")  # music-only beat: no talking mouths
+LS = lambda name: T / "lipsync" / f"{name}.mp4"  # Ollie to camera, lip-synced to v_*.wav at the same offsets (made from lipsync/T_*.mp3)
 # (clip, seconds, overlay text or None, sub text)
 SEGS = [
-    (A("E01", "S006"), 4.5, None, None),
+    (LS("T_hi"), 4.5, None, None),
     (A("E01", "S007"), 3.0, None, None),
     (A("E01", "S009"), 3.0, None, None),
     (A("E01", "S010"), 3.0, None, None),
-    (A("E01", "S003"), 4.5, "Why does the water go away?", None),
+    (SILENT("E01", "S003"), 4.5, "Why does the water go away?", None),
     (A("E02", "S002"), 4.5, "Why do otters hold hands?", None),
     (A("E03", "S002"), 4.5, "Where does a rainbow come from?", None),
-    (A("E03", "S037"), 6.0, None, None),
-    (A("E01", "S012"), 5.0, None, None),
+    (LS("T_week"), 6.0, None, None),
+    (LS("T_find"), 5.0, None, None),
     (A("E01", "S064"), 6.0, "Otterly Curious", "A new big question every Saturday"),
 ]
 def esc(t): return t.replace("'", "’").replace(":", "\\:")
