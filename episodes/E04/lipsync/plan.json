@@ -1,0 +1,1047 @@
+[
+ {
+  "shot": "E04-S001",
+  "still": "E04-S001",
+  "img_job": "0f0652f7-1cd9-44ee-871f-6b1186d525c6",
+  "dur": 6.63,
+  "gen": 7,
+  "camera": "close",
+  "chars": [
+   "ollie",
+   "pip"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Plip! The pebble sank right to the bottom.",
+    "start": 0.5,
+    "length": 5.13
+   }
+  ]
+ },
+ {
+  "shot": "E04-S002",
+  "still": "E04-S002",
+  "img_job": "68486d2f-3f41-4c5b-b3f4-11fa959cd7ef",
+  "dur": 5.49,
+  "gen": 6,
+  "camera": "wide",
+  "chars": [
+   "ollie",
+   "pip"
+  ],
+  "lines": [
+   {
+    "char": "pip",
+    "text": "But that big boat is not sinking at all!",
+    "start": 0.5,
+    "length": 3.99
+   }
+  ]
+ },
+ {
+  "shot": "E04-S002b",
+  "still": "E04-S002",
+  "img_job": "68486d2f-3f41-4c5b-b3f4-11fa959cd7ef",
+  "dur": 7.28,
+  "gen": 8,
+  "camera": "close",
+  "chars": [
+   "ollie",
+   "pip"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "It's much bigger than the pebble, and it floats!",
+    "start": 0.5,
+    "length": 5.78
+   }
+  ]
+ },
+ {
+  "shot": "E04-S003",
+  "still": "E04-S003",
+  "img_job": "27ca248b-2aa7-4c7f-aeb4-1cb5f6d399db",
+  "dur": 5.0,
+  "gen": 5,
+  "camera": "close",
+  "chars": [
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Why do boats float?",
+    "start": 0.5,
+    "length": 1.17
+   }
+  ]
+ },
+ {
+  "shot": "E04-S004",
+  "still": "E04-S004",
+  "img_job": "bec2080f-f904-4b76-9e4d-4ab5ec792126",
+  "dur": 4.12,
+  "gen": 5,
+  "camera": "static",
+  "chars": [
+   "luna",
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Let's find out!",
+    "start": 0.5,
+    "length": 2.62
+   }
+  ]
+ },
+ {
+  "shot": "E04-S013",
+  "still": "E04-S013",
+  "img_job": "6242bba1-dee2-4492-a8c6-b13c2292463c",
+  "dur": 11.18,
+  "gen": 12,
+  "camera": "close",
+  "chars": [
+   "pip",
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "pip",
+    "text": "I want to sail! Can I make a boat?",
+    "start": 0.5,
+    "length": 4.73
+   },
+   {
+    "char": "ollie",
+    "text": "Yes! A boat of your very own!",
+    "start": 5.63,
+    "length": 4.55
+   }
+  ]
+ },
+ {
+  "shot": "E04-S014",
+  "still": "E04-S014",
+  "img_job": "3adbe5db-2dfc-42ba-b417-1ec7c49917fa",
+  "dur": 5.0,
+  "gen": 5,
+  "camera": "close",
+  "chars": [
+   "pip",
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "It's tall and shiny! Let's go launch it!",
+    "start": 0.5,
+    "length": 3.17
+   }
+  ]
+ },
+ {
+  "shot": "E04-S015",
+  "still": "E04-S015",
+  "img_job": "a6395f36-61cb-4c87-85c0-9d2570cb4b3f",
+  "dur": 5.0,
+  "gen": 5,
+  "camera": "follow",
+  "chars": [
+   "ollie",
+   "pip",
+   "bean"
+  ],
+  "lines": [
+   {
+    "char": "pip",
+    "text": "Ollie, I don't think it's ready yet!",
+    "start": 0.5,
+    "length": 1.76
+   }
+  ]
+ },
+ {
+  "shot": "E04-S016",
+  "still": "E04-S016",
+  "img_job": "64a69309-2f60-4448-9027-33c03b58aeef",
+  "dur": 7.26,
+  "gen": 8,
+  "camera": "close",
+  "chars": [
+   "ollie",
+   "pip"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Sorry, Pip. It's your boat. You tell us when.",
+    "start": 0.5,
+    "length": 5.76
+   }
+  ]
+ },
+ {
+  "shot": "E04-S018",
+  "still": "E04-S018",
+  "img_job": "91fbc655-1ffc-446a-a6f5-5634d8bd7936",
+  "dur": 5.0,
+  "gen": 5,
+  "camera": "close",
+  "chars": [
+   "pip"
+  ],
+  "lines": [
+   {
+    "char": "pip",
+    "text": "Oh no. It's tilting...",
+    "start": 0.5,
+    "length": 1.39
+   }
+  ]
+ },
+ {
+  "shot": "E04-S020",
+  "still": "E04-S020",
+  "img_job": "399fc833-4e61-4496-b93d-634759ceccb7",
+  "dur": 6.23,
+  "gen": 7,
+  "camera": "close",
+  "chars": [
+   "pip"
+  ],
+  "lines": [
+   {
+    "char": "pip",
+    "text": "My boat is no good. Maybe I should stop.",
+    "start": 0.5,
+    "length": 4.73
+   }
+  ]
+ },
+ {
+  "shot": "E04-S021",
+  "still": "E04-S021",
+  "img_job": "8f89ebcc-1d7c-426a-afe8-e4257c6ae28a",
+  "dur": 9.38,
+  "gen": 10,
+  "camera": "pan_right",
+  "chars": [
+   "gus",
+   "pip"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "Don't stop! I've got a faster way!",
+    "start": 0.5,
+    "length": 3.82
+   },
+   {
+    "char": "pip",
+    "text": "Gus, your faster ways always go wrong.",
+    "start": 4.72,
+    "length": 3.66
+   }
+  ]
+ },
+ {
+  "shot": "E04-S021b",
+  "still": "E04-S021",
+  "img_job": "8f89ebcc-1d7c-426a-afe8-e4257c6ae28a",
+  "dur": 7.35,
+  "gen": 8,
+  "camera": "close",
+  "chars": [
+   "gus",
+   "pip"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "Not this time! A boat needs to be strong. Strong like a lump of clay!",
+    "start": 0.5,
+    "length": 5.85
+   }
+  ]
+ },
+ {
+  "shot": "E04-S022",
+  "still": "E04-S021",
+  "img_job": "8f89ebcc-1d7c-426a-afe8-e4257c6ae28a",
+  "dur": 3.34,
+  "gen": 4,
+  "camera": "close",
+  "chars": [
+   "gus",
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "A lump of clay?",
+    "start": 0.5,
+    "length": 1.27
+   }
+  ]
+ },
+ {
+  "shot": "E04-S023",
+  "still": "E04-S023",
+  "img_job": "641eead1-4cb1-4e51-96ad-c5be6369d41a",
+  "dur": 5.65,
+  "gen": 6,
+  "camera": "close",
+  "chars": [
+   "gus"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "Squeeze it hard, and it's a boat in two seconds!",
+    "start": 0.5,
+    "length": 3.7
+   }
+  ]
+ },
+ {
+  "shot": "E04-S024",
+  "still": "E04-S024",
+  "img_job": "4b69fab7-57a7-4ab7-98e6-f73a45f74933",
+  "dur": 9.86,
+  "gen": 10,
+  "camera": "close",
+  "chars": [
+   "bean",
+   "luna",
+   "pip",
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "pip",
+    "text": "What if we try it the careful way?",
+    "start": 0.5,
+    "length": 1.79
+   },
+   {
+    "char": "ollie",
+    "text": "Let's watch Gus try first. Then we ask Gran Mari.",
+    "start": 2.69,
+    "length": 6.17
+   }
+  ]
+ },
+ {
+  "shot": "E04-S027",
+  "still": "E04-S027",
+  "img_job": "d8695eef-29b4-4c33-ae05-08b07381f759",
+  "dur": 5.0,
+  "gen": 5,
+  "camera": "wide",
+  "chars": [
+   "gus"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "Whoa. Where did my boat go?",
+    "start": 0.5,
+    "length": 3.5
+   }
+  ]
+ },
+ {
+  "shot": "E04-S030",
+  "still": "E04-S030",
+  "img_job": "47d168c5-56e2-4544-8be6-89674558fe2f",
+  "dur": 11.86,
+  "gen": 12,
+  "camera": "close",
+  "chars": [
+   "ollie",
+   "pip",
+   "bean",
+   "luna",
+   "gus"
+  ],
+  "lines": [
+   {
+    "char": "pip",
+    "text": "Gus, your boat sank!",
+    "start": 0.5,
+    "length": 2.65
+   },
+   {
+    "char": "gus",
+    "text": "It didn't sink! It's a submarine! I meant to do that.",
+    "start": 3.55,
+    "length": 3.86
+   },
+   {
+    "char": "ollie",
+    "text": "Do submarines fall down and stay down?",
+    "start": 7.81,
+    "length": 2.42
+   }
+  ]
+ },
+ {
+  "shot": "E04-S031",
+  "still": "E04-S030",
+  "img_job": "47d168c5-56e2-4544-8be6-89674558fe2f",
+  "dur": 4.6,
+  "gen": 5,
+  "camera": "slow_push",
+  "chars": [
+   "ollie",
+   "pip",
+   "bean",
+   "luna",
+   "gus"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "Mine does. It's the best submarine ever.",
+    "start": 0.5,
+    "length": 3.1
+   }
+  ]
+ },
+ {
+  "shot": "E04-S032",
+  "still": "E04-S032",
+  "img_job": "c959cfb7-2217-431f-9e95-7662d59edf0f",
+  "dur": 8.75,
+  "gen": 9,
+  "camera": "close",
+  "chars": [
+   "gus",
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "But a boat should float on top.",
+    "start": 0.5,
+    "length": 1.77
+   },
+   {
+    "char": "gus",
+    "text": "It's not my fault. The water was too deep!",
+    "start": 2.67,
+    "length": 3.1
+   }
+  ]
+ },
+ {
+  "shot": "E04-S033",
+  "still": "E04-S033",
+  "img_job": "a98bc41f-8b71-4f25-b6ad-52adffdb545d",
+  "dur": 4.88,
+  "gen": 5,
+  "camera": "close",
+  "chars": [
+   "pip"
+  ],
+  "lines": [
+   {
+    "char": "pip",
+    "text": "And my boat flipped over. Boats are hard.",
+    "start": 0.5,
+    "length": 2.76
+   }
+  ]
+ },
+ {
+  "shot": "E04-S034",
+  "still": "E04-S034",
+  "img_job": "97357821-4499-41f5-a8a9-0520ea585c22",
+  "dur": 6.52,
+  "gen": 7,
+  "camera": "slow_push",
+  "chars": [
+   "ollie",
+   "pip",
+   "bean"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "We need help. Let's ask Gran Mari.",
+    "start": 0.5,
+    "length": 5.02
+   }
+  ]
+ },
+ {
+  "shot": "E04-S035",
+  "still": "E04-S035",
+  "img_job": "9efc69da-ff29-4e7b-8438-3ebbd0ecaf0a",
+  "dur": 12.51,
+  "gen": 13,
+  "camera": "pan_up",
+  "chars": [
+   "gran_mari",
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "gran_mari",
+    "text": "Well now, a muddy seagull and a gloomy crab. What's all this?",
+    "start": 0.5,
+    "length": 11.01
+   }
+  ]
+ },
+ {
+  "shot": "E04-S035b",
+  "still": "E04-S035",
+  "img_job": "9efc69da-ff29-4e7b-8438-3ebbd0ecaf0a",
+  "dur": 5.66,
+  "gen": 6,
+  "camera": "close",
+  "chars": [
+   "gran_mari",
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Gran Mari, why do boats float?",
+    "start": 0.5,
+    "length": 4.16
+   }
+  ]
+ },
+ {
+  "shot": "E04-S035c",
+  "still": "E04-S035",
+  "img_job": "9efc69da-ff29-4e7b-8438-3ebbd0ecaf0a",
+  "dur": 8.64,
+  "gen": 9,
+  "camera": "close",
+  "chars": [
+   "gran_mari",
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "gran_mari",
+    "text": "Oh, that is a good question, Ollie. Let's find out together.",
+    "start": 0.5,
+    "length": 7.14
+   }
+  ]
+ },
+ {
+  "shot": "E04-S036",
+  "still": "E04-S036",
+  "img_job": "b848fb9f-8d40-4387-85ae-5b716e6f465a",
+  "dur": 11.27,
+  "gen": 12,
+  "camera": "close",
+  "chars": [
+   "gran_mari"
+  ],
+  "lines": [
+   {
+    "char": "gran_mari",
+    "text": "These are the same foil. I'll squeeze this one into a ball. I'll fold this one into a wide boat.",
+    "start": 0.5,
+    "length": 9.77
+   }
+  ]
+ },
+ {
+  "shot": "E04-S038",
+  "still": "E04-S038",
+  "img_job": "ac8d32fa-8303-4d0b-99c8-dbefe0af4a53",
+  "dur": 6.19,
+  "gen": 7,
+  "camera": "close",
+  "chars": [
+   "pip",
+   "gran_mari"
+  ],
+  "lines": [
+   {
+    "char": "gran_mari",
+    "text": "First, the ball. Watch the water.",
+    "start": 0.5,
+    "length": 4.69
+   }
+  ]
+ },
+ {
+  "shot": "E04-S039",
+  "still": "E04-S039",
+  "img_job": "0a1bb466-4e96-4c74-8eb2-bbb9099bd506",
+  "dur": 11.2,
+  "gen": 12,
+  "camera": "top_down",
+  "chars": [
+   "ollie",
+   "gran_mari"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "The ball sinks!",
+    "start": 0.5,
+    "length": 2.63
+   },
+   {
+    "char": "gran_mari",
+    "text": "Now the boat. Same foil, same weight.",
+    "start": 3.53,
+    "length": 6.67
+   }
+  ]
+ },
+ {
+  "shot": "E04-S040",
+  "still": "E04-S040",
+  "img_job": "f553db11-07d9-4a02-b20e-54d0431c96c0",
+  "dur": 3.8,
+  "gen": 4,
+  "camera": "top_down",
+  "chars": [
+   "pip",
+   "gran_mari"
+  ],
+  "lines": [
+   {
+    "char": "pip",
+    "text": "The boat floats!",
+    "start": 0.5,
+    "length": 2.3
+   }
+  ]
+ },
+ {
+  "shot": "E04-S040b",
+  "still": "E04-S040",
+  "img_job": "f553db11-07d9-4a02-b20e-54d0431c96c0",
+  "dur": 16.55,
+  "gen": 15,
+  "camera": "close",
+  "chars": [
+   "pip",
+   "gran_mari"
+  ],
+  "lines": [
+   {
+    "char": "gran_mari",
+    "text": "The wide boat pushes a lot of water aside. The water pushes back up and holds it. The small ball pushes only a little, so it sinks.",
+    "start": 0.5,
+    "length": 15.05
+   }
+  ]
+ },
+ {
+  "shot": "E04-S041",
+  "still": "E04-S041",
+  "img_job": "8f5a0000-e65c-46e5-b18a-153b51b44fd4",
+  "dur": 9.86,
+  "gen": 10,
+  "camera": "close",
+  "chars": [
+   "luna",
+   "ollie",
+   "pip",
+   "gus",
+   "gran_mari"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "So my clay needed to be flat and wide?",
+    "start": 0.5,
+    "length": 2.33
+   },
+   {
+    "char": "gran_mari",
+    "text": "Well now, what do you think happens next?",
+    "start": 3.23,
+    "length": 5.63
+   }
+  ]
+ },
+ {
+  "shot": "E04-S041b",
+  "still": "E04-S041",
+  "img_job": "8f5a0000-e65c-46e5-b18a-153b51b44fd4",
+  "dur": 5.0,
+  "gen": 5,
+  "camera": "slow_push",
+  "chars": [
+   "luna",
+   "ollie",
+   "pip",
+   "gus",
+   "gran_mari"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "If we flatten the clay, it will float!",
+    "start": 0.5,
+    "length": 3.5
+   }
+  ]
+ },
+ {
+  "shot": "E04-S043",
+  "still": "E04-S043",
+  "img_job": "c3d5c7e3-1fba-48a9-a0dd-20e6b53f3ab2",
+  "dur": 13.02,
+  "gen": 14,
+  "camera": "top_down",
+  "chars": [
+   "gran_mari"
+  ],
+  "lines": [
+   {
+    "char": "gran_mari",
+    "text": "Too much on one side, and it tips. Not a mistake, just something to learn. So we try again.",
+    "start": 0.5,
+    "length": 11.52
+   }
+  ]
+ },
+ {
+  "shot": "E04-S045",
+  "still": "E04-S045",
+  "img_job": "515f124d-7e70-4390-b93e-8688486d4f4a",
+  "dur": 13.18,
+  "gen": 14,
+  "camera": "close",
+  "chars": [
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Try it at home! Fill a sink with water. Squeeze one piece of foil into a ball. Fold another into a wide boat.",
+    "start": 0.5,
+    "length": 11.68
+   }
+  ]
+ },
+ {
+  "shot": "E04-S046",
+  "still": "E04-S046",
+  "img_job": "730d1ad6-e6aa-497d-9456-4b58c623b159",
+  "dur": 10.82,
+  "gen": 11,
+  "camera": "close",
+  "chars": [
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Set them on the water. The ball sinks. The boat floats! Add a few stones, one at a time.",
+    "start": 0.5,
+    "length": 9.32
+   }
+  ]
+ },
+ {
+  "shot": "E04-S048",
+  "still": "E04-S048",
+  "img_job": "ac7708e2-5f1e-4f2f-835a-1957677b1297",
+  "dur": 10.88,
+  "gen": 11,
+  "camera": "close",
+  "chars": [
+   "gus",
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "Wait, before we go. I fibbed. My boat sank, and I said it was a submarine.",
+    "start": 0.5,
+    "length": 5.44
+   },
+   {
+    "char": "gus",
+    "text": "I'm sorry I said I meant to. I just wanted to be fast.",
+    "start": 6.34,
+    "length": 3.54
+   }
+  ]
+ },
+ {
+  "shot": "E04-S048b",
+  "still": "E04-S048",
+  "img_job": "ac7708e2-5f1e-4f2f-835a-1957677b1297",
+  "dur": 4.87,
+  "gen": 5,
+  "camera": "slow_push",
+  "chars": [
+   "gus",
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Thanks for telling us the truth, Gus.",
+    "start": 0.5,
+    "length": 3.37
+   }
+  ]
+ },
+ {
+  "shot": "E04-S049",
+  "still": "E04-S049",
+  "img_job": "14303d25-f312-4363-b40e-faaeb5920df4",
+  "dur": 5.26,
+  "gen": 6,
+  "camera": "close",
+  "chars": [
+   "gus"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "It floats! My lump is a boat after all!",
+    "start": 0.5,
+    "length": 3.15
+   }
+  ]
+ },
+ {
+  "shot": "E04-S050",
+  "still": "E04-S050",
+  "img_job": "d1554fb6-5a46-4662-9ead-3d831945e91b",
+  "dur": 4.0,
+  "gen": 4,
+  "camera": "close",
+  "chars": [
+   "pip"
+  ],
+  "lines": [
+   {
+    "char": "pip",
+    "text": "What if it tips again?",
+    "start": 0.5,
+    "length": 1.8
+   }
+  ]
+ },
+ {
+  "shot": "E04-S051",
+  "still": "E04-S051",
+  "img_job": "857fafa5-1f12-485a-9473-6de65768d889",
+  "dur": 4.0,
+  "gen": 4,
+  "camera": "close",
+  "chars": [
+   "bean",
+   "pip"
+  ],
+  "lines": [
+   {
+    "char": "bean",
+    "text": "Try!",
+    "start": 0.5,
+    "length": 2.03
+   }
+  ]
+ },
+ {
+  "shot": "E04-S053",
+  "still": "E04-S053",
+  "img_job": "f592e4ee-7674-46b7-921d-4e6a69d1918b",
+  "dur": 6.0,
+  "gen": 6,
+  "camera": "wide",
+  "chars": [
+   "luna",
+   "ollie",
+   "pip",
+   "bean",
+   "gus"
+  ],
+  "lines": [
+   {
+    "char": "pip",
+    "text": "I did it! I tried again, and it floated!",
+    "start": 0.5,
+    "length": 3.39
+   }
+  ]
+ },
+ {
+  "shot": "E04-S054",
+  "still": "E04-S054",
+  "img_job": "01963d58-d092-4d62-99aa-3cfa0f16343c",
+  "dur": 7.66,
+  "gen": 8,
+  "camera": "close",
+  "chars": [
+   "gus",
+   "pip",
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Can I ride along, Pip? You're the captain.",
+    "start": 0.5,
+    "length": 6.16
+   }
+  ]
+ },
+ {
+  "shot": "E04-S054b",
+  "still": "E04-S054",
+  "img_job": "01963d58-d092-4d62-99aa-3cfa0f16343c",
+  "dur": 5.47,
+  "gen": 6,
+  "camera": "slow_push",
+  "chars": [
+   "gus",
+   "pip",
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "pip",
+    "text": "Yes! Hop aboard, first mate.",
+    "start": 0.5,
+    "length": 3.97
+   }
+  ]
+ },
+ {
+  "shot": "E04-S055",
+  "still": "E04-S055",
+  "img_job": "1e13c375-47a7-4c2d-aefd-29e6cf4eebb6",
+  "dur": 6.89,
+  "gen": 7,
+  "camera": "static",
+  "chars": [
+   "ollie",
+   "pip",
+   "bean",
+   "luna"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Time for my Wonder Pocket! Three things we learned.",
+    "start": 0.5,
+    "length": 5.39
+   }
+  ]
+ },
+ {
+  "shot": "E04-S057",
+  "still": "E04-S057",
+  "img_job": "4b58c03b-1d94-4fc9-9ffa-63f0618877a2",
+  "dur": 7.67,
+  "gen": 8,
+  "camera": "close",
+  "chars": [
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "One. A wide, light boat pushes the water aside and floats.",
+    "start": 0.5,
+    "length": 6.17
+   }
+  ]
+ },
+ {
+  "shot": "E04-S058",
+  "still": "E04-S058",
+  "img_job": "f670e8ba-e57d-4f5d-a6a4-4f2d2456e0e3",
+  "dur": 6.89,
+  "gen": 7,
+  "camera": "close",
+  "chars": [
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Two. A small, heavy lump pushes less water and sinks.",
+    "start": 0.5,
+    "length": 5.39
+   }
+  ]
+ },
+ {
+  "shot": "E04-S059",
+  "still": "E04-S059",
+  "img_job": "bd19f3a3-caed-48e4-b08c-443e69e76ae6",
+  "dur": 7.27,
+  "gen": 8,
+  "camera": "close",
+  "chars": [
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Three. If a boat tips over, we can try again.",
+    "start": 0.5,
+    "length": 5.77
+   }
+  ]
+ },
+ {
+  "shot": "E04-S060",
+  "still": "E04-S060",
+  "img_job": "7e54ef11-c529-4095-b3f6-55cb1dc6f712",
+  "dur": 7.18,
+  "gen": 8,
+  "camera": "close",
+  "chars": [
+   "ollie",
+   "luna"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "And one kind thing to try today. Cheer on a friend who tries again.",
+    "start": 0.5,
+    "length": 4.39
+   }
+  ]
+ },
+ {
+  "shot": "E04-S061",
+  "still": "E04-S061",
+  "img_job": "f19bc295-5c0f-4119-a164-0530d01eefe5",
+  "dur": 6.34,
+  "gen": 7,
+  "camera": "wide",
+  "chars": [
+   "ollie",
+   "pip",
+   "bean",
+   "gus",
+   "luna"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "Bye, everybody! Next time, I'll try the careful way too!",
+    "start": 0.5,
+    "length": 4.84
+   }
+  ]
+ }
+]

@@ -1,0 +1,1046 @@
+[
+ {
+  "shot": "E05-S001",
+  "still": "E05-S001",
+  "img_job": "162aa7c7-6d4e-4424-ae50-2f531d2e488b",
+  "dur": 5.18,
+  "gen": 6,
+  "camera": "static",
+  "chars": [
+   "ollie",
+   "pip"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Good morning, Pip! It's a perfect day!",
+    "start": 0.5,
+    "length": 3.68
+   }
+  ]
+ },
+ {
+  "shot": "E05-S002",
+  "still": "E05-S002",
+  "img_job": "399a57a3-148f-4cdc-b0c1-766ca7694a2c",
+  "dur": 8.37,
+  "gen": 9,
+  "camera": "pan_right",
+  "chars": [
+   "gus"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "Look what Gran Mari gave me! A job!",
+    "start": 0.5,
+    "length": 3.35
+   },
+   {
+    "char": "gus",
+    "text": "I get to look after this seed!",
+    "start": 4.25,
+    "length": 2.12
+   }
+  ]
+ },
+ {
+  "shot": "E05-S003",
+  "still": "E05-S003",
+  "img_job": "88e74246-3e5f-46bf-96fe-e7dc79528f35",
+  "dur": 7.98,
+  "gen": 8,
+  "camera": "close",
+  "chars": [
+   "ollie",
+   "pip",
+   "gus"
+  ],
+  "lines": [
+   {
+    "char": "pip",
+    "text": "It looks like a tiny rock.",
+    "start": 0.5,
+    "length": 1.83
+   },
+   {
+    "char": "ollie",
+    "text": "But it's not a rock. It's a seed!",
+    "start": 2.73,
+    "length": 3.31
+   }
+  ]
+ },
+ {
+  "shot": "E05-S005",
+  "still": "E05-S005",
+  "img_job": "4248d256-e113-4496-a3df-f59a4980b25b",
+  "dur": 5.0,
+  "gen": 5,
+  "camera": "close",
+  "chars": [
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "What does a seed need?",
+    "start": 0.5,
+    "length": 1.45
+   }
+  ]
+ },
+ {
+  "shot": "E05-S006",
+  "still": "E05-S006",
+  "img_job": "57b7e46f-c71a-4ded-bb8e-8accd297fadb",
+  "dur": 4.0,
+  "gen": 4,
+  "camera": "static",
+  "chars": [
+   "luna",
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Let's find out!",
+    "start": 0.5,
+    "length": 0.8
+   }
+  ]
+ },
+ {
+  "shot": "E05-S015",
+  "still": "E05-S015",
+  "img_job": "a3fc4650-90ca-4441-a1fc-a0292653d518",
+  "dur": 7.34,
+  "gen": 8,
+  "camera": "pan_right",
+  "chars": [
+   "ollie",
+   "pip",
+   "bean",
+   "gus"
+  ],
+  "lines": [
+   {
+    "char": "pip",
+    "text": "Where should the seed go?",
+    "start": 0.5,
+    "length": 1.26
+   },
+   {
+    "char": "ollie",
+    "text": "The dark shelf! It's closest. Quick, quick!",
+    "start": 2.16,
+    "length": 4.18
+   }
+  ]
+ },
+ {
+  "shot": "E05-S016",
+  "still": "E05-S016",
+  "img_job": "20c1eec8-59c3-43ea-82f0-250dbfff9ff1",
+  "dur": 5.0,
+  "gen": 5,
+  "camera": "close",
+  "chars": [
+   "ollie",
+   "pip"
+  ],
+  "lines": [
+   {
+    "char": "pip",
+    "text": "Ollie, you didn't ask anyone!",
+    "start": 0.5,
+    "length": 3.31
+   }
+  ]
+ },
+ {
+  "shot": "E05-S017",
+  "still": "E05-S017",
+  "img_job": "e683bb1c-6331-4266-93da-4b28a0f4fa07",
+  "dur": 6.89,
+  "gen": 7,
+  "camera": "close",
+  "chars": [
+   "ollie",
+   "bean"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Oops. I rushed again. What do you think, Bean?",
+    "start": 0.5,
+    "length": 5.39
+   }
+  ]
+ },
+ {
+  "shot": "E05-S018",
+  "still": "E05-S018",
+  "img_job": "709cdf1e-27db-4d9e-b3d6-266136046fc1",
+  "dur": 6.07,
+  "gen": 7,
+  "camera": "close",
+  "chars": [
+   "ollie",
+   "bean",
+   "luna"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Great idea, Bean! It's warm and bright here.",
+    "start": 0.5,
+    "length": 4.57
+   }
+  ]
+ },
+ {
+  "shot": "E05-S019",
+  "still": "E05-S019",
+  "img_job": "1ee826fb-c83a-4741-9ee0-d75fe0d575c5",
+  "dur": 9.78,
+  "gen": 10,
+  "camera": "close",
+  "chars": [
+   "gus",
+   "pip"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "Job done! The seed is on the sill. Time to play!",
+    "start": 0.5,
+    "length": 4.22
+   },
+   {
+    "char": "pip",
+    "text": "Doesn't a seed need more than a sill?",
+    "start": 5.12,
+    "length": 3.66
+   }
+  ]
+ },
+ {
+  "shot": "E05-S019b",
+  "still": "E05-S019",
+  "img_job": "1ee826fb-c83a-4741-9ee0-d75fe0d575c5",
+  "dur": 6.34,
+  "gen": 7,
+  "camera": "slow_push",
+  "chars": [
+   "gus",
+   "pip"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "I've got a faster way! Seeds grow all by themselves.",
+    "start": 0.5,
+    "length": 4.84
+   }
+  ]
+ },
+ {
+  "shot": "E05-S020",
+  "still": "E05-S019",
+  "img_job": "1ee826fb-c83a-4741-9ee0-d75fe0d575c5",
+  "dur": 9.52,
+  "gen": 10,
+  "camera": "slow_push",
+  "chars": [
+   "gus",
+   "pip"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "I'll check on it later. Much later!",
+    "start": 0.5,
+    "length": 3.5
+   },
+   {
+    "char": "pip",
+    "text": "What if we try the careful way? Let's ask Gran Mari.",
+    "start": 4.4,
+    "length": 3.38
+   }
+  ]
+ },
+ {
+  "shot": "E05-S021",
+  "still": "E05-S021",
+  "img_job": "6fadc159-f050-4f8a-82a0-56a8c0133ba2",
+  "dur": 5.67,
+  "gen": 6,
+  "camera": "pan_left",
+  "chars": [
+   "gus",
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Okay. We'll check on the seed tomorrow.",
+    "start": 0.5,
+    "length": 4.17
+   }
+  ]
+ },
+ {
+  "shot": "E05-S024",
+  "still": "E05-S024",
+  "img_job": "0ce4ae98-a3b8-4b7b-a10a-26b71cb72843",
+  "dur": 4.88,
+  "gen": 5,
+  "camera": "slow_push",
+  "chars": [
+   "ollie",
+   "pip",
+   "bean"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Today the seed grows! I bet it's huge!",
+    "start": 0.5,
+    "length": 2.92
+   }
+  ]
+ },
+ {
+  "shot": "E05-S025",
+  "still": "E05-S025",
+  "img_job": "28109028-97a7-49c5-bde6-f4260bee5eb0",
+  "dur": 5.29,
+  "gen": 6,
+  "camera": "close",
+  "chars": [
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "It didn't change at all!",
+    "start": 0.5,
+    "length": 3.79
+   }
+  ]
+ },
+ {
+  "shot": "E05-S026",
+  "still": "E05-S026",
+  "img_job": "c8aba9fa-6d71-4b2c-902a-3d376baa8af5",
+  "dur": 8.0,
+  "gen": 8,
+  "camera": "pan_right",
+  "chars": [
+   "gus",
+   "pip"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "Is it a tree yet? I did not forget!",
+    "start": 0.5,
+    "length": 4.22
+   },
+   {
+    "char": "pip",
+    "text": "Gus, did you give it anything to drink?",
+    "start": 5.12,
+    "length": 1.88
+   }
+  ]
+ },
+ {
+  "shot": "E05-S026b",
+  "still": "E05-S026",
+  "img_job": "c8aba9fa-6d71-4b2c-902a-3d376baa8af5",
+  "dur": 6.46,
+  "gen": 7,
+  "camera": "close",
+  "chars": [
+   "gus",
+   "pip"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "Drink? Um. Yes! Lots. It drank it all. Very fast.",
+    "start": 0.5,
+    "length": 4.96
+   }
+  ]
+ },
+ {
+  "shot": "E05-S027",
+  "still": "E05-S026",
+  "img_job": "c8aba9fa-6d71-4b2c-902a-3d376baa8af5",
+  "dur": 11.29,
+  "gen": 12,
+  "camera": "close",
+  "chars": [
+   "gus",
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "But the jar is dry, Gus.",
+    "start": 0.5,
+    "length": 4.54
+   },
+   {
+    "char": "gus",
+    "text": "That's just its dry look! Very fashionable!",
+    "start": 5.44,
+    "length": 4.85
+   }
+  ]
+ },
+ {
+  "shot": "E05-S028",
+  "still": "E05-S028",
+  "img_job": "c8235438-a5b8-42c9-bfd4-5f42700b00e6",
+  "dur": 6.03,
+  "gen": 7,
+  "camera": "close",
+  "chars": [
+   "gus"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "Seeds like it warm! I'll hatch it!",
+    "start": 0.5,
+    "length": 4.53
+   }
+  ]
+ },
+ {
+  "shot": "E05-S030",
+  "still": "E05-S030",
+  "img_job": "2d08c44a-8a4c-4594-84eb-531e45e8ffda",
+  "dur": 6.0,
+  "gen": 6,
+  "camera": "wide",
+  "chars": [
+   "gus"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "Whoa! I'm fine! I meant to do that!",
+    "start": 0.5,
+    "length": 3.5
+   }
+  ]
+ },
+ {
+  "shot": "E05-S031",
+  "still": "E05-S031",
+  "img_job": "1cb92c47-4cc9-4a42-bab6-f73e4f7a9878",
+  "dur": 9.52,
+  "gen": 10,
+  "camera": "close",
+  "chars": [
+   "pip",
+   "ollie",
+   "bean",
+   "luna",
+   "gus"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Gus, what does a seed really need?",
+    "start": 0.5,
+    "length": 2.4
+   },
+   {
+    "char": "gus",
+    "text": "I don't know. Seeds are small. How hard can it be?",
+    "start": 3.3,
+    "length": 4.53
+   }
+  ]
+ },
+ {
+  "shot": "E05-S033",
+  "still": "E05-S033",
+  "img_job": "cf162ffa-2633-4825-8257-61b300bf23a8",
+  "dur": 5.0,
+  "gen": 5,
+  "camera": "close",
+  "chars": [
+   "gus",
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "We need help. Let's ask Gran Mari.",
+    "start": 0.5,
+    "length": 3.13
+   }
+  ]
+ },
+ {
+  "shot": "E05-S034",
+  "still": "E05-S034",
+  "img_job": "c319e1ae-682c-469d-9563-dec688edd34d",
+  "dur": 11.59,
+  "gen": 12,
+  "camera": "pan_up",
+  "chars": [
+   "gran_mari",
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "gran_mari",
+    "text": "Well now, a yarny seagull and a puzzled otter. What's all this?",
+    "start": 0.5,
+    "length": 10.09
+   }
+  ]
+ },
+ {
+  "shot": "E05-S034b",
+  "still": "E05-S034",
+  "img_job": "c319e1ae-682c-469d-9563-dec688edd34d",
+  "dur": 5.67,
+  "gen": 6,
+  "camera": "close",
+  "chars": [
+   "gran_mari",
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Gran Mari, what does a seed need?",
+    "start": 0.5,
+    "length": 4.17
+   }
+  ]
+ },
+ {
+  "shot": "E05-S034c",
+  "still": "E05-S034",
+  "img_job": "c319e1ae-682c-469d-9563-dec688edd34d",
+  "dur": 11.61,
+  "gen": 12,
+  "camera": "close",
+  "chars": [
+   "gran_mari",
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "gran_mari",
+    "text": "Oh, that is a good question, Ollie. Let's find out together.",
+    "start": 0.5,
+    "length": 10.11
+   }
+  ]
+ },
+ {
+  "shot": "E05-S036",
+  "still": "E05-S036",
+  "img_job": "a0cf1bc2-8686-4b0f-af43-ab055b60e581",
+  "dur": 9.12,
+  "gen": 10,
+  "camera": "top_down",
+  "chars": [
+   "gran_mari"
+  ],
+  "lines": [
+   {
+    "char": "gran_mari",
+    "text": "I set these up last week. Same seeds, same sunny window.",
+    "start": 0.5,
+    "length": 7.62
+   }
+  ]
+ },
+ {
+  "shot": "E05-S036b",
+  "still": "E05-S036",
+  "img_job": "a0cf1bc2-8686-4b0f-af43-ab055b60e581",
+  "dur": 7.24,
+  "gen": 8,
+  "camera": "close",
+  "chars": [
+   "gran_mari"
+  ],
+  "lines": [
+   {
+    "char": "gran_mari",
+    "text": "Only one thing is different. The towel.",
+    "start": 0.5,
+    "length": 5.74
+   }
+  ]
+ },
+ {
+  "shot": "E05-S037",
+  "still": "E05-S037",
+  "img_job": "e71b57c5-44c3-4941-98ba-9e8756e1f2dd",
+  "dur": 4.11,
+  "gen": 5,
+  "camera": "close",
+  "chars": [
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "That looks just like our seed.",
+    "start": 0.5,
+    "length": 1.8
+   }
+  ]
+ },
+ {
+  "shot": "E05-S038",
+  "still": "E05-S038",
+  "img_job": "d2310229-2e43-4f4c-8dc3-1122185dc938",
+  "dur": 2.95,
+  "gen": 3,
+  "camera": "close",
+  "chars": [
+   "pip",
+   "gran_mari"
+  ],
+  "lines": [
+   {
+    "char": "pip",
+    "text": "This one is waking up!",
+    "start": 0.5,
+    "length": 1.45
+   }
+  ]
+ },
+ {
+  "shot": "E05-S038b",
+  "still": "E05-S038",
+  "img_job": "d2310229-2e43-4f4c-8dc3-1122185dc938",
+  "dur": 13.02,
+  "gen": 14,
+  "camera": "slow_push",
+  "chars": [
+   "pip",
+   "gran_mari"
+  ],
+  "lines": [
+   {
+    "char": "gran_mari",
+    "text": "Water wakes a seed up. A warm spot helps too. Then the green shoot reaches for the light.",
+    "start": 0.5,
+    "length": 11.52
+   }
+  ]
+ },
+ {
+  "shot": "E05-S039",
+  "still": "E05-S039",
+  "img_job": "4f67cc4e-56db-479d-99ac-147b0ec0f404",
+  "dur": 5.0,
+  "gen": 5,
+  "camera": "close",
+  "chars": [
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "It's growing toward the sun!",
+    "start": 0.5,
+    "length": 1.84
+   }
+  ]
+ },
+ {
+  "shot": "E05-S040",
+  "still": "E05-S040",
+  "img_job": "43d4ebb0-c451-45b5-87b6-14db84f5b508",
+  "dur": 7.72,
+  "gen": 8,
+  "camera": "top_down",
+  "chars": [
+   "gran_mari",
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "gran_mari",
+    "text": "Well now, what do you think happens next?",
+    "start": 0.5,
+    "length": 6.22
+   }
+  ]
+ },
+ {
+  "shot": "E05-S040b",
+  "still": "E05-S040",
+  "img_job": "43d4ebb0-c451-45b5-87b6-14db84f5b508",
+  "dur": 7.68,
+  "gen": 8,
+  "camera": "close",
+  "chars": [
+   "gran_mari",
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "The seed wakes up! But not right away.",
+    "start": 0.5,
+    "length": 6.18
+   }
+  ]
+ },
+ {
+  "shot": "E05-S040c",
+  "still": "E05-S040",
+  "img_job": "43d4ebb0-c451-45b5-87b6-14db84f5b508",
+  "dur": 9.13,
+  "gen": 10,
+  "camera": "close",
+  "chars": [
+   "gran_mari",
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "gran_mari",
+    "text": "Right. A seed takes time. It can't be hurried.",
+    "start": 0.5,
+    "length": 7.63
+   }
+  ]
+ },
+ {
+  "shot": "E05-S043",
+  "still": "E05-S043",
+  "img_job": "827a123d-6e58-415e-8c62-d906b51bd6b2",
+  "dur": 10.17,
+  "gen": 11,
+  "camera": "close",
+  "chars": [
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Try it at home! Ask a grown-up to help you.",
+    "start": 0.5,
+    "length": 3.95
+   },
+   {
+    "char": "ollie",
+    "text": "Wet a paper towel and fold it. Put it in a clear bag with a bean.",
+    "start": 4.85,
+    "length": 4.32
+   }
+  ]
+ },
+ {
+  "shot": "E05-S043b",
+  "still": "E05-S043",
+  "img_job": "827a123d-6e58-415e-8c62-d906b51bd6b2",
+  "dur": 5.46,
+  "gen": 6,
+  "camera": "slow_push",
+  "chars": [
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Tape the bag to a sunny window. Check it every day.",
+    "start": 0.5,
+    "length": 3.96
+   }
+  ]
+ },
+ {
+  "shot": "E05-S044",
+  "still": "E05-S044",
+  "img_job": "78dfc5ad-a309-47bc-91ae-19c111c72e70",
+  "dur": 11.58,
+  "gen": 12,
+  "camera": "close",
+  "chars": [
+   "gus",
+   "ollie",
+   "pip",
+   "bean"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "I have to say something. I fibbed.",
+    "start": 0.5,
+    "length": 3.53
+   },
+   {
+    "char": "gus",
+    "text": "I said it drank lots. It didn't. I forgot all about it.",
+    "start": 4.43,
+    "length": 6.15
+   }
+  ]
+ },
+ {
+  "shot": "E05-S044b",
+  "still": "E05-S044",
+  "img_job": "78dfc5ad-a309-47bc-91ae-19c111c72e70",
+  "dur": 3.06,
+  "gen": 4,
+  "camera": "slow_push",
+  "chars": [
+   "gus",
+   "ollie",
+   "pip",
+   "bean"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Thanks for telling us, Gus.",
+    "start": 0.5,
+    "length": 1.56
+   }
+  ]
+ },
+ {
+  "shot": "E05-S047",
+  "still": "E05-S047",
+  "img_job": "93c107db-992b-4a01-8a3c-82bb843415a8",
+  "dur": 6.7,
+  "gen": 7,
+  "camera": "close",
+  "chars": [
+   "gus"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "One shell for every day I check. That's my job.",
+    "start": 0.5,
+    "length": 5.2
+   }
+  ]
+ },
+ {
+  "shot": "E05-S049",
+  "still": "E05-S049",
+  "img_job": "d49700bb-16c5-460e-bb66-490abe40522f",
+  "dur": 4.0,
+  "gen": 4,
+  "camera": "wide",
+  "chars": [
+   "gus",
+   "bean"
+  ],
+  "lines": [
+   {
+    "char": "bean",
+    "text": "Water!",
+    "start": 0.5,
+    "length": 2.03
+   }
+  ]
+ },
+ {
+  "shot": "E05-S050",
+  "still": "E05-S050",
+  "img_job": "d2fee740-ca7f-4456-b5b6-eca1c1f9d563",
+  "dur": 5.32,
+  "gen": 6,
+  "camera": "close",
+  "chars": [
+   "gus",
+   "bean"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "You're right, Bean! I almost forgot again!",
+    "start": 0.5,
+    "length": 3.82
+   }
+  ]
+ },
+ {
+  "shot": "E05-S053",
+  "still": "E05-S053",
+  "img_job": "48d8666a-f308-44f5-bd87-2909fff378b1",
+  "dur": 6.0,
+  "gen": 6,
+  "camera": "close",
+  "chars": [
+   "gus"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "It's growing! It's really growing!",
+    "start": 0.5,
+    "length": 2.98
+   }
+  ]
+ },
+ {
+  "shot": "E05-S054",
+  "still": "E05-S054",
+  "img_job": "07fe8cda-860f-4a7c-8ee2-4d7987581d06",
+  "dur": 5.49,
+  "gen": 6,
+  "camera": "wide",
+  "chars": [
+   "luna",
+   "ollie",
+   "pip",
+   "bean",
+   "gus"
+  ],
+  "lines": [
+   {
+    "char": "pip",
+    "text": "Look! A tiny green hat on a seed!",
+    "start": 0.5,
+    "length": 3.99
+   }
+  ]
+ },
+ {
+  "shot": "E05-S057",
+  "still": "E05-S057",
+  "img_job": "2d66d4c6-541e-4508-91b1-a0eebe57d330",
+  "dur": 5.28,
+  "gen": 6,
+  "camera": "static",
+  "chars": [
+   "ollie",
+   "pip",
+   "bean",
+   "luna"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Time for my Wonder Pocket! Three things we learned.",
+    "start": 0.5,
+    "length": 3.78
+   }
+  ]
+ },
+ {
+  "shot": "E05-S058",
+  "still": "E05-S058",
+  "img_job": "4b58c03b-1d94-4fc9-9ffa-63f0618877a2",
+  "dur": 6.89,
+  "gen": 7,
+  "camera": "close",
+  "chars": [
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "One. A seed needs water to wake up.",
+    "start": 0.5,
+    "length": 5.39
+   }
+  ]
+ },
+ {
+  "shot": "E05-S059",
+  "still": "E05-S059",
+  "img_job": "f670e8ba-e57d-4f5d-a6a4-4f2d2456e0e3",
+  "dur": 5.21,
+  "gen": 6,
+  "camera": "close",
+  "chars": [
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Two. A warm, sunny spot helps it grow.",
+    "start": 0.5,
+    "length": 3.71
+   }
+  ]
+ },
+ {
+  "shot": "E05-S060",
+  "still": "E05-S060",
+  "img_job": "bd19f3a3-caed-48e4-b08c-443e69e76ae6",
+  "dur": 7.26,
+  "gen": 8,
+  "camera": "close",
+  "chars": [
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Three. A seed needs time. We can't hurry it.",
+    "start": 0.5,
+    "length": 5.76
+   }
+  ]
+ },
+ {
+  "shot": "E05-S061",
+  "still": "E05-S061",
+  "img_job": "7e54ef11-c529-4095-b3f6-55cb1dc6f712",
+  "dur": 7.18,
+  "gen": 8,
+  "camera": "close",
+  "chars": [
+   "ollie",
+   "luna"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "And one kind thing to try today. Look after something small. Give it water!",
+    "start": 0.5,
+    "length": 4.85
+   }
+  ]
+ },
+ {
+  "shot": "E05-S062",
+  "still": "E05-S062",
+  "img_job": "f2bca9fb-1191-4bf4-9d9d-7cec0cc01402",
+  "dur": 4.88,
+  "gen": 5,
+  "camera": "wide",
+  "chars": [
+   "ollie",
+   "pip",
+   "bean",
+   "gus",
+   "luna"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "Bye, everybody! I'm off to water my seed!",
+    "start": 0.5,
+    "length": 2.98
+   }
+  ]
+ }
+]

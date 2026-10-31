@@ -1,0 +1,926 @@
+[
+ {
+  "shot": "E02-S001",
+  "still": "E02-S001",
+  "img_job": "62d154d4-24f8-4ce3-b048-301fe2baade8",
+  "dur": 5.26,
+  "gen": 6,
+  "camera": "static",
+  "chars": [
+   "ollie",
+   "pip",
+   "bean"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Good morning, Pip! The water is so calm today.",
+    "start": 0.5,
+    "length": 3.67
+   }
+  ]
+ },
+ {
+  "shot": "E02-S002",
+  "still": "E02-S002",
+  "img_job": "143e473a-36e9-4c03-b2fc-55b6658332bf",
+  "dur": 10.95,
+  "gen": 11,
+  "camera": "slow_push",
+  "chars": [
+   "ollie",
+   "pip"
+  ],
+  "lines": [
+   {
+    "char": "pip",
+    "text": "Ollie, look! They are all linked up.",
+    "start": 0.5,
+    "length": 3.66
+   },
+   {
+    "char": "ollie",
+    "text": "They're holding hands, even while they sleep!",
+    "start": 4.56,
+    "length": 5.39
+   }
+  ]
+ },
+ {
+  "shot": "E02-S003",
+  "still": "E02-S003",
+  "img_job": "31494935-45ca-4974-b420-ad31f6b1d3b6",
+  "dur": 5.0,
+  "gen": 5,
+  "camera": "close",
+  "chars": [
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Why do otters hold hands?",
+    "start": 0.5,
+    "length": 2.36
+   }
+  ]
+ },
+ {
+  "shot": "E02-S004",
+  "still": "E02-S004",
+  "img_job": "a931ad72-32f3-49ea-9d6d-d27b9210cbd7",
+  "dur": 4.12,
+  "gen": 5,
+  "camera": "static",
+  "chars": [
+   "luna",
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Let's find out!",
+    "start": 0.5,
+    "length": 2.62
+   }
+  ]
+ },
+ {
+  "shot": "E02-S013",
+  "still": "E02-S013",
+  "img_job": "64b3a11d-d7e6-4658-b2c1-272e4c490a47",
+  "dur": 10.1,
+  "gen": 11,
+  "camera": "follow",
+  "chars": [
+   "ollie",
+   "pip",
+   "bean"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Maybe they're cold! Or maybe they're best friends!",
+    "start": 0.5,
+    "length": 5.77
+   },
+   {
+    "char": "pip",
+    "text": "Ollie, I think Bean is floating away.",
+    "start": 6.67,
+    "length": 2.43
+   }
+  ]
+ },
+ {
+  "shot": "E02-S015",
+  "still": "E02-S015",
+  "img_job": "059c9eaa-1e3e-46ec-a461-3bf5eaedf545",
+  "dur": 6.88,
+  "gen": 7,
+  "camera": "close",
+  "chars": [
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Oh no. I swam off without you, Bean.",
+    "start": 0.5,
+    "length": 5.38
+   }
+  ]
+ },
+ {
+  "shot": "E02-S017",
+  "still": "E02-S017",
+  "img_job": "5f1942d6-84c5-470b-a5b5-935497900e7c",
+  "dur": 8.85,
+  "gen": 9,
+  "camera": "close",
+  "chars": [
+   "luna",
+   "ollie",
+   "bean",
+   "pip"
+  ],
+  "lines": [
+   {
+    "char": "pip",
+    "text": "Look. Now you're not drifting at all.",
+    "start": 0.5,
+    "length": 3.66
+   },
+   {
+    "char": "ollie",
+    "text": "Hmm. Is that why otters hold hands?",
+    "start": 4.56,
+    "length": 3.29
+   }
+  ]
+ },
+ {
+  "shot": "E02-S018",
+  "still": "E02-S018",
+  "img_job": "27b2eb02-4d08-4b81-bb2f-2ab3728f21b8",
+  "dur": 5.0,
+  "gen": 5,
+  "camera": "close",
+  "chars": [
+   "ollie",
+   "pip"
+  ],
+  "lines": [
+   {
+    "char": "pip",
+    "text": "Even the baby is holding on.",
+    "start": 0.5,
+    "length": 1.51
+   }
+  ]
+ },
+ {
+  "shot": "E02-S019",
+  "still": "E02-S019",
+  "img_job": "1e2db941-d788-42dd-8985-6bd9f7402880",
+  "dur": 9.69,
+  "gen": 10,
+  "camera": "pan_right",
+  "chars": [
+   "gus",
+   "pip"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "Hold hands? That sounds slow. I've got a faster way!",
+    "start": 0.5,
+    "length": 4.15
+   },
+   {
+    "char": "pip",
+    "text": "Gus, your faster ways always go wrong.",
+    "start": 5.05,
+    "length": 3.64
+   }
+  ]
+ },
+ {
+  "shot": "E02-S019b",
+  "still": "E02-S019",
+  "img_job": "1e2db941-d788-42dd-8985-6bd9f7402880",
+  "dur": 4.82,
+  "gen": 5,
+  "camera": "close",
+  "chars": [
+   "gus",
+   "pip"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "Not this time! I'll just lie down and stay right here.",
+    "start": 0.5,
+    "length": 3.32
+   }
+  ]
+ },
+ {
+  "shot": "E02-S020",
+  "still": "E02-S019",
+  "img_job": "1e2db941-d788-42dd-8985-6bd9f7402880",
+  "dur": 9.89,
+  "gen": 10,
+  "camera": "close",
+  "chars": [
+   "gus",
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "You won't hold on to anything?",
+    "start": 0.5,
+    "length": 4.17
+   },
+   {
+    "char": "gus",
+    "text": "Nope! Naps are easy. Watch me.",
+    "start": 5.07,
+    "length": 3.82
+   }
+  ]
+ },
+ {
+  "shot": "E02-S022",
+  "still": "E02-S022",
+  "img_job": "db38e8ac-ac0f-4240-aa69-ab5479a9bd23",
+  "dur": 10.29,
+  "gen": 11,
+  "camera": "close",
+  "chars": [
+   "pip",
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "pip",
+    "text": "What if we try it the careful way?",
+    "start": 0.5,
+    "length": 2.12
+   },
+   {
+    "char": "ollie",
+    "text": "Good idea, Pip. Let's watch Gus first. Then we ask Gran Mari.",
+    "start": 3.02,
+    "length": 6.18
+   }
+  ]
+ },
+ {
+  "shot": "E02-S026",
+  "still": "E02-S026",
+  "img_job": "a21a0b80-3b13-4ed0-858d-6785644d2e04",
+  "dur": 6.0,
+  "gen": 6,
+  "camera": "wide",
+  "chars": [
+   "gus",
+   "pip"
+  ],
+  "lines": [
+   {
+    "char": "pip",
+    "text": "Ollie, he's drifting away!",
+    "start": 0.5,
+    "length": 2.98
+   }
+  ]
+ },
+ {
+  "shot": "E02-S027",
+  "still": "E02-S027",
+  "img_job": "38e26c91-0197-446e-9c2b-62aba6d68a0e",
+  "dur": 5.67,
+  "gen": 6,
+  "camera": "close",
+  "chars": [
+   "ollie",
+   "pip",
+   "bean",
+   "luna"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Gus! Gus, wake up! You're floating away!",
+    "start": 0.5,
+    "length": 4.17
+   }
+  ]
+ },
+ {
+  "shot": "E02-S028",
+  "still": "E02-S028",
+  "img_job": "055accbe-8aaa-4851-b22c-8b68ea080868",
+  "dur": 5.0,
+  "gen": 5,
+  "camera": "close",
+  "chars": [
+   "gus"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "Hey! Where did everybody go?",
+    "start": 0.5,
+    "length": 3.5
+   }
+  ]
+ },
+ {
+  "shot": "E02-S029",
+  "still": "E02-S029",
+  "img_job": "054356d0-916a-416b-98a1-f1058741e9e7",
+  "dur": 11.27,
+  "gen": 12,
+  "camera": "wide",
+  "chars": [
+   "gus",
+   "ollie",
+   "pip"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Did you float away, Gus?",
+    "start": 0.5,
+    "length": 2.09
+   },
+   {
+    "char": "gus",
+    "text": "No! I went for a swim. On purpose!",
+    "start": 2.99,
+    "length": 4.22
+   },
+   {
+    "char": "pip",
+    "text": "But you were asleep.",
+    "start": 7.61,
+    "length": 2.66
+   }
+  ]
+ },
+ {
+  "shot": "E02-S030",
+  "still": "E02-S029",
+  "img_job": "054356d0-916a-416b-98a1-f1058741e9e7",
+  "dur": 6.45,
+  "gen": 7,
+  "camera": "close",
+  "chars": [
+   "gus"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "I was swimming in my sleep. Very fast. Everyone does it.",
+    "start": 0.5,
+    "length": 4.95
+   }
+  ]
+ },
+ {
+  "shot": "E02-S031",
+  "still": "E02-S031",
+  "img_job": "9d7cd7f3-bef0-4961-bf55-9dc067c60807",
+  "dur": 9.51,
+  "gen": 10,
+  "camera": "close",
+  "chars": [
+   "gus",
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "The water moved you, and nothing held you.",
+    "start": 0.5,
+    "length": 4.56
+   },
+   {
+    "char": "gus",
+    "text": "It was only a little bit. It doesn't count!",
+    "start": 5.46,
+    "length": 3.05
+   }
+  ]
+ },
+ {
+  "shot": "E02-S033",
+  "still": "E02-S033",
+  "img_job": "d7fd872d-80fb-4626-a385-a41cd0181acb",
+  "dur": 5.66,
+  "gen": 6,
+  "camera": "slow_push",
+  "chars": [
+   "ollie",
+   "pip",
+   "bean"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "We need help. Let's ask Gran Mari.",
+    "start": 0.5,
+    "length": 4.16
+   }
+  ]
+ },
+ {
+  "shot": "E02-S034",
+  "still": "E02-S034",
+  "img_job": "d26f781f-d6f3-4570-80ff-c83c2bf637b3",
+  "dur": 9.94,
+  "gen": 10,
+  "camera": "pan_up",
+  "chars": [
+   "gran_mari",
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "gran_mari",
+    "text": "Well now, a damp seagull and a worried otter. What's all this?",
+    "start": 0.5,
+    "length": 8.44
+   }
+  ]
+ },
+ {
+  "shot": "E02-S034b",
+  "still": "E02-S034",
+  "img_job": "d26f781f-d6f3-4570-80ff-c83c2bf637b3",
+  "dur": 5.67,
+  "gen": 6,
+  "camera": "close",
+  "chars": [
+   "gran_mari",
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Gran Mari, why do otters hold hands?",
+    "start": 0.5,
+    "length": 4.17
+   }
+  ]
+ },
+ {
+  "shot": "E02-S034c",
+  "still": "E02-S034",
+  "img_job": "d26f781f-d6f3-4570-80ff-c83c2bf637b3",
+  "dur": 8.63,
+  "gen": 9,
+  "camera": "close",
+  "chars": [
+   "gran_mari",
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "gran_mari",
+    "text": "Oh, that is a good question, Ollie. Let's find out together.",
+    "start": 0.5,
+    "length": 7.13
+   }
+  ]
+ },
+ {
+  "shot": "E02-S035",
+  "still": "E02-S035",
+  "img_job": "7af1fc3f-37b3-4a53-ad09-574a96e14787",
+  "dur": 9.13,
+  "gen": 10,
+  "camera": "close",
+  "chars": [
+   "gran_mari",
+   "ollie",
+   "pip"
+  ],
+  "lines": [
+   {
+    "char": "gran_mari",
+    "text": "This bowl is a pretend sea. These leaves are pretend otters.",
+    "start": 0.5,
+    "length": 7.63
+   }
+  ]
+ },
+ {
+  "shot": "E02-S036",
+  "still": "E02-S036",
+  "img_job": "a3722648-cba0-4c1f-a9f9-413df5ef9d3e",
+  "dur": 10.07,
+  "gen": 11,
+  "camera": "top_down",
+  "chars": [
+   "gran_mari"
+  ],
+  "lines": [
+   {
+    "char": "gran_mari",
+    "text": "This string is pretend paws. Watch the water, and watch closely.",
+    "start": 0.5,
+    "length": 8.57
+   }
+  ]
+ },
+ {
+  "shot": "E02-S037",
+  "still": "E02-S037",
+  "img_job": "0a8a1a24-b39d-4496-9b60-39dbcabafc8d",
+  "dur": 6.05,
+  "gen": 7,
+  "camera": "top_down",
+  "chars": [
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "They're drifting! The loose ones are drifting apart!",
+    "start": 0.5,
+    "length": 4.55
+   }
+  ]
+ },
+ {
+  "shot": "E02-S038",
+  "still": "E02-S038",
+  "img_job": "16950fd7-47ad-419a-ad21-32fdf325f16a",
+  "dur": 5.14,
+  "gen": 6,
+  "camera": "top_down",
+  "chars": [
+   "pip",
+   "gran_mari"
+  ],
+  "lines": [
+   {
+    "char": "pip",
+    "text": "The tied leaves stay together!",
+    "start": 0.5,
+    "length": 3.64
+   }
+  ]
+ },
+ {
+  "shot": "E02-S038b",
+  "still": "E02-S038",
+  "img_job": "16950fd7-47ad-419a-ad21-32fdf325f16a",
+  "dur": 11.58,
+  "gen": 12,
+  "camera": "close",
+  "chars": [
+   "pip",
+   "gran_mari"
+  ],
+  "lines": [
+   {
+    "char": "gran_mari",
+    "text": "The sea is always moving, even when the otters sleep. So they hold paws, and nothing pulls them apart.",
+    "start": 0.5,
+    "length": 10.08
+   }
+  ]
+ },
+ {
+  "shot": "E02-S039",
+  "still": "E02-S039",
+  "img_job": "787baf34-e6f6-4c28-993e-ee83319ac7e1",
+  "dur": 11.12,
+  "gen": 12,
+  "camera": "close",
+  "chars": [
+   "luna",
+   "ollie",
+   "pip",
+   "gus",
+   "gran_mari"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "So if I'd held on to something, I wouldn't have drifted?",
+    "start": 0.5,
+    "length": 3.0
+   },
+   {
+    "char": "gran_mari",
+    "text": "Well now, what do you think happens next?",
+    "start": 3.9,
+    "length": 6.22
+   }
+  ]
+ },
+ {
+  "shot": "E02-S039b",
+  "still": "E02-S039",
+  "img_job": "787baf34-e6f6-4c28-993e-ee83319ac7e1",
+  "dur": 8.04,
+  "gen": 9,
+  "camera": "slow_push",
+  "chars": [
+   "luna",
+   "ollie",
+   "pip",
+   "gus",
+   "gran_mari"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "The loose leaves keep drifting, and the tied leaves stay close!",
+    "start": 0.5,
+    "length": 6.54
+   }
+  ]
+ },
+ {
+  "shot": "E02-S042",
+  "still": "E02-S042",
+  "img_job": "c77ace27-ed92-4c49-bcc1-15e5747a3399",
+  "dur": 12.06,
+  "gen": 13,
+  "camera": "close",
+  "chars": [
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Try it at home! Fill a bowl with water. Float four leaves on it. Tie two leaves together with a soft string.",
+    "start": 0.5,
+    "length": 10.56
+   }
+  ]
+ },
+ {
+  "shot": "E02-S043",
+  "still": "E02-S043",
+  "img_job": "6cc0b1b0-dd34-4bc6-be3f-a62bfe4291b4",
+  "dur": 9.05,
+  "gen": 10,
+  "camera": "close",
+  "chars": [
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Now swirl the water gently. Watch the loose leaves drift apart. Watch the tied leaves stay together.",
+    "start": 0.5,
+    "length": 7.55
+   }
+  ]
+ },
+ {
+  "shot": "E02-S045",
+  "still": "E02-S045",
+  "img_job": "2832a97f-1fa5-4d3a-ab36-43696a637183",
+  "dur": 5.68,
+  "gen": 6,
+  "camera": "close",
+  "chars": [
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Gus, come float with us. There's room.",
+    "start": 0.5,
+    "length": 4.18
+   }
+  ]
+ },
+ {
+  "shot": "E02-S046",
+  "still": "E02-S046",
+  "img_job": "ba85a49a-cc4c-418a-a4d4-1fc92fd0aabf",
+  "dur": 12.25,
+  "gen": 13,
+  "camera": "close",
+  "chars": [
+   "gus",
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "I fibbed before. I wasn't swimming. I was drifting.",
+    "start": 0.5,
+    "length": 5.18
+   },
+   {
+    "char": "gus",
+    "text": "I'm sorry I said it didn't count.",
+    "start": 6.08,
+    "length": 1.82
+   },
+   {
+    "char": "ollie",
+    "text": "Thanks for telling us the truth, Gus.",
+    "start": 8.3,
+    "length": 2.25
+   }
+  ]
+ },
+ {
+  "shot": "E02-S050",
+  "still": "E02-S050",
+  "img_job": "99fdcaf4-1e70-47f1-8aef-3b03e23e95a3",
+  "dur": 4.0,
+  "gen": 4,
+  "camera": "close",
+  "chars": [
+   "gus",
+   "bean"
+  ],
+  "lines": [
+   {
+    "char": "bean",
+    "text": "Hold!",
+    "start": 0.5,
+    "length": 2.03
+   }
+  ]
+ },
+ {
+  "shot": "E02-S051",
+  "still": "E02-S051",
+  "img_job": "be9eb97b-0fbd-44b1-a98b-5e6b27b610d3",
+  "dur": 6.16,
+  "gen": 7,
+  "camera": "close",
+  "chars": [
+   "ollie",
+   "bean",
+   "gus"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "Phew! I'm not going anywhere. Thanks, friends.",
+    "start": 0.5,
+    "length": 4.66
+   }
+  ]
+ },
+ {
+  "shot": "E02-S052",
+  "still": "E02-S052",
+  "img_job": "8f91ea3c-202a-402e-a6e1-bfcbdb1f2175",
+  "dur": 5.0,
+  "gen": 5,
+  "camera": "wide",
+  "chars": [
+   "luna",
+   "ollie",
+   "pip",
+   "bean",
+   "gus"
+  ],
+  "lines": [
+   {
+    "char": "pip",
+    "text": "We stayed together all by ourselves.",
+    "start": 0.5,
+    "length": 2.13
+   }
+  ]
+ },
+ {
+  "shot": "E02-S054",
+  "still": "E02-S054",
+  "img_job": "53d283eb-f561-404e-ae0a-2140cfdc20a7",
+  "dur": 5.26,
+  "gen": 6,
+  "camera": "static",
+  "chars": [
+   "ollie",
+   "pip",
+   "bean",
+   "luna"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Time for my Wonder Pocket! Three things we learned.",
+    "start": 0.5,
+    "length": 3.72
+   }
+  ]
+ },
+ {
+  "shot": "E02-S056",
+  "still": "E02-S056",
+  "img_job": "934b0b75-2216-4207-a7bc-95b9cb47ac7e",
+  "dur": 6.52,
+  "gen": 7,
+  "camera": "close",
+  "chars": [
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "One. The sea is always moving, even at night.",
+    "start": 0.5,
+    "length": 5.02
+   }
+  ]
+ },
+ {
+  "shot": "E02-S057",
+  "still": "E02-S057",
+  "img_job": "edf718dc-a8d6-4e06-8056-f7ff948a5c37",
+  "dur": 6.9,
+  "gen": 7,
+  "camera": "close",
+  "chars": [
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Two. Otters hold paws so they do not drift apart.",
+    "start": 0.5,
+    "length": 5.4
+   }
+  ]
+ },
+ {
+  "shot": "E02-S058",
+  "still": "E02-S058",
+  "img_job": "f6581f11-0d92-4432-a252-0b03397efde2",
+  "dur": 5.67,
+  "gen": 6,
+  "camera": "close",
+  "chars": [
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Three. Holding on keeps friends together.",
+    "start": 0.5,
+    "length": 4.17
+   }
+  ]
+ },
+ {
+  "shot": "E02-S059",
+  "still": "E02-S059",
+  "img_job": "ef4d2acd-76f3-42ca-af89-39f2dceee1f8",
+  "dur": 6.03,
+  "gen": 7,
+  "camera": "close",
+  "chars": [
+   "ollie",
+   "luna"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "And one kind thing to try today. Hold a friend's hand.",
+    "start": 0.5,
+    "length": 4.04
+   }
+  ]
+ },
+ {
+  "shot": "E02-S060",
+  "still": "E02-S060",
+  "img_job": "91db4c70-52de-42a9-9f73-7930081aefac",
+  "dur": 6.03,
+  "gen": 7,
+  "camera": "wide",
+  "chars": [
+   "ollie",
+   "pip",
+   "bean",
+   "gus",
+   "luna"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "Bye, everybody! Next time, I'll hold on too!",
+    "start": 0.5,
+    "length": 4.53
+   }
+  ]
+ }
+]

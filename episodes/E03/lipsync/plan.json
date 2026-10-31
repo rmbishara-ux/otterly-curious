@@ -1,0 +1,1081 @@
+[
+ {
+  "shot": "E03-S001",
+  "still": "E03-S001",
+  "img_job": "788db42b-d721-475b-94cd-1945ba0b3d27",
+  "dur": 5.0,
+  "gen": 5,
+  "camera": "static",
+  "chars": [
+   "ollie",
+   "pip"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "The rain stopped! Everything is shiny, Pip!",
+    "start": 0.5,
+    "length": 2.78
+   }
+  ]
+ },
+ {
+  "shot": "E03-S002",
+  "still": "E03-S002",
+  "img_job": "2e6293d9-ad55-4acf-accd-665b8104266a",
+  "dur": 9.76,
+  "gen": 10,
+  "camera": "tilt_up",
+  "chars": [
+   "ollie",
+   "pip"
+  ],
+  "lines": [
+   {
+    "char": "pip",
+    "text": "Ollie, look up. Look up!",
+    "start": 0.5,
+    "length": 3.32
+   },
+   {
+    "char": "ollie",
+    "text": "A rainbow! It's so big and so bright!",
+    "start": 4.22,
+    "length": 4.54
+   }
+  ]
+ },
+ {
+  "shot": "E03-S003",
+  "still": "E03-S003",
+  "img_job": "9aeba59d-8f32-4aaa-a121-0ef6671be19e",
+  "dur": 5.0,
+  "gen": 5,
+  "camera": "close",
+  "chars": [
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Where does a rainbow come from?",
+    "start": 0.5,
+    "length": 1.63
+   }
+  ]
+ },
+ {
+  "shot": "E03-S004",
+  "still": "E03-S004",
+  "img_job": "07935648-71da-4f8e-8fe8-8a4c68f2ed62",
+  "dur": 4.12,
+  "gen": 5,
+  "camera": "static",
+  "chars": [
+   "luna",
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Let's find out!",
+    "start": 0.5,
+    "length": 2.62
+   }
+  ]
+ },
+ {
+  "shot": "E03-S013",
+  "still": "E03-S013",
+  "img_job": "64c839d9-5043-41d2-b913-5f0c66d0e493",
+  "dur": 7.83,
+  "gen": 8,
+  "camera": "static",
+  "chars": [
+   "bean",
+   "pip",
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "pip",
+    "text": "Maybe the sky painted it.",
+    "start": 0.5,
+    "length": 3.31
+   },
+   {
+    "char": "ollie",
+    "text": "With what? Sky paint?",
+    "start": 4.21,
+    "length": 2.62
+   }
+  ]
+ },
+ {
+  "shot": "E03-S014",
+  "still": "E03-S014",
+  "img_job": "f81eb4eb-0ca5-4bba-b421-651c6329446b",
+  "dur": 4.88,
+  "gen": 5,
+  "camera": "close",
+  "chars": [
+   "pip"
+  ],
+  "lines": [
+   {
+    "char": "pip",
+    "text": "Maybe it fell off a very big butterfly.",
+    "start": 0.5,
+    "length": 2.85
+   }
+  ]
+ },
+ {
+  "shot": "E03-S016",
+  "still": "E03-S016",
+  "img_job": "21af3e67-4353-4a4a-ae8c-a0e7a8096d88",
+  "dur": 10.46,
+  "gen": 11,
+  "camera": "pan_right",
+  "chars": [
+   "gus",
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "Easy! The rainbow is a prize, and I'm getting it!",
+    "start": 0.5,
+    "length": 5.53
+   },
+   {
+    "char": "ollie",
+    "text": "A prize for what?",
+    "start": 6.43,
+    "length": 3.03
+   }
+  ]
+ },
+ {
+  "shot": "E03-S016b",
+  "still": "E03-S016",
+  "img_job": "21af3e67-4353-4a4a-ae8c-a0e7a8096d88",
+  "dur": 6.03,
+  "gen": 7,
+  "camera": "close",
+  "chars": [
+   "gus",
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "For whoever gets to the end first. And that's me!",
+    "start": 0.5,
+    "length": 4.53
+   }
+  ]
+ },
+ {
+  "shot": "E03-S017",
+  "still": "E03-S017",
+  "img_job": "e0059f04-6763-491a-a777-92db0cb588ab",
+  "dur": 4.33,
+  "gen": 5,
+  "camera": "close",
+  "chars": [
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "I'll race you, Gus! Follow me!",
+    "start": 0.5,
+    "length": 2.83
+   }
+  ]
+ },
+ {
+  "shot": "E03-S018",
+  "still": "E03-S018",
+  "img_job": "f2681f8e-483c-40a8-9643-b498b27789bb",
+  "dur": 6.56,
+  "gen": 7,
+  "camera": "pan_right",
+  "chars": [
+   "ollie",
+   "pip",
+   "bean"
+  ],
+  "lines": [
+   {
+    "char": "pip",
+    "text": "Ollie, I have an idea! Ollie? Please stop!",
+    "start": 0.5,
+    "length": 5.06
+   }
+  ]
+ },
+ {
+  "shot": "E03-S019",
+  "still": "E03-S019",
+  "img_job": "629dbfdc-0410-4132-a325-2ac3745aa0fc",
+  "dur": 6.05,
+  "gen": 7,
+  "camera": "close",
+  "chars": [
+   "ollie",
+   "pip"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Sorry, Pip. I ran before I listened. What's your idea?",
+    "start": 0.5,
+    "length": 4.55
+   }
+  ]
+ },
+ {
+  "shot": "E03-S020",
+  "still": "E03-S020",
+  "img_job": "254870ac-aa74-44ec-9878-c47bc032fded",
+  "dur": 10.79,
+  "gen": 11,
+  "camera": "close",
+  "chars": [
+   "luna",
+   "ollie",
+   "pip",
+   "gus"
+  ],
+  "lines": [
+   {
+    "char": "pip",
+    "text": "The rain stopped and the sun came out. Maybe they go together.",
+    "start": 0.5,
+    "length": 5.39
+   },
+   {
+    "char": "gus",
+    "text": "Too slow! I've got a faster way!",
+    "start": 6.29,
+    "length": 3.5
+   }
+  ]
+ },
+ {
+  "shot": "E03-S020b",
+  "still": "E03-S020",
+  "img_job": "254870ac-aa74-44ec-9878-c47bc032fded",
+  "dur": 5.89,
+  "gen": 6,
+  "camera": "slow_push",
+  "chars": [
+   "luna",
+   "ollie",
+   "pip",
+   "gus"
+  ],
+  "lines": [
+   {
+    "char": "pip",
+    "text": "Gus, your faster ways always go wrong.",
+    "start": 0.5,
+    "length": 4.39
+   }
+  ]
+ },
+ {
+  "shot": "E03-S021",
+  "still": "E03-S020",
+  "img_job": "254870ac-aa74-44ec-9878-c47bc032fded",
+  "dur": 13.02,
+  "gen": 14,
+  "camera": "slow_push",
+  "chars": [
+   "luna",
+   "ollie",
+   "pip",
+   "gus"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "Not this time! I'll run to the end and grab the rainbow!",
+    "start": 0.5,
+    "length": 3.11
+   },
+   {
+    "char": "ollie",
+    "text": "Can you grab a rainbow?",
+    "start": 4.01,
+    "length": 1.89
+   },
+   {
+    "char": "gus",
+    "text": "Watch me! I'll put it in my hat!",
+    "start": 6.3,
+    "length": 3.5
+   }
+  ]
+ },
+ {
+  "shot": "E03-S022",
+  "still": "E03-S022",
+  "img_job": "6e739be6-2bbd-4bd0-af0f-ffebf7782a9d",
+  "dur": 9.14,
+  "gen": 10,
+  "camera": "follow",
+  "chars": [
+   "bean",
+   "gus",
+   "pip",
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "pip",
+    "text": "What if we try it the careful way?",
+    "start": 0.5,
+    "length": 1.96
+   },
+   {
+    "char": "ollie",
+    "text": "Let's watch Gus first. Then we ask Gran Mari.",
+    "start": 2.86,
+    "length": 4.07
+   }
+  ]
+ },
+ {
+  "shot": "E03-S024",
+  "still": "E03-S024",
+  "img_job": "94eca613-c329-4ea5-b48c-bfef6417279b",
+  "dur": 6.0,
+  "gen": 6,
+  "camera": "wide",
+  "chars": [
+   "gus"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "Hey! Stay still, rainbow!",
+    "start": 0.5,
+    "length": 2.84
+   }
+  ]
+ },
+ {
+  "shot": "E03-S026",
+  "still": "E03-S026",
+  "img_job": "22dfefb3-d433-426a-b67f-0901ee2c4472",
+  "dur": 10.96,
+  "gen": 11,
+  "camera": "pan_right",
+  "chars": [
+   "gus",
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "There it is! It came down all by itself!",
+    "start": 0.5,
+    "length": 4.88
+   },
+   {
+    "char": "ollie",
+    "text": "Gus, that's a different rainbow.",
+    "start": 5.78,
+    "length": 4.18
+   }
+  ]
+ },
+ {
+  "shot": "E03-S026b",
+  "still": "E03-S026",
+  "img_job": "22dfefb3-d433-426a-b67f-0901ee2c4472",
+  "dur": 5.32,
+  "gen": 6,
+  "camera": "close",
+  "chars": [
+   "gus",
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "It's mine now! I caught it!",
+    "start": 0.5,
+    "length": 3.82
+   }
+  ]
+ },
+ {
+  "shot": "E03-S027",
+  "still": "E03-S027",
+  "img_job": "74426202-f06b-4844-a7ae-381d4d902989",
+  "dur": 5.0,
+  "gen": 5,
+  "camera": "close",
+  "chars": [
+   "gus"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "My rainbow. Nobody else gets to look.",
+    "start": 0.5,
+    "length": 2.91
+   }
+  ]
+ },
+ {
+  "shot": "E03-S028",
+  "still": "E03-S028",
+  "img_job": "6521e7de-0d90-428c-a737-a80a0c2661ab",
+  "dur": 4.0,
+  "gen": 4,
+  "camera": "close",
+  "chars": [
+   "gus",
+   "bean"
+  ],
+  "lines": [
+   {
+    "char": "bean",
+    "text": "Share?",
+    "start": 0.5,
+    "length": 2.07
+   }
+  ]
+ },
+ {
+  "shot": "E03-S030",
+  "still": "E03-S030",
+  "img_job": "7a0b2238-3bd3-45a9-a181-145b6132b4ec",
+  "dur": 8.07,
+  "gen": 9,
+  "camera": "close",
+  "chars": [
+   "gus",
+   "pip"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "Uh oh. Where did it go?",
+    "start": 0.5,
+    "length": 3.2
+   },
+   {
+    "char": "pip",
+    "text": "Did you lose it, Gus?",
+    "start": 4.1,
+    "length": 2.97
+   }
+  ]
+ },
+ {
+  "shot": "E03-S030b",
+  "still": "E03-S030",
+  "img_job": "7a0b2238-3bd3-45a9-a181-145b6132b4ec",
+  "dur": 5.34,
+  "gen": 6,
+  "camera": "slow_push",
+  "chars": [
+   "gus",
+   "pip"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "No! It's just sleeping. Rainbows sleep a lot.",
+    "start": 0.5,
+    "length": 3.84
+   }
+  ]
+ },
+ {
+  "shot": "E03-S031",
+  "still": "E03-S030",
+  "img_job": "7a0b2238-3bd3-45a9-a181-145b6132b4ec",
+  "dur": 7.69,
+  "gen": 8,
+  "camera": "slow_push",
+  "chars": [
+   "gus",
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Rainbows sleep?",
+    "start": 0.5,
+    "length": 2.15
+   },
+   {
+    "char": "gus",
+    "text": "It was tiny anyway. Hardly a rainbow at all!",
+    "start": 3.05,
+    "length": 3.64
+   }
+  ]
+ },
+ {
+  "shot": "E03-S033",
+  "still": "E03-S033",
+  "img_job": "22d1ebc7-e185-454a-848c-b5c0bd0b3888",
+  "dur": 6.05,
+  "gen": 7,
+  "camera": "slow_push",
+  "chars": [
+   "ollie",
+   "pip",
+   "bean"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "We need help. Let's ask Gran Mari.",
+    "start": 0.5,
+    "length": 4.55
+   }
+  ]
+ },
+ {
+  "shot": "E03-S034",
+  "still": "E03-S034",
+  "img_job": "c365bc0d-9995-4474-a0b6-ca24cc01d6e2",
+  "dur": 12.28,
+  "gen": 13,
+  "camera": "pan_up",
+  "chars": [
+   "gran_mari",
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "gran_mari",
+    "text": "Well now, a seagull with a tiny hat and an otter with a big question. What's all this?",
+    "start": 0.5,
+    "length": 10.78
+   }
+  ]
+ },
+ {
+  "shot": "E03-S034b",
+  "still": "E03-S034",
+  "img_job": "c365bc0d-9995-4474-a0b6-ca24cc01d6e2",
+  "dur": 4.54,
+  "gen": 5,
+  "camera": "close",
+  "chars": [
+   "gran_mari",
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Gran Mari, where does a rainbow come from?",
+    "start": 0.5,
+    "length": 3.04
+   }
+  ]
+ },
+ {
+  "shot": "E03-S034c",
+  "still": "E03-S034",
+  "img_job": "c365bc0d-9995-4474-a0b6-ca24cc01d6e2",
+  "dur": 11.1,
+  "gen": 12,
+  "camera": "close",
+  "chars": [
+   "gran_mari",
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "gran_mari",
+    "text": "Oh, that is a good question, Ollie. Let's find out together.",
+    "start": 0.5,
+    "length": 9.6
+   }
+  ]
+ },
+ {
+  "shot": "E03-S035",
+  "still": "E03-S035",
+  "img_job": "51d5a700-837a-498a-a1cb-b7aec10e7dfd",
+  "dur": 10.66,
+  "gen": 11,
+  "camera": "close",
+  "chars": [
+   "pip",
+   "gran_mari"
+  ],
+  "lines": [
+   {
+    "char": "gran_mari",
+    "text": "Never look right at the sun, little one. We look at the wall instead.",
+    "start": 0.5,
+    "length": 9.16
+   }
+  ]
+ },
+ {
+  "shot": "E03-S036",
+  "still": "E03-S036",
+  "img_job": "793c3cc7-82fd-45d5-bad0-ebb4a2c5cbcf",
+  "dur": 9.81,
+  "gen": 10,
+  "camera": "close",
+  "chars": [
+   "gran_mari",
+   "ollie",
+   "pip"
+  ],
+  "lines": [
+   {
+    "char": "gran_mari",
+    "text": "Sunlight looks plain. But it is made of every color, all mixed up together.",
+    "start": 0.5,
+    "length": 8.31
+   }
+  ]
+ },
+ {
+  "shot": "E03-S037",
+  "still": "E03-S037",
+  "img_job": "cd6294c3-4c99-458c-ab91-dec492c9dda4",
+  "dur": 5.29,
+  "gen": 6,
+  "camera": "close",
+  "chars": [
+   "ollie",
+   "gran_mari"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "A rainbow! On the wall!",
+    "start": 0.5,
+    "length": 3.79
+   }
+  ]
+ },
+ {
+  "shot": "E03-S037b",
+  "still": "E03-S037",
+  "img_job": "cd6294c3-4c99-458c-ab91-dec492c9dda4",
+  "dur": 10.09,
+  "gen": 11,
+  "camera": "slow_push",
+  "chars": [
+   "ollie",
+   "gran_mari"
+  ],
+  "lines": [
+   {
+    "char": "gran_mari",
+    "text": "The water bends the light and spreads the colors apart. Tiny drops of rain work just like this glass.",
+    "start": 0.5,
+    "length": 8.59
+   }
+  ]
+ },
+ {
+  "shot": "E03-S038",
+  "still": "E03-S038",
+  "img_job": "38797990-541b-4254-9832-c545d9b5c7f8",
+  "dur": 7.46,
+  "gen": 8,
+  "camera": "close",
+  "chars": [
+   "luna",
+   "ollie",
+   "pip",
+   "gus",
+   "gran_mari"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "So the rainbow is hiding in the sunlight?",
+    "start": 0.5,
+    "length": 2.35
+   },
+   {
+    "char": "gran_mari",
+    "text": "Well now, what do you think happens next?",
+    "start": 3.25,
+    "length": 3.21
+   }
+  ]
+ },
+ {
+  "shot": "E03-S038b",
+  "still": "E03-S038",
+  "img_job": "38797990-541b-4254-9832-c545d9b5c7f8",
+  "dur": 6.53,
+  "gen": 7,
+  "camera": "slow_push",
+  "chars": [
+   "luna",
+   "ollie",
+   "pip",
+   "gus",
+   "gran_mari"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "It moves if you move the glass!",
+    "start": 0.5,
+    "length": 5.03
+   }
+  ]
+ },
+ {
+  "shot": "E03-S040",
+  "still": "E03-S040",
+  "img_job": "612bbde0-6fcf-417d-81fe-d7546e85319f",
+  "dur": 6.0,
+  "gen": 6,
+  "camera": "close",
+  "chars": [
+   "pip"
+  ],
+  "lines": [
+   {
+    "char": "pip",
+    "text": "It needs the sun to shine through!",
+    "start": 0.5,
+    "length": 2.07
+   }
+  ]
+ },
+ {
+  "shot": "E03-S042",
+  "still": "E03-S042",
+  "img_job": "80335acf-80a6-49b4-8cb5-90efe7078536",
+  "dur": 9.49,
+  "gen": 10,
+  "camera": "close",
+  "chars": [
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Try it at home with a grown-up! Fill a clear glass with water. Set it on a sunny windowsill.",
+    "start": 0.5,
+    "length": 5.13
+   }
+  ]
+ },
+ {
+  "shot": "E03-S043",
+  "still": "E03-S043",
+  "img_job": "fcd443f5-5275-4e5d-9614-476d8a40d73a",
+  "dur": 8.42,
+  "gen": 9,
+  "camera": "close",
+  "chars": [
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Look at the wall nearby. Find the rainbow! Never look right at the sun.",
+    "start": 0.5,
+    "length": 6.92
+   }
+  ]
+ },
+ {
+  "shot": "E03-S045",
+  "still": "E03-S045",
+  "img_job": "5fd20721-6006-440a-be0f-5fcce3bfafe8",
+  "dur": 5.72,
+  "gen": 6,
+  "camera": "close",
+  "chars": [
+   "gus"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "Wait. I have to tell you something.",
+    "start": 0.5,
+    "length": 4.22
+   }
+  ]
+ },
+ {
+  "shot": "E03-S045b",
+  "still": "E03-S045",
+  "img_job": "5fd20721-6006-440a-be0f-5fcce3bfafe8",
+  "dur": 7.15,
+  "gen": 8,
+  "camera": "slow_push",
+  "chars": [
+   "gus"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "I said my rainbow was sleeping. That was a fib. I covered it with my hat.",
+    "start": 0.5,
+    "length": 5.65
+   }
+  ]
+ },
+ {
+  "shot": "E03-S045c",
+  "still": "E03-S045",
+  "img_job": "5fd20721-6006-440a-be0f-5fcce3bfafe8",
+  "dur": 5.58,
+  "gen": 6,
+  "camera": "slow_push",
+  "chars": [
+   "gus"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "I wanted it all for me, and then it was gone. I'm sorry.",
+    "start": 0.5,
+    "length": 4.08
+   }
+  ]
+ },
+ {
+  "shot": "E03-S046",
+  "still": "E03-S046",
+  "img_job": "be322066-9867-4108-bbaf-1f96185e2873",
+  "dur": 6.05,
+  "gen": 7,
+  "camera": "close",
+  "chars": [
+   "ollie",
+   "gus"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Thanks for telling us the truth, Gus.",
+    "start": 0.5,
+    "length": 4.55
+   }
+  ]
+ },
+ {
+  "shot": "E03-S049",
+  "still": "E03-S049",
+  "img_job": "ca7302ac-3c2f-40f1-a136-57ec0479d444",
+  "dur": 4.11,
+  "gen": 5,
+  "camera": "close",
+  "chars": [
+   "pip"
+  ],
+  "lines": [
+   {
+    "char": "pip",
+    "text": "Look! It's on my shell too!",
+    "start": 0.5,
+    "length": 2.33
+   }
+  ]
+ },
+ {
+  "shot": "E03-S050",
+  "still": "E03-S050",
+  "img_job": "26870ab5-4adb-4337-9090-fa630821fa25",
+  "dur": 5.0,
+  "gen": 5,
+  "camera": "close",
+  "chars": [
+   "ollie",
+   "pip",
+   "bean",
+   "gus"
+  ],
+  "lines": [
+   {
+    "char": "bean",
+    "text": "Share!",
+    "start": 0.5,
+    "length": 2.06
+   }
+  ]
+ },
+ {
+  "shot": "E03-S052",
+  "still": "E03-S052",
+  "img_job": "d8cb2b42-a4fb-480e-90f8-0463b528f6df",
+  "dur": 5.0,
+  "gen": 5,
+  "camera": "wide",
+  "chars": [
+   "luna",
+   "ollie",
+   "pip",
+   "bean",
+   "gus"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "There's enough for everybody! That's the best part!",
+    "start": 0.5,
+    "length": 3.41
+   }
+  ]
+ },
+ {
+  "shot": "E03-S053",
+  "still": "E03-S053",
+  "img_job": "4b5897b3-7279-4ace-9fa1-804ca4a5252a",
+  "dur": 4.11,
+  "gen": 5,
+  "camera": "close",
+  "chars": [
+   "ollie",
+   "pip"
+  ],
+  "lines": [
+   {
+    "char": "pip",
+    "text": "It sparkles even more, with friends.",
+    "start": 0.5,
+    "length": 2.33
+   }
+  ]
+ },
+ {
+  "shot": "E03-S054",
+  "still": "E03-S054",
+  "img_job": "37d40263-ff64-44c5-bf7d-df0e1ffe9f50",
+  "dur": 6.52,
+  "gen": 7,
+  "camera": "static",
+  "chars": [
+   "ollie",
+   "pip",
+   "bean",
+   "luna"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Time for my Wonder Pocket! Three things we learned.",
+    "start": 0.5,
+    "length": 5.02
+   }
+  ]
+ },
+ {
+  "shot": "E03-S056",
+  "still": "E03-S056",
+  "img_job": "4b58c03b-1d94-4fc9-9ffa-63f0618877a2",
+  "dur": 6.89,
+  "gen": 7,
+  "camera": "close",
+  "chars": [
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "One. Sunlight is made of all the colors.",
+    "start": 0.5,
+    "length": 5.39
+   }
+  ]
+ },
+ {
+  "shot": "E03-S057",
+  "still": "E03-S057",
+  "img_job": "f670e8ba-e57d-4f5d-a6a4-4f2d2456e0e3",
+  "dur": 5.65,
+  "gen": 6,
+  "camera": "close",
+  "chars": [
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Two. Water bends the light and spreads the colors out.",
+    "start": 0.5,
+    "length": 3.79
+   }
+  ]
+ },
+ {
+  "shot": "E03-S058",
+  "still": "E03-S058",
+  "img_job": "bd19f3a3-caed-48e4-b08c-443e69e76ae6",
+  "dur": 6.89,
+  "gen": 7,
+  "camera": "close",
+  "chars": [
+   "ollie"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "Three. A rainbow needs sunshine. It fades when it's hidden.",
+    "start": 0.5,
+    "length": 5.39
+   }
+  ]
+ },
+ {
+  "shot": "E03-S059",
+  "still": "E03-S059",
+  "img_job": "7e54ef11-c529-4095-b3f6-55cb1dc6f712",
+  "dur": 7.28,
+  "gen": 8,
+  "camera": "close",
+  "chars": [
+   "ollie",
+   "luna"
+  ],
+  "lines": [
+   {
+    "char": "ollie",
+    "text": "And one kind thing to try today. Share your favorite thing.",
+    "start": 0.5,
+    "length": 5.78
+   }
+  ]
+ },
+ {
+  "shot": "E03-S060",
+  "still": "E03-S060",
+  "img_job": "68874cd3-c137-4c23-a1d1-2b2573bb689d",
+  "dur": 6.35,
+  "gen": 7,
+  "camera": "wide",
+  "chars": [
+   "ollie",
+   "pip",
+   "bean",
+   "gus",
+   "luna"
+  ],
+  "lines": [
+   {
+    "char": "gus",
+    "text": "Bye, everybody! Next time, I'll share first!",
+    "start": 0.5,
+    "length": 4.85
+   }
+  ]
+ }
+]
