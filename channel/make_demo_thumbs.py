@@ -58,5 +58,5 @@ for ep, (shot, cx, lines, zoom) in SPEC.items():
     pill(im, "TRY THIS AT HOME!", H - 330, 66, YEL + (255,), 6)
     pill(im, "OTTERLY CURIOUS", H - 190, 44, (255, 255, 255, 235), 5)
     im = im.convert("RGB")
-    im.save(OUT / f"{ep}_short_demo_thumb.jpg", "JPEG", quality=90, optimize=True)
+    im.save(OUT / f"{ep}_short_demo_thumb.jpg", "JPEG", quality=95, subsampling=0, optimize=True)
     print(ep, (OUT / f"{ep}_short_demo_thumb.jpg").stat().st_size)
