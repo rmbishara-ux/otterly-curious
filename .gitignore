@@ -22,3 +22,4 @@ channel/trailer/tmp/
 episodes/*/lipsync/clips/
 episodes/*/ai_silent_backup/
 channel/trailer/lipsync/*.mp4
+channel/trailer/thumb_src.png
